@@ -1,0 +1,10 @@
+pandas
+pytesseract
+pypdf2
+pdf2image
+gensim
+nltk
+textblob
+bertopic
+spacy
+
