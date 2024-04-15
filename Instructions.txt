@@ -1,0 +1,14 @@
+Instruction for running NLP code
+
+I have provided a bash script that install all dependencies except for Tesseract. Tesseract can be 
+challenging to install on some systems and requires administrative permissions. This code has been 
+tested and verified on the MTSU Azure system.
+
+To install the dependencies, simply run the bash script as < ./setup.sh >
+
+Once installation is complete, the topics.py program, found in nlp_code/nlp/ can be executed as
+< python topics.py path_to_file >. I have included a sample file, test2.txt. Additional files are
+available in the directory nlp_code/text_files/. I have also included a demonstrational Jupyter
+notebook at nlp_code/nlp/Demonstration.ipynb. This notebook demonstrates each component of the NLP
+process, as well as a demonstration of the hierarchical summarization technique. The summarization
+code carries a warning as it does take a very long time to run (a few hours per book). 
