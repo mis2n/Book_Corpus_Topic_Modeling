@@ -33,4 +33,6 @@ nlp_code/
     setup.sh				Bash script that install necessary dependencies (Except for Tesseract) Executed as < ./setup.sh >
     README.md				This file
 </pre>
+NOTE: This repository does not include Tesseract installation. The OCR process requires installation of Tesseract, which can vary considerably 
+depending on the sytem and, for linux users, requires sudo permissions. This does not affect the NLP process.
 </p>
