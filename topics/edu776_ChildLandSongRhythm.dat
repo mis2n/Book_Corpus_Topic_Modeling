@@ -1,0 +1,21 @@
+***Title
+edu776_ChildLandSongRhythm
+
+***Topics
+songs|many|book|music|$1.00|120|8|west|street|children|realize|words|harriet|blanche|bones|florence|well|harbour|price|rhymes|correlate|phases|childish|activity|charming||8 west|words harriet|harriet blanche|blanche bones|bones florence|florence well|well harbour|harbour price|price $1.00|$1.00 songs|songs rhymes|rhymes correlate|correlate phases|phases childish|childish activity|charming practical|practical th|th childiand’’|childiand’’ books|books authors|words harriet blanche|harriet blanche bones|blanche bones florence|bones florence well|florence well harbour|well harbour price|harbour price $1.00|price $1.00 songs|$1.00 songs rhymes|songs rhymes correlate|rhymes correlate phases|correlate phases childish|phases childish activity|charming practical th|practical th childiand’’|th childiand’’ books|childiand’’ books authors|by|berbtoa|incur|compare|expression|et|helper|experience|connected|give|purpose|best|every|things|is|day|th|practical|childiand|boylston|authors|books|treat|loyalty|community|seasons|addition|love|group|still|spontaneous|carry|newer|incidental|features|trying|welcome|real|way|goodby|help|new|measure|ideal|demand|second|secured|offering|chat|sources|childland
+
+***Probabilities
+0.17301822711775505|0.046947810123262525|0.07606571891080423|0.09181859247402263|0.016260162601626018|0.016260162601626018|0.016260162601626018|0.04813008130081301|0.072630081300813|0.03313008130081301|0.043130081300813014|0.020565040650406506|0.035565040650406506|0.020065040650406506|0.020565040650406506|0.035565040650406506|0.022565040650406504|0.02594138473642801|0.03168851117320962|0.031188511173209622|0.04094138473642801|0.020565040650406506|0.019565040650406505|0.020565040650406506|0.023565040650406505|0.034482758620689655|0.022988505747126436|0.011494252873563218|0.011494252873563218|0.011494252873563218|0.011494252873563218|0.011494252873563218|0.011494252873563218|0.011494252873563218|0.011494252873563218|0.011494252873563218|0.011494252873563218|0.011494252873563218|0.011494252873563218|0.011494252873563218|0.011494252873563218|0.011494252873563218|0.011494252873563218|0.011494252873563218|0.011494252873563218|0.011494252873563218|0.01075268817204301|0.01075268817204301|0.01075268817204301|0.01075268817204301|0.01075268817204301|0.01075268817204301|0.01075268817204301|0.01075268817204301|0.01075268817204301|0.01075268817204301|0.01075268817204301|0.01075268817204301|0.01075268817204301|0.01075268817204301|0.01075268817204301|0.01075268817204301|0.01075268817204301|0.073|0.073|0.073|0.08199999999999999|0.08800000000000001|0.11300000000000002|0.054|0.05|0.05|0.05|0.05|0.05|0.05|0.05|0.05|0.05|0.042|0.041|0.041|0.041|0.041|0.041|0.04|0.074|0.047|0.065|0.065|0.065|0.065|0.055|0.038|0.031|0.031|0.031|0.029|0.037|0.037|0.037|0.037|0.037|0.037|0.037|0.037|0.037|0.039|0.039|0.039|0.039|0.039|0.039|0.039
+
+***NamedEntities
+['KINDERGARTEN of HOME: THE CHILDREN’S BOOK of : SONGS AND RHYMES Words', 'PRIMARY', 'Childland', 'FLORENCE NEWELL BARBOUR', 'ROCHESTER']|['Childiand', 'BOSTON', 'Songs', 'NEW YORK', 'NEW YORK']|['FLORENCE NEWELL', 'Boylston Treat', 'Florence Well Harbour', 'Harriet Blanche Bones']|['Incur P. Chat']|[]|[]|[]
+
+***EOF
+
+***SPACY_NER
+Childland|FLORENCE NEWELL BARBOUR|Childiand|BOSTON|Harriet Blanche Bones|NEW YORK|ROCHESTER|PRIMARY|Songs|Boylston Treat|Florence Well Harbour|FLORENCE NEWELL|Incur P. Chat
+
+***SPACY_FREQ
+0.1|0.1|0.05|0.05|0.05|0.1|0.05|0.05|0.25|0.05|0.05|0.1|0.0
+
+***EOFIX

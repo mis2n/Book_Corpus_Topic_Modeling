@@ -1,0 +1,21 @@
+***Title
+edu191_ChoiceRhythmsYouthfulDancers
+
+***Topics
+march|due|run|dance|use|1925|music|13|heart|running|round|collection|folk|felonies|adapted|original|sources|harmonized|educational|“|copyrricut|selections|may|used|publication||collection folk|folk felonies|felonies adapted|adapted original|original sources|sources harmonized|harmonized educational|educational use|use “|1925 copyrricut|copyrricut 1925|music selections|selections may|may used|used publication|collection folk felonies|folk felonies adapted|felonies adapted original|adapted original sources|original sources harmonized|sources harmonized educational|harmonized educational use|educational use “|1925 copyrricut 1925|music selections may|consent|without|processional|curistmaas|posture|heaping|minute|quiet|schottische|allemande|of|processionals|schottisches|wounds|figs|guns|hills|leaps|waltzes|way|liguthearted|revoir|intropuction|swineine|closina|psycuolocical|ruytum|originate|cancers|gueerult|company|gnomes|varies|forty|patriots|festrval|grave|marine|secrets|rum|fire|parapee|ruytums
+
+***Probabilities
+0.28090683314361603|0.2644787530298777|0.11172109913147649|0.23800873568021438|0.07002475791155037|0.024814066087650993|0.175080707592693|0.012578616352201257|0.07528930817610063|0.08328930817610063|0.03178930817610063|0.03364465408805031|0.03364465408805031|0.03364465408805031|0.03364465408805031|0.03976237895577518|0.03976237895577518|0.03629015673355296|0.03629015673355296|0.013233752620545073|0.03026237895577518|0.03829015673355296|0.03829015673355296|0.03829015673355296|0.035644654088050315|0.10416666666666667|0.006944444444444444|0.006944444444444444|0.006944444444444444|0.006944444444444444|0.006944444444444444|0.006944444444444444|0.006944444444444444|0.006944444444444444|0.006944444444444444|0.006944444444444444|0.006944444444444444|0.006944444444444444|0.006944444444444444|0.006944444444444444|0.006944444444444444|0.005291005291005291|0.005291005291005291|0.005291005291005291|0.005291005291005291|0.005291005291005291|0.005291005291005291|0.005291005291005291|0.005291005291005291|0.005291005291005291|0.005291005291005291|0.065|0.065|0.2629383516311645|0.065|0.027|0.027|0.027|0.027|0.027|0.027|0.042|0.2667275986671448|0.042|0.042|0.042|0.042|0.042|0.042|0.2720826885700226|0.11|0.095|0.035|0.09699999999999999|0.126|0.119|0.044|0.27058015775680544|0.044|0.044|0.21163846564292907|0.078|0.078|0.078|0.078|0.05|0.1|0.085|0.085|0.085|0.092|0.092|0.092|0.49208688735961914
+
+***NamedEntities
+['WHIRLS WALTZES', '4) Leaps, Salons and Figs', 'COL MIP NURFREESBORO', '3) Lips and Folks', 'DANCES', 'Original Sources and Harmonized for Educational Use of CAROLINE CRAWFORD', 'SCHOTTISCHES', 'TENNESSEE STATE', 'RUNS', 'CHILDHOOD', 'ELIZABETH ROSE FOGG AUTHORS', 'Schottisches', 'CGB C', 'Patriots', 'LIB']|['TENNESSEE', 'NEW YORK A. S. BARNES']|['Due Boy', 'A. S. BARNES', 'GueeruLt Heart', 'Due Funny', 'TENNESSEE Copyrricut', 'Cancers', 'Rum ParapEe']|[]|[]|[]|[]
+
+***EOF
+
+***SPACY_NER
+TENNESSEE|DANCES|TENNESSEE Copyrricut|A. S. BARNES|Due Funny|Schottisches|GueeruLt Heart|WHIRLS WALTZES|CGB C|SCHOTTISCHES|Due Boy|COL MIP NURFREESBORO|LIB|Patriots|RUNS|Cancers|CHILDHOOD|TENNESSEE STATE|Rum ParapEe
+
+***SPACY_FREQ
+0.12|0.04|0.04|0.0|0.04|0.12|0.04|0.04|0.04|0.12|0.04|0.04|0.04|0.04|0.08|0.04|0.04|0.04|0.04
+
+***EOFIX

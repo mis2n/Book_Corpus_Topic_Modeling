@@ -1,0 +1,612 @@
+-P-A-G-E-1
+  
+PHOTOGRAPHY |FOR STUDENTS OF 
+PHYSICS. AND CHEMISTRY 
+ 
+-P-A-G-E-2
+ 
+-P-A-G-E-3
+  
+  PHOTOGRAPHY 
+POR STUDENTS OF PHYSIGS 
+AND CHEMISTRY 
+' BY 
+LOUIS -DERR, M.A., S.B. 
+ASSOCIATE PROFESSOR OF PHYSICS IN THE MASSACHUSETTS 
+INSTITUTE OF TECHNOLOGY 
+Neto Bork 
+THE MACMILLAN COMPANY 
+LONDON: MACMILLAN & CO., Lp. 
+1922 
+Ali rights reserved
+-P-A-G-E-4
+  COPYRIGHT, 1906, 
+By THE MACMILLAN COMPANY, 
+Set up and electrotyped. Published November, 1906. 
+Norwood JBress 
+J. 8. Cushing Co. — Berwick & Smith Co. 
+Norwood, Mass., U.S.A.
+-P-A-G-E-5
+DSS So: 
+Dig 
+PREFACE 
+AFTER the acquiring of the necessary skill in manipula- 
+tion, an inquiry into the nature of a photographic process 
+is the first step in the direction of the systematic experi- 
+ment which brings such pleasure to the genuine enthusiast 
+and has done so much to advance the science and art of 
+photography. Good handbooks of photographic manipu- 
+lation are abundant; but as the real business of a hand- 
+book is to give directions and not to explain principles, 
+they are apt to be unsatisfactory to the thoughtful worker, 
+interested in reasons as well as results. If he turns to 
+complete treatises, of which there are also not a few, he is 
+likely to find himself overwhelmed with an avalanche of 
+detail and history, with much of which he is not at all 
+concerned, and of no immediate interest or necessity. 
+Neither do monographs offer great help, as a rule, for they 
+are usually highly technical and confined to such limited 
+portions of the photographic field that the desired informa- 
+tion generally lies in the gaps between them. 
+For some years past the author has given annually an 
+elective series of experimental lectures at the Massachu- 
+setts Institute of Technology, on tke general principles 
+and processes of photography, to students who have 
+studied physics and chemistry, having as a rule some 
+knowledge of photographic manipulation and interested 
+in its scientific aspect as well as its results. The present 
+volume is the outgrowth of these lectures. It isan attempt 
+to present a discussion of photographic processes, so far 
+as their theories may be expressed in elementary form, so 
+Gy
+-P-A-G-E-6
+vi "PREFACE 
+that the photographic worker of ordinary scientific training 
+may obtain a clearer idea of the nature and purpose of his 
+operations. In its preparation it has been difficult to avoid 
+the detail that properly belongs to a handbook or an 
+extended treatise, and still more difficult to resist the 
+temptation to discuss disputed and important points at 
+length; but the endeavor has been made to find a middle 
+ground, not primarily laid out for the tyro who needs to 
+be told that undeveloped plates may not be examined in 
+daylight, nor on the other hand for the skilled investigator 
+who, for example, is seeking data on the spectra of dyes 
+to sensitize his plates for the infra-red spectrum, but rather 
+for the class of photographic workers who take pleasure 
+in the subject for its own sake, who prefer to mix their 
+own solutions rather than to buy them ignorantly in ready- 
+labelled bottles, and who desire to supplement the hand- 
+book with something less elaborate than the complete 
+treatise and less technical than the specialized monograph. 
+In a general work no great claim for originality can be 
+made, except: in method of treatment; and in preparing 
+the following pages the standard works on photographic 
+science have been consulted freely. The author desires 
+also to acknowledge the courtesy of the various firms men- 
+tioned in the text, for the use of electrotypes of lenses and 
+other apparatus. 
+BOSTON, June, 1906, 
+ 
+-P-A-G-E-7
+  CHAPTER 
+‘ 
+II. 
+IIL. 
+IV. 
+V. 
+VI. 
+VII. 
+VIII. 
+IX. 
+%: 
+MI. 
+it: 
+XIII. 
+XIV. 
+XV. 
+XVI. 
+XVII. 
+XVIII. 
+INDEX CONTENTS. 
+INTRODUCTORY . ; ; : 
+PIN-HOLES . ; ‘ ; 2 
+THE LENS . ; ‘ i ‘ 
+ABERRATIONS OF LENSES . ; 
+CLASSES OF LENSES. LENS TESTING . 
+THE DIAPHRAGM : ; ; 
+THE CAMERA AND ITS ACCESSORIES 
+COLOR-SENSITIVENESS OF SILVER SALTS 
+PHOTO-CHEMICAL ACTION . - 
+DEVELOPMENT AND DEVELOPERS 
+MARKINGS UPON THE PLATE ‘ 
+FIXING, WASHING, AND DRYING. 
+INTENSIFICATION AND REDUCTION 
+HALATION AND REVERSAL . ‘ 
+CERTAIN PRINTING PROCESSES . 
+LANTERN SLIDES. ; : ; 
+SHUTTER EXPOSURES . ; ; 
+COLOR PHOTOGRAPHY. ‘ : 24 
+55 
+76 
+go 
+97 
+109 
+11g 
+140 
+145 
+152 
+170 
+176 
+190 
+210
+-P-A-G-E-8
+
+-P-A-G-E-9
+PHOTOGRAPHY FOR STUDENTS OF 
+PHYSICS AND CHEMISTRY 
+CHAPTER I. 
+INTRODUCTORY. 
+PHOTOGRAPHY may be defined as the art of producing 
+fixed images by the action of light. Though this definition 
+in strictness excludes those branches of the art in which the 
+images are only shadows, as in X-ray work, the word pho- 
+tography is at present extended to include such pictures, and 
+even to embrace the results produced by almost any agency, 
+if the materials used are those of ordinary photography. 
+The photographic process has certain limitations, to be 
+described more fully in the following pages; but, apart from 
+these, it differs radically from other modes of pictorial repre- 
+sentation, in that the image does not depend on the caprice or 
+talent of the maker, at least so far as the representation of 
+form is concerned. It is also not selective, every impression 
+being recorded as received; so that the impersonality of the 
+photographic record gives it a well-recognized scientific and 
+judicial value that is entirely apart from its mere pictorial 
+possibilities. 
+The advantages of the photograph in this respect are 
+threefold. In the first place, the absence of the personal 
+element makes possible a complete and unbiased record of 
+the fact, no matter how complex or full of detail it may be. 
+B I
+-P-A-G-E-10
+  2 PHOTOGRAPHY FOR STUDENTS 
+The camera has no nerves and no uncertain prejudices, and 
+does not suffer from lapse of memory, though its plates may 
+be drugged into paralysis of function. Lacking the painter’s 
+power of discrimination between essential and unessential 
+details, it leaves little to the imagination; but though its 
+artistic possibilities are diminished by its impersonal and 
+undiscriminating character, this is the very quality that gives 
+the photograph a high degree of value as a record. In this 
+way it has come to pass that a camera and some knowledge 
+of its possibilities are practically indispensable to the worker 
+in either pure or applied science. 
+Photography is often called the handmaid of the sciences, 
+and it is at once a faithful servant and a powerful ally. In 
+the work of pure science, every advance is fortified by pho- 
+tographic records, and sometimes begun by them. In engi- 
+neering and other branches of applied science the camera has 
+assumed a place of rightful importance. It is as well-recog- 
+nized a part of the equipment of a surveying party, for exam- 
+ple, as the transit instrument; and it is common knowledge 
+that there is no important work of constructive engineering 
+that is not photographed in all stages of progress, whether 
+it be bridge, “skyscraper,” ship, or tunnel. 
+The second advantage of the photograph lies in the fact 
+that under suitable conditions impressions can be recorded 
+upon the sensitive plate with great rapidity, and hence it is 
+possible to obtain a knowledge of the separate phases of a 
+movement too rapid for the eye to analyze directly. A familiar 
+illustration of this is the kinetoscope film, on which is photo- 
+graphed an immense number of pictures of a moving object, 
+taken in very rapid succession, each picture representing a 
+phase of the motion lasting for only a few thousandths of a
+-P-A-G-E-11
+  INTRODUCTORY 3 
+second. Though these films are nearly always employed 
+to reproduce the moving scene, it is obvious that individual 
+pictures may be studied at leisure and made to yield informa- 
+tion otherwise quite unobtainable.’ 
+A third advantage of the photograph arises from the cumu- 
+lative character of photographic action. Prolonged exposure 
+may give a photographic impression of an object which is much 
+too faintly luminous to be seen directly by the eye. Examples 
+of this effect are seen in photographs of faint stars and other 
+celestial bodies. Many such pictures, obtained by exposures 
+prolonged for hours, show details entirely beyond the visual 
+reach of the most powerful telescopes. 
+On the other hand, the photographic image has serious 
+limitations. As a record of form, it is tightly bound by the 
+laws of perspective, and it is subject to the conditions imposed 
+by the optical system employed to produce it. The sensi- 
+tiveness of the photographic plate is far from being in accord 
+with the sensitiveness of the eye, and this may give an entirely 
+false measure of the relative luminosity of different colors. 
+Finally, the translation of the picture into monochrome 
+greatly reduces its brilliancy, and causes the photograph to 
+suffer severely by comparison with either the original or the 
+painter’s conception of it. 
+The definition given above implies three things: a self-lumi- 
+nous or illuminated object, a suitable optical system, and a re- 
+ceiving surface prepared in such a way as to permit the fixation 
+of the image upon it. A study of the subject thus divides 
+itself naturally into the optical problem of obtaining the image, 
+and the chemical problem of giving it the necessary stability. 
+1 See Marey, ‘‘ Movement,” for an elaborate photographic study of the 
+locomotion of persons and animals,
+-P-A-G-E-12
+CHAPTER II. 
+PIN-HOLES. 
+For obtaining areal picture of a luminous object, the simplest 
+optical system is the so-called pin-hole, which is merely a 
+sharp-edged hole in an opaque screen. In Fig. 1, ab repre- 
+sents an object from 
+which light falls up- 
+on the screen 5S, in 
+which a small hole 
+is pierced. It is evi- 
+dent from the figure 
+that each point of 
+the object is the 
+apex of a cone of 
+rays passing through 
+and bounded by the 
+hole, and capable of 
+being intercepted by a second screen, placed as at M. It is 
+further clear that the image upon the second screen will not 
+be sharply defined, for the object-point @ is represented by 
+the image-area A; further, this lack of definition will increase 
+as the pin hole is enlarged, though the brightness of the picture 
+will increase in the same ratio. If the hole in the screen is 
+circular, of course the spot A will be circular also if it lies 
+directly opposite the hole, and elliptical elsewhere. The term 
+circle of confusion is generally used to denote the image- 
+areas of points, whether produced by pin-holes or lenses. 
+4   Fic. rt. Formation of Pin-hole Image.
+-P-A-G-E-13
+  
+PIN-HOLES 5 
+The pin-hole has one important advantage which may be 
+seen in the figure. If the screen is moved from the position 
+M to N, the circle of confusion A is enlarged to A’; but as 
+the image is magnified from AB to A’B’, in exactly the same 
+ratio, the relative sharpness of the picture remains unaffected. 
+Thus the size of the image may be varied at will, and there is 
+no best position for the receiving screen, so far as distinctness 
+is concerned. But as the image represents the same total of 
+light-energy in every position, the intensity of the illumination 
+over its surface will vary with its area; that is, the brightness 
+of the picture will vary inversely as the square of the distance 
+between pin-hole and image, and the time of exposure neces- 
+sary for a given result will be directly proportional to the square 
+of this distance. Obviously the illumination will also vary in 
+direct proportion to the area of the hole. 
+Best Diameter of Pin-Hole.— For the sake of increased 
+sharpness of definition the diameter of the pin hole may be 
+diminished, at 
+the cost of in- 
+creased length 
+of exposure; 
+but below a 
+certain limit 
+the phenome- 
+non of diffrac- 
+tion causes a 
+loss of defini- 
+tion which 
+more than off- 
+sets the gain. The effect is shown in Fig. 2, which is a pin- 
+hole picture, not enlarged, of two points of light, taken with   Fic. 2. Full Size Pin-hole Image of Two Bright Points.
+-P-A-G-E-14
+ey> 
+  6 PHOTOGRAPHY FOR STUDENTS 
+a very small pin-hole and a plate at a considerable distance 
+from it. The bright spots representing the image-areas of the 
+points are seen to be surrounded by a series of diffraction 
+rings, which at shorter distances lie so close together as to 
+blend and produce a noticeable blurring of the edge of the 
+image. Similar rings inside the image-circle are visible on 
+the original negative, but are too faint for reproduction. It 
+would therefore appear that there is a certain diameter of 
+hole which will give maximum distinctness, though in order 
+to calculate it, it is first necessary to define distinctness. For 
+pin-hole photography, distinctness is usually defined as the 
+maximum brightness at the center of the image, in which case 
+the best diameter of the hole 
+can be calculated readily. 
+It is a theorem of physical 
+optics that the maximum 
+concentration of light at the 
+center of the image is ob- 
+  tained when the axial and 
+marginalrays coming through 
+Fic. 3. Condition for Maximum Dis- the hole differ in length by 
+tinctness of Pin-hole Image. 
+one half a wave-length of the 
+light employed. This condition is outlined in Fig. 3, where 
+: ; r the ray coming from the edge of the hole is represented as — 2 
+longer than the central ray d, X being the wave-length of 
+the incident light. From the figure it follows, if 7 is the 
+radius of the hole, r\? 
+iis (a if *) if 2 
+= Ad, 2 
+neglecting a which is very small. 4
+-P-A-G-E-15
+  PIN-HOLES ” 
+Therefore, r= Vx. (1) 
+Ordinary photographic plates have their maximum sen- 
+sitiveness near the blue Fraunhofer line G of the spectrum, 
+for which the wave-length A is about 0.000017 inch. Hence 
+r= 0.0041 Vd. (2) 
+This formula gives the following table: 
+TABLE I. BEST DIAMETERS OF PIN-HOLES. 
+  
+JISTANCE BETWEEN PIN-HOLE Dist Best DIAMETER OF HOLE, 
+  AND PLATE, ie 
+3 inches 0.014 inch 
+4 inches 0.016 inch 
+5 inches 0.018 inch 
+6 inches 0.020 inch 
+8 inches 0.024 inch 
+10 inches 0.026 inch 
+  In the usual case, however, it makes very little difference 
+whether the image-circle of a point is a spot whose maximum 
+brightness is at its center or whether it is a small bright ring 
+whose edges quickly fade into darkness; and as matter of 
+fact good pictures can be obtained with diameters quite 
+different from those above given. It is easy to make fairly 
+satisfactory pin-hole experiments by removing the lens from 
+an ordinary camera, pasting over the opening a sheet of the 
+thick black paper in which photographic plates are wrapped, 
+and then perforating the paper with a small red-hot needle. 
+A better way of making the pin hole is to take a sheet of 
+thin copper, barely puncture it with a needle point, and then 
+rub off the burred edge on a fine-grained oilstone, keeping 
+the hole clear by occasional reinsertions of the needle. A
+-P-A-G-E-16
+  8 PHOTOGRAPHY FOR STUDENTS 
+moment’s contact with the flame of a sulphur match will 
+blacken the edges of the hole, and the result is a sharp-edged 
+pin-hole that will last indefinitely. 
+Brightness of Pin-hole Image. — Inspection of the fore- 
+going table shows ‘hat doubling the distance between pin-hole 
+and plate increases the best diameter of the hole enough to 
+double its area; but as the image covers a quadrupled area 
+at the double distance, it is only half as bright as before, and 
+will require twice the exposure. Since the exposure is rather 
+long at best, this means that work with “ long-focus ”’ pin- 
+holes is apt to be unsatisfactory on account of the great length 
+of exposure required. It is interesting to compare directly 
+the brightness of the pin-hole image with that given by a 
+lens. ‘Taking the 6-inch distance as above by way of illustra- 
+tion, the diameter of the hole is 345 of the distance between 
+hole and plate; and, comparing this with a lens working at J, 
+a diameter fifty times as great, it is easy to see that the lens 
+gives an image 2500 times as bright as the pin-hole, and 
+that therefore the pin-hole will require an exposure 2500 
+times as long as the lens.
+-P-A-G-E-17
+  CHAPTER III. 
+THE LENS. 
+THE illumination given by the pin-hole is much too feeble 
+for most purposes, and the sharpness of the image leaves 
+much to be desired. It is therefore usually necessary to 
+obtain the image by means of a lens. There is a great gain 
+in both brightness and definition; but a limitation also 
+appears in the fact that the image is now formed in one par- 
+ticular position, and with a given lens its size can be changed 
+only by changing the distance between lens and object. 
+Anything more than the slenderest outline of the theory of 
+the photographic lens is beyond the scope of this work; but 
+the user of photographic apparatus is often confronted by the 
+necessity of knowing something of the properties and failings 
+of his lenses, without going deeply into the mathematical 
+analysis of the matter; and the following pages have been 
+written with this in view. The lens is by far the most expen- 
+sive and important single item in the outfit, and the quality 
+of the work done depends primarily upon it. 
+Axis of a Lens. Equivalent Planes. — Photographic lenses 
+are always made with plane or spherical surfaces. Thecenters 
+of curvature of these surfaces must lie on a straight line, if 
+the lens is to give equally good definition over its whole field, 
+and this line is called the axis of the lens. Not a little of the 
+imperfection in definition attributed to other causes is really 
+due to imperfect adjustment of the lens glasses so that their 
+9
+-P-A-G-E-18
+Io PHOTOGRAPHY FOR STUDENTS 
+centers of curvature do not lie on the axis; but the fault can- 
+not be corrected by the purchaser. 
+To the mathematician Gauss and his successors is due the 
+application of the formule for a simple lens to combinations 
+of lenses, no matter how complex, and the simplification of the 
+entire theory by the help of what are sometimes called equiva- 
+lent planes. These are six planes perpendicular to the axis 
+of the lens, and intersecting it in points that have important 
+properties. Four of these points demand especial attention 
+here. 
+Nodal Points. — A ray of light, as ab in Fig. 4, may enter 
+a lens obliquely in such a way as to emerge without angular 
+  Fic. 4. Nodal Points of a Lens. 
+deviation, but it will have been shifted sidewise, as shown by 
+the line cd. A prolongation of ab and cd will intersect the 
+axis in the points N and N’, which are called nodal points. 
+They play an important part in the modern theory of lenses. 
+They have among other peculiarities the property which 
+may be expressed in words by saying that a ray entering the 
+lens from any direction toward either of them will emerge from 
+the lens parallel to its original course, but as if it had come 
+directly from the other. This property, therefore, gives a con- 
+venient method of ascertaining the final direction of a ray
+-P-A-G-E-19
+  
+THE LENS It 
+without tracing its actual path through the components of 
+the lens itself, provided the position of the nodal points is 
+known. The point JN is called the nodal point of incidence or 
+admission, the point N’ the nodal point of emergence. 
+In lenses of different types the nodal points vary widely in 
+position. They may coincide or be separated by a consider- 
+able interval, or the nodal point of emergence may lie on the 
+  Fic. 5. Position of Nodal Points of Various Simple Lenses. 
+side toward the incident ray. Figure 5 shows their positions 
+for some simple types of lenses, N being the nodal point of 
+admission and N’ of emergence. The light-rays are supposed 
+to pass from left to right in the figure; if their direction is 
+reversed, N and N’ simply exchange places. In telephoto- 
+graphic lenses both nodal points are in front of the lens 
+combination, and may be several feet away from the glasses. 
+Focal Points. — A beam of light made up of parallel rays, 
+sunlight, for example, allowed to shine upon a lens in the 
+direction of its axis, will be refracted more or less perfectly to 
+a point on the axis itself. This is illustrated in Fig. 6. If 
+the lens receives light from a very distant object (the rays 
+from which are practically parallel), the image will be found in 
+a plane perpendicular to the axis at F. This plane is called 
+the focal plane of the lens, the point F the focal point or the 
+principal focus, and the distance / between it and the nodal
+-P-A-G-E-20
+I2 PHOTOGRAPHY FOR STUDENTS 
+point of emergence is called the focal length of the lens. By 
+turning the lens end for end, a second focal point F’ may be 
+located in a similar way lying an equal distance / away 
+from the nodal point NV. A knowledge of the positions of the 
+. —= Hf 
+IK —f—— + —f— Fic. 6. Focal Points of a Lens. 
+fe a 
+four points, N, N’, F, and F’, with the planes drawn through 
+them perpendicular to the lens axis, simplifies greatly the 
+analytical study of the lens and lens calculations generally. 
+        
+         
+  4 D / 
+SESS 
+  Fic. 7. Formation of an Image by a Lens. 
+In treatises on optics’ it is shown that from the positions of 
+the nodal and focal points the position and size of the image 
+b’a’ of an object ab may be found as shown in Fig. 7. A ray 
+‘von Rowr, ‘‘Theorie und Geschichte der Photographische Optik.” 
+GLEICHEN, ‘‘Vorlesungen tiber Photographische Optik.”
+-P-A-G-E-21
+  THE LENS 13 
+from the point a parallel to the axis of the lens will be re- 
+fracted as if it had passed through the lens without deviation 
+as far as the plane through the nodal point of emergence NV’, 
+and there had been refracted so as to pass straight through 
+the rear focal point F. The actual path through the glass is 
+quite different, of course, but the result is the same as if the 
+course indicated by the dotted line had been followed, the 
+convenience of the method being that nothing need be known 
+or assumed in regard to the actual refraction at the surfaces 
+of the lens. A ray from @ which passes through the front 
+focal point F’ will be refracted as if it had passed undeviated 
+through to the plane through the nodal point NV, and thence 
+parallel to the axis of the lens, meeting the first ray at the point 
+a’. Thus the image of the point a will be found at a’, and by 
+similar reasoning the image of b will be found at 0’. Denot- 
+ing by p the distance between the object and N, the nodal 
+point of incidence, and by p’ the distance between N’, the 
+nodal point of emergence, and the image, the similar tri- 
+angles of the figure give the relation 
+size of object_p—-f__ f_ (3) pf size of image } 
+which reduces to 
+(4) 
+a simple and fundamental relation. 
+From this may be readily deduced another useful pro- 
+portion : 
+size of object _ p pr (5) size of image 
+ 
+-P-A-G-E-22
+  14 PHOTOGRAPHY FOR STUDENTS 
+When the object is placed » focal lengths in front of F’, 
+p= (1 + 9) i; (6) 
+whence, from (4), 
+  pattt;; (7) n 
+that is, 
+p’ _ size of image _ 1 
+Pp size of object n   
+(8) 
+This gives an important rule for copying, either enlarging 
+or reducing. It may be put into words as follows: 
+I ° ° , °° 
+To get a copy — the linear size of the original, place the n 
+object to be photographed outside the front focal point of 
+the lens and at a distance from it equal to m times the focal 
+length of the lens. The image will then be of the desired 
+size and ~ of the focal length behind the rear focal point. n 
+Similarly, to get an image m times as large as the object, set 
+the object ~ of the focal length away from the front focal n 
+point; the image will then be found m focal lengths behind 
+the rear focal point. 
+The focal length and the position of the focal points hav- 
+ing been determined once for all, no further measurements 
+for copying than the above need be made, and the most accu- 
+rate proportions can be obtained without recourse to the too 
+frequent and often tedious process of trial and error. 
+Measuring the Focal Length. — Figure 7 and the accom- 
+panying equations afford a ready explanation of the following 
+simple methods of determining the focal length of a convex 
+lens.
+-P-A-G-E-23
+  THE LENS 15 
+I. With the lens in the camera, focus as accurately as 
+possible upon some very distant object, and mark the posi- 
+tion of the lens board on the camera bed. If the camera is 
+of the back-focusing type, in which the lens is fixed and the 
+ground glass the movable portion, the position of the ground 
+glass is to be marked. Next focus on an object placed so 
+near the lens that object and image are of the same size. This 
+measurement is most conveniently and accurately made by 
+cutting a piece, of any convenient size and shape, from the 
+middle of a sheet of opaque paper, and pasting the paper on 
+a window pane to serve as the object. The paper cutting 
+may be held directly against the ground glass as a means of 
+comparing its size with that of the image of the hole. Re- 
+focusing is of course necessary, and a number of trials at 
+different distances may be required. By marking the new 
+position of the lens (or ground glass) on the camera bed, the 
+focal length of the lens is obtainable without further compu- 
+tation, because the elongation of the camera bellows required 
+to obtain the second focus is exactly equal to the focal length 
+of the lens. 
+II. Although most cameras that are not toys permit the 
+necessary extension, it sometimes happens that the bellows 
+will not stretch sufficiently to make the second adjustment. 
+In such a case it is only necessary to have the image a known 
+fraction of the size of the object, say one half or one third of 
+its linear dimensions. The elongation of the bellows will 
+then be the same fraction of the focal length of the lens, as 
+will appear from the preceding rule for copying. For this 
+purpose the best object to use is a divided scale in a good light. 
+An ordinary foot rule will answer. 
+_ III. By substituting « + / for p (Fig. 7) and {+ y for 7’,
+-P-A-G-E-24
+  16 PHOTOGRAPHY FOR STUDENTS 
+in equation (4), and reducing, the following relation is ob- 
+tained: 
+f= xy. (9) 
+This is the basis of another exact method, which, though 
+less simple than the preceding, gives the position of the focal 
+points as well as the focal length. It is as follows: 
+(a) Reverse the lens in its mount, and focus on a very dis- 
+tant object. Measure along the axis the distance /’ (Fig. 8 a), 
+between the image and any convenient part of the lens mount- 
+ing. This locates the front focal point at F’. 
+a : b Cc 
+F' 
+CS 
+Ley 7" 
+  Fic. 8. Measurement of the Focal Length of a Lens. 
+(b) With the lens in its normal position, focus on the same 
+distant object and measure similarly the distance /’” from the 
+image to any other convenient part of the lens mounting. 
+This locates the rear focal point at F (Fig. 8 0). 
+Focus on an object several focal lengths (three or four, 
+estimated) in front of the lens hood, and measure, as in Fig. 
+8c, the distance /’”” from the object to the point used for /, 
+and /” from the image to the point used for /”. 
+Then, by equation (9), 
+r — en 7 l’) (F oa FY). 
+This method, due to Mr. T. R. Dallmeyer, has the ad- 
+vantage of not requiring any measurement of the image or

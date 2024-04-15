@@ -1,0 +1,1340 @@
+-P-A-G-E-1
+   
+-P-A-G-E-2
+ccs wha See page xi Frontis piece 
+ 
+-P-A-G-E-3
+  SMITHS 
+INTERMEDIATE CHEMISTRY 
+REVISED AND REWRITTEN 
+BY 
+JAMES KENDALL 
+PROFESSOR OF CHEMISTRY, CoLUMBIA UNIVERSITY 
+AND 
+EDWIN E. SLOSSON 
+Epitor or ‘‘Scrence Service,” AvutTHuor or “ CREATIVE 
+CHEMISTRY,” ETC. 
+  NEW YORK 
+THE CENTURY CO. 
+1923
+-P-A-G-E-4
+CopyRiGuHtT, 1919, 1922, 
+BY 
+THE CENTURY CO 
+Printed in the U.S. A.
+-P-A-G-E-5
+  540 
+an 25 / 
+WHY STUDY CHEMISTRY? 
+CHEMISTRY began as a secret science. The early chemists con- 
+cealed their knowledge — and more often their ignorance — under 
+a cloak of symbols and ciphers of the most mysterious and awe- 
+inspiring sort. But now the Black Art has been opened to day- 
+light. ‘The modern chemist is more anxious to tell people what 
+he knows than people are to listen to him. He still uses symbols 
+and has a fondness for long words, but these are designed to reveal, 
+not to conceal. 
+Still there lingers about chemistry something of the witchery 
+of its antiquity. It has the air of being much harder to under- 
+stand than it really is. The curious structural formule of organic 
+compounds are no more difficult to work out than a Chinese puzzle 
+and quite as much fun. 
+Chemistry is especially fitted to give training in the scientific 
+method, for it is experimental from the start. Properly taught. 
+—or rather properly learned — it inculcates self-reliance and 
+independence of thought. If the pupil will take the teacher’s 
+word for the names of things and follow the advice of the book 
+as to what experiments to try, he can find out and think out the 
+most important part of the science for himself. He can work 
+out a system of analysis by testing known substances in a sys- 
+tematic way and then when he enters upon unknown mixtures 
+he can attack them with the courage of self-confidence. The 
+student of astronomy never gets a chance to handle a star, or 
+even an asteroid. But the substances that the young chemist 
+studies are always weighable, usually tangible, generally visible 
+and frequently smellable. The student of geology never has the 
+opportunity to make a mastodon and all he knows of a volcano or 
+a geyser is the picture of it. But the Freshman chemist makes 
+/3007  
+-P-A-G-E-6
+iv SMITH’S INTERMEDIATE CHEMISTRY 
+oxygen the first week and if he gets through the term without 
+making a voleano or geyser he is lucky. 
+This is not said to the disparagement of other studies. They 
+all have their peculiar merits which their professors are at liberty 
+to demonstrate. But chemistry has the advantage of most of 
+them in that it points toward the future and instigates to action. 
+The study of the history of man as written in books and of the 
+history of the earth as recorded in rocks gives one a sad sense of 
+irreparableness. What they deal with is dead and gone and all 
+that is left is their lesson which may or may not be applicable to 
+present problems. Meteorology is a _ discouraging science. 
+“People are always complaining about the weather but nobody 
+ever does anything about it.’”’ Astronomy reduces one to a state 
+of impotent awe. It is interesting of course to find out the struc- 
+ture of the solar system, but if you do not like it you cannot change 
+it. You cannot put Saturn in the place of Venus so as to get a 
+brighter evening star with two rings and eight satellites running 
+around it. You cannot even alter the inclination of the axis of 
+the earth so as to give the polar regions a chance to grow bananas. 
+But when you find out the structure of a chemical molecule you 
+can alter it to suit yourself. You can substitute a bromine for a 
+chlorine atom and hook up a carbon chain into a ring. 
+In this field man is master of his material and the only limita- 
+tions to his power are his own ignorance and the innate intracta- 
+bility of the elements. Berthelot calls chemistry the most crea- 
+tive of the sciences, because it penetrates most profoundly into 
+the nature of things and deals with the infinitesimal parts of 
+which all substances are composed. The chemist begins by taking 
+things apart (analysis); then he proceeds to put them together 
+again (synthesis). Sometimes he puts them together in a differ- 
+ent way and then he gets something quite different, perhaps some- 
+thing that never existed on the earth before. Some 300,000 dis- 
+tinct substances are described in chemical dictionaries and only 
+a small fraction of these are to be found in nature.
+-P-A-G-E-7
+  WHY STUDY CHEMISTRY? v 
+Chemistry is the science of power. All the energy of man and 
+beast and all the energy of machinery, except that furnished by 
+windmills and water wheels, is chemical energy and nearly all 
+of this is derived from two simple and similar chemical reactions, 
+the oxidation of hydrogen to form water and of carbon to form 
+carbon dioxide. Food and fuel plus the oxygen of the air pro- 
+vide the motive force of the modern world. The automobile 
+and the elephant, the airplane and the eagle, the whale and the 
+steamboat, man and his machines would alike be lifeless unless 
+empowered by the oxidation of hydrogen-carbon compounds. 
+Potential chemical energy is peculiarly effective in that it is so 
+compact, portable and permanent. A few bags can contain 
+enough of it to blow up a building or propel a projectile seventy- 
+five miles. : 
+Chemistry has control of life and death. An animal or plant 
+deprived for a time of the proper chemical compounds will starve 
+or if it imbibes a minute amount of the wrong chemical com- 
+pounds it dies at once. The vital processes of the body are con- 
+trolled by chemicals, some of which are already known, and a 
+little more or less of them in the blood determines whether we 
+shall be tall or short, bright or dull, handsome or ugly, cheerful 
+or melancholy. 
+Chemistry is the science of terror and pity. Warfare has been 
+an intermittent branch of applied chemistry ever since the inven- 
+tion of gunpowder, but it was not until 1914—18 that its terrible 
+power of destruction and devastation was realized. But chem- 
+istry may heal the wounds it causes, even with medicaments 
+drawn from the same unpromising protean stuff, coal tar, that 
+yields the high explosives and poison gas. Chemistry is the chief 
+weapon of man in his lifelong fight against the bacteria and pro- 
+tozoa that invade his body and ultimately destroy it. It is with 
+chemicals that he combats the insects that eat his crops and infect 
+him with disease. It is chemistry that brings relief to the sleep- 
+sess and suffering and deprives surgery of its pain. Chemistry
+-P-A-G-E-8
+vl SMITH’S INTERMEDIATE CHEMISTRY 
+may, it is true, demolish a building, but it is chemistry that erects 
+it, even the steel-ribbed skyscrapers and mammoth monoliths 
+of concrete. 
+Chemistry is the democratic science. It bestows upon the 
+poorest what once were the gifts of kings; jewels and bright- 
+dyed garments, sugar and scents, vessels of porcelain and metal, 
+foreign fruits and out-of-season foods, books and pictures. Chem- 
+istry carries music into farmhouse and tenement on disks of resin 
+and reveals to multitudes from the celluloid film scenes from a 
+distance and past events; thus short-circuiting space and time. 
+Chemistry has brought light into dark dwellings by means of 
+windows and lamps. It supplies food to the hungry, for with 
+nitrogen extracted from the air and phosphorus from the rocks 
+it makes two blades of corn grow where one grew before. 
+Chemistry is the joyous science. It contributes most to the 
+pleasures of life. Every scent and every savor is due to chem- 
+istry. The tints that delight the eye in flower or fruit, in gem 
+or painting, the greens and browns of the forest leaves, the reds 
+and yellows of the brick-built town, the black of print, the dyes of - 
+cloth, the blush on the maiden’s cheek — whether it be natural or - 
+artificial — all colors are chemical. We may not gratify our ears = 
+with music more than once a week, but we satisfy our chemical © 
+senses three times a day and chemical colors delight our eyes all 
+the hours they are open. The students should realize that chem- 
+istry is not exclusively concerned with the stuff in the bottles be- 
+hind the prescription counter, but has just as much to say about 
+the soda-water side to which they are quite naturally more at- 
+tracted. They should understand that chemistry includes not 
+merely the process of cooking but the process of digestion. This 
+explains why we have introduced some unconventional topics and 
+experiments in the following pages. 
+Chemistry is a practical science. None touches everyday life 
+at more points except its sister science, physics, between which 
+and chemistry no clear boundary can be drawn. None has more
+-P-A-G-E-9
+orn et . 
+r “De SS WHY STUDY CHEMISTRY ? Vii 
+avenues for profitable employment. Some studies can be made 
+a profession only by teaching them. But the qualified chemist 
+has two strings to his bow. If he does not like teaching, he may 
+leave the campus for the industrial field. He may find employ- 
+ment in the big establishments devoted to the reduction of ores, 
+to steel or other manufactures or to the production of foods, fer- 
+tilizers, dyes, drugs, soaps, gas, rubber, oil, cements or explosives. 
+Here he may be engaged in routine analysis of the raw material 
+and finished products. Or he may be put in control of the fac- 
+tory processes. Or he may be engaged in research to prevent 
+waste, to utilize by-products, to invent new compounds or to 
+contrive new uses. In any case he will be near to the heart of 
+the industry and if he has inventive genius or managerial ability 
+he may rise high. In some fields of chemistry women have almost 
+as much of a chance as men. 
+On account of its varied opportunities and its expanding field 
+chemistry is drawing an increasing number of college graduates. 
+Many more take the degree of Doctor of Philosophy in chemistry 
+than in any other branch. The American Chemical Society 
+with 15,500 members is the largest special scientific body in the 
+world. When the Government took a census of chemists to see 
+‘how many were available for war service, 25,000 names were 
+registered, and this did not include them all. No other science 
+is growing so fast through original research. In the files of the 
+National Research Council more than 2100 living Americans are 
+recorded as having made contributions to chemistry. Compared 
+with this, the research men in botany number 1400, in zodlogy 
+1255, in geology 750, and in mathematics 600, in psychology 450 
+and in astronomy 250. 
+But it is not sufficient that the ranks of research chemists and 
+technologists be kept filled. Chemistry has an interest and a 
+usefulness for everyone. What would be the value of an art 
+gallery if nobody entered it but artists? And what would become 
+of the book business if nobody read but authors? Chemistry
+-P-A-G-E-10
+  
+  Vill SMITH’S INTERMEDIATE CHEMISTRY 
+is of value to those who never intend to become professional chem- 
+ists because it gives one an understanding of household arts and 
+modern manufactures, of the principles of agriculture and bodily 
+processes, but more because it opens the eyes of the mind to the 
+molecular meaning of the marvelous metamorphoses of the visible 
+world. 
+E. E. 8.
+-P-A-G-E-11
+  
+CHAPTER 
+VI. 
+VIL. 
+VILL. 
+IX. 
+XI. 
+XII. 
+XITI- 
+XIV. 
+a: 
+XVI. 
+XVIL. 
+XVIII. 
+XIX. 
+XXIV. 
+XXYV. 
+XXVI. 
+XXVII. 
+XXVIII. 
+XXIX. CONTENTS 
+; BUBSTANGES: AND. PROPERTIBG) 6.00600 05055 vs ccs becncses 
+II. 
+EEL 
+IV. CHEMICAL CHANGE AND THE Mrtuops or StrupyInac I? ... 
+AE AES a ee Ss i er ee ed oo Rehm ie et 
+THe MEASUREMENT OF GASES. 
+POTNERINS Soe. os! 5 SN On a kre hae nla eS ok e ewie 
+APPLICATION OF THE MOLECULAR HyYpoTrHEsIs IN CHEM- 
+RT si ee cae gS, gamete thee thw 3 fi ia85 -pyete eae are 
+MakING OF FORMULZ AND EQUATIONS................-. 
+Hyprocuuoric Acrp. 
+ieee: GC AMOTIRANTON So 56 og 2A a oho Sa ve os Ce ewe 
+ENERGY AND CHEMICAL CHANGE.............0e0seee0e 
+SoprIuM AND SopruM HYDROXIDE..................000%- 
+DUCT, SEAMEN IAG on 5 no sno ie se dhs bccn eels 
+SUR RT Ot a Re ko Sie i 2 ae OE uh ot ene 
+Chrys Se A alg re Oe Ges Va ed aes 
+5s MEATS AUGER ROME ooo vic adc ee ow eee lems ue a eS 
+XXI. 
+XXIT. 
+XXITI. SULPHUR AND HYDROGEN SULPHIDE............cccceece 
+OXIDES AND OxYGEN ACIDS OF SULPHUR.............¢. 
+IIE 0 RC rt ae aa ee ee Ceri 
+NitroGen. THE ATMOSPHERE 
+URET SIEM 8 Rao OO ie ee eee 
+AP RIRPER EES PRIM oe oe aig 4 Tui Rekenry Ag Shun call gS exci aN ne eae 
+PuospHorvus, ARSENIC, ANTIMONY, BISMUTH............ 
+CARBON AND THE OXIDES OF CARBON.............e0- 
+THe HYDROCARBONS AND THEIR DERIVATIVES. 
+ix THe Mowecutar Hy- 
+219
+-P-A-G-E-12
+xX 
+CHAPTER 
+XXX. 
+XXXT. 
+XXXII. 
+XXXII. 
+XXXIV. 
+XXXV. 
+XXXVI. 
+XXXVII. 
+XXXVI. 
+XXXIX. 
+XL. 
+XLI. 
+XLIL. 
+XLITI. 
+XLIV. 
+XLV. 
+XLVI. 
+XLVII. CONTENTS 
+PAGE 
+PREAIAON SOON oo 5 hd 50 ee he eas eee ae oe ee 359 
+CoMPOUNDS OF SODIUM AND POTASSIUM ............... 365 
+THE RecoGnition or Suspstances, I.— A Review or 
+THE NoN-MBTALLIC ELEMENTS................00000- 374 
+Catcrom AND 176: COMPOUNDS... 6.005600 600200 2 AO 383 
+PuaNnT Lire. CELLULOSE, STARCH AND SUGAR.......... 395 
+Puant Lire. Osmosis. FERTILIZERS...............0%¢ 405 
+PLANT Propucts. FERMENTATION AND FUELS.......... 417 
+ANIMAL LIFE AND ANIMAL PrRopucts. Foops.......... 428 
+MAGNESIUM AND Zinc. Ionic EQUILIBRIA............. 446 
+BEAMUREOE ie ss Pork ap oe cas Di cls DRE Os gate eee 466 
+SYNTHETIC ORGANIC PRODUCTS. 2... 0555.0 06sec seneee 474 
+Pee; INIGR MG WOOBAU Tes oii iis 6 S55 Win Mateo Ws Yeelals Ses 486 
+BEY AI ENE oro ko Soest bois ook ER DOOR CMG es iS ele 502 
+CoprpER AND MERCURY.............. Bits Niita 66 36. age om 510 
+SUUVIER, COLD, “EATON. ssid os: ooh cw as Hes ooo oe wea 519 
+MANGANESE AND CHROMIUM. «5.0.05. cc ccc nnn ets wees 527 
+Tue ReEcOGNITION oF Suspstances, I]. — A Revirw or 
+THH MMTAGLIC HEMMENTS. «6.5 ces Oe ee ee 536 
+Raprum. Atomic ENERGY AND ATOMIC STRUCTURE...... 542 
+TORN 6 8S OS ES A ai sv ioe ee 557 
+ea Rix ne vi 8 varie ero cahe e oviicae ded wees aS rye s P< 559
+-P-A-G-E-13
+  
+LIST OF ILLUSTRATIONS 
+PAGE 
+PUM AIOE CORNER ES a atc ie 45) ufavove 0's. oter bh REI e's Lege ten Frontispiece 
+Alexander Smith; B. Se., Edinburgh, 1886; LL. D., 1919; Ph. D., 
+Munich, 1889. Fellow of the Royal Society of Edinburgh; 
+Member of the National Academy of Sciences; recently Head of the 
+Department of Chemistry, Columbia University, New York City. 
+Ce ne ee mre AW th. ON 2) ore abe Se ae a eee tee 28 
+Joseph Priestley (1733-1804) was a nonconformist minister of 
+Birmingham, England, but devoted his leisure and his means to 
+chemical research, the results of which were published in his six 
+volumes on “Experiments and Observations on Different Kinds of 
+Air.”’ He was the first to prepare pure oxygen, which he called 
+“‘dephlogisticated air.” He also made nitrous oxide, nitric oxide, | 
+ammonia, hydrochloric acid, sulphur dioxide, and silicon fluoride. 
+He found that water could be made to absorb carbon dioxide 
+under pressure, thus laying the foundation of the “soda-water”’ | 
+industry. On account of his sympathy with the French Revolu- 
+tion and his heterodox theological views a mob burned his home « em 
+and laboratory, July 14, 1791. Priestley narrowly escaped with 
+his life and went to America, where he settled at Northumberland, 
+Pennsylvania. Here a group of chemists gathered on August 1, 
+1874, to celebrate the centenary of the discovery of oxygen, and 
+founded the American Chemical Society, now the largest scientific 
+association in the world. 
+naan COVEEICAIT DAIS R ES es gid haa, 29 
+Antoine Laurent Lavoisier (1743-1794) is called ‘‘the father of | 
+modern chemistry’? because he placed the science on the solid 
+basis of quantitative experiments and devised the system of naming 
+compounds by their composition. He proved that the air con- 
+tained two gases; one which was inert and another which supported 
+combustion and united with metals. He called the former gas 
+“azote”? because it would not support life and the latter “oxygen” 
+because it formed acids. He was guillotined during the Reign of 
+Terror. The Commission on Weights and Measures petitioned 
+that he might be allowed to complete his work on the metric system, 
+but Coffinhal, vice-president of the revolutionary tribunal, refused, 
+saying: ‘The republic has no need for savants.”’ a 
+ 
+-P-A-G-E-14
+X11 
+SvaNTE ARRHENIUS LIST OF ILLUSTRATIONS 
+Arrhenius put forward his theory of ionization while still a student 
+at Upsala. His own description of its reception is worth repeating: 
+‘“‘T came to my professor, Cleve, whom I admire very much, and I 
+said: ‘I have a new theory of electrical conductivity as a cause of 
+chemical reactions.’ He said: ‘That is very interesting,’ and 
+then said ‘Good-bye.’ He explained to me later, when he had to 
+pronounce the reason for my receiving the Nobel Prize for that work, 
+that he knew very well that there are so many different theories 
+formed, and that they are almost all certain to be wrong, for after 
+a short time they disappear; and therefore, by using the statistical 
+manner of forming his ideas, he concluded that my theory also would 
+not exist very long.”’ 
+It scarcely needs to be added here that the theory is still very much 
+alive! 
+Tue ELEctTRIc CURRENT IS PASSED THROUGH SALT WATER IN THESE 
+Sir NELSON CELLS TO OBTAIN CausTIc SoDA AND CHLORINE 
+In the U. S. Government Chlorine Plant at Edgewood Arsenal 
+during the Great War there were eight cell rooms similar to that 
+shown in the picture, with a total capacity of 100 tons chlorine per 
+day. Each cell room consists of six circuits— 74 cells per circuit, 
+or a total of 444 cells per room. 
+TAA AME A a cc ee eh ips i Mu aime | tt AM ge 
+Sir William Ramsay (1852-1916) will always be famous for his 
+work on the inert. gases of the atmosphere and for his discoveries in 
+the field of radioactivity. He first became interested in chemistry 
+in a rather unusual way. While a boy at school, he broke his leg 
+in a football game, and was kept on a couch for several weeks. To 
+kill time, he read Graham’s Chemistry, hoping to find out how to 
+make fireworks. For the next few years his bedroom was full 
+of bottles and test-tubes, and often full of strange smells and star- 
+tling noises. 
+Tue First Hextium-Fintep DrricgiBLeE AFTER Its LANDING AT WaASH- 
+ROMAA RNIN 05.6514 5. <0) 5 @ a0 0.0 5.6 cee ble ees bie 6 6.0.6 ale ew din s.0 ke 8S eee 
+When Ramsay was presented with the Longstaff Medal for his 
+work on the inert gases, the President of the London Chemical 
+Society remarked: ‘If I may say a word of disparagement, it is 
+that these elements are hardly worthy of the position in which 
+they are placed. If other elements were of the same unsociable 
+character, Chemistry would not exist.” O10; S 8 86 656-68 Oe. 6 0'e OO 0:8 6.0 6.0 O60 6 6.6 6:8: a6. 2 8 U.6 6 2. 6'S' 16°68 
+.297
+-P-A-G-E-15
+  LIST OF ILLUSTRATIONS 
+This very unsociability of helium, however, renders it the ideal 
+gas for balloons and avoids all the risk of fire or explosion attendant 
+upon the use of hydrogen. Helium exists in small quantity in 
+many natural gases (see p. 345), and is obtained pure by liquefying 
+out the other components. 
+CHEMICAL SMOKE-ScREENS AGAINST SUBMARINES. A VESSEL USING 
+Pare ee erinr F Ste METER ASRIINNG Sn so Se ce wk ov lx cain we mek 
+The silicon tetrachloride is contained in a cylinder fixed on the deck 
+at the stern of the ship, and is forced out into a long funnel, in the 
+form of a fine spray, by the pressure of liquid carbon dioxide. Am- 
+monia gas issues from a second cylinder, and rapid mixture is effected 
+in the presence of excess of moist air by means of an electric fan 
+placed at one end of the funnel. The current of air produced 
+drives the smoke out at the other end of the funnel. 
+CHEMICAL SMOKE-SCREENS AGAINST SUBMARINES. A VeEsSEL USING 
+Oleum (fuming sulphuric acid) was also employed to conceal ships 
+against submarines during the Great War. A finely-divided spray 
+of oleum was injected into the smoke-stacks of the vessel and 
+carried by the hot gases issuing therefrom into the atmosphere in 
+the form of vapor. In contact with the cool moist air over the 
+ocean, this vapor condensed to give tiny droplets of sulphuric 
+acid, which hung over the surface as a very persistent mist (compare 
+pp. 263-4), extremely difficult to distinguish from a natural fog. 
+Korrers Brenzot Recovery Puant, River Furnace Co., CLEVE- 
+Om Sh I os ee eas COL Se Sale hip aw cw 'SOE au eStaiece me ere Eh 
+The recovery of valuable hydrocarbons of the aromatic series 
+(benzene, toluene, naphthalene, etc.) from coal gas is a feature of 
+every modern coke and gas plant. The bulk of the peace-time 
+demand for ‘“‘benzols’’ — as the light oils extracted by washing 
+the gas are called in industry — is for employment as motor fuels. 
+From one ton of coal approximately 3 gallons of “ benzol’”’ is 
+recovered, giving from 20 to 30 per cent more power and mileage 
+than high-grade gasoline, and causing less carbon trouble. 
+a ee aia, « dWtS Ta st dead whicare wlyatbie. ot waka ovale « alae 
+Enormous deposits of oil shale (see p. 345) have recently been 
+opened up in the United States, notably in Colorado, Utah, and 
+Nevada. Though at first sight it would appear that the cost of 
+producing oil from shale would prohibit competition with well 
+petroleum, yet the value of the by-products offsets this disadvantage Xill 
+PAGE 
+.360
+-P-A-G-E-16
+XIV LIST OF ILLUSTRATIONS 
+PAGE 
+to a large extent. In any case, in view of the apprehended exhaus- 
+tion of the world’s petroleum fields in the near future, these shale 
+deposits constitute a most important national asset. 
+PHOTOMICROGRAPHS SHOWING THE STRUCTURE OF STEEL MADE BY 
+Proressor E. G. ManIn OF PuRDUE UNIVERSITY ........... 490 
+1. Cold-worked steel showing ferrite and sorbite (enlarged 500 
+times). 
+2. Steel showing pearlite crystals (enlarged 500 times). 
+3. Structure characteristic of air-cooled steel (enlarged 50 times). 
+4. The triangular structure characteristic of cast steel showing 
+ferrite and pearlite (enlarged 50 times). 
+REPAIRING THE BROKEN STERN-Post or THE U.S. S. “‘ NortTHEeRN Pa- 
+cirFic’’: THE BiaGcest MARINE WELD IN THE WORLD........ _.491 
+On the right the fractured stern-post is shown. On the left it is 
+being mended by means of thermite (see page 468). Two crucibles 
+each containing 700 pounds of the thermite mixture are seen on the 
+sides of the vessel. From the bottom of these the melted steel 
+flowed down to fill the fracture. 
+Dest Agi (pine TNE Lis SSA ROBATORY » e.5 6 5.0/4 oo edie h 6. ad's h.c'a 0c din apheiben 542 
+Marie Sklodovska, a Polish refugee stranded in Paris, was first 
+engaged in the physical science department of the Sorbonne to 
+wash bottles and prepare the furnace. Professor Lippmann, the 
+pioneer in color photography, promoted her to setting up apparatus, 
+and put her to do work with Pierre Curie, one of his assistants. In 
+1895 she became Madame Curie. 
+In 1903 the results of Madame Curie’s work on radium were pre- 
+sented to the faculty as a thesis for the doctor’s degree. The thesis, 
+unlike that of Arrhenius, was favorably received, and shortly after- 
+wards the Nobel Prize in Physics was divided between the Curies 
+and Becquerel, whose previous work on uranium had suggested the 
+research. 
+In 1911 Madame Curie was awarded the Nobel Prize in Chemistry. 
+Peneea PRO CT AS SC ATIVUIAS i ot oe! aoe ne Se eo hs Oe 543 
+The positively-charged helium atoms (alpha-particles), thrown 
+off from radium, in passing through the air ionize the molecules 
+with which they collide, and these ionized molecules have the same 
+power that dust possesses (see p. 293) of affording nuclei on which 
+moisture may condense. Hence, when a particle of a radium 
+compound is supported in a flask containing air saturated with
+-P-A-G-E-17
+  
+LIST OF ILLUSTRATIONS 
+moisture, and the air is suddenly cooled by expansion, the paths 
+of the particles become lines of fog. With powerful illumination, the 
+fog-tracks can be photographed and the lengths of the paths can 
+be measured. 
+The negatively-charged electrons (beta-particles) give foy-tracks 
+which are much fainter and extremely tangled. XV 
+PAGE 
+ 
+-P-A-G-E-18
+ 
+-P-A-G-E-19
+SMITH’S 
+INTERMEDIATE CHEMISTRY 
+CHAPTER I 
+SUBSTANCES AND PROPERTIES 
+WHEN exact information in regard to any sort of material is 
+required, we hand the material to a chemist. To learn something 
+about the nature of chemistry, let us watch the chemist at work 
+on a typical problem. 
+Properties.— Suppose that the material is a piece of cloth, 
+and we desire to know whether it is all wool, or partly cotton. 
+The chemist places a piece of the cloth in a test-tube (Fig. 1), 
+and pours in an amount of lye sufficient to cover 
+it. Lye is a solution in water of a white solid, 
+named by chemists, commonly, “ caustic soda ”’ 
+and, more formally, sodium hydroxide. The con- 
+tents of the test-tube are then heated over a flame 
+and are kept at the boiling point for ten minutes. 
+If the cloth dissolves entirely, leaving a liquid, 
+clear like water, then it was composed of nothing 
+but wool. The chemist draws this conclusion 
+because wool, although not affected by the boiling arr 
+water, has the property of turning into a soluble 
+substance when caustic soda is heated withit. If, on the other 
+hand, the piece of cloth becomes thinner, obviously losing a part 
+of its material, but leaving a part undissolved, then it contained 
+cotton. This conclusion depends on the fact that cotton has 
+the property of not being dissolved by caustic soda solution. 
+1
+-P-A-G-E-20
+    2 SMITH’S INTERMEDIATE CHEMISTRY 
+The same conclusion could have been reached in other ways. 
+For example, some threads could have been taken from the 
+edges of the sample and placed under a microscope. In this 
+case, they would have been seen to be made up of long, hollow 
+fibers or tubes (Fig. 2). But the cotton fibers (A) are smooth on 
+the surface, while the woolen fibers (B) are covered with scales. 
+By this difference in properties, the presence of both kinds, or of 
+B 
+  only one of the kinds, could quickly be found out. Still again, the 
+chemist knows that wool will “ take” almost any dye, while 
+cotton remains uncolored by 
+A the greater number of dyes. 
+| | He could, therefore, boil a piece 
+@) of the cloth with a solution of a 
+Lf soluble dye — such as red ink 
+(eosin)— for a few minutes, and 
+| then wash the sample _ thor- 
+oughly in clean water. On 
+Fic. 2 examining the cloth with’ a 
+microscope he could then ob- 
+serve whether any fibers were still white. Here wool has the 
+property of uniting with the dye, while cotton has not. The last 
+plan could be used only with white goods, or goods not already 
+strongly dyed. 
+The first method is the one which the chemist would probably 
+employ in practice, because by its means he can ascertain and 
+report, not only the presence of cotton, but the proportion of 
+cotton present. To do this, he weighs the dry piece of cloth 
+before placing it in the test-tube. Then, after the boiling with 
+caustic soda solution, he washes what is left of the sample very 
+thoroughly in running water, dries it, and weighs it again. The 
+weight of this “‘ residue ” is that of the cotto.. The difference 
+between this and the original weight is the weight of the wool. 
+The chemist is then able to state the percentages by weight of 
+cotton and of wool in the original material.
+-P-A-G-E-21
+SUBSTANCES AND PROPERTIES 3 
+Substances.— Upon considering these operations, we can 
+discover a general plan which the chemist has devised and employs 
+in his work. Different samples of cloth are of different colors 
+and appearance, even when they contain the same proportions of 
+cotton and wool. A casual inspection is, therefore, of little 
+value. But in certain respects all samples of wool are alike, 
+such as in dissolving in caustic soda, in “ taking ”’ certain dyes 
+and in possessing a scaly surface. Those respects in which all 
+samples of wool are alike are called the specific properties of wool. 
+Similarly all samples of cotton are alike in certain respects, which 
+are called the specific properties of cotton. And these properties 
+of cotton and of wool are different, many of them very different 
+indeed. For the purpose of stating what he means, the chemist 
+calls a kind of material, all specimens of which possess a certain 
+set of specific properties, a substance. Wool is one substance,* 
+and cotton another substance. Every part of a specimen of a 
+substance has the same specific properties as any other part. If 
+any portions can be found which have different specific properties, ° 
+these are portions of another substance, accidentally or inten- 
+tionally mixed with the first. The chemist calls the foreign mat- 
+ter an impurity, and the specimen an impure sample of the sub- 
+3tance of which it is mainly composed. 
+A substance, then, is a species or kind of matter, and all speci- 
+mens of it show the same set of specific properties. Any par- 
+ticular substance is recognized by the specific properties which 
+it exhibits when exposed to various tests. Specific properties, 
+conversely, are those qualities which are characteristic of any 
+particular substance. 
+The plan which the chemist uses in his experimental tests, 
+therefore, is that of ascertaining whether a given material exhibits 
+* In point of fact, wool contains several substances, but they are all alike 
+in respect to the three properties mentioned above. ‘They differ slightly in 
+respect to other properties, and so can be distinguished from one an- 
+other.  
+-P-A-G-E-22
+  4. SMITH’S INTERMEDIATE CHEMISTRY 
+the properties of one, or of more than one substance. He then 
+describes it by naming the substances he finds in it. 
+Another Illustration.— This view-point is peculiar to the 
+chemist. Each art or science has its own view-point — its own 
+way of thinking about a given object. By the geologist, a piece 
+of granite is at once thought of as belonging to the older rocks of 
+the earth, and the geologist considers when it was formed and how 
+it was formed (namely, by solidification of a molten mass). 
+To the builder, it is a very hard stone, expensive to cut and pol- 
+ish, but very ornamental, and very durable. How and when 
+it was formed does not make any difference to the builder. 
+To the chemist, as a chemist, on the other hand, the expense 
+of cutting granite, and its ornamental character, are of no interest. 
+Instead, the chemist notices at once that it is spotted, and, upon 
+examining it closely, he observes that it appears to be a mizture. 
+He breaks up a portion, and studies the properties of the fragments. 
+‘ Some are transparent like glass, are very hard, and in fact are in 
+all respects like quartz or rock crystal (Fig. 3). All specimens 
+of rock crystal, from whatever source, are alike in properties, 
+and quartz is, therefore, a distinct 
+substance or species of matter. Again, 
+certain of the particles in granite are 
+oP dark, and with a penknife can be 
+easily split into transparent leaves, 
+eo ae. thinner than paper. These fragments 
+are in all respects like mica (sheets of 
+which, under the name of “ isinglass,’’ are used to close the win- 
+dows of stoves), which is another substance (Fig. 4) well-known to 
+the chemist. Still others of the fragments are less transparent 
+than the quartz and less hard. They can be split, but with 
+much greater difficulty than the mica. They are crystals,* 
+* Crystals are natural forms of a geometrical nature, assumed by solid sub- 
+stances (p. 94).
+-P-A-G-E-23
+  SUBSTANCES AND PROPERTIES 5 
+oblong in shape. ‘These are pieces of a third substance, felspar 
+(Fig. 5). All the particles in the granite belong to one or other 
+of these three kinds. The chemist, then, studies the specific 
+properties, such as the hardnesses and the crystalline forms of 
+various parts of the specimen and seeks to state or describe the 
+nature of the specimen in terms of the substances he finds 
+in it. 
+A Third Illustration.— When flour is examined by the chem- 
+ist, it appears to the eye to be all alike. Under the microscope, 
+even, all he can learn is that it consists largely of grains, which 
+have the characteristic appearance of grains of starch (see Fig. 
+99, p. 399). He places some flour on a square piece of cheese- | 
+cloth and encloses it by tying with a thread (Fig. 6). On knead- 
+ing the little bag in a vessel of water, the water becomes milky. 
+When the milky water stands, 
+the white material settles to the 
+bottom, the water can be poured 
+off, and the deposit can be dried. 
+This white substance, when boiled 
+with water, gives an almost clear 
+liquid which jellies on cooling. 
+This is another property of starch. 
+A little tincture of iodine (solu- 
+tion of iodine in alcohol), dropped on a part of the starch, 
+causes the latter to turn blue. This is a very characteristic 
+property of (and therefore test for) starch. When the bag of 
+flour is kneaded persistently in water which is frequently changed, 
+the material finally ceases to render the water milky. The starch 
+has all been washed out. When the bag is now opened, a sticky 
+material is found in it. This is called gluten. 
+The chemist therefore finds that flour contains starch and 
+gluten. He learns this by separating these two different sub- 
+stances. 
+  Fia. 5. Fia. 6.
+-P-A-G-E-24
+  6 SMITH’S INTERMEDIATE CHEMISTRY 
+The Law of Component Substances.— Every material 
+consists of certain substances, each of which has a definite set 
+of specific properties. In terms of these properties the material 
+can be described. This is the first and simplest law of chemistry, 
+and at the same time the most fundamental. 
+Mixtures and Impurities.— A material containing more 
+than one substance is called a mixture. The characteristic of a 
+mixture is that each of the substances present, although mixed 
+with the others, possesses exactly the same properties as if it were 
+present alone. No one of the ingredients affects any other 
+ingredient, or alters any of its properties. Granite and flour 
+are typical mixtures. 
+When a specimen is composed mainly of one substance, and 
+contains only minute amounts of one or more other substances, 
+it is frequently spoken of as a specimen of the main substance 
+containing certain specified substances as impurities. To be 
+called an impurity, the foreign matter need not be dirty or offen- 
+sive. Thus, common salt usually contains a little magnesium 
+chloride, a white crystalline solid, as an impurity, and it is this 
+impurity which becomes damp in wet weather. Again, com- 
+pounds of lime and magnesium are common impurities in drink- 
+ing water. 
+Component.— The ingredients of a mixture are called the 
+components (Latin, put with), because they are simply placed 
+together, without change, and can be separated without change. 
+Other Specific Properties.— Beside the specific properties 
+which happen to have occurred in these illustrations, there are 
+others which are constantly found useful by the chemist. Thus, 
+in the case of solids, besides the hardness and crystalline form, he 
+gives special attention to the temperature at which the substance 
+melts (the melting-point), the specific gravity or density (weight
+-P-A-G-E-25
+  
+SUBSTANCES AND PROPERTIES 7 
+of 1 ¢.c., see Appendix I), the color and the solubility or non-solu- 
+bility in water. In the case of liquids, the temperature at which 
+the liquid boils under atmospheric pressure (the boiling-point), 
+the specific gravity, the mobility, the odor and the color (if any) 
+are never exactly the same for any two different liquids. We shall 
+learn more about these properties as occasions for using them 
+arise. 
+Attributes and Conditions.— It should be noted that 
+mass is not a specific property. Different specimens of a given 
+substance may have different masses, but they all have the same 
+specific properties. The mass of each, although fixed, is a quality 
+of that particular specimen only. So is it with the volume and 
+the dimensions of aspecimen. These are attributes of a specimen. 
+Again the temperature is not a specific property. There is no 
+particular temperature peculiar to quartz. Even the very same 
+specimen may be at different temperatures at different times. 
+Temperature and pressure are variable and are called conditions. 
+The temperature or the pressure of a specimen may be changed 
+at will. But the specific properties of a substance under any 
+given conditions cannot be changed, so long as we have to do 
+with the same substance. 
+Law of Chemical Change.— When the wool was boiled 
+with caustic soda solution, it was in some way acted upon by 
+the caustic soda. It became soluble, and disappeared into the 
+liquid. Wool will not dissolve in boiling water. But in the 
+former operation its material acquired at least one new property, 
+namely that of being soluble. Since we have defined a substance 
+as a species of matter, with a definite set of specific properties, 
+we are compelled to decide that when a piece of material changes 
+its properties, it has, in doing so, become a new substance. This 
+experiment, then, calls our attention to the second of the funda- 
+mental laws of chemistry, namely that material forming one or 
+ 
+-P-A-G-E-26
+8 SMITH’S INTERMEDIATE CHEMISTRY 
+more substances, without ceasing to exist, may be changed 
+into one or more new and entirely different substances. When 
+such an alteration occurs, it is called a chemical change or reac- 
+tion. To learn more about this most remarkable fact, we shall 
+take up in the next chapter some examples of a simple and long 
+familiar nature. 
+Definition of Law.— In science, a law, or generalization or 
+rule, is a statement describing some general fact or constant 
+mode of behavior. Its uses are to condense a great many similar 
+facts into one statement, and thus to make the whole set of facts 
+more easy to remember. 
+Constituents.— As we have seen, we speak of the substances 
+in a mixture as the components. When we wish to refer to the 
+forms of matter which are chemically united in a compound, we 
+call them the constituents (Lat., standing together) of the com- 
+pound substance. Thus, iron and oxygen are the constituents of 
+rust. 
+The chemist separates (p. 13) the components of a mixture, 
+for that is all that is necessary. He liberates the constituents of a 
+compound, however, because they are bound together in chemical 
+combination. 
+The names given to compounds are usually devised so as to 
+indicate the nature of the constituents. Thus, iron-rust is oxide 
+of iron (or ferric oxide, from Lat., ferrum, iron). The yellowish 
+powder obtained when lead is heated in air is lead oxide or oxide 
+of lead, and the white powder similarly derived from tin is oxide 
+of tin. 
+A Condensed Form of Statement.— We may represent a 
+chemical combination, or indeed any kind of chemical change, in a 
+condensed form, thus: 
+Iron + Oxygen — Oxide of iron (ferric oxide)
+-P-A-G-E-27
+  
+SUBSTANCES AND PROPERTIES 9 
+Each name stands for a substance. Two substances in contact 
+with one another (mixed), but not united chemically, are con- 
+nected by the + sign. The arrow shows where the chemical 
+change comes in, and the direction of the change. We read the 
+statement thus: Iron and oxygen brought together under suit- 
+able conditions undergo chemical change into oxide of iron, called 
+also ferric oxide. Similarly we may write: 
+Lead + Oxygen — Oxide of lead. 
+Tin + Oxygen — Oxide of tin. 
+Explanation of Rusting.— Experiment shows that the 
+process of rusting is accompanied by a slow increase in the 
+weight of the solid, due to the gradual addition of oxygen to the 
+metal. Now, this increase in weight ceases of its own accord, 
+when a certain maximum has been reached. This occurs when 
+the last particles exhibiting the properties of the metal have dis- 
+appeared. Thus, lead gains in weight until every 100 parts of the 
+metal have gained 7.72 parts of oxygen, and tin until every 100 
+parts have gained 26.9 parts of oxygen. When these increases 
+have occurred, the metal is found to have been all used up, and 
+prolonged heating and stirring cause no further union with oxy- 
+gen and no further change in weight. This fact, that each sub- 
+stance limits itself of its own accord to combining with a fixed 
+proportion of the other substance, in forming a given compound, 
+is one of the most striking facts about chemical combination. In 
+mixtures, any proportions chosen by the experimenter may be 
+used. In chemical union, the experimenter has no choice; the 
+proportions are determined by the substances themselves. Thus, 
+100 parts of iron when turning into ordinary red rust take up 43 
+parts of oxygen, no more and no less. 
+This fact enables us to make our condensed statements more 
+specific and complete by including in them the proportions by 
+weight used in the chemical change:
+-P-A-G-E-28
+  10 SMITH’S INTERMEDIATE CHEMISTRY 
+Tron (100) ++ Oxygen (48) — Ferric oxide (143). 
+Lead (100) + Oxygen (7.72) — Oxide of lead (107.72). 
+The following numbers, which represent the same proportions 
+by weight, are the ones commonly used by chemists: 
+Tron (111.68) + Oxygen (48) — Ferric oxide (159.68). 
+Summary.— Thus far, we have learned that chemistry deals 
+with substances and their specific properties, and with the changes 
+which substances undergo. We have discussed and defined a 
+number of important words expressing fundamental chemical 
+ideas. Finally, we have touched upon the weights of the ma- 
+terials used in chemical change, a subject of great importance 
+which will be more fully developed in a later chapter. 
+Exercises.— 1. Describe the following, by mentioning some of 
+their specific properties: (a) water, (b) wool, (c) cotton (pp. 1-3). 
+2. If any of the following are mixtures, mention the facts which 
+show them to contain more than one substance (p. 3): (a) muddy 
+water, (b) an egg, (c) milk. 
+3. State and illustrate the first two laws of chemistry (pp. 6, 7). 
+4. Make definitions of “‘ pure’ and “ impure ”’ as applied to a 
+sample of a substance (p. 6). 
+5. Give a list of the specific properties mentioned in this chap- 
+ter. 
+6. In recognizing a specimen to be quartz, does the chemist 
+consider (a) the weight, (b) the temperature, (c) the length of the 
+specimen (p. 7 )? If not, why not? 
+7. Take one by one the words or phrases printed in black type 
+and the titles of the sections in this chapter, and endeavor to 
+recollect what you have read about each. In each case try, 
+(a) to recall the meaning and to state it in your own words; (6) to 
+recall the facts associated with, and the reasoning which lead up to . 
+the point in question; (c) to recall examples illustrating the con- 
+ception and to apply the conception in detail to each example.
+-P-A-G-E-29
+  SUBSTANCES AND PROPERTIES 11 
+Whenever memory fails to give a perfectly clear report of the 
+matter in hand, the text must be read and re-read until the essen- 
+tial point can be repeated from memory. 
+Use the same method in all future chapters. A useful prac- 
+tice is to employ a pencil as you read and to underline systematic- 
+ally all the important facts and statements, and then to go back 
+and apply to each marked place the process described above. 
+8. Define the following terms: Specific gravity, tenacity, melt- 
+ing-point, specific physical property, pure body, vacuum. 
+9. Is it logical to say ‘“ pure substance? ”’ 
+10. Why do we decide that granite is a mixture and iron a 
+single substance? 
+11. What weight of oxygen would be required to convert 25 
+grams of lead into oxide of lead? 
+12. Make a list of the technical words we have defined, and 
+place the definition opposite to each.
+-P-A-G-E-30
+  CHAPTER II 
+CHEMICAL CHANGE AND THE METHODS OF STUDYING IT 
+We must now take up two new examples of chemical change. 
+They will aid us in introducing one or two additional conceptions 
+andlaws. Theseare continually used by the chemist, and without 
+them we cannot begin the systematic study of the science. 
+Another Case of Combination: Iron and Sulphur.— 
+Since oxygen is an invisible gas, there is a slight difficulty in real- 
+izing that rusting consists in the union of two substances — this 
+gas and a metal. The present example is less interesting historic- 
+ally, but it is simpler because both substances are visible and are 
+easily handled. The case of iron and sulphur will enable us to 
+illustrate the same point of view and to 
+practice the application of the same tech- 
+nical words. It will also introduce us to 
+two manipulations — filtration and evap- 
+oration — which are frequently used by 
+the chemist. 
+We begin by observing and contrasting 
+Fia. 7 the specific properties of the two sub- 
+stances. Sulphur is a pale-yellow sub- 
+stance of low specific gravity (sp. gr. 2). Itis easily melted (m.-p. 
+114.5° C.). It does not dissolve in water — that is, it does not 
+- mix completely with and disappear in water, as sugar does on 
+stirring. It does dissolve readily in certain other liquids, such as 
+carbon disulphide, however. It crystallizes in rhombic forms 
+(Fig. 7). It is not attracted by a magnet. Iron is a lustrous 
+greyish substance of much higher specific gravity (sp. gr. 7.8). 
+12
+-P-A-G-E-31
+CHEMICAL CHANGE AND THE METHODS OF STUDYING IT 13 
+It is very difficult to melt it (m.-p. over 1500° C.). It does 
+not dissolve in any common liquids at ordinary temperatures. 
+It crystal izes in cubes, and is attracted strongly by a magnet. 
+Study of the Mixture, before Combination.— Now, if 
+some iron filings and pulverized sulphur are stirred together in a 
+mortar, the result is a mixture. True, the color is not that of 
+either substance, but with a lens particles of both substances can 
+be seen. Passing a magnet over the mixture will 
+easily remove a part of the iron, and with the 
+help of a lens and a needle the mixture could be 
+picked apart particle by particle, completely. 
+We can separate the components of the mixture 
+more expeditiously, however, by using manipula- 
+tions based upon other more suitable properties. 
+Thus, sulphur dissolves in carbon disulphide while 
+iron does not. If, therefore, a part of the mix- 
+ture is placed in a dry test-tube along with some 
+carbon disulphide (Fig. 8), and is shaken, the liquid dissolves 
+the sulphur and leaves the iron. To complete the separation, the 
+iron must be removed from the liquid by 
+filtration, and the sulphur recovered by 
+evaporation of the carbon disulphide. 
+  Filtration.— Iron, or any solid, when 
+it is mixed with a liquid or with a solu- 
+tion (like the solution of sulphur in car- 
+bon disulphide) is said to be suspended 
+in the liquid. If the solid is one that 
+settles rapidly, the liquid may be sep- 
+' arated from the solid, in a rough way, by 
+pouring off as much of the clear, super- 
+natant liquid as possible. This is called decantation. 
+-A complete separation is effected by pouring the mixture on toa  
+-P-A-G-E-32
+  14 SMITH’S INTERMEDIATE CHEMISTRY 
+cone of filter paper supported in a glass funnel (Fig. 9). The liquid, 
+together with anything that may be dissolved in it, runs through 
+the pores of the paper and down the hollow stem of the funnel. 
+The liquid is then called the filtrate. The particles of the sus- 
+pended solid are too large to pass through the pores, and so col- 
+lect. on the surface of the filter paper. This operation, like every- 
+thing the chemist does, takes advantage of differences in the 
+specific properties of the various materials. 
+The material remaining on the paper (the residue), when dry, 
+is wholly attracted by a magnet and shows all the other properties 
+of iron. 
+Evaporation.— To recover the sulphur, the solution in carbon 
+disulphide — the filtrate — is poured into a porcelain evaporat- 
+ing dish. (Carbon disulphide is very in- 
+flammable! Keep flames away). When 
+the vessel is set aside, the liquid grad- 
+ually passes off in vapor (e-vapor-ates). 
+Sulphur, however, does not evaporate 
+at room temperature and remains as a 
+residue, in the form of crystals of rhombic outline in the bottom 
+of the dish (Fig. 10). Here, again, differences in specific properties 
+have been utilized. 
+Since the physical properties of two substances are not changed 
+by mixing, we have thus used the properties of the iron and sul- 
+phur so as to separate them once more. The iron is on the paper; 
+the sulphur is in the dish. 
+  Combination of Iron and Sulphur.~ But iron and sulphur 
+are capable of combining to form a new substance, if we alter 
+the conditions by raising the temperature. When we place some 
+of the original mixture of iron and sulphur into a clean test-tube 
+and warm it, we soon notice a rather violent development of heat 
+taking place, the contents begin to glow, and what appears to
+-P-A-G-E-33
+CHEMICAL CHANGE AND THE METHODS OF STUDYING IT 15 
+be a form of combustion spreads through the mass. The heating 
+employed at the start falls far short of accounting for the much 
+greater heat produced. When these phenomena have ceased, and 
+the test-tube has been allowed to cool, we find that it now con- 
+tains a somewhat porous-looking, black solid. ‘This material is 
+brittle; it is not magnetic; it does not dissolve in carbon disul- 
+phide; and close examination, even under a microscope, does not 
+reveal the presence of different kinds of matter. This substance 
+is known to chemists as ferrous sulphide and, as we see, its prop- 
+erties are entirely different from those of its constituents. 
+In this connection we must not omit to notice that, as in rust- 
+ing, a certain fixed proportion will be used in forming the com- 
+pound. 
+Iron (55.84) + Sulphur (32.06) — Ferrous sulphide (87.90). 
+If more iron is put into the original mixture, then some 
+unused iron will be found in the mass after the action. If too 
+much sulphur is employed, some may be driven off as vapor 
+by the heat and any that remains, beyond the correct propor- 
+tion, can be dissolved out of the ferrous sulphide with car- 
+bon disulphide. The sulphur which has combined with the iron, 
+however, is no longer present as sulphur — it has no longer the 
+properties of sulphur, and therefore cannot be dissolved out. 
+Another Illustration: Mercuric Oxide.— It has long been 
+known that air contains an active and an inactive gas. The 
+Chinese called them yin and yang, respectively. Mayow (1643-— 
+1679) showed that the active gas caused rusting, that it was ab- 
+sorbed by paint (really by the linseed oil) in “‘ drying,” that it 
+supported combustion of wood and sulphur, and that it is 
+necessary to life, being absorbed by the blood from the air en- 
+tering the lungs. It was not until 1774, however, that a pure 
+specimen of this gas was obtained, by Bayen, and was recog- 
+nized to be a special kind of gas different from ordinary air.
+-P-A-G-E-34
+16 SMITH’S INTERMEDIATE CHEMISTRY 
+The gas (later to be named oxygen) was made by Bayen from 
+mercuric oxide, “a bright red, rather heavy powder. When 
+the oxide is heated, (Fig. 11), we find that 
+a gas is given off. This gas is easily shown 
+‘to be different from air, since a glowing splin- 
+ter of wood is instantly relighted on being im- 
+mersed in it. The gas is pureoxygen. During 
+the heating, we notice also that a metallic 
+coating appears on the sides of the tube, in the 
+form of a sort of mirror. Apparently the vapor 
+of some metal is coming off with the oxygen and 
+condensing on the cool parts of the tube. As this shining 
+substance accumulates it takes the form of globules, which may be 
+scraped together. It is, in fact, the metal mercury, or quicksilver. 
+If the heating continues long enough, thé whole of the red powder 
+eventually disappears, and is converted into these two products. 
+  Fria. 11 
+Second Variety of Chemical Change: Decomposition.— 
+Bayen’s experiment introduces to us a second, and very common 
+kind of chemical action. The first variety was combination or 
+union (p. 14). The second is called decomposition. It consists 
+in starting with a single substance (here mercuric oxide) and 
+splitting it into two (or more) substances, which differ in proper- 
+ties from the substance taken and from one another. Here, the 
+red powder gave mercury, a liquid metal, and oxygen, a colorless 
+gas. 
+Simple and Compound Substances.— We have seen that 
+two (or more) substances, like lead and oxygen, can combine to 
+form a compound substance. Are all substances, then, com- 
+pounds? We find that some are not. We have never succeeded 
+in obtaining lead, or oxygen, or iron, or tin, or sulphur by com- 
+bining any two substances. We can decompose mercuric oxide 
+by heat, and we have other ways of decomposing compounds like 
+oxide of tin and ferrous sulphide, but we have never succeeded in
+-P-A-G-E-35
+CHEMICAL CHANGE AND THE METHODS OF STUDYING IT 17 
+decomposing the mercury or the oxygen, the iron or the sulphur 
+themselves. Substances which we are not able, by chemical 
+means, to decompose into, or to make by chemical union from, 
+other substances are called simple or elementary substances. 
+The distinction between simple and compound substances was 
+first drawn by Boyle in 1678. Later, and independently, it was 
+stated very clearly by Lavoisier (1789). 
+Several substances, regarded in Lavoisier’s time as elementary, 
+have since been shown to be compounds. Thus, quicklime was a 
+simple substance until Davy, in 1808, prepared the metal calcium 
+and showed that quicklime was the oxide of this metal. Hence, 
+we do not say that the substances regarded as simple cannot be 
+decomposed, but only that they are substances which we “ are not 
+able ” (at present) to decompose. 
+The phrase ‘‘ by chemical means”’ is also important. Although 
+by chemical methods we are ‘not able to effect any decomposition 
+of the elements, yet we cannot regard them as absolutely unalter- 
+able and permanent. The element radium cannot be decomposed 
+by chemical means, but it undergoes continuous and spontaneous 
+** disintegration ”’ into the elements helium and lead (see p. 546). 
+It has recently been discovered by Rutherford that other elements, 
+such as nitrogen and aluminum, may also be disrupted to give 
+hydrogen, under the action of the tremendous forces of the 
+swiftly-moving particles ejected from radium in the course of 
+this disintegration. Such phenomena, however, do not affect 
+our conception of elements as applied to ordinary chemical reac- 
+tions. 
+Elements.— The word element is used in two senses. It is 
+applied to the simple substance. Thus we speak of “ the element 
+iron,’ meaning the metal iron. It is applied also to the iron- 
+matter contained in ferrous sulphide or in ferric oxide. The 
+reader should note that it is correct usage to speak of the element 
+iron and the element sulphur in ferrous sulphide, but a chemist
+-P-A-G-E-36
+18 SMITH’S INTERMEDIATE CHEMISTRY 
+would never say that this compound contained the simple sub- 
+stances iron and sulphur. If he did, we should understand him to 
+mean that it was a mixture, and we should expect parts of the 
+material to be magnetic like iron, and other parts to be yellow and 
+soluble in carbon disulphide, which is not the case. In the same 
+way the name of an element (such as iron) is applied both to 
+the material in combination and to the free substance. Thus 
+‘iron ”’ may mean free, uncombined, metallic iron, or iron-matter 
+in some compound. The sense in which the word is employed 
+must be inferred from the context or circumstances. When a 
+chemist speaks, as he sometimes does, colloquially, of “iron ”’ in a 
+drinking water, for example, we know at once that he refers to 
+iron in the form of some compound, for metallic iron does not 
+dissolve in water. 
+The word element, then, means one of the simple forms of 
+matter, either free or in combination. 
+In formally describing a body or specimen, the chemist always 
+avoids the ambiguity just referred to by naming the components, 
+2.e., the substance or substances it contains. He assumes that 
+the nature and constituents of these substances will be known to 
+anyone hearing or reading the description. If he says the body 
+contains zinc and sulphur, it is understood that the body is a 
+mixture of these simple substances. If it contained these ele- — 
+ments in combination, the chemist would report that it was sul- 
+phide of zine. 
+The Common Elements.— Thousands of different com- 
+pound substances are known but, when they are decomposed, it is 
+found that the number of different elements contained in them is 
+not great. Dozens of substances contain iron, hundreds contain 
+sulphur, thousands contain oxygen. In fact, by combining a 
+limited number, two, three, or four, of simple substances together, 
+in varying proportions by weight, an almost unlimited number of 
+different compound substances could be produced.
+-P-A-G-E-37
+  
+CHEMICAL CHANGE AND THE METHODS OF STUDYING IT 19 
+A list of the elements appears on the inside of the cover, at the 
+end of this book, and contains about eighty names. Of these, a large 
+number are rare, and seldom encountered. More than 99 per cent 
+of terrestrial material is made up of eighteen or twenty elements and 
+their compounds. Only about twenty elements occur in nature 
+in their simple, uncombined condition. Three-fourths of the 
+whole number are found in combination exclusively, and must 
+be liberated by some chemical action. 
+Taking the atmosphere, all terrestrial waters, and the earth’s 
+crust, so far as it has been examined, F. W. Clarke has estimated 
+the plentifulness of the various elements. The first twelve, with 
+the quantity of each contained in one hundred parts of terrestrial 
+matter, and constituting together 99 per cent, are as follows: 
+J eae 49.85 Calcium........ 3.18 Hydrogen..... 0.97 
+PCO ss See 4G 20; 08° Bedtim <2. 2.33 Titanium...... 0.41 | 
+Aluminium ....... 7.28 Potassium....... 2.33 Chlorine...... 0.20 
+MODs 33's 3 erin’ 4.12 Magnesium...... 2. Sb.j: CEROOD o5 555'3\65 0.19 
+The significance of these figures is more clearly shown in Fig. 
+12. It will be seen that oxygen accounts for nearly one-half of the 
+whole mass. Silicon, the oxide of which when pure is quartz 
+and in less pure form constitutes ordinary sand, makes up half of 
+the remainder. Valuable and useful elements, like gold, silver, 
+sulphur, and mercury, are among the less plentiful which, all 
+taken together, furnish the remaining one per cent. 
+Law of Definite Proportions.— In the decomposition of 
+mercuric oxide (p. 16)* we find that, for every 100 parts of 
+* References to previous pages are used in order to save needless repetition 
+in writing. The beginner requires endless repetition in his reading, however, 
+and must form the habit of examining, in conjunction with the current text, the 
+parts referred to. The passages cited are, by the reference, made part of the 
+current text, which will usually not be clear without them. The same remark 
+applies to topics referred to by name. Such topics must be sought in the 
+index. 
+All terms, and especially those borrowed from physics, if not perfectly 
+familiar, must be looked up in a work on physics or in a dictionary.
+-P-A-G-E-38
+  20 SMITH’S INTERMEDIATE CHEMISTRY 
+mercury liberated, almost exactly 8 parts of oxygen by weight 
+are set free. Using the numbers commonly employed in chemis- 
+try, which represent the same proportion by weight: 
+Mercuric oxide (216.6) — Mercury (200.6) + 
+Oxygen (16). 
+We find also that mercury and oxygen can be 
+made to combine to form mercuric oxide, and 
+the proportions by weight required are the same. 
+Moreover, every sample of mercuric oxide, whether 
+made by combination, or in any of the other pos- 
+sible ways, always contains this proportion of the 
+two elements. We have already seen that the 
+oxides of lead and tin contain fixed proportions 
+(p. 9) of the metal and oxygen and that ferrous 
+sulphide has a constant composition by weight. 
+The same principle is found te apply to all 
+chemical compounds, and is stated in the law of 
+definite or constant proportions: In every sample 
+of any compound substance, formed or decom- 
+posed, the proportion by weight of the constituent 
+| elements is always the same. 
+power. Certain elements have recently been shown to 
+«rs. exist in two or more forms (isotopes), which would, 
+oe if separable, give compounds possessing the same 
+specific properties yet differing in composition. Detailed discussion 
+of this point must be deferred to a later chapter (pp. 550-552). 
+ALUMINIUM 
+/RON 
+S/Licon U 
+x 
+G ° 
+$ aq 
+¢ = 
+  Conservation of Mass.— The most painstaking chemical 
+work seems to show that, if all the substances concerned in a 
+chemical change are weighed before and after the change, there is 
+no evidence of any alteration in the quantity of matter. The two 
+weights, representing the sums of the constituents and of the 
+products, respectively, are, indeed, never absolutely identical, but
+-P-A-G-E-39
+CHEMICAL CHANGE AND THE METHODS OF STUDYING IT 21 
+the more careful the work and the more delicate the instrument 
+used in weighing, the more nearly do the values approach identity. 
+We are able to state, therefore, that the mass of a system is not 
+affected by any chemical change within the system. 
+             Pi pi 
+Bere “TR Vekoaees fs i 
+tire 4, "e 
+Ld oe Uy 4 
+i ae As ey 
+  This statement simply means that the great law of the conserva- 
+tion of mass holds true in chemistry as it does in physics. Chemi- 
+cal changes, thoroughgoing as they are in respect to all other 
+qualities, do not affect the mass; an element carries with it its 
+weight, entirely unchanged, through the most complicated chemi- 
+cal transformations. 
+Superficial observation, as of a growing tree, might seem to give 
+evidence of the very opposite of conservation of matter. But 
+here the carbon dioxide gas in the air, the most important source 
+of nourishment for plants, is overlooked. Similarly, the gradual 
+disappearance of a candle by combustion seems to illustrate the 
+destruction of matter. But if we catch the gases which rise 
+through the flame (Fig. 13), we find that the gases weigh even 
+more than the part of the candle which has been sacrificed in 
+making them. When we take account of the weight of the oxy- 
+gen obtained from the air which sustains the combustion, we find 
+that there is really neither loss nor gain in weight. If we carry
+-P-A-G-E-40
+22 SMITH’S INTERMEDIATE CHEMISTRY 
+out chemical changes in closed vessels (Fig. 14), which permit 
+neither escape nor access of material, we find that the weight does 
+not alter. 
+Physics in Chemistry.— It will be seen that one cannot 
+accomplish anything in chemistry without acquiring and using 
+some knowledge of physics. We measure quantities by means of 
+the physical attributes, weight and volume. We produce chemi- 
+cal change by arranging the physical conditions, for example, by 
+mixing, heating, or using an electric current. Physical means are 
+the only means we possess for producing, stopping, or modifying 
+chemical changes. Again, we ascertain whether a chemical 
+change has taken place or not by observing the physical properties 
+of the materials before and after the experiment. Thus, we noted 
+that the red, powdery oxide of mercury, when heated, gave a 
+liquid metal and a gas. All the phenomena of chemistry are 
+physical. A phenomenon is literally something that is seen or, 
+more generally, something that affects any of the senses. Ob- 
+serving physical phenomena is, therefore, our sole means of study- 
+ing chemical changes. Chemical work is, in fact, entirely de- 
+pendent upon the skilful use of physical agencies, and upon the 
+close observation of physical phenomena for its success. 
+It is only the inference, following the experiment and the obser- 
+vation, that is strictly chemical. If one substance gives two 
+different substances, or if two substances give one different sub- 
+stance, for example, we infer that a chemical change has occurred. 
+We then try to recognize the substances by their properties and 
+name them. 
+Changes like that of ice into water, or of water into steam, and 
+vice versa, are not regarded as chemical changes. These are 
+called changes of state (see p. 64). 
+Law: Explanation: Scientific Method.— There is a widely 
+spread impression that a science, like chemistry is a part of
+-P-A-G-E-41
+CHEMICAL CHANGE AND THE METHODS OF STUDYING IT 23 
+the natural order of the universe. It is thought that we are try- 
+ing to find the boundaries of chemistry, as they have been pre- 
+determined by nature, and to discover the facts, relations of 
+facts, and laws which nature has provided as a means of classify- 
+ing the content of the science. Now, the situation is precisely 
+the reverse of this. Nature provides only the materials and the 
+phenomena, and man is attempting to classify them. He divides 
+the whole into groups, such as physics, chemistry, botany, etc. 
+Then he classifies the facts within each group, in order that he 
+may more easily remember them and perceive their relations. 
+He often finds that, when new facts are discovered, parts of the 
+classification have to be changed. 
+In the preceding pages, we have discussed some of the ways 
+that have been invented for classifying the materials and facts 
+assigned to chemistry. Thus, we pick out a number of facts of a 
+like nature and try to make a single statement which will cover all 
+these facts. For example, we find about one hundred thousand 
+different substances and, in the case of each substance, every speci- 
+men that we have examined contains the same proportions of 
+the constituent elements. So we formulate the law of constant 
+proportions. 
+A law or generalization in chemistry is a brief statement 
+describing some general fact or constant mode of behavior. We 
+must remember, however, that laws are only true so long as no 
+facts in conflict with them are known. There are no laws in 
+nature. Nature presents materials and phenomena as she pleases. 
+The laws are parts of science, which is made by man, and is a de- 
+scription of natural facts as man knows them. 
+One section (p. 9) was entitled: ‘‘ Explanation of rusting.” 
+If that paragraph be now re-read, it will be found that, in the 
+ordinary (as distinct from the scientific) sense of the word, no 
+explanation was given! When we ask a man to “explain” some 
+feature in his conduct, we recognize that he might have chosen to 
+act otherwise, and we wish to know why he acted precisely as he
+-P-A-G-E-42
+24 SMITHS’ INTERMEDIATE CHEMISTRY 
+did. Nature, however, has no free will, and cannot tell why she 
+presents certain phenomena, and not others. 
+On examining the explanation, we find that it simply shows 
+that when iron rusts it combines with oxygen from the air. This 
+is an additional fact. It shows how iron rusts, namely, by taking 
+up oxygen, but not why it is able to unite with oxygen. We 
+simply do not know why iron can combine with oxygen gas and 
+platinum cannot. | 
+Explanations in chemistry are of three kinds. (1) We usually 
+try to show that the phenomenon is not an isolated one. Thus, 
+we show that other metals rust. This reconciles us to some ex- 
+tent to the fact that iron rusts, and we feel some mental satisfac- 
+tion. This is the method of showing that the fact to be explained 
+is a member of a large class of similar facts. (2) Next, we try 
+to get more information about the fact to be explained. Thus, 
+when, to the acquaintance with the outward manifestations of 
+rusting, we add the further information that there is an increase 
+in weight, and that this is due to union of oxygen from the air 
+with the iron, we feel increased satisfaction, and say that the 
+fact has been ‘ explained.” (3) If we are still dissatisfied, and 
+can discover no further useful facts, we imagine a state of affairs 
+which, if true, would classify the fact or add to what we know 
+about it. This step we call explaining by means of an hypothesis. 
+We then devote our attention to trying to verify the hypothesis. 
+The formulation of laws and the making of attempts to explain 
+facts are part of what is called the scientific method. The purpose 
+of this method is to convert the subject matter into a science, that 
+is, into an organized body of knowledge. 
+Summary.— In this chapter we have learned: (1) that, 
+while there are many substances, there is a limited number of 
+entirely different kinds of matter (elements); (2) that, in addition 
+to definite specific properties, each substance has a constant 
+composition by weight. We have also learned that physical
+-P-A-G-E-43
+  CHEMICAL CHANGE AND THE METHODS OF STUDYING IT 25 
+properties are utilized in manipulations, like filtration and evapo- 
+ration, as well as for identifying substances, and that physical 
+attributes are used for measuring quantities in chemistry and 
+physical conditions for guiding chemical change. Finally, we 
+have seen that a science is not a natural, but a manufactured 
+product, and that the science of chemistry is still in the making. 
+Exercises.*— 1. What physical properties are used (a) in 
+filtration, (b) in evaporation, (c) in the separation and identifica- 
+tion of the products from heating mercuric oxide (p. 15)? 
+2. Describe: (a) a red-hot rod of iron, 10 em. long by 1 cm. 
+diameter, weighing 58.5 g.; (b) a solution of 5 g. of sulphur in 
+20 c.c. (26 g.) of carbon disulphide at 18° C. In doing so, divide 
+the description into attributes, conditions, and properties. 
+3. Consider the following materials and state whether, so far 
+as you can now judge, each is a single substance or a mixture: (a) 
+a candle, (b) a cake of soap, (c) an egg. 
+4, What are the two most direct ways of showing a substance 
+to be a compound? Illustrate each. 
+5. If we say that quicklime contains calcium, do we mean the 
+element or the simple substance calcium? 
+6. What explanation was given, (a) of the disappearance of 
+mercuric oxide when heated, (b) of the absence of iron and sulphur, 
+as substances, from ferrous sulphide? Which of the three kinds 
+of explanation was used in each case? 
+7. What weight of oxygen will be required to combine with 15 
+grams of lead (p. 10)? 
+8. If 5 grams of lead and 4 grams of oxygen were heated 
+together, which of the two would remain in part unused? How 
+much of this one would remain (p. 10)? 
+* The exercises should in all cases be studied with minute care. They not 
+only serve as tests to show that the chapter has been understood, but very 
+frequently (as in No. 4) also call attention to ideas which might not be ac- 
+quired from the text alone, or (as in Nos. 1, 2, 5) assist in elucidating ideas 
+given in the text which, without the exercises, might not be fully grasped.

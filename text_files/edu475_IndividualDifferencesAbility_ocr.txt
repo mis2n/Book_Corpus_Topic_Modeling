@@ -1,0 +1,2691 @@
+-P-A-G-E-1
+   
+   April, 1924 Serial No. 8 
+COMPARATIVE PSYCHOLOGY | MONOGRAPHS 
+Edited by 
+WALTER S. HUNTER The University of Kansas 
+< with the co-operation of H. A. CARR, K, S. LASHLEY, The University of Chicago The University of Minnesota 
+S. J. HOLMES, R. M. YERKES, The University of California The National Research Council 
+INDIVIDUAL DIFFERENCES IN ABILITY VERSUS CHANCE IN THE LEARNING ~ OF THE STYLUS MAZE 
+BY 
+WILLIAM T. HERON 
+Assistant Professor of Psychology The University of Kansas 
+Published Irregularly 
+WILLIAMS & WILKINS COMPANY a Es Mount Royal and Guilford Avenues 1.26 | Baltimore, U. S. A. 371. | ; Copyright 1924 by Williams & Wilkins Company 4433 Made in United States of America 
+   
+-P-A-G-E-2
+See ee I es A eee 
+INFORMATION FOR CONTRIBUTORS 
+Contributors should follow the method used in the Monographs in the citation of refer- ences and in the listing of bibliography. It is desirable that titles include some characteriza- tion of the problem studied and some indication of the subjects employed. 
+Manuscripts may be sent to Walter S. Hunter, The University of Kansas, Lawrence, Kansas, or to any other member of the editorial board. 
+Reprints: An author will be furnished ten monograph ie atis of a number com- posed of a single issue, authors will be supplied with ten           
+   
+    RS 
+Correspond ‘ : | ] ent to the Williams & Wilkins Company | | SKA | Royal and Guilford Avenues, Baltimor | 5 se e 
+The period: 
+400 pages. Each 
+Subscriptio | es, Canada, Mexico,    
+        
+       isist of approximately 
+Cuba, 5:00) phe | | | -pies will be supplied when available. ) | | ie year. Back Volume S J 0, Gaba $6.50, tier countries.    
+     
+   
+       Subscriptio | | | °ublishers’ Agents, or to your own agen | | 
+  For Argentina and 
+y Cia, Sarmientc / I ‘ennesse iversitt 
+For Suse S | f - : | vugault, 48 Rue des 
+a cereal ay lander & Sohn, Buch- Manton, 430 Lit e 11, Berlin. (and at Sydney | | 2 & Holkema, Rokin, For Belgium: He 
+Coudenberg, Bru 
+For the British Emp agerup’s Boghandel, 
+   
+    Maruzen Company, 
+shiki-Kaisha), 11 to iSanchome, Tokyo; 
+yoto, and Sendai, 
+S F For Spain: Ruiz Hermanos, Plaza de Santa Queen Street East, Toronto. Ana, 13, Madrid. 
+     
+Publishers of Publishers of Comparative Psychology Journal of Comparative Monographs ichology Journal of Personnel Journal of Pharmacology and : Research Experimental Therapemics | WILLIAMS & WILKINS COMPANY Medicine Journal of Immunology Publishers of Scientific Journals and Books American Journal of Journal of Bacteriology BALTIMORE, U.S, A. Tropical Medicine Abstracts of Bacteriology Journal of Dairy Science Journal of Urology Soil Science Awnals of-Clinical Medicine Botanical Abstracts Journal of Cancer Research Archives of Occupational 
+Therapy    
+-P-A-G-E-3
+    
+54), ole 
+\\ SN ay 
+INDIVIDUAL DIFFERENCES IN ABILITY VERSUS 
+CHANCE IN THE LEARNING OF THE STYLUS 
+MAZE! 
+WILLIAM T. HERON 
+Assistant Professor of Psychology, The University of Kansas 
+    
+  CONTENTS 
+I. Introduction 1 
+iI. Apparatus and method. 3 
+Til. The relative influence of differences in ability and bacee aon the 
+individual scores in maze learning 
+MetieetOtIGal SUMIMANY.,. 6: os s.6u- Les oes Chin ge Ge calbihe ea oe Le 
+2. Results of present experiment. . o 4 
+3. The susceptibility of different individuals to chance influences... 19 
+MAOH PIUSIONS 2 sib fc ds a opse Sob os windings soso ob oie sd Gale 24 
+IV. The relative influence of differences in individual ability and chance 
+upon group averages of scores in maze learning 
+1. The possibility of summing scores in such a way that the differences 
+in the several averages of such sums will be mainly due to 
+differences in maze learning ability of the subjects who com- 
+OSC SUCH Groups... 3.06 eee le wens oe ea co oe b he 9 0 nen eee 25 
+2. The possibility of summing scores in such a way that the differences 
+in the several averages of such sums will be chance differences 
+and not assignable to any known factor...................65 37 
+MAMPGREIUSIONG: +, 2). crete s bin ce ele aleve cece oe dees 6 en earner 44 
+V. The relationship between the scores in learning the maze and the scores 
+in learning the rational learning problem 
+  1. Historical summary 45 
+2, Results of the present experiment.................... 52 
+Bel ge UorAl GiseussiON. (20 ey. Suk et sv d scents Pose ee eeee 54 
+el munanary andsconelusions colt. Pk aE ee 57 
+  I, INTRODUCTION. 
+The purpose of this investigation is two-fold: first, to deter- 
+mine the extent to which the scores of individuals in learning 
+1 The writer wishes to express his gratitude to Professor Harvey A. Carr for 
+the direction and criticism of this research which was carried out in the psycho- 
+logical laboratory of the University of Chicago. This was but a part of a much 
+broader assistance which the writer received from both Professor Carr and 
+Professor Edward 8. Robinson. 
+1 
+   
+-P-A-G-E-4
+  2 WILLIAM T. HERON 
+the stylus maze are due to individual ability, and to what degree 
+they are the result of unknown and uncontrolled factors, i.e., 
+chance; and, second, to ascertain the amount and kind of relation- 
+ship between the ability of individuals in maze learning and their 
+ability in a rational learning test, viz., the Peterson Rational 
+Learning Test (1). 
+A definition of the terms ‘individual ability’ and ‘chance,’ as 
+used in this study, and the method by which the two are sepa- 
+rated; may be indicated by the following examples. Suppose 
+that the scores of individuals A, B, C, and D have the ranks of 
+1, 2,3, and 4, respectively, in any maze, and that the same individ- 
+uals learn other mazes in which their scores continue to maintain 
+the same ranks. Under such circumstances, it may be presumed 
+that each individual possesses, in a degree peculiar to himself, 
+some constant factor which is responsible for the position which 
+his score invariably assumes with respect to the scores of the sev- 
+eral individuals in the group. This factor we have called the 
+individual’s ability to learn mazes. It follows, then, that con- 
+sistent differences between the scores of several individuals would 
+indicate individual differences in maze learning ability. 
+On the other hand, if there is apparently no relationship be- 
+tween the ranks of subjects in one maze and their ranks in other 
+mazes, we may presume that the order of ranking in any maze is 
+a matter of chance, and that the scores of individuals in maze 
+learning are not indicative of individual differences in ability. 
+Using this logic, we may determine the extent to which indi- 
+viduals’ scores tend to remain relatively the same from maze to 
+maze, and conclude from such data concerning the relative in- 
+fluence of individual ability versus chance in determining such 
+scores. Other problems subsidiary to this one will be treated 
+during the course of the paper, and will be stated in the sections, 
+in which they are discussed. 
+The method of attack upon the second problem, stated above, 
+is also based upon a comparison of the relative rankings of the 
+scores of the subjects in the two problems. If the ranks of the 
+scores of the individuals are the same in the rational learning 
+problem as they are in the maze, then it may be presumed that, 
+ 
+-P-A-G-E-5
+    ABILITY VS. CHANCE IN LEARNING STYLUS MAZE 3 
+for all practical purposes, the ability to learn the two sorts of 
+problems is identical. If, however, there is no relationship be- 
+tween the ranks of the scores in the two problems, there are two 
+possible conclusions. First, the ranking in either one or the other, 
+or both, is purely a matter of chance or, second, the ability re- 
+quired to learn one problem is totally unrelated to the ability 
+required to learn the other problem. Since the degree to which 
+the first possibility actually obtains, may be determined, as in- 
+dicated above, we may, having found the extent to which the 
+scores in the mazes correlate with the scores in the rational learn- 
+ing tests, draw conclusions concerning the identity of the abilities 
+required in the two sorts of learning. 
+The literature bearing upon each problem will be summarized 
+in the section devoted to those problems and discussed with re- 
+ference to the data presented in this paper. 
+Il, APPARATUS AND METHOD 
+In the present experiment, five mazes of different pattern were 
+used. These mazes were made in the University of Chicago lab- 
+oratory, and consist of a metal plate (generally brass) in which 
+grooves are milled, forming the pattern desired. The pattern 
+of each of the mazes forms a square of approximately 64 inches. 
+The grooves are 3% of an inch in depth and $ of an inch in width, 
+The partitions separating the grooves are of the same width as 
+the latter. The stylus which the subject uses in running thru 
+the maze is of such size that it will slide easily thru the 
+grooves, but allows very little play from side to side. Each 
+maze is equipped at the end of its path with an electrical con- 
+tact which, when touched by the stylus, causes a bell to ring, 
+thus informing the subject that he has completed the route thru 
+the maze. 
+The patterns of the five mazes are shown in figures 1, 2, 3, 4, 
+and 5. 
+The stylus mazes were securely fastened to a table which was 
+of such a height that it caused a minimum of fatigue to the arm 
+of the subject. Over the maze there was arranged a large black 
+hood, beneath which the subject could move his hand freely and
+-P-A-G-E-6
+ee ee 
+4 WILLIAM T, HERON 
+yet be unable to see the maze, thus obviating the necessity of a 
+blindfold. The hood was open in the back, i.e., on the side of the 
+table opposite to the subject, where the experimenter sat, and 
+recorded the errors made in going thru the maze. 
+LEVYS LLL 
+ULLALS LLL LZ. 
+EVAL SLA 
+VL LS LLL 
+nA CALLE LLL EL 
+CLLL LL LAY LLL LLL LT 
+VL LLL LLL 
+VLLLL LLL. 
+VLLL LL LL 
+Z| 
+ALVA TZ SSSA 
+BS ASSSSASSAN 
+pa aaah hehe ISS 
+ASSESS MA 
+NAAN ANANY N 
+N : : AWW Y 
+ne AWAY 
+ee AY Iu Vv y 
+y 
+Ae AGL IN 
+  Fie. 1. Maze 1 
+There were two rational learning tests given. The first was 
+made up of the first ten letters in the alphabet, each of which 
+had to be associated with a number from one to ten arranged in 
+an irregular order. The second test was made of the first fif- 
+teen letters in the alphabet and the numbers from one to fifteen 
+inclusive.    
+-P-A-G-E-7
+  ABILITY VS. CHANCE IN LEARNING STYLUS MAZE 5 
+The instructions to the subjects concerning the maze problem 
+were patterned after the instructions used by other investigators 
+in the department. They were typewritten and handed to the 
+subject, and he was asked to read them carefully. He was also N 
+\ : \ A A ITI 
+SLD AL LALA LDAS 
+° CISL IPO IES 
+I aa a 
+ITD OPI III II A 
+VLSI ALLL 
+ZZZZZZZAI 
+AORTA 
+FTL. 
+VYLSS LLL A DES SM SSASSN 
+RSENS ANN 
+Dh XSA SSS 
+ISSN l 
+/ V 
+BS SO 
+ISSN RASS 
+N 
+RAAANAANAN KAAAAN —> INAAAN 
+KANAN 
+  Fie. 2. Maze 2 
+allowed and urged to ask questions, if there were any points 
+which were not clear to him. The instructions for the rational 
+learning tests were patterned after those used by Peterson. They 
+were presented to the subject in the same way as the instruc- 
+tions for the stylus maze. The two sets of instructions follow:
+-P-A-G-E-8
+  6 WILLIAM T. HERON 
+Instructions for the maze problem. When the experiment be- 
+gins sit squarely in front of the table and as close as convenient. 
+Place your hand beneath the curtain and I will give you a stylus. 
+Use either hand that you prefer. Hold the stylus vertically and 
+Nh SNSAAAN 
+N PES 
+SYA ASS Ses 
+SSOSSN 
+DRESSES RENAN 
+SAAANAN MANNY NENA 
+BSSASASAN NA ‘ Ni 
+WS N 
+Soy 
+N 
+; N 
+S Z 
+4) 4 
+LLL SL EL NI 
+J 
+LLL DD 
+CMLL LAID Ww AGN i Ab WAIN Ss SESS 5 
+A Ss 
+  Fie. 3. Mazz 3 
+do not allow your hand to come in contact with the maze during 
+the course of the experiment. The stylus moves freely in the 
+grooves of the maze. There is one place in the maze at which 
+a bell will ring when you reach it. The object of each trial is 
+for you to move the stylus about in the grooves, exploring the 
+ 
+-P-A-G-E-9
+  
+  ABILITY VS. CHANCE IN LEARNING STYLUS MAZE @ 
+paths in an attempt to make the bell ring with as few moves as 
+possible. There is but one correct path from the beginning of 
+the maze to the place at which the bell rings and this route re- 
+mains constant from trial to trial. In addition to the correct e 
+AN = 
+NESS SAS 
+SkGRSS SCS 
+SS SAGES SS 
+NEE SERN 
+ISSA SN 
+SSSA NNSA NSSSS5N y ek, TLo 
+LMA RMI, SYS y 
+] ; l 
+/ 
+b, AD f| 
+LAA a       
+  Fie. 4. Maze 4 
+path there are a number of blind alleys. An error will be counted, 
+first, for any entrance into a blind alley, and second, for any re~ 
+tracing of the correct path. 
+The object of the experiment is to learn to move the stylus 
+over the correct path without making any errors. The maze 
+ 
+-P-A-G-E-10
+  8 WILLIAM T, HERON 
+will be considered learned when you have made four perfect runs 
+in succession. You are to use whatever speed you desire in mov- 
+ing thru the maze. 
+Instructions for the rational learning problem. The letters, A, 
+B, C, D, E, F, G, H, I, and J are numbered in a random order 
+poss WES 
+Fie. 5. Maz 5 
+from one to ten. I call out the letters in their order and you are 
+to guess numbers for each letter until you get the correct one, 
+then I say ‘“‘right.’”” Then I call out the next letter, and so on. 
+This continues until you get each number right, the first guess, 
+four times through the series in succession forAtoJ. Then you are 
+through. You. must ask no questions after the experiment starts, 
+   
+-P-A-G-E-11
+    ABILITY VS. CHANCE IN LEARNING STYLUS MAZE 9 
+but are to use all the mental power at your command. You will 
+be judged by (1) the total time you take, (2) the number of errors 
+made, or wrong guesses, every number you call out being a guess, 
+and (3) the number of repetitions from A to J required.? 
+There was no fixed time between trials but the subject was 
+urged to avoid fatigue which would be detrimental to his learn- 
+ing. A maze was learned in one sitting, except in a few cases 
+when the time required amounted to 13 hours or over. In such 
+cases the subject would be allowed to rest for a time or engage in 
+some other activity. 
+The subjects came once a week, and thus learned one maze 
+per week. After having learned the first maze they were allowed 
+to look at that maze, and they were allowed to look at every 
+succeeding maze after they had learned it. 
+The subjects were students in the elementary courses in psy-~ 
+chology who volunteered for the work, and a few of the graduate. 
+students in psychology who had no previous knowledge of the: 
+maze problem. They were, then, for the most part, sophomores: 
+in college, since students with less than nine majors of work can-~ 
+not register for courses in the Department of Psychology. In 
+other words, they were as nearly as possible the same sort of a 
+group as would be available for use to any one doing a maze 
+problem. 
+There were in all 107 subjects used. All of these, however, didnot 
+learn every maze, because some found it necessary to drop the work 
+before it was entirely completed. The number of subjects whose 
+records are used in each computation will be given in the results. 
+The data taken and used in the calculations are the number of 
+trials (including the four perfect trials required for mastery) to 
+learn the problem, the total time consumed in actual work, and 
+the total errors made during the progress of the learning. These 
+three different sorts of data were taken for the learning of both 
+the mazes and the rational learning problems. 
+The mazes were learned in the order in which they are repre- 
+sented in figures 1, 2, 3, 4, and 5. Then, mazes 1, 2, and 4 were 
+2 When fifteen letters were used the instructions were changed to correspond. 
+ 
+-P-A-G-E-12
+  10 WILLIAM T. HERON 
+repeated. These mazes will be referred to the second time that 
+they are given by the numbers of 1A, 2A, and 4A, respectively. 
+‘The subjects were not told that they were to have again the maze 
+which they had already learned’, and but few of them made any 
+‘spontaneous remark indicating that they recognized such mazes. 
+If they did so, they were asked to say nothing to any one else 
+about it. 
+During the same sitting that the subjects learned maze 2A they 
+were also required to learn the ten letter rational learning test 
+(R. L. 1), and with the learning of maze 4A they learned the 
+fifteen letter rational learning test (R. L. 2). 
+The method of dealing with the data thus obtained has been 
+varied with each of the particular problems which are discussed. 
+The descriptions of such methods will be given along with the 
+presentation of the particular problems to which they apply. 
+Ill, THE RELATIVE INFLUENCE OF DIFFERENCES IN ABILITY 
+AND CHANCE UPON THE INDIVIDUAL SCORES IN MAZE 
+LEARNING 
+1. Historical summary 
+There has been no systematic work published which bears, 
+even remotely, upon this problem. There are, however, several 
+incidental references to it in the literature. One of these is in 
+‘Webb’s monograph (2) on transfer of training and retroaction. 
+He worked with both rats and human subjects. His method 
+which is slightly different than that used in this study, was to 
+have a group of subjects learn one maze (A), then to learn an- 
+other maze, and then to relearn maze A, thirty days after the 
+completion of its original learning. The control group learned 
+maze A, rested thirty days, and then relearned. The interpola- 
+ted mazes were five in number for the rats (designated by the 
+letters B, C, D, E, and F), and three for the human subjects 
+(B,C, and D). He used from five to eleven subjects in his groups 
+of rats, and from three to six subjects in his human groups. The 
+table of correlations (rank method) which he gives is reproduced 
+in table 1. 
+ 
+-P-A-G-E-13
+  ABILITY VS. CHANCE IN LEARNING STYLUS MAZE ik 
+Webb (see Webb, page 78) says of this table that 
+The majority of the values are too small to be significant, and only 
+16 of the 30 values are positive. From this it appears that there is 
+no general tendency towards a positive correlation between the two 
+sets of values. The differences between the humans and rats, the 
+control and test groups, and the various mazes, are apparently not 
+significant. 
+TABLE 1 
+Correlation between learning and relearning 
+  
+  
+  GROUP TRIALS ERRORS TIME 
+Rats 
+Test groups 
+A-B-A —0.37 0.28 0.33 
+A-C-A 0.08 0.56 0.42 
+A-D-A —0.31 0.39 —0.60 
+A-E-A —0.21 0.32 0.45 
+A-F-A —0.14 —0.25 0.25 
+  
+Control group   
+  
+  A---A 0.13 —0.04 0.21 
+Humans 
+Test groups 
+A-B-A 0.90 0.38 0.40 
+A-C-A 0.00 0.13 —0.82 
+A-D-A 1.00 —1.00 —0.50 
+  
+Control group   
+      A---A 0.00 0.00 —0.30 
+  
+Webb also gives other data in support of the above statement 
+(see page 64 of his monograph). He attributes this lack of 
+correlation to ‘‘individual differences in susceptibility to the 
+disintegrating influences of intervening conditions.” He fails to 
+consider, at this point, that the lack of correlation may be due to 
+chance factors operating in the actual process of learning and 
+relearning.  
+-P-A-G-E-14
+  12 WILLIAM T, HERON 
+A systematic investigation of the relationship between individ- 
+ual scores of rats in the same maze, by a somewhat different 
+method than that used in the present study, was initiated by 
+D. G. Paterson in the Pyschological Laboratory of the University 
+of Kansas, but his work was never carried to completion by him-. 
+self. His plan was to allow the rats to learn the maze partially, 
+rest for a certain period of time, and then, again, partially to 
+learn the same maze. It was continued a year later by Miss 
+Oakland Maupin in the same laboratory. Her work has not 
+yet been published. 
+Coincident with Miss Maupin’s work there was an investi- 
+gation made in the Kansas laboratory from which some data were 
+obtained which bear upon our problem. This work was done by 
+Hunter (3) who used, with rats, a circular maze with the turns 
+left-right, left-right, etc. Twenty-four hours after the rats had 
+learned this maze, he put them in the same circular maze but 
+with the turns rearranged so that they were right-left, right-left, 
+‘etc. He correlated the records of the animals in these two mazes, 
+cand says, 
+The Pearson correlation between total trials required for habit 
+No. 1 and the total trials required for habit No. 2, using the records of 
+36 animals, is 0.3140.10. For total time, the foot-rule coefficient is 
+‘0.126--0.07. Using the 25 rats for whom alone distance records were 
+available, the foot-rule correlation of total distances traversed during 
+learning is —0.02=+-0.08 and for net time is 0.36-£0.08.   
+For 31 human subjects he used a rectangular maze, but went 
+through the same procedure of having the subjects learn the 
+maze in the left-right order and then having them relearn it with 
+the turns reversed. He says, 
+The foot-rule correlation between total time in the two habits is 
+‘0.64-+0.07. The same coefficient for total trials is 0.68 0.07. Trans- 
+lating these values by table into the Pearson r gives in each case a 
+coefficient above 0.80. 
+Further correlations bearing on this topic are in be found in 
+Bagg’s monograph (4) on individual differences in mice. He gave 
+a group of 93 mice the following four problems: 
+ 
+-P-A-G-E-15
+  
+ae 
+ABILITY VS. CHANCE IN LEARNING STYLUS MAZE 18 
+I. Seventeen trials in a maze, designed by Professor Cattell, and 
+constructed in such a manner that the mice had to learn, in each section, 
+which door to push open so that they could pass into the next section. 
+Between each section there were two doors, one of which was locked and 
+the other free to open. 
+II. Twelve trials in the same maze, except that the doors which 
+were previously locked were now open, and vice versa. This he called 
+an “interference test.” 
+III. Twenty-five trials in a multiple choice apparatus in which they 
+had to choose one of three possibilities. 
+IV. Ten trials in a “retention test’’ of the maze in which the “gates 
+were open in the same order as during the last ten trials of the inter- 
+ference test.” 
+He obtained the following correlations by the rank method.* 
+1. Time in the last 15 trials of test I with time in test IV=0.35. 
+2. Time in the last 15 trials of test I with time in the first 2 trials of 
+test II = 0.55 
+3. Time in the last 15 trials of test I with time in the last 10 trials 
+of test II=0.49 
+The results of Webb and Hunter indicate that individual abil- 
+ity has little influence upon the scores of rats in the learning and 
+relearning of the same maze (Webb) or in the learning of two 
+mazes (Hunter). The influence of this factor upon the scores of 
+human beings is apparently greater, although no definite state- 
+ment can be made from the results at hand. 
+It is hardly fair to compare Bagg’s results with those of the 
+other investigators quoted. While his correlations are, on the 
+whole, somewhat higher than those for rats given above, and pos- 
+sess a higher degree of statistical validity because of the larger 
+number of cases, yet the fact that he separated the first two trials 
+from the remainder in making his correlations destroys their 
+value for comparative purposes with the results. of the other in- 
+vestigators. The arbitrarily chosen number of trials which all 
+rats were forced to run, regardless of their stage of learning, also   3 The correlations which he gives with test III as a variable will be quoted 
+when we come to consider the second problem of this paper. 
+ 
+-P-A-G-E-16
+  14 WILLIAM T. HERON 
+make comparison difficult. However, disregarding the consider- 
+ation of the influence of these variations in conditions upon the 
+magnitude of the correlation, the highest coefficient which he ob- 
+tains is 0.55 which indicates that individual ability and chance 
+have, roughly speaking, equal parts in the production of the 
+scores. 
+2. Results of the present experiment 
+In the present experiment a large number of correlations have 
+been calculated which bear upon this problem. These correla- 
+tions have been divided into three sets or groups, as follows: 
+A. Inter-correlations of the scores made in the first five mazes. 
+B. Inter-correlations of the scores made in the three mazes the 
+second time that they were given. 
+C. Correlations of the scores made in the original learning of 
+the three mazes with the scores made in relearning the same 
+mazes. 
+The net result of these correlations is to show that the rela- 
+tive influence of chance and individual ability varies with the pat- 
+tern of the maze. In some mazes chance is so effective that the 
+influence of individual ability upon the scores is practically neg- 
+ligible. In other mazes, roughly speaking, chance and individ- 
+ual ability play about equal parts in the production of the scores. 
+In no maze can it be said that individual ability consistently 
+plays a dominant part. The results which lead to these conclu- 
+sions are presented in the following tables. 
+A. Inter-correlations of the scores made in the first five mazes.— 
+The correlation coefficients obtained by correlating each maze 
+with every other maze of the series of five mazes are presented in 
+table 2. 
+In studying table 2 the following points should be noted: (a) 
+the values of the correlations with reference to the two factors of 
+chance and maze learning ability; (b) the variations in the values 
+of the correlations for the different mazes; and, (c) the variations 
+in the values of the correlations for the different criteria. 
+4 The Pearson formula was used in the calculation of all correlation coefficients. 
+ 
+-P-A-G-E-17
+      ABILITY VS. CHANCE IN LEARNING STYLUS MAZE 15 
+(a) In the table of 30 correlations there are only 8 which are 
+above 0.40, and half of these are above 0.50. The lowest coeffi- 
+cient is 0.02, and there are 12 which fall below 0.30. Conse- 
+quently, the average coefficient for trials in 0.34, for time 0.29, 
+and for errors 0.34. The magnitude of these correlations indi- 
+cate that for mazes, in general, the relationship between indi- 
+viduals’ scores is not very great. It is not possible, therefore, to 
+select a maze at random which could be relied upon to indicate 
+  
+  
+  
+  
+  
+  
+  
+        TABLE 2 
+Inter-correlations of the first five mazes; number of cases = 93-107 
+MAZE 2 3 4 5 
+Trials 
+iu 0.26+0.06 0.44+.0.05 0.400.055 0.344.0.06 
+2 0.34+.0.04 0.220.064 0.16+0.06 
+3 0.390.055 0.26--0.06 
+4 0.5740.04 
+Time 
+1 0.26+0.06 0.300.057 0.390.057 0.4140.05 
+2 0.490.037 0.090.066 0.02+0.06 
+3 0.24+0.061 0.10+0.07 
+4 0.5540.05 
+Errors 
+L 0.232.0.06 0.3340.06 0.423-0.055 0.39+0.06 
+2 0.350.039 0.110.064 0.1140.06 
+3 0.500.049 0.31+0.06 
+4 0.650.04 
+  
+individual differences, since these correlations show that differ- 
+ences between scores are largely due to chance. 
+It cannot, however, be said that there is no relationship what- 
+ever between the scores in the different mazes, for it should be 
+noted that all but 8 of the coefficients indicate a real positive 
+relationship between the variables correlated, using the gener- 
+ally accepted criterion of four times the probable error as an indi- 
+cation of the reliability of a correlation coefficient. To the ex- 
+tent to which this relationship exists, we can say that differences 
+ 
+-P-A-G-E-18
+  16 WILLIAM T, HERON 
+in individual ability to learn mazes are responsible for differences 
+in the scores of individuals. However, this relationship is, in gen- 
+eral, so small that the maze is shown to be of little value as an 
+accurate indicator of gradations of ability in individuals. That 
+is to say, chance plays such a large part in the production of 
+scores in maze learning that the influence of practically all grada- 
+tions of ability upon individual scores, is effectively offset by the 
+variations in those scores made by chance alone. This statement 
+applies to mazes in general, and the possibility that some may 
+be less liable to this indictment than others is discussed below. 
+(b) An inspection of the table shows that the values of the 
+coefficients vary a great deal for different mazes. The average 
+correlation (time, errors, and trials combined) for mazes 4 and 5 
+is 0.19 higher than that for any of the other variables listed. This 
+TABLE 3 
+Averages of the correlations for trials, time, and errors which are given in table 2 
+  
+  MAZE 2 3 4 ’ 5 
+1 0.25 0.39 0.40 | 0.38 
+2 ; 0.40 0.14 0.10 
+3 0.38 0.23 
+4 0.59   
+shows that the scores in these two mazes are to a much larger ex- 
+tent the products of individual differences.in ability than are the 
+scores in the other mazes. These average coefficients are listed 
+in table 3. 
+(ec) In order to show the relationship between the three dif- 
+ferent criteria and the size of the correlations, the coefficients of 
+table 2 have been ranked and put in tabular form in table 4. 
+The table shows that the three criteria agree remarkably well 
+when extremes are considered. The agreement is not so close 
+for those coefficients which are between the extremes. However, 
+out of a possible displacement of 8 places, the displacement be- 
+tween trials and time is never more than 4, between trials and 
+errors never more than 4, and between time and errors never 
+more than 5 places. On the basis of this and the fact that there 
+ 
+-P-A-G-E-19
+  ABILITY VS. CHANCE IN LEARNING STYLUS MAZE 17 
+is practically no difference in the averages of the correlations, 
+using time, trials, and errors, respectively, it is apparent that 
+there is no difference among the three in the way that they are 
+affected by individual ability and chance. 
+B. Inter-correlations of the scores of the mazes the second time 
+that they were given. The data which we have to consider in 
+TABLE 4 
+Relative ranks of the inter-correlations of the first five mazes with reference to the 
+three different criteria used (ranked from highest to lowest) 
+Tr = Trials T = Time E = Errors   
+  
+    
+  | 2 3 | 4 5 mee | ite | mn eh erase oe SN te ese) te le E 
+1 (7565/8 |e2s eo aee tl ge| 4 | 3 |b lee. | 
+2 ee 6 | 2 | 5/9 | 9 | 915 10° |40° |.9:5 
+Beles 4/7|2]78 8 b7 4 lee | | le | 1 |e   
+TABLE 5 
+Inter-correlations of repeated mazes; number of cases = 60-65   
+  
+  
+  
+  
+  
+  MAZE | 2A | 4A 
+Trials 
+1A 0.130.071 0.24+0.08 
+2A 0.25+-0.08 
+Time 
+1A 0.210.068 0.19+0.08 
+2A 0.00 
+Errors 
+1A 0.15-£0.07 0.18+0.09 
+2A 0.19+-0.08 
+  
+this section are those relating to the inter-correlations of the 
+scores in the repeated mazes (1A, 2A, and 4A). These coeffi- 
+cients are presented in table 5. 
+These coefficients are lower than the corresponding correlations 
+in table 2, except for two cases, namely, mazes 2A and 4A with 
+trials and errors. However, the increase in:these two cases is 
+ 
+-P-A-G-E-20
+  18 WILLIAM T. HERON 
+so slight as to be negligible, and furthermore, none of the corre- 
+lations indicate a real relationship, according to the criterion of 
+four times the probable error. These correlations, therefore, add 
+further evidence in support of the conclusion that, in general, 
+individual differences in maze ability have little influence in the 
+production of the scores in maze learning. 
+It is possible, however, that if maze 5 had been repeated as 
+well as maze 4 that they would have correlated practically as 
+closely as they did when given for the first time. The indications, 
+TABLE 6 
+Correlations of mazes 1, 2, and 4 with their repetitions (mazes 1A, 2A, and 4A 
+respectively); number of cases = 60-65 
+  
+  
+  
+    
+  
+    
+  Maze | 1A | 2A | 4A 
+Trials 
+al 0.51220.053 
+2 0.00 
+2 0.67+0.04 
+Time 
+1 0.240.065 
+2 0.082:0.07 
+4 0.300.078 
+Errors 
+1 | 0.070.075 2 0.00 
+4 0.74+0.031 
+    
+from the data at hand, are, however, that this would not have 
+been the case, since mazes 1 and 4 gave an average correlation 
+for the three criteria of 0.40 in the original learning and in the 
+relearning a corresponding average of only 0.20. A possible ex- 
+planation of this is the fact that the data were much more ho- 
+mogeneous in the relearning than in the original learning, owing 
+to the presence of positive transfer. 
+C. Correlations of the scores made in the original learning of the 
+three mazes with the scores made in relearning the same mazes. A 
+third source of material bearing on our first problem is the cor- 
+ 
+-P-A-G-E-21
+ABILITY VS. CHANCE IN LEARNING STYLUS MAZE 19 
+relation between the scores made in the original learning of 
+mazes 1, 2, and 4 and the relearning of the same. These data are 
+presented in table 6. 
+The data in this table show the same tendency as that already 
+discovered in table 2, namely, that individual differences in 
+ability have a more important rdle in determining the scores in 
+some mazes than in others. The table shows that maze 4 and 
+its repetition 4A correlate the highest for every criterion. Maze 1 
+and 1A are the second best, while the coefficients for mazes 2 
+and 2A are practically no better than zero. The table further 
+shows that under these conditions, contrary to that which was 
+found above (see page 16), the different criteria are not equally 
+affected by the two opposing factors of individual ability and 
+chance, and, furthermore, that no one criterion is affected in a.con- 
+sistent manner for all mazes when individual coefficients are con- 
+sidered. On the average, however, trials is the least affected by 
+chance. The average correlation for that criterion is 0.59. For 
+errors it is 0.40, and for times it is 0.27, disregarding in every 
+case the coefficient for mazes 2 and 2A, since they are uniformly 
+of no value. 
+8. The susceptibility of different individuals to chance influences 
+The correlation coefficients, presented above, show that in- 
+dividual ability and chance have a reciprocal influence on the 
+scores in maze learning when the group is considered as a whole. 
+The question which arises, then, is how nearly the scores of all 
+individuals are affected in a similar manner by these two factors. 
+In order to determine this the scores of the individuals were ranked 
+in each of the five mazes, and the maximum and average varia- 
+bility of each subject calculated. The maximum variability was 
+found by subtracting the lowest rank which the individual ob- 
+tained from his highest. The average variability was obtained 
+by subtracting every rank from every other rank and averaging 
+the differences. The average rank of each individual was also 
+obtained in order to find if there is any relationship between the 
+average relative efficiency in the five mazes and variability. These 
+three values are shown in table 7 for trials only, since it was not 
+thought profitable to go through the same process for all criteria. 
+ 
+-P-A-G-E-22
+  20 WILLIAM T. HERON 
+TABLE 7 
+Average ranks, average variability, and maximum variability in trials for 90 
+subjects in five mazes   
+  SUBJECT NUMBER AVERAGE RANK AVERAGE VARIABILITY | MAXIMUM VARIABILITY 
+1 10.8 10.2 21.0 
+4 12.2 15.7 29.0 
+21 15.4 3.5 8.0 
+28 16.9 19.4 40.0 
+43 20.8 16.4 30.5 
+38 21.6 16.9 33.0 
+13 21.9 19.5 42.5 
+9 22.1 35.9 50.0 
+89 22.4 29.2 68.5 
+8 22.7 31.0 67.5 
+33 23.1 25.0 45.5 
+3 23.6 23.7 47.5 
+15 24.2 23.6 45.0 
+23 24.3 27.5 33.5 
+18 26.3 14.5 25.0 
+A: 26.9 19.9 34.0 
+14 27.3 Ba LG a 35.0 
+54 28.7 35.7 70.5 
+72 29.0 24.9 42.5 
+83 29.1 26.4 58.5 
+67 29.7 21.4 44.5 
+12 30.2 31.5 56.5 
+17 30.5 18.0 38.0 
+5 30.5 20.7 57.0 
+10 30.7 22.0 46.5 
+19 7 30.9 25.6 56.5 
+61 31.3 28.1 55.5 
+57 33.1 26.3 50.5 
+6 33.9 33.9 60.0 
+26 34.2 39.7 71.0 
+53 34.8 28.5 61.0 
+52 36.1 22.2 53.0 
+49 36.2 12.0 28.0 
+56 36.8 26.6 52.5 
+51 37.6 29.5 59.0 
+86 37.8 30.1 61.5 
+16 38.1 19.6 42.0 
+70 38.7 34.3 68.0 
+59 38.7 12.8 25.0 
+65 39.9 22.6, 44.5 
+73 41.3 21.6 40.5 
+24 42.1 20.5 38.5 
+25 42.3 23.1 50.5 
+22 43.9 40.9 76.0         
+ 
+-P-A-G-E-23
+ABILITY VS. CHANCE IN LEARNING STYLUS MAZE 
+TABLE 7—Continued 21 
+  
+SUBJECT NUMBER MAXIMUM VARIABILITY 
+  
+  31 
+29 
+27 
+20 
+79 
+74 
+69 
+85 
+104 
+75 
+35 
+30 
+68 
+41 
+73 
+71 
+78 
+44 
+40 
+92 
+50 
+102 
+81 
+90 
+36 
+91 
+60 
+63 
+64 
+77 
+95 
+94 
+97 
+76 
+32 
+84 
+105 
+100 
+58 
+98 
+96 
+87 
+103 
+99 
+107 
+106     AVERAGE RANK AVERAGE VARIABILITY 
+44.0 28.0 
+44.4 26.0 
+44.7 24.5 
+45.9 31.6 
+47.1 36.0 
+48.7 34.5 
+49.8 21.5 
+50.2 34.4 
+50.2 38.1 
+50.6 22.2 
+51.0 21.3 
+51.0 31.3 
+51.3 36.5 
+51.7 33.7 
+52.0 21.6 
+52.4 14.7 
+52.6 32.5 
+52.8 31.6 
+53.3 19.0 
+56.7 22.9 
+56.7 27.2 
+58.1 39.0 
+58.8 20.4 
+58.9 41.8 
+59.0 24.3 
+59.5 33.0 
+60.7 30.3 
+61.8 15.3 
+62.0 18.2 
+62.0 16.3 
+62.2 25.0 
+63.5 16.9 
+64.9 22.3 
+65.9 21.4 
+66.0 22.9 
+67.7 23.1 
+68.1 18.2 
+68.7 29.4 
+68.7 16.5 
+69.2 16.5 
+75.5 19.8 
+76.4 11.4 
+79.6 12.5 
+84.9 5.2 
+85.9 9.7 
+86.7 4.2   61 
+51. 
+44. 
+61. 
+hide 
+74. 
+41. 
+64. 
+84. 
+43. 
+36. 
+56. 
+69. 
+68 
+61. 
+33. 
+71 
+63. 
+38. 
+54. 
+45, 
+73. 
+40. 
+81. 
+50 
+77 
+57 
+34 
+36 
+38 
+55. 
+32 
+46 
+. 46. 
+49 
+52 
+382. 
+56. 
+33 
+28 
+38 
+21 
+25. 
+10 
+16 
+© MOMNSTOMOAMNSUROCONTFOANTDSFTONSOCUNSONSCOUNOMNOUNSUSOOOOUUSAG |
+-P-A-G-E-24
+22 WILLIAM T, HERON 
+Table 7 shows that all individuals are not equally affected by 
+chance, i.e., some individuals are more or less consistent than 
+others. This is indicated by the range of average variability 
+which is from 3.5 to 41.8 with the average at 24.2. The range 
+of maximum variability is much greater, being from 8 to 84 with 
+the average at 42.2. 
+The average variabilities fall upon a normal distribution curve 
+and the maximum variations show the same tendency, although 
+to a lesser extent. The distribution of the average variabilities 
+is shown in table 8. 
+TABLE 8 
+Classification of the average variations into intervals of five points each; number 
+of cases = 90   
+  
+  INTERVAL FREQUENCY 
+0-5 2 
+6-10 2 
+11-15 7 
+16-20 19 
+21-25 25 
+26-30 12 
+31-35 14 
+36-40 77 
+41-45, 2 
+Total: =.) MAME G my 1p. oc) ibs foes AB 90   
+The figures in table 8 show that there are a few cases which 
+are extremely variable or inconsistent and a few which are ex- 
+tremely consistent. If we regard an average variability of 10 
+points or less as very consistent there are four cases which would 
+fall into such a group. Likewise, if we consider that a variability 
+of over 36 points is extremely inconsistent, than 9 cases would 
+fall into that group. The great majority of cases, however, 
+range around the average. Thus there are 56 cases (about two- 
+thirds of the total group) whose average variabilities range be- 
+tween 16 and 30 points. The other 21 cases of the 90 lie between 
+the extreme and average groups. 
+The question of the relationship of variability and efficiency 
+or in other words, the consideration of whether the good, poor, 
+ 
+-P-A-G-E-25
+  ABILITY VS. CHANCE IN LEARNING STYLUS MAZE 23 
+or mediocre subjects in maze learning are the more variable, may 
+be dealt with by comparing the relative size of each individual’s 
+average rank with the relative size of his maximum or average 
+variability. In order to facilitate this comparison the individ- 
+uals are arranged in table 7 in the order of their average ranks. 
+To facilitate still further the comparison, the 15 most consistent 
+individuals and the 15 most inconsistent have been put in a 
+separate table together with the rank of their average ranks. 
+These data are presented in table 9. In this table the figures in 
+the first column are the numbers of the respective subjects, 
+those in the second column are the ranks of each subject’s average 
+rank in the five mazes, and the figures in the third column are the 
+ranks of each subject’s average variation. Thus, for example, 
+in the case of subject 21, 3 in the second column means that his 
+average rank was the third lowest in the group of 90 subjects, 
+and 1 means that his average variation is the lowest in the group. 
+The results in table 9 show that the subjects who have a very 
+high or very low average rank tend also to be the less variable. 
+This is, of course, to be expected since in order to have a low aver- 
+age rank, the individual’s ranks in most of the mazes must also 
+be low. Consequently, this would tend to result in a low varia- 
+bility. Likewise, the individual who has a very high average 
+rank must have high ranks in the majority of the mazes with 
+the result that his variability would also be low. 
+Those subjects who are very inconsistent vary a great deal in 
+respect to their average rank in the mazes. They hold relative 
+positions in efficiency in maze learning which range between 8 
+and 70. The evidence shows, then, that, when extremes are not 
+considered, an individual may make relatively good or relatively 
+poor records on the average in maze learning and show a very 
+great degree of variability or inconsistency between separate 
+mazes. There can be said, therefore, to be little relationship 
+between efficiency and variability except in the cases of the ex- 
+tremely efficient or inefficient subjects, where a relationship may 
+be anticipated on a priori grounds.
+-P-A-G-E-26
+24 
+Rank in average ranks and average variability of the 15 least variable subjects and WILLIAM T, HERON 
+TABLE 9 
+the 15 most variable from a group of 90 subjects   
+  SUBJECT NUMBER RANK OF THE AVERAGE RANK PE Ee cae 
+Least variable 
+21 3 1 
+106 90 2 
+99 88 3 
+107 89 4 
+if 1 5 
+87 86 6 
+49 33 7 
+103 87 8 
+59 39 9 
+18 15 10 
+x 71 60 it 
+63 72 12 
+4 2 13 
+14 17 14 
+77 74 15 
+Most variable 
+91 70 76 
+41 58 77 
+6 29 78 
+70 38 79 
+85 52 80 
+74 50 81 
+54 18 82 
+9 8 83 
+79 49 84 
+68 57 85 
+104 53 86 
+102 66 87 
+26 30 88 
+22 44 89 
+90 68 90       
+4. Conclusions 
+Our concern, up to this point, has been a consideration of 
+the influence of differences in ability versus chance on the in- 
+dividual scores of subjects in learning mazes. Our results have 
+shown (1) that the’ two factors under investigation vary with 
+the pattern of the maze in the respective parts which they play in 
+ 
+-P-A-G-E-27
+    
+ABILITY VS. CHANCE IN LEARNING STYLUS MAZE 25 
+the determination of such scores. They also show (2) that in no 
+case is individual ability very much more influential than chance, 
+but (8) that in some cases chance is very markedly more influ- 
+ential than individual ability. It has also been shown (4) that 
+individuals differ in the degree or relative consistency which they 
+exhibit in maze learning, and (5) that there is little relationship 
+between consistency and efficiency. 
+IV. THE RELATIVE INFLUENCE OF DIFFERENCES IN INDIVIDUAL 
+ABILITY AND CHANCE UPON GROUP AVERAGES 
+OF SCORES IN MAZE LEARNING 
+The problem to be considered in this section is one which nat- 
+urally follows upon the outcome of our consideration of the rel- 
+ative influence of differences in ability and chance upon scores 
+in maze learning. Since, it was found that both of these factors 
+are influential in the production of such scores, it is necessary 
+that we should consider the way in which the two factors will 
+interact when the scores are combined into averages. The prob- 
+lem, which is two-fold, may be stated specifically as follows: 
+first, what is the possibility of summing scores in maze learning 
+in such a way that the differences in the several averages of such 
+sums will be mainly due to differences in maze learning ability 
+of the subjects who compose such groups, and, second, what is 
+the possibility of summing several groups of the same scores in 
+such a. way that the differences in the averages of such sums will 
+be chance differences and not assignable to any known factor. 
+The two aspects of the problem will be treated separately. 
+1. What is the possibility of summing scores in such a way that the 
+differences in the several averages of such sums will be mainly 
+due to differences in the maze learning ability of the subjects who 
+compose such groups? 
+This aspect of the problem arises from the fact that differences 
+in individual ability are not sufficiently great to cause the rank- 
+ings of the scores of subjects in maze learning to be constant 
+from maze to maze. If the rankings were constant in maze 
+learning, then, it is obvious that the averages of two or more
+-P-A-G-E-28
+26 WILLIAM T. HERON 
+groups, selected upon the basis of their efficiency in any maze, 
+would retain their same ralative positions in all mazes. 
+On the other hand, if the rankings of the same subjects in 
+several mazes are not constant, then several possibilities present 
+themselves with regard to the averages of two or more groups of 
+such subjects selected upon their efficiency in any one maze. 
+For example, let us suppose that the scores in mazes R, S, and 
+T for subjects A, B, C, and D are as follows: 
+  
+  SUBJECT MAZE R MAZES. maze T 
+A 10 8 12 
+B 16 12 20 
+Cc 20 20 13 
+D 26 14 15 
+  
+The averages, then, of two groups divided upon the basis of 
+their efficiency in maze R would be 13 and 23, respectively. The 
+averages of two groups, each of the same constituency, in maze 
+8S would be 10 and 17, respectively. The correlation between 
+the ranks of the scores in the two mazes is about 0.60. Here, 
+then, is a case in which differences in ability are not great enough 
+to overcome completely the influence of chance in the production 
+of the individual scores, but are, nevertheless, sufficiently powerful 
+to force the averages of the two groups into the same relative 
+position that the averages of the same groups occupy in another 
+maze, where, by reason of the method of selection, individual 
+differences and chance have been combined to give such averages 
+their respective positions. In such a case, however, we cannot 
+say that the difference in the averages is an accurate measure 
+of the difference in the ability of the two groups, since chance 
+may influence the difference in the averages, without causing 
+them to inter-change positions, for instance, by lowering the 
+score of A in maze § or increasing the score of C. 
+When mazes R, and T are considered, however, the situation 
+is different. Here the averages of the two groups are 16 and 14, 
+respectively, and the correlation is 0.20. In this case, individual 
+differences in ability, while sufficiently great to produce the cor- 
+ 
+-P-A-G-E-29
+  ABILITY VS. CHANCE IN LEARNING STYLUS MAZE 27 
+relation of 0.20, were, nevertheless, unable to cause the averages 
+to retain the relative position which they occupy in mazes R 
+and §. 
+In this section, a group of 90 subjects, for whom records were 
+available in five mazes, were divided into smaller groups of 
+varying sizes upon the basis of their efficiency in maze 4, for each 
+of the three criteria separately. It has already been indicated 
+that the results of this method of division are influenced by 
+both chance and individual ability. . This follows from the fact 
+that it was found (within the limits of this experiment) that indi- 
+vidual ability and chance are both responsible in a reciprocal de- 
+gree for the scores of individuals in maze learning. Therefore, 
+the fact that a person ranks first in maze 4 is not a certain in- 
+dication that that person has the greatest maze learning ability, 
+but only that he, together with those individuals who rank near 
+the first, tend to have greater ability to learn mazes than those 
+persons who rank lower. Consequently, the difference between 
+the averages of two groups of individuals, one of which ranks 
+higher than the other in maze 4, must not be taken as an abso- 
+lute measure of difference in ability of the two groups, but it 
+does indicate a difference in ability when it is found that the aver- 
+ages of the same groups in other mazes retain their same relative 
+positions. 
+It also follows from what has been said of the reciprocal rela- 
+tionship between individual ability and chance, that the larger 
+the groups into which a limited number of subjects are divided 
+the greater is the probability that the differences in the averages 
+of such groups will represent differences in maze learning ability, 
+for the larger the number of subjects in a group the greater is 
+the range over which chance may operate and still not displace 
+the individual from the group in which his particular degree of 
+ability would place him were it the only factor involved. 
+In the present section, the group of 90 subjects was divided into 
+smaller groups of different sizes as follows: 
+A. The group was divided into fifths. This division makes 
+five groups of 18 subjects each. 
+B. The group was divided into thirds. This division makes 
+three groups of 30 subjects each.  
+-P-A-G-E-30
+  28 WILLIAM T, HERON 
+C. The group was divided into halves. This division makes 
+two groups of 45 subjects each. 
+As has already been mentioned, these divisions were made sepa- 
+rately for each criterion and were made on the basis of the re- 
+spective subjects’ efficiency (i. e., size of score) in maze 4. 
+When each of the 90 subjects is included in one of the several 
+groups, the results show (1) that it is possible to find groups, 
+the differences in the average scores of which indicate differences _ 
+in maze learning ability of the groups. (2) That these groups 
+may be composed of as few as 30 subjects, but the differences are 
+more indicative of differences in ability if 45 subjects are used 
+per group. (3) That the subjects who make extremely low or 
+extremely high scores (especially the latter) in maze 4 tend to 
+make similar scores in other mazes more often than do those sub- 
+jects whose scores rank around the average in maze 4. The 
+results leading to these conclusions are presented below. 
+A. Results for groups of 18 subjects each. ‘The averages of each 
+of the five groups for each of the five mazes are given in table 10. 
+The numbers in parentheses are the ranks of these averages for 
+each maze. 
+The data in this table show that there is a greater tendency 
+for the averages to keep their relative positions than for them 
+to fluctuate. The amount of fluctuation issummarized in table 11. 
+The maximum number of fluctuations possible for any one fifth 
+for all criteria is 12, and the maximum number of places of pos- 
+sible displacement is 4. Thus it is seen that the number of fluc- 
+tuations actually present is, in general, rather small as com- 
+pared with the possibilities, although the fact that chance would 
+operate to reduce the maximum number of probable fluctuations 
+is not considered. Trials show a greater consistency than either 
+of the other criteria, there being only one displacement with it, 
+and that being merely the interchanging of the ranks of the third 
+and fourth fifths in maze 2. 
+The data also lend support to the conclusion that the extremes 
+fluctuate less than the average. Especially is this true of those 
+subjects who make extremely high scores in maze 4 (i.e., the fifth 
+fifth) who have only one fluctuation to their credit. 
+ 
+-P-A-G-E-31
+ABILITY VS. CHANCE IN LEARNING STYLUS MAZE 29 
+B. Results for groups of 30 subjects each. ‘The averages of the 
+groups secured by dividing the total number of 90 subjects into 
+thirds are shown in table 12. 
+TABLE 10 
+Averages of fifths 
+  
+  
+  
+  
+  
+  
+  
+            FIFTHS: MAzE 1 MAZE 2 MAZES. MAZE 4 MAZE 5 
+Time 
+i 1335 (1) 289 (1) 361 (1) 890 (1) 1721 (1) 
+2 2027 (3) 298 (2) 491 (2) 1343 (2) 2163 (2) 
+3 2159 (4) 376 (4) 559 (3) 1978 (3) 2342 (3) 
+4 1860 (2) 452 (5) 741 (4) 2386 (4) 2438 (4) 
+5 2602 (5) 373 (3) 764 (5) 4421 (5) 3876 (5) 
+Errors 
+1 264 (3) 29 (4) 35 (2) 130 (1) 358 (1) 
+2 257 (2) 12 (1) 33 (1) 252 (2) 501 (2) 
+3 299 (4) 21 (2) 40 (3) 346 (3) 571 (4) 
+4 249 (1) 25 (3) 96 (4) 537 (4) 542 (3) 
+5 440 (5) 38 (5) 134 (5) 1145 (5) 1079 (5) 
+Trials 
+1 21 (1) 7 (1) 10 (1) 16 (1) 21 (1) 
+2 25 (2) 10 (2) 11 (2) 23 (2) 26 (2) 
+3 37 (3) 12 (4) 14 (3) 31 (3) 31 (3) 
+4 45 (4) 11 (3) 17 (4) 43 (4) 38 (4) 
+5 52 (5) 12 (5) 20 (5) 70 (5) 58 (5) 
+TABLE 11 
+Number and amount of the fluctuations of the averages of groups of 18 subjects each 
+(all criteria grouped together) 
+  
+AVERAGE NUMBER OF PLACES 
+  FIFTH NUMBER OF FLUCTUATIONS TATA aOR EE OTITIS 
+1 3 1.6 
+2 3 1.3 
+3 6 1.3 
+4 6 1.3 
+5 1 1.0 
+  
+Only one fluctuation is found in table 12. The first and 
+second thirds for errors in maze 2 inter-change. It is to be ex- 
+pected that the averages in maze 2 would be the least liable to 
+ 
+-P-A-G-E-32
+    30 WILLIAM T. HERON 
+keep their relative positions, since it has already been found that 
+the scores in that maze are determined almost entirely by chance. 
+These data indicate that the differences in the averages of 30 
+subjects, selected upon the basis of their efficiency in any one 
+maze, are representative of actual differences in the maze learn- 
+ing ability of those groups. 
+C. Results for groups of 45 subjects each.—These data are pre- 
+sented in table 13. In this table there are found to be no fluc- 
+tuations whatsoever in the relative positions of the several av- 
+erages. Consequently, we may be sure that the original group of 
+TABLE 12 
+Averages of thirds   
+  
+  
+    
+  
+    
+  THIRDS | MAZE 1 | MAZE 2 | peed 3 | MAZE4 | MAZE 5S 
+Time 
+1 1655 (1) 298 (1) 396 (1) 1034 (1) 1932 (1) 
+2 2077 (2) 370 (2) 591 (2) | “1940 (2) 2318 (2) 
+3 2257 (3) 409 (3) 762. (3) 3637 (3) 3275 (3) 
+{ Errors 
+1 244 (1) 23 (2) 36 (1) 173 (1) 435 (1) 
+2 277 (2) 17 (1) 40 (2) 355 (2) 503 (2) 
+3 385 (3) 35 (3) 128 (3) 919 (3) 802 (3) 
+H Trials 
+1 23 (1) 8 (1) 10 (1) 18 (1) 24 (1) 
+2 36 (2) 11 (2) 14 (2) 32 (2) 29 (2) 
+3 50 (3) 11(3) | 19 (3) 60 (3) 51 (3)   
+90 subjects has been divided into two groups in such a way that 
+one group has on the average more maze learning ability than the 
+other, although, for the reasons already pointed out, we can say 
+practically nothing concerning the degree of difference between 
+the two. | 
+It has been shown above that when two groups of 45 subjects 
+each (selected from 90 subjects on the basis of their scores in one 
+maze) are considered, the differences in the averages of such 
+groups denote actual differences in the average maze learning 
+abilities of those groups. The question then arises as to how 
+ 
+-P-A-G-E-33
+  ABILITY VS. CHANCE IN LEARNING STYLUS MAZE 31 
+nearly such differences in averages represent a difference in the 
+maze learning ability of each separate individual composing the 
+respective groups. To illustrate: Suppose that the four indi- 
+viduals A, B, C, and D have scores of 8, 16, 17, and 31 respec- 
+tively, in the maze upon the basis of which they were divided 
+into two groups. Then A and B would compose one group with 
+an average score of 12 while C and D would compose the other 
+group with an average score of 24. In another maze, however, 
+the scores might be respectively, 10, 16, 16, and 34. Then the 
+averages of these two groups, in order, would be 13 and 25. The 
+averages in the two mazes would retain their same relative posi- 
+TABLE 13 
+Averages of halves   
+  
+  
+    
+  
+    
+  HALF | Maze 1 | MAZE 2 | MAZE 3 | MAZE 4 | MAZES 
+Time 
+i 1773 (1) 308 (1) 469 (1) 1251 (1) 2130 (1) 
+2 2220 (2) 407 (2) 697 (2) 3156 (2) 2975 (2) 
+Errors 
+1 262 (1) 21 (1) 36 (1) 217 (1) 455 (1) 
+2 341 (2) 29 (2) 99 (2) 747 2) 765 (2) 
+Trials 
+1 26 (1) 9 (1) 11 (1) 21 (1) 26 (1) 
+2 46 (2) 12 (2) 17 (2) 52 (2) 43 (2) 
+    
+tions. If several more mazes were added with the averages still 
+behaving in the same manner, we would say that the differences 
+in the averages represent real differences in the maze learning 
+ability of the two groups. But the example shows that this dif- 
+ference may be due to special cases, in this instance to subjects 
+A and D, and that subjects B and C are possessed, for all prac- 
+tical purposes, of the same ability. Consequently, while the 
+groups of which they are parts differ in ability, still these par- 
+ticular subjects do not share in that difference. 
+It is necessary then that an attempt should be made to de- 
+termine, whether the fact that the averages of the two groups 
+ 
+-P-A-G-E-34
+  32 i WILLIAM T. HERON 
+of 45 subjects each remain in their same relative position for five 
+mazes is made possible because each subject of the group shares, 
+in some measure, the responsibility for this result, or whether 
+only a few individuals are responsible for it. 
+We have tried to throw some light upon this problem in two 
+different ways: (1) The averages of each of the two groups for 
+each of the five mazes have been plotted and their standard de- 
+viations laid off on each side. Then by observing the amount of 
+overlapping, one may determine, to some extent, the number of 
+cases which are responsible for the difference in the two averdges 
+in question. (2) The number of individuals who remain con- 
+sistently in either one of the two halves for all five mazes was found 
+by the comparison of the ranks of each individual in each maze. 
+This gives some indication of whether there are certain individ-— 
+uals who tend consistently to keep the averages of the various 
+groups in the same relative position for all mazes. 
+First let us consider the plots of averages and standard devia- 
+tions. In these graphs which are shown in figures 6, 7 and 8, 
+the different mazes are represented on the base line, and the values 
+on the vertical axis represent either trials, time or errors. The 
+broken heavy line connects the points which represent the aver- 
+ages of the half making the higher score (more time, trials, or errors) 
+in each maze. The solid heavy line connects the corresponding 
+averages for the group making the lower record. The standard 
+deviations are laid off on each side of the averages, and connected 
+by lightly drawn lines of a similar form to that of the line con- 
+necting the averages of which they are the deviations. The 
+distance, then, between the two lightly drawn lines of the same 
+form represents the range which includes two-thirds of the cases 
+included in the average. Consequently, by comparing the over- 
+lapping of the areas inclosed, respectively, by the lightly drawn 
+solid and broken lines, it is at once apparent how much the differ- 
+ences in the averages is due to a general tendency of the group as a 
+whole or to extreme cases. An inspection of the graphs shows 
+that this overlapping is so great in all cases, except maze 4 
+(which was used as the basis of division of the group) that it 
+must be concluded that the difference in the averages is largely
+-P-A-G-E-35
+ABILITY VS. CHANCE IN LEARNING STYLUS MAZE 33 nw g + 
+  8 AVERAGES OF BETTER HALF sense AVERAGES OF POORER HALF 
+STAN. DEV.OF BETTER HALF STAN. DEV.OF POORER HALF 
+  2 
+  g 
+    B 
+NO. OF TRIALS 
+     
+MAZE 
+Fia. 6. Puors or tHE AVERAGES AND STANDARD DEVIATIONS OF THE BETTER AND 
+Poorrr Hayes Usina TRIALS AS THE CRITERION 
+   
+-P-A-G-E-36
+T. HERON 
+  WILLIAM 
+    ! 4731 i ! i / 431 i 
+tf 
+! 4 t 
+i i 
+t 4085 ! 
+' 
+AVERAGES OF BETTER HALF 1 ym~ AYERAGES OF POORER HALF i 
+/ / i 1 ! i “——— STAN. DEY.OF BETTER HALF ‘STAN. DEV.OF POORER HALF sen 
+MALE 
+Fig. 7. Piors or THz AVERAGES AND STANDARD DEVIATIONS OF THE BETTER AND 
+Poorrr Hatves Usine Time as THE CRITERION 
+ 
+-P-A-G-E-37
+    ABILITY VS. CHANCE IN LEARNING STYLUS MAZE 35 
+          
+        
+     ——— AVERAGES OF BETTER HALF seem AVERAGES OF POORER HALF 
+—— STAN, DEV.OF BETTER HALF s----~ STAN, DEV.OF POORER HALF 
+  8 2 g g 2 NO. OF ERRORS 
+& g ae £ 
+  
+Fig. 8. Puors or THE AVERAGES AND STANDARD DEyIATIONS OF THE BETTER AND 
+Poorer Hatves Using Errors as THE CRITERION  
+-P-A-G-E-38
+  36 WILLIAM T, HERON 
+  due to extreme cases, i.e. those individuals who make very high 
+or very low scores. 
+Let us then consider the problem (2) with reference to the 
+number of individuals who remain consistently in one or 
+the other half for five mazes. While the overlapping of 
+the areas enclosed by the standard deviations indicate that ex- 
+treme cases are mainly responsible for the differences in the aver- 
+ages of the two groups of 45 subjects each, yet it is obvious that 
+the subjects who are at the extremes in one maze are not 
+necessarily the same subjects who are at the extremes in another 
+maze. Consequently, it is not possible to separate out a group 
+of subjects making extreme scores and show that they are the 
+particular subjects who are mainly responsible for the fact that 
+the averages of the two groups retain their same relative positions. 
+It is possible, however, to select a group of subjects from each 
+half, whose scores remain consistently in the same half, and who 
+are, therefore, ore responsible for the relative positions of the 
+averages than those subjects whose scores fluctuate from one half 
+to the other as succeeding mazes are considered. The subjects, 
+then, whose ranks in any maze were never below 45 were removed 
+from the half having the lower score, and the subjects whose ranks 
+in any maze were never above 46 were removed from the half 
+having the higher score. It was found that for errors 20 subjects 
+were consistent in this way, 10 in the lower half and 10 in the 
+higher half. For time there were 22 subjects showing the same 
+consistency, 10 in the lower half and 12 in the higher. For trials 
+there were 21,9 in the lower and 12 in the higher. It was also 
+found that the scores of these subjects tended toward the ex- 
+tremes in the majority of the cases. 
+In order to determine the precise effect which such cases have 
+upon the relative positions of the averages of the halves, the 
+averages were computed with their records removed. In table 
+14 a comparison is given of the averages obtained in these two 
+different ways,—in terms of the difference between the averages 
+of the first and second half then computed with the consistent 
+cases included, and the difference between the two halves when 
+such cases are removed. |
+-P-A-G-E-39
+  ABILITY VS. CHANCE IN LEARNING STYLUS MAZE 87 
+Table 14 shows that the removal of the records of the consist~ 
+ent cases results in (1) a reduction of the differences between the 
+averages of the first and second halves, and (2) in some cases the 
+relative positions of the averages are reversed as indicated by the 
+minus signs. These facts lead to the conclusion that the differ- 
+ences in maze ability, as indicated by the averages of two groups 
+of 45 subjects each, selected from a group of 90 on the basis of 
+their efficiency in one maze, is due to a large extent to a few 
+subjects, and, consequently, does not indicate that every subject 
+in one group is superior in maze learning ability to every sub- 
+ject in the other group. 
+TABLE 14 
+Comparison of the difference between the two halves, (A) when all cases are con= 
+sidered, (B) when consistent cases are removed 
+  
+  
+  
+    
+  
+    
+  HALF | MAZE 1 | MAZE 2 | MAZE 3 | MAZE 4 | MAZE 5 
+Errors 
+A 79 8 63 530 310 
+B —26 —6 38 455 133 
+Time 
+A 447 99 228 1905 845 
+B —126 —20 17 1666 363 
+Trials 
+A 20 6 31 17 
+B 6 ll 1 26 7 
+    
+The data in this section have shown that it is possible to divide 
+a group of 90 subjects into two groups of 45 subjects each in such 
+a way that the difference in the averages of such groups will repre- 
+sent a difference in the average maze learning ability of the groups. 
+This fact would be of some significance were it desirable for 
+some reason to use in an experiment two groups of unequal ability, 
+2. What is the possibility of swmming scores in such a way that 
+the differences in the several averages of such sums will be chance 
+differences and not assignable to any known factor 
+This aspect of the problem possesses much more immediate prac-~ 
+tical significance than the aspect just discussed. In learning ex- 
+ 
+-P-A-G-E-40
+  38 WILLIAM T, HERON 
+periments it is practically always necessary to have at least two 
+groups of subjects, one the control group, and the other the group 
+which is to be submitted to the variable condition. It is essential 
+that these two groups should be of the same average ability, i.e., 
+if they were tested under the same conditions, they should have 
+average scores the difference between which could be accounted 
+for by chance. If this is not the case, and the difference in the 
+average scores under the same conditions is due to an actual dif- 
+ference in ability between the two groups, the results will be af- 
+fected in one of the following ways: 
+(a) If the variable condition tends to increase the scores 
+and it is introduced into the group which possesses the lesser 
+ability, the effect of the factor will be exaggerated as judged by 
+the results. ! 
+(b) If the same variable factor is introduced into the group 
+with the greater ability, its effects will be underestimated, or it 
+will have no apparent effect whatsoever. 
+(ec) The converse of the above statements would be true if the 
+factor tended to decrease the scores instead of increasing them. 
+(d) If the variable condition had no actual effect whatsoever, 
+then it would be judged to be detrimental or beneficial to the 
+learning process according to which group it had been given. 
+Thus, under any circumstances, unless the groups which are 
+used are of equal ability, the results of a learning experiment 
+will be misleading, except in the few cases that it is possible 
+to use the same group for both test and control purposes. 
+In this section the data were treated by the following method. 
+Each subject’s number was placed upon a slip and all put into a 
+box and thoroughly mixed. They were then drawn out into 
+two piles, alternate slips being placed in the same pile. If then 
+these two groups were of the same ability, the difference between 
+the averages of each should be very small, and the averages 
+would inter-change position from maze to maze. If the two 
+groups were of unequal ability, the averages would retain their 
+same relative positions and the differences between them would 
+tend to be larger. 
+ 
+-P-A-G-E-41
+  ABILITY VS. CHANCE IN LEARNING STYLUS MAZE 39 
+The results of six drawings are shown in table 15, in terms of 
+the percentage differences between the averages (i.e., 15 — 10 
+= 5 = difference; vs = 50 = % difference), In this section con- 
+trary to the case in which the groups were separated upon the 
+basis of their efficiency, separate divisions were not made for 
+TABLE 15 
+Percentage differences in the averages of two groups of 45 subjects each, selected by 
+chance from a group of 90 subjects 
+  
+  
+  
+  
+  
+  
+  
+  D =-drawing 
+DRAWING MAZE 1 MAZE 2 MAZE 3 MAZE 4 MAZE 5 
+Errors 
+D1 21.1 61.2 25.1 15.5 9.5 
+D2 4.7 95.2 7.9 2.9 4.0 
+D3 8.3 34.9 12.6 35.0 28.3 
+D4 19.5 2.8 23.8 11.8 22.8 
+D5 39.2 one) 48.9 20.4 10.5 
+D6 32.9 4.9 49.8 10.1 22.5 
+Time 
+D1 1229) 10.4 5.9 10.8 11.8 
+D2 12.2 3.6 20.7 13.5 0.7 
+D3 d17, 11.9 12.9 25.9 19.7 
+D4 10.9 9.2 4.8 21.9 17.2 
+D5 8.5 19.1 5.7 2.8 29.3 
+D6 18.3 38.9 19.0 ad 2.4 
+Trials 
+D1 23.3 69.8 14.8 18.9 33.7 
+D2 14.5 19.8 10.1 17.8 8.4 
+D3 13.9 12.0 16.4 13.7 30.9 
+D4 7.4 15.3 23.0 EY 2.0 
+D5 38.8 8.9 27.3 23.2 15.5 
+D6 26.9 29.3 15.5 14.3 0.3           
+each criterion. Such a procedure would be useless in this in- 
+stance, since a chance drawing is just as much chance for one 
+criterion as another. In this table, those cases in which the 
+averages inter-change positions are italicized. 
+These results are not definite in the sense that they show that 
+the differences between the groups, obtained in such a manner, are
+-P-A-G-E-42
+  40 WILLIAM T, HERON 
+entirely due to chance, on the one hand, or to differences in maze 
+ability on the other. They indicate, rather that both of these 
+factors are at work, and apparently which is the more influential 
+in any one drawing is a matter of the chance grouping of certain 
+cases together. For example,in D 1 the two groups unmistakably 
+show a difference in ability so far as errors and trials are concerned, 
+and there is only one reversal of the positions of the averages for 
+time. If D 2 is considered, however, there are two reversals for 
+errors, one for time, and one for:trials. Similar situations can 
+be found if the results of the other drawings are examined. This 
+would indicate that 45 subjects in a group, selected by chance, are 
+not enough to be certain that several such groups are of the same 
+ability. 
+Such a conclusion, as the above, that 45 subjects in a group are 
+not a sufficient number to make sure that several such groups are 
+of equal ability, is rather startling when one remembers that in 
+most experiments 25 or fewer subjects are used. The situation 
+becomes even more interesting when a consideration of all the 
+drawings together shows that maze ability is the more important 
+factor in the production of the averages of the chance groupings. 
+If chance were the only factor acting, we would expect that the 
+averages would change position in two-fifths of the cases.® 
+On this assumption there should be, for any one criterion, 12 
+changes in the positions of the averages when all drawings are 
+considered. If the results are examined, however, it will be found 
+that chance was able to accomplish 50, 66, and 25 per cent of 
+what would be expected of it for errors, time, and trials, respec- 
+tively. In other words, chance was able to accomplish, on the 
+average, 47 per cent of that which it was anticipated that it 
+should do were it the only factor operating. 
+However, if chance operated alone, it would be expected to 
+do more that simply cause a change in the relative positions of 
+the averages. The supposition is that, in all probability, the dif- 
+5 Th's number is two-fifths instead of one-half because there are an odd number 
+of mazes and in marking the cases which reverse position, I have always marked 
+the minority because there is no fixed point of reference. Consequently, the 
+greatest number of reversals for any one criterion in any one drawing is 2.
+-P-A-G-E-43
+ABILITY VS. CHANCE IN LEARNING STYLUS MAZE 41 
+ferences between the averages would be less were chance alone 
+responsible, than they would if differences in maze ability were 
+also responsible. If, then, the average percentage differences 
+found between the averages when the group was divided upon the 
+basis of the efficiency of the subjects in maze 4 are compared 
+with the corresponding values for chance groupings one may ar-~ 
+rive at some notion of the relative influence of chance and differ- 
+ences in maze learning ability under the two methods of selection. 
+This comparison is made in table 16. The values under (A) in 
+this table were obtained by dividing the averages for the better 
+TABLE 16 
+Comparison of the percentage differences in averages 
+(A) When groups are selected on the basis of the publects: efficiency in one maze. 
+(B) When groups are selected by chance.   
+  
+  
+  
+  
+  
+  Maze 1 | MazE 2 Maze 3 | Maze 4 | Maze 5 
+Errors 
+A Ss er asl 175.0 242.2 68.1 
+B 20.9 | 33.1 28.0 15.9 16.2 
+Time 
+A 25.2 | 32 152.2 39.6 
+B 1 alee 1b. 11.5 13.7 13.8 
+Trials 
+A 76.9 | 33.2 54.5 147.6 65.4 
+B 20.8 | 25.8 16.2 14.9 15.1 
+    
+half, found in table 13, by the differences in the averages of the 
+two halves which are given under (A) in table 14. The values 
+under (B) in table 16 were obtained by averaging the results of 
+the six drawings as given in table 15. 
+The percentages in table 16 show that in every case the dif- 
+ferences between the averages are less when the groups are se- 
+lected by chance than when they are selected on the basis of 
+efficiency in one maze. In some cases this difference is very 
+marked (maze 4 should be excepted since for method A the se- 
+lection was made on the basis of the scores in that maze). 
+   
+-P-A-G-E-44
+  42 WILLIAM T. HERON 
+The data indicate that chance is playing a much greater part 
+in the selection by lot than by that method discussed in the 
+former section, and the probability is that if the groups could be 
+increased in size still further, chance could be shown to be al- 
+most entirely responsible for the differences in the averages as 
+judged by the number of times that the averages fail to retain 
+their relative positions and by the size of the differences between 
+them. 
+It was shown, when the groups are divided on the basis of effi- 
+ciency in maze 4, that the elimination of the cases which were 
+consistent within halves destroyed, to a large extent, the degree 
+of certainty with which it could be said that differences in the 
+averages of the two groups represented differences in ability 
+of those groups. This was interpreted to mean that these par- 
+ticular cases were more responsible for such differences than were 
+the other cases in the groups. The same problem arises with ref- 
+erence to the differences in groups which are selected by chance, 
+since we have found that such differences are more to be accounted 
+for by actual differences in the ability of the groups than by 
+‘chance. 
+It is not unreasonable to suppose that the same cases which 
+‘were responsible for the constancy in position of the averages 
+when the groups were selected upon the basis of efficiency, might 
+also be responsible for the similar result when the groups are 
+selected by chance. It will be remembered that the number of 
+these cases was between 20 and 25, and that the great majority 
+of them were either extremely good or extremely poor in the 
+majority of the mazes. The remainder of the cases tend, then, 
+to be more nearly around the average for the group, i.e., they 
+tend to be much more homogeneous. It is obvious, therefore, 
+that if such a condition existed to an absolute degree that a chance 
+division of the homogeneous group would result in two groups of 
+‘equal ability. But, since the cases which are consistent within 
+halves tend to be extremes, it would be necessary, in order to 
+divide the total group into two groups of equal ability, that there 
+‘should be in each of two such sub-groups an equal number of 
+each of those subjects who are consistently low and of those who
+-P-A-G-E-45
+  
+  ABILITY VS, CHANCE IN LEARNING SI'YLUS MAZE 43 
+are consistently high. Since there are only about 20 to 25 of these 
+subjects, approximately equally distributed at each extreme, it 
+follows that the probability of getting an equal number of each 
+in each group is rather small. _Consequently, the probability 
+that the averages will show the influence of chance alone is re- 
+duced to just the extent that this smail group of subjects is not 
+equally distributed. 
+Of course, this reasoning is based on two assumptions: (1) 
+that the cases which are consistent within halves are the extreme 
+cases, that is they are either very poor or very good in all mazes, 
+and (2) that the group which is left when they are removed is 
+homogeneous to a great degree. These conditions, in the pres- 
+ent data, are not perfectly realized. Therefore, it is necessary 
+to remove the cases which are consistent within halves and make 
+TABLE 17 
+Percentage differences in averages of two groups of 34 subjects each, selected by 
+chance with the cases consistent within halves eliminated (one drawing) 
+  
+  
+    Maze 1 MAZE 2 MAZE 3 Maze 4 Maze 5 
+IDETONS fetes, 42.9 58.8 17.5 13.3 5.7 
+Time... ed 27.3 0.9 12.2 45.5 15.8 
+Trials... 52.0 3.1 al 19.4 10.0 
+  
+chance drawings of the remaining cases. Since these cases are 
+not necessarily the same for all criteria, it is necessary to deal with 
+each criterion separately. The results are shown in table 17. 
+The results show that the reversals in the positions of the 
+averages for errors and time are what would be expected if chance 
+were the only factor operating, i.e., they reverse in two-fifths of 
+the cases. Trials, however, still show the influence of differences 
+in ability between the groups. 
+In order to determine if the results for trials would persist 
+in other drawings, five more were made with the following results 
+in table 18. 
+The results in table 18 together with the results for trials in 
+table 17 show that there were 6 reversals in the positions of the 
+averages of groups selected by chance with the cases consistent. 
+ 
+-P-A-G-E-46
+  
+  44 WILLIAM T. HERON 
+within halves removed. If chance were the sole factor operating 
+12 reversals would be expected. Consequently, chance may be 
+said to be 50 per cent effective under these conditions as com- 
+pared with 23 per cent effectiveness when the consistent cases 
+are not removed. Therefore, it may be said that the cases which 
+are consistent within halves are responsible to a large extent for 
+the failure of the averages to reverse positions in chance drawings, 
+as much as they should, were chance the only factor operating. 
+TABLE 18 
+Results (percentage differences) of five drawings for trials with the cases consistent 
+within halves removed   
+  DRAWING Maze 1 MAZE 2 MAZE 3 MAZE 4 MAZE 5 
+D2 3.9 9.0 9.4 4.4 9.6 
+D3 16.2 29.1 33.0 7.4 9.6 
+D4 10.8 5.2 9.4 26.6 2.2 
+D5 10.4 3.1 we 1.6 25.6 
+D6 50.6 5.2 26.3 15.7 1.3 
+  
+3. Conclusions 
+In this section we have been concerned with the relative 
+‘influence of individual ability and chance upon the averages of 
+‘groups of scores in maze learning. Our results have shown that 
+(1) when a group of 90 subjects is divided into two groups of 45 
+subjects each on the basis of the relative efficiency (as judged by 
+the size of the scores) of the respective subjects in one maze, 
+the difference in the averages of such groups in each of five 
+mazes represents a difference in the average maze learning ability 
+of the respective groups; and that (2) this average difference 
+in maze learning ability is principally due to a few subjects who 
+are consistently poor or consistently good as measured by the 
+magnitude of their scores in the several mazes. The results 
+have further shown that (3) it is impossible (within the limits of 
+this experiment) to divide the same group of 90 subjects into 
+two groups of 45 subjects each in such a way that the differences 
+between the averages of the two groups in each of the five mazes 
+can be said to be entirely a chance difference, and (4) that 
+ 
+-P-A-G-E-47
+  
+  ABILITY VS. CHANCE IN LEARNING STYLUS MAZE 45 
+the differences in the averages of two such groups, selected by 
+chance, become more nearly chance differences when the cases 
+consistent within halves are removed and the chance drawings 
+again made. 
+Vv. THE RELATIONSHIP BETWEEN THE SCORES IN LEARNING 
+THE MAZE AND THE SCORES IN LEARNING THE 
+RATIONAL LEARNING PROBLEM 
+Considerable interest has been manifested by psychological 
+and educational writers as to whether an individual possesses 
+a general learning ability or a composite of special abilities. 
+The principal discussions have been of a theoretical nature al- 
+though some incidental experimental work has been done on the 
+problem. The method used is that of correlating the scores in 
+two or more types of problem, in an attempt to discover whether 
+individuals who are rapid learners in one type of problem are also 
+superior in other types. If this is the case, the data would be 
+interpreted in favor of a general ability, while if the subjects are 
+sometimes superior and sometimes inferior to other members of 
+the group, the evidence would be in favor of special abilities. 
+In dealing with this problem we have correlated the scores of 
+subjects in maze learning with their scores in the Peterson Ra- 
+tional Learning Test (described above). Before presenting these 
+data a summary will be made of the results of similar® experi- 
+ments. 
+1. Historical summary 
+About 1904, Henderson (5) obtained records for 12 graduate 
+students in three tests of memorizing connected material. The 
+5 Some of this historical material might have been very well summarized when 
+we were dealing with the correlation between mazes, as having greater reference 
+to that problem than to the problem which is at present under consideration. 
+This is, of course, a matter of opinion. Consequently, the material summarized 
+as relevant to the first problem, the correlation of mazes, was limited to other 
+investigations dealing also with the correlation of mazes. The other material 
+has been summarized under the heading of the present problem, although, in the 
+final discussion, some attempt will be made to apply it also to the problem of the 
+correlation of mazes.
+-P-A-G-E-48
+  46 WILLIAM T. HERON 
+materials used were passages from (1) ‘‘The History of the Jews,” 
+(2) ‘The Dutch Homestead,” (3) “The Stages in the Develop- 
+ment of Human Theory.”’ The students were allowed to read 
+each passage for three minutes, and then were asked to repro- 
+duce as much as possible in writing, paying especial attention to 
+the reproduction of the ideas rather than the words. The cor- 
+relation of the first reproduction between materials numbers 1 
+and 2 was, r = 0.61; between 1 and 3, r = 0.85; and between 2 
+and 3,r = 0.50. 
+Henderson says that “‘a decided tendency for those who did 
+well in one passage to do well in the others is evident. Especially 
+is this relation close in the learning of the passages on the Jews 
+and Comte’s philosophy.” 
+With another group of students (18 undergraduates) to whom 
+passages from “‘Cicero” and the ‘History of the Jews” were 
+read, there was a correlation between the amounts reproduced of 
+r = 0.34. 
+Thorndike (6), in 1910, published an article in which he gives 
+the correlations (using 38 educated adults for subjects) between 
+(a) “the ability to remember a list of twelve words from a single 
+hearing, at a rate of approximately one per second, long enough 
+to write them immediately at the close of the reading; and (b) 
+the same ability in the case of a list of five three-place numbers. 
+There were five lists of (a) and five lists of (b).’”’ All the tests 
+were given within one hour. 
+The results show that the obtained ‘‘raw’’ correlation between 
+(a) and (b) is0.44 +1. ‘The mixture of the two sexes and the 
+testing of the two traits in the same hour tend to make this higher 
+than the relation between the general ability to remember word 
+lists and the general ability to remember three-place number 
+lists. On the other hand, there is the attenuation due to 
+variation, in both (a) and (b), of the results from five tests 
+from the person’s true ability. I estimate that correction for 
+all three would result in a correlation of about 0.54. The rela- 
+tion between (a) and memory of lists of 12 single digits was 
+found to be 0.6, eight independent records of each being used. 
+Correction for attenuation raises this to 0.7-. So, until more 
+ 
+-P-A-G-E-49
+  
+  ABILITY VS. CHANCE IN LEARNING STYLUS MAZE 47 
+adequate measures are made, we may accept as the most likely 
+fact that, in such a test of brief retention, a variation in the con- 
+tent from words to numbers reduces the correlation from 1 to 
+about §. Even if the reduction should prove to be only 3, the 
+fact would still be very strong evidence of the dependence of 
+efficiency of memory upon content and of the specialization of 
+mental functions in general.”’ 
+Thorndike (7) in a later article (1916) presents data which 
+“give some information concerning the relation of ability to im- 
+prove in one mental function to ability to improve in other func- 
+tions.” He used 15 subjects and the correlations which he ob- 
+2 
+tained by the formula r = 2 sin (>) where p = 1 — Alri 6 n(n?—1) 
+Gain in canceling with gain in adding r= 0.10 
+Gain in canceling with gain in mental multiplication r = 0.29 
+Gain in canceling with gain in typewriting ~ r= 0.10 
+Gain in adding with gain in mental multiplication r= 0.25 
+Gain in adding with gain in typewriting r= 0.12 
+Gain in mental multiplication with gain in typewriting r = 0.07 
+Probable error in all cases = 0.15 
+Thorndike estimated that if these correlations were corrected 
+for attenuation, ete., that they would be raised about 20 per cent. 
+He also found correlations between the gain in canceling 2’s and 
+the gain in canceling 3’s of 0.77; between the gain in addition 
+(trial 1) and gain in addition (trial 2) of 0.81; between gain in type- 
+writing (first period) and typewriting (second period) of 0.80. 
+A study from the University of Wisconsin by Faye Bennett (8) 
+in 1916 gives correlations for two professors, four graduate stu- 
+dents, and three seniors between the learning of different sorts 
+of material. She used two classes of material, connected and 
+disconnected; and two methods of presentation, auditory and 
+visual. The subjects were ranked for each method of presenta- 
+tion according to the average number of repetitions required by 
+each to learn four series of ten units of the different types of 
+material. 
+In allowing for errors, one repetition was added for each substitution, 
+omission or addition; one-half repetition was added for each trans- 
+position; and one-half repetition for each error of one letter in nouns 
+and syllables, and of one digit in the numbers. 
+ 
+-P-A-G-E-50
+48 WILLIAM T, HERON 
+The connected material was made up of prose, consisting of 
+one description, one narration, and one exposition for each method 
+of presentation. The disconnected material consisted of syl- 
+lables and numbers. 
+In the visual tests the observers read and re-read the selection 
+silently and by the whole method, until it was memorized so that 
+it could be reproduced in writing. The time required was taken 
+by the experimenter while the number of repetitions was recorded 
+by the observer. 
+TABLE 19 
+Correlations between the learning of different sorts of material (after Bennett) 
+1 = syllables, 2 = numbers, 3 = nouns, 4 = prose 
+  
+  
+  VISUAL PRESENTATION AUDITORY PRESENTATION 
+MATERIAL 
+2 3 4 2 3 4 
+i 0.26 0.83 0.35 0.23 0.62 —0.05 
+2 0.53 0.57 Old 0.28 
+3 0.45 0.38 
+TABLE 20 
+The average correlation of each of five types of learning with other types (after Pyle) 
+AVERAGE TYPE OF LEARNING CORRELATION 
+  
+Digit substitution 0.594 
+      Alphabet substitution. 0.547 
+Nonsense syllables............... 0.441 
+Card sortii 0.496 
+Marble sor 0.503 
+0.516 
+  Average 0: 
+In auditory presentation, the material was read to the sub- 
+ject until he said that he could reproduce it. This led to a great 
+deal of under-learning. The score then was the time required 
+to learn plus ten seconds for each error. 
+The correlations (rank method) which she obtained, of interest 
+to us, are as follows in table 19. 
+Pyle (9) in 1921 in his book the ‘‘Psychology of Learning”’ 
+gives the average inter-correlations for six different learning prob- 
+lems. ‘These problems were of the following nature: 
+   
+-P-A-G-E-51
+  ABILITY VS. CHANCE IN LEARNING STYLUS MAZE 49 
+1. Card sorting. This consisted in distributing 150 numbered 
+cards into trays numbered to correspond. There were 30 trays, five 
+in a row and six rows so that five cards belonged to each tray. One 
+experiment consisted of sorting the 150 cards into the appropriate 
+trays. : 
+2. Marble sorting. 96 marbles of different colors and sizes had to 
+be distributed into six different receiving boxes by means of a compli- 
+cated machine demanding the use of both hands and feet. 
+8. Digit substitution. In this problem digits were to be substituted 
+for symbols, and vice versa. 
+4. Alphabet substitution. This test consisted in converting the 
+alphabet into arbitrary symbols, 
+5. Nonsense syllables. A list of ten nonsense syllables was presented 
+visually at the rate of one per second. And the presentation was con- 
+tinued until the subject could correctly reproduce the list in writing. 
+6. Mirror writing. The subject must write, using a mirror reflected 
+stimulus, a copy which would appear normal in the mirror. 
+Most of the experiments were repeated with several different groups 
+of subjects. There were usually about 75 in a group. The learning 
+capacity of each student for each type of problem was determined, 
+and all possible correlations were computed, 41 in all. The results 
+are very constant. Only the averages are given here. 
+Only one correlation could be computed with mirror writing, and 
+that was with learning nonsense syllables. Between these two tests, 
+the correlation was 0.505, and is included in the averages as given for 
+nonsense syllables. 
+Lyon (10) has also contributed some results to this inquiry. 
+He says, : 
+An individual who is a quick learner of one sort of material tends, 
+upon the whole to be a quick learner of other sorts also. 
+He used prose, poetry, digits, nonsense syllables, and words, 
+and found that, 
+Some individuals stand consistently high and some consistently low. 
+There is, however, a good deal of shifting from one material to another, 
+and this shifting finds expression in the coefficient of correlation between 
+the ranks in the two materials. As computed by the rank-difference 
+method, the average correlation between the speed of learning any 
+two sorts of materials is, for this group of subjects, 0.51.  
+-P-A-G-E-52
+    
+50 WILLIAM T. HERON 
+The group in question was comprised of 25 subjects. For a 
+group of 17 other subjects he found a correlation of 0.42 
+I have taken the rankings which he gives of 24 subjects in the 
+time required to learn different materials, and have computed 
+inter-correlations by the Spearman Foot-Rule method. These 
+coefficients were then converted into the Pearson r by means of 
+the table given in Rugg (11), in order to determine how nearly 
+the average correlation which Lyon gives represents what may 
+be expected to exist between any two kinds of material. These 
+ote are given in table 21. 
+Somewhat lower correlations were found between other kinds 
+of learning problems by Haught (12). He gives the inter-cor- 
+relations of four different learning problems. These problems 
+are (1) the rational learning problem, as used in the pres- 
+  
+  
+    TABLE 21 
+Inter-correlations with different kinds of material; number of subjects = 24 
+prarns NON. 8YL, wonps PorTRY 
+0.70 0.52 0.55 0.52 
+: 0.59 | 0.52 0.50 
+p 0.36 0.50 
+| 0.65   
+  ent experiment, (2) the rational learning problem as modified by 
+Haught,| (3) checker puzzle, and (4) the Tait labyrinth puzzle. 
+For a detailed description of these problems, the reader is referred 
+to Haught’s monograph. They are, however, “of such a nature 
+that the subject may solve them either by the hit-and-miss method 
+or by a reflective method.” Haught gives the inter-correlations 
+of these problems when all the various criteria recorded in the 
+progress of the learning of the problem (such as trials, errors, and 
+time) are equally combined. These correlations (r coefficients) 
+are shown in table 22. 
+Very little work along this line has been done with animal sub- 
+jects. ‘Three coefficients, however, may be given. ‘The first of 
+these was found by Bagg (4) whose work has already been men- 
+tioned in another connection. He gave 93 mice 17 trials in the 
+mazeand some time later 25 trials in the multiple choice apparatus. 
+   
+-P-A-G-E-53
+  ABILITY VS. CHANCE IN LEARNING STYLUS MAZE 51 
+He correlated the time for the last 15 trials in the maze with the 
+time for the last 23 trials in the multiple choice problem and 
+found a coefficient of 0.11. 
+The present writer (13) ran 22 white rats one trial per day for 
+six day's in the problem box. . They were then allowed to rest for 
+sixty days, at the end of which time they were run for six days in the 
+maze, one trial per day. The correlation between the total time 
+in the problem box and the total time in the maze was 0.006 
+(rank method), and that between total time in the problem box 
+and distance (errors) in the maze was 0.093. 
+It is difficult to make any general statement with reference to 
+the above experiments. In several cases, for instance the work 
+by Henderson (5), Thorndike (7), Bennett (8), and Heron (13), 
+TABLE 22 
+Inter-correlations of different problems (from Haught); number of cases = 74 
+  
+  PROBLEM 2 3 4 
+i 0.33 0.18 0.44 
+2 0.38 0.33 
+3 0.26 
+  
+the number of subjects was too small to warrant any generaliza- 
+tions. It seems evident that the degree of correlation is largely 
+a function of the problematic situation involved, though the fact 
+that there are only two negative correlations (and those with audi- 
+tory presentation) in all those listed above would point to the 
+conclusion that there is some general factor influencing all of 
+them, ‘There is considerable variability in the correlations, even 
+in the few cases where the same material was used. By convert- 
+ing Bennett’s correlations into r coefficients, it was found that 
+her correlations between digits and nonsense syllables became 
+0.43 as opposed to Lyon’s for the same material of 0.59. On the 
+other hand, Bennett’s correlation for nonsense syllables and prose 
+_ is 0.80, while Lyon’s is only 0.70. However, these two experi- 
+menters agree in that both got lower correlations with digits and 
+syllables, than with prose and syllables. If a sufficient number of 
+such relationships could be determined, then it would be possible to
+-P-A-G-E-54
+  52 
+make an nalysis of the causes of the correlations. WILLIAM T. HERON 
+For example, 
+in the above case, it would appear, a priori, that there is a closer 
+relation between the materials in the case of syllables and prose, 
+than in the case of digits and prose. Whether such factors are 
+effective and the kind or degree of similarity necessary to cause 
+a high correlation, can only be found by consistent work on the 
+  
+  
+  
+    
+  
+    
+  
+  relation between scores in different problems, when enough cases 
+are used to justify correlations. In the present experiment, we 
+have sought to further this inquiry by correlating the standings 
+of 60 subjects in maze learning with their scores in a rational 
+learning test. 
+TABLE 23 
+Correlations of the scores in the mazes and the rational learning problem; number of 
+cases = 60-65 
+Maze 1 | MAZE 2 MAZES | MAZE 4 | MAZE 5 
+Trials 
+R.L.1 | 0.10+0.08 | 0.0340.09 | .0.2140.08 | 0.29+0.08 | 0.15+0.08 
+R. L. 2 0.194:0.09 | 0.04+0.08 | 0.03+0.09 | 0.07+0.08 | 0.06+0.08 
+Time 
+R.L.1 | 0.2840.08 | 0.0640.08 | 0.2040.08 | 0.19-+0.08 | 0.30-40.08 
+R.L.2 | 0.22+0.08 | 0.07+0.08 | 0.0540.08 | 0.29+0.08 | 0.30-+0.08 
+Errors 
+R.L.1 | 0.01-40.09 | 0.09+0.08 | 0.09+:0.08 | 0.13-40.08 |—0.06-40.08 
+R.L.2)| 0.00 0.05-£0.08 |—0.06-+40.08 | 0.07+0.08 |—0.10+0 08         
+2. Results of present experiment 
+The data in this section support the conclusions, (1) that there 
+is pract 
+learning cally no relationship between maze learning and the 
+of the rational learning problem; (2) that there is a 
+relatively high degree of relationship between the scores in the 
+two rati 
+The 
+mazes onal learning tests. 
+ata leading to the first of these conclusions are given in 
+table 23. 
+nd each of the two rational learning problems. They are the correlations between the five original 
+   
+-P-A-G-E-55
+  ABILITY VS. CHANCE IN LEARNING STYLUS MAZE 53 
+A glance at the table will preclude the necessity for discussion. 
+The only evidence of relationship, as shown by the correlations, 
+are those between R.L. 2 and maze 4 for time, between R.L. 2 
+and maze 5 for time, and between R.L. 1 and maze 4 for trials, 
+R.L.1 and maze 5 for time, and between R.L. 1 and maze, 1 for time. 
+Since there is no consistency and since these four coefficients just 
+barely conform to the criterion of reliability, little evidence is 
+forthcoming that there is any relationship whatsoever between the 
+records of subjects in individual mazes and the rational learning 
+problems. 
+It was thought possible that the coefficients might be raised 
+by summing the scores in the mazes and correlating them with 
+the sum of the scores in the rational learning tests. This was 
+done with the results that for time the correlation was 0.36 + 0.08, 
+for trials 0.20 + 0.08, and for errors 0.01 + 0.08. Thus, it is seen 
+that this method of treatment does not appreciably change the 
+magnitude of the correlations. The only possible exception is 
+that of time, but still there is, even there, no very great rela- 
+tionship shown. 
+An investigation of the relationship between the two rational 
+learning tests showed that the correlations between those two 
+tests were 0.58 + 0.06 for time, 0.48 + 0.06 for trials, and for errors 
+0.57 + 0.06. This shows that there is a real relationship between 
+the records. in these two tests which is consistent for all criteria. 
+This fact, together with the fact that mazes 4 and 5 also cor- 
+related, and the further fact that there was no correlation between 
+these mazes and the rational learning tests, indicates that Thorn- 
+dike’s contention that there are specializations of mental func- 
+tions is justified by the present experiment. This follows as a 
+logical conclusion from the consideration of these three sets of 
+correlations, because the correlation between the mazes indi- 
+cates that there is a function common to them, and the correla- 
+tion between the rational learning tests indicates a function, like- 
+wise, common to them. Now, if these functions were the same, 
+it follows with a very high degree of probability that the correla- 
+tion between the two sorts of problem should also be only slightly 
+less than 0.50. It is, of course, true that chance would tend to     
+    
+ 
+-P-A-G-E-56
+| 
+54 WILLIAM T. HERON 
+reduce such a correlation, but if the abilities are the same, it 
+should he reduce it an appreciable degree, since it has already 
+reduced the correlation within each separate problem. 
+VI. GENERAL DISCUSSION 
+Probably the most striking fact presented in this paper is 
+that certain mazes correlate relatively much higher among them- 
+selves than do others. I believe that an explanation of this fact 
+may be found in the patterns of the mazes which have been used. 
+This is the proposition that I wish to state in the succeeding 
+paragraphs. 
+The maze is spoken of as a ‘trial and error’ problem. The term 
+‘trial and error,’ however, is very general and it only acquires 
+significance if the problem to which it is applied is analyzed 
+further. When a subject is placed in the maze situation for the 
+first time, it is necessary for him to adopt this method, because 
+there is no other possibility of solution available. The ‘trial and 
+error’ method may, however, bring about the learning in one of 
+two ways: (1) the subject may arrive at a generalization by use of 
+which he can run the maze without further difficulty, and with- 
+out accurate knowledge of the details of the pattern, or (2) he 
+may learn in detail the pattern of the maze, knowing just which 
+way to turn at each stage of the passage through the apparatus 
+and in this way finally arrive without error at his objective. 
+Which method is adopted will depend, in a large measure, 
+upon the pattern of the maze which is given to the subject. If 
+the reader will turn back to the drawings of the mazes used in 
+this investigation, he will find that it is possible to formulate a 
+generalization which, if consistently followed, will enable him to 
+run any one of the first three mazes without any previous know]- 
+edge of them whatsoever. This generalization may be stated 
+as follows: always go as far as possible and press firmly against 
+each succeeding side which interrupts progress, allowing your 
+hand to follow its own own course under these conditions. 
+It was obvious to the experimenter that practically every sub- 
+ject made this generalization, either consciously or unconsciously, 
+at some time during the progress of learning these mazes. In     
+  
+   
+-P-A-G-E-57
+  ABILITY VS. CHANCE IN LEARNING STYLUS MAZE 55 
+many cases, after having learned maze 2, this method would be 
+consciously realized by the subject and he would comment upon 
+it. In such.event, he was cautioned, of course, against telling 
+any one else. It is apparent that once the generalization comes, 
+there is no further learning involved in running the maze. No 
+subject, however, could tell definitely whether this method would 
+work in any maze which he had just started until he had experi- 
+mented with it. In some cases the subject would assume that 
+the method would be successful and use it upon the first trial, 
+consequently he would perform four perfect trials (the criterion 
+of mastery) without making any errors. This was especially 
+true in maze 2 and happened occasionally in maze 3. The less 
+frequent occurrence of these errorless records in maze 3 is prob- 
+ably due, judging from comments of the subjects, to the difficulty 
+in maintaining the ‘‘sense of direction” in such an intricate series 
+of turns. 
+I believe that this peculiarity in the patterns of the mazes 
+(especially maze 2, since it has also relatively few turns) is suffi- 
+cient to account for the low correlations of mazes 1, 2, and 3 as 
+compared with mazes 4 and 5 which the subjects could not run 
+by rule, for it is well known that, among a group of individuals 
+who are on about the same plane with respect to intelligence and 
+. relevant past experience, the time required to make a generali- 
+zation is largely a matter of chance. 
+Likewise, it is probably true that no ‘trial and error’ problem, 
+even though it is not capable of being solved by a generalization, 
+will ever correlate very highly with other problems of similar kind 
+or itself. In fact the term ‘trial and error’ itself indicates that 
+there are a number of alternatives, one of which is right and the 
+others wrong, and that the individual must discover by chance 
+which is the correct one. 
+Furthermore, it may be said that no learning problem is likely 
+to correlate as closely with itself or similar problems as do many 
+tests, such as the tapping or Porteus maze tests which are simply 
+indicators of a given ability, rather than measures which include 
+progressive acquisition of methods directed towards a definite 
+criterion of mastery.
+-P-A-G-E-58
+56 WILLIAM T. HERON 
+The reason for this is that all learning problems necessarily 
+involve a choice and whenever choice is possible then chance 
+may operate. Of course, in some learning problems such as 
+memorizing a list of words, the choice is not as great as in other 
+problems such as the maze. I have already indicated that in 
+the learning process there are two different types of activity com- 
+bined in a more or less equal proportion. These are the processes 
+of exploration and fixation. The relative proportion of these 
+two processes will vary with the problem to be learned. Those 
+problems in which there is a relatively large amount of exploration 
+as compared to fixation are the most subject to chance influence 
+and, consequently, the scores of individuals in such problems are 
+of little value in predicting their scores in some other problem. 
+A typical example of this sort of problem in maze 2. The pre- 
+liminary exploration process in such a problem results in an im- 
+mediate solution which requires but little effort to fixate. A 
+problem at the other extreme is the problem used in the ordinary 
+memory experiments (e.g., learning lists of words). In such a 
+problem the principal process involved is one of fixation and the 
+range of exploration is relatively very limited with the result 
+that scores in such problems have greater predictive value. 
+Some experimental evidence for such a conclusion may be found 
+in the fact that the correlations between problems of memoriza- . 
+tion, such as those given in table 21, are relatively much higher 
+than the correlations between mazes. On the other hand, there 
+are problems which stand midway between these two extremes 
+in the relative amount of exploration and fixation required to 
+learn them. Examples of such problemsare those used by Haught 
+(see table 22). With these the correlations tend to be lower than 
+for those problems in which fixation is the primary element. Of 
+course, it is understood that the opportunity for the entrance of 
+chance factors is not due entirely to the nature of the problem, 
+but a large number of such factors may be the consequence of 
+extraneous influences, such as noise, ete. They are partly due 
+also to the subjective conditions of the subject, the method of 
+taking data, ete. 
+ 
+-P-A-G-E-59
+    ABILITY VS. CHANCE IN LEARNING STYLUS MAZE 57 
+Reasoning of this sort must, however, be done, for the most 
+part, on an a priori basis, because, as yet, enough consistent work 
+has not been done on the subject so that one may speak from the 
+empirical results. It seems possible however, that different learn- 
+ing problems could be ranked on the basis of the relative influence 
+of chance and individual ability upon their solution. Until 
+that is done we cannot say empirically that any particular prob- 
+lem, for instance the maze, is any more or less subject to chance 
+than are other learning problems. 
+VII. SUMMARY AND CONCLUSIONS 
+The argument and results of this investigation may be sum- 
+marized under three headings. 
+A. The relative influence of differences in ability and chance upon 
+the individual scores in maze learning 
+The method of attack upon this problem was the correlation 
+of the scores made in learning or relearning a number of mazes. 
+The supposition was made that the values of the correlations so 
+obtained would show the relative influence of chance and indi- 
+vidual ability upon scores in maze learning, since chance, acting 
+alone, would, tend to make such correlations approach zero, while 
+individual ability, acting alone, would tend to produce perfect 
+positive correlations. 
+A summary of the correlations which were obtained follows: 
+The average of the inter-correlations of all five mazes (all criteria 
+included) is 0.32, and the range is from 0.02 to 0.65. The average 
+inter-correlations of the scores made in relearning three mazes 
+is 0.17, and the range is from 0.00 to 0.25. These correlations were 
+interpreted to mean: 
+1. That chance and individual ability are both influential in 
+the production of scores in maze learning. 
+2. That these two factors vary with the pattern of the mazes in 
+the respective parts which they play in the determination of the 
+scores in maze learning. This follows from the fact that mazes 4 
+and 5 invariably correlate much more highly than do any of the 
+other variables. The correlation between the scores in the learn-
+-P-A-G-E-60
+58 WILLIAM T, HERON 
+  ing and relearning of maze 4 was also relatively high (maze 5 
+was not relearned), while maze 2 tended to correlate relatively 
+low with other mazes and the correlation for the scores made in 
+learning and relearning it was practically 0.00. 
+3. That in no case is individual ability very much more influ- 
+ential than chance. This is indicated by the fact that only a few 
+of the correlations are much higher than 0.50. 
+4, That in some cases chance is very markedly more influen- 
+tial than individual ability. This is indicated by the largenumber 
+of correlations which are very low some of which are even less 
+than 4 times their probable errors. 
+In order to find if each individual’s score was affected to the 
+same degree by chance, the average and maximum variation of the 
+ranks of each subject’s scores in the five mazes were determined. 
+The supposition was made that the greater the variation of the 
+individual’s ranks from maze to maze the more is chance operating 
+in the production of his scores. These values were found to vary 
+greatly for different individuals, although the great majority of the 
+group ranged around a central point between the extremes. The 
+range of individual differences in susceptibility to chance influences 
+can be indicated by the range of average variability. This was 
+from 3.5 to 41.8 with the average at 24.2. 
+A further effort was made to determine whether there is any 
+relationship between efficiency in maze learning and variability. 
+This was done by comparing the individual’s average rank in 
+learning five mazes with his average variability. No definite re- 
+lationship was found except at the extremes where it would be 
+expected upon a priori grounds. 
+B. The relative influence of differences in individual ability and 
+chance upon group averages of scores in mage learning 
+This problem is an outgrowth of the results obtained by cor- 
+relating scores in maze learning. Since such results show that 
+chance and individual ability have a reciprocal influence upon 
+such scores, it is necessary that one should determine how these 
+two factors will interact when scores are combined into group 
+averages.
+-P-A-G-E-61
+    ABILITY VS. CHANCE IN LEARNING STYLUS MAZE 59 
+Two methods of attack were used upon this problem, (a) the 
+total group of 90 subjects was divided into smaller groups on the 
+basis of the subjects’ efficiency in maze 4, and the average scores 
+of such groups found for all five mazes; and, (b) the total group 
+of 90 subjects was divided into smaller groups by chance selections, 
+and the averages of such groups found for each maze. 
+By means of method (a), an effort was made to find two or 
+more groups of unequal ability, as indicated by the average scores 
+of such groups retaining their same relative positions for all five 
+mazes. The results show that (1) when the total of 90 subjects 
+is divided into groups of 45 each that the two groups so obtained 
+are of unequal ability when such inequality is judged on the basis 
+of the above criterion. 
+It was further shown that (2) the average difference in maze 
+ability of the groups is due, for the most part, to a limited number 
+of subjects within each group. These subjects were found to be 
+those who remained consistently in one or the other of the halves 
+in all five mazes, since when their records were removed the aver- 
+ages show the influence of individual ability to a much lesser 
+extent. 
+By means of method (b) an affort was made to obtain two or 
+more groups of the same ability, as indicated by the averages of 
+such groups fluctuating in their relative positions from maze to 
+maze. The results show that, within the limits of this experiment, 
+it was not possible to find groups which could be said definitely 
+to be of the same ability. However, when the. total of 90 sub- 
+jects was divided into groups of 45 each, the two groups thus ob- 
+tained were much more nearly of the same ability than when the 
+same group of 90 subjects was divided into two groups of 45 sub- 
+jects each by method (a). 
+This difference in the averages of groups selected by chance was 
+also found to be due to some extent to the same cases which were 
+responsible for it when the group was divided by method (a).  
+-P-A-G-E-62
+  60 WILLIAM T. HERON 
+C. The relationship between the scores in learning the maze and the 
+scores in learning the rational learning problem 
+This problem is distinct from those which have been under 
+consideration and is concerned with the question of the kind and 
+degree of relationship between the ability to learn the maze and 
+the ability to learn a more reflective type of problem. The 
+method of attack was again that of correlation of the scores in 
+the two types of problem. The results show that the relationship 
+between the abilities required to learn the two problems is very 
+small but in the majority of cases it is positive. This is indicated 
+by the fact that the highest correlation obtained is 0.30, and that 
+all coefficients which are four times the probable error or more 
+(of which there are five) are positive. 
+REFERENCES 
+(1) Peterson, JoserH: Experiments in rational learning. Psychol. Rev., 
+1918, xxv, 433. 
+(2) Wess, L. W.: Transfer of training and retroaction. Psychol. Rev. Mon. 
+Supp., 1917, xxiv, no. 104. 
+(3) Hunter, W. S.: Habit interference in the white rat and human subjects. 
+Jour. Comp. Psychol., 1922, ii, 29. 
+(4) Baae, H. J.: Individual differences and family resemblances in animal 
+behavior. Archives of Psychol., 1920, xxvi, no. 43. 
+(5) Henperson, E. N.: A study of memory. Psychol. Rev. Mon. Supp., 
+1903, v, no. 6. 
+(6) Tuornvixe, E. L.: The relation between memory for words and memory 
+for numbers, and the relation between memory over short and memory 
+over long intervals. Amer. Jour. of Psychol., 1910, xxi, 487. 
+(7) Tuornpixn, E. L.: Notes on practice, improvability and the curve of work. 
+Amer. Jour. Psychol., 1916, xxvii, 550. 
+(8) Bennert, Fayn: The correlation between different memories. Jour. Exper. 
+Psychol., 1916, i, 404. 
+(9) Pytu, W. H.: The psychology of learning. Baltimore, 1921. 
+(10) Lyon, D. O.: Relation of quickness of learning to retention. Archives of 
+Psychol., 1916, xxiv, no. 34. 
+(11) Ruea, H. O.: Statistical methods applied to education. Boston, 1917. 
+(12) Havent, W. F.: The interrelation of some higher learning processes. 
+Psychol. Rey. Mon. Supp., 1921, xxx, no. 6. 
+(18) Heron, W.T.: The reliability of the inclined plane problem box as a method 
+of measuring the learning ability of the rat. Comp. Psychol. Mon., 
+1922, i, no. 1, pt. 1. 
+ 
+-P-A-G-E-63
+  Directory of American Psychological Periodicals 
+American Journal of Psychology—Ithaca, N. Y.: Morrill Hall. 
+Subscription $6.50. 600 pages annually. Edited by E. B. Titchener. 
+Quarterly. General and experimental psychology. Founded 1887. 
+Pedagogical Seminary—Worcester, Mass.: 950 Main Street. 
+Subscription $5. 575 pages annually. Edited by G. Stanley Hall. 
+Quarterly. Pedagogy and educational psychology. Founded 1891. 
+Psychological Review—Princeton, N. J.: Psychological Review Company. 
+Subscription $4.25. 480 pages annually. 
+Bi-monthly. General. Founded 1894. Edited by Howard C. Warren. 
+Psychological Bulletin—Princeton, N. J.: Psychological Review Company. 
+Subscription $5. 720 pagesannually. Psychological literature. 
+Monthly. Founded 1904. Edited by Samuel W. Fernberger. 
+Psychological Monographs—Princeton, N. J.: Psychological Review Company. 
+Subscription $5.50 per vol. 500pages. Founded1895. Edited by Shepherd I. 
+Franz. Published without fixed dates, each issue one or more researches. 
+Psychological Index—Princeton, N. J.: Psychological Review Company. 
+Subscription $1.50. 200 pages. Founded 1895. Edited by Madison entley. 
+An annual bibliography of.psychological literature. 
+Journal of Philosophy—New York: Sub-station 84. 
+Subscription $4. 728 pages per volume. Founded 1904. 
+Bi-weekly. Edited by F.J.E.Woodbridge and Wendell T. Bush. 
+Archives of Psychology—Sub-station 84, New York: Archives of us yebolog y= 
+Subscription$5. 500 pp. per vol. Founded 1906. Edited by R. S. Woodworth. 
+Pubilshed without re dates, each number a single experimental study. 
+Journal of Abnormal Psychology and Social Psychology—Boston: 
+Subscription $5. Richard G. Badger. Edited by Morton Prince. 
+Bi-monthly. 482 pages annually. Founded 1906. Abnormal and Social. 
+Psychological Clinic—Philadelphia: Psychological Clinic Press. 
+Subscription $2.50. 288 pages. Edited by Lightner Witmer. Founded 1907. 
+Without fixed dates (9 numbers). Orthogenics, psychology, hygiene. 
+Training School Bulletin—Vineland, N. J.: The Training School. . 
+Subscription $1. 160 pagesann. Ed. by E. R. Johnstone. Founded 1904. 
+Monthly (10 numbers). Phycholdgy and training of defectives. 
+Comparative Psychology Monographs—Baltimore: Williams & Wilkins Co. 
+Subscription $5. 500 pages per volume. Edited by W.S. Hunter. 
+Published without fixed dates, each number a single research. 
+Psychoanalytic Review—Washington, D. C.:3617 Tenth St., N.W. 
+Subscription $6. 500 pages annually. Psychoanalysis. 
+Quarterly. Founded 1913. Ed. by W. A. White and S. E. Jelliffe. 
+Journal of Experimental Psychology—Princeton, N. J.: 
+Psychological Review Company. 480 pagesannually. Experimental. 
+Subscription $4.25. Founded 1916. Bi-monthly. Edited by John B. Watson. 
+Journal of Applied Psychology—Worcester, Mass.: Florence Chandler. 
+Subscription $4. 400pagesannually. Founded 1917. 
+Quarterly. Edited by James P. Porter and William F. Book. 
+Journal of Comparative Psychology--Baltimore: Williams & Wilkins Co. 
+Subscription $5. 500 pages (annually). Founded 1921. Bi-monthly. Edited 
+by Knight Dunlap and Robert M. Yerkes.  
+-P-A-G-E-64
+    
+AUTHORITATIVE BOOKS 
+CARRIERS IN INFECTIOUS DISEASES (Nichols) 
+THE BACTERIOPHAGE—ITS ROLE IN IMMUNITY 
+. (d’Hérelle) Authorized American Edition 
+THE DETERMINATION OF HYDROGEN IONS (Clark) 
+2nd Edition. Reprinted June, 1923 
+THE VITAMINE MANUAL (Eddy) 
+THE VITAMINES (Funk) 2nd Edition. 
+THE HEART RHYTHMS (Lamson) 
+ORIGIN AND EVOLUTION OF THE HUMAN DENTITION 
+(Gregory) 
+THE EMOTIONS (James-Lange) 
+DICTIONARY OF BOTANICAL sa der boomin ae 
+schwager and Smiley)...... 
+COLOR CHART OF INDICATORS (Clark). 
+EUGENICS, GENETICS AND THE FAMILY 
+EUGENICS IN RACE AND STATE. 
+EXHIBITS BOOK OF THE SECOND INTERNATIONAL 
+EXHIBITION OF EUGENICS 
+CHEMISTRY OF TUBERCULOSIS (Wells). 
+BACTERIOLOGY (Conn) 
+REST AND OTHER THINGS (Krause) 
+ENVIRONMENT AND RESISTANCE IN TUBERCU- 
+LOSIS (Krause) 
+JOB ANALYSIS AND THE CURRICULUM (Strong and 
+Uhrbrock). Paper, $1.00. Cloth 
+TUBERCLE BACILLUS INFECTION AND TUBERCU- 
+  LOSIS IN MAN AND ANIMALS (Calmetie). American 
+THE TUBERCULOSIS WORKER (Jacobs)... 
+BERGEY’S MANUAL OF DETERMINATIVE BACTERIOL- 
+OGY (Committee on Determinative Bacteriology of the 
+Society of American Bacteriologists 
+THE THERAPEUTIC USE OF DIGITALIS (Robinson) 
+CYANOSIS (Lundsgaard and Van Slyke) 
+WEATHER PROVERBS AND PARADOXES (Humphreys).. 
+TREE ANCESTORS (Berry) 
+WILLIAMS & WILKINS COMPANY 
+Publishers of Scientific Books and Journals 
+BALTIMORE, U.S. A.   
+  
+Witams & Wirxins ComPANy 
+Publishers of Scientific Books and Journals 
+Baltimore, Maryland, U.S. A. 
+Gentlemen: Send me 
+PADD REEMA MNT os sisds: 3) Vinislalle bisje' ac toven veiw’ ¢¢ Bieiy eves sige viele Solaire ieee oreienete 
+ 
+-P-A-G-E-65
+      
+Volume I 
+EUGENICS, GENETICS AND THE FAMILY 
+Volume II 
+EUGENICS IN RACE AND STATE 
+FOR 
+The Second International Congress of Eugenics 
+Committee on Publication 
+Caartes B. DavENPoRT, Chairman 
+Henry FarrFreEtp Osporn, Ex Officio 
+Crark WISSLER 
+H. H. Laucuum, Secretary 
+‘The Congress brought together in New York in September, 
+1921, four hundred of the leading students of heredity, of statis- 
+tics, of anthropology, and of eugenics from the United States, 
+England, France, the Scandanavian countries, Italy, Czecho- 
+Slovakia, and South American countries. 
+  One of the world’s great paleontologists, geologists and biologists spoke to the Congress: “I doubt if there has ever been 
+@ moment in the world’s history when an international conference 
+on race character and betterment has been more important.” 
+The presence of so many leaders resulted in the presentation of 
+THE MOST IMPORTANT PAPERS ON EUGENICS AND HEREDITY 
+THAT HAVE YET APPEARED. 
+These papers will be published in two volumes, splendidly 
+illustrated. No less that fifty illustrations of Exhibits, about 
+twenty-five to each volume, will appear. The genetic and anthropological papers naturally fall into one group—Eugenics, Genetics and the Family. The papers on genealogy and applied genetics will appear under the title—Eugenics in Race and State. Those desiring a broad foundation for eugenics will want both 
+Prices, net, postpaid 
+for United States 
+Both Volumes. 
+Single Volume. 
+May be ordered from your own bookseller or order direct from the publisher. 
+Wruams & Wroxms Company 
+Movnt Royat anp GUILFORD AVENUES 
+BALTIMORE, MARYLAND 
+Gentlemen: ~ 
+Enter my order for the volume(s) checked below: 
+(0 Volume I—EvcEnics, GENETICS AND THE FAMILY 
+( Volume II—Eucenics in RACE AND STATE Check 
+Volume 
+You Wish 
+*. Both Volumes.......... +» $11.00 
+Enclosed is $.. 
+  SIGRID Wesicticsc sloisin’s pins eintei dias 'a nes 
+ADDRESS .. 
+  Two Important Volumes 
+  .in payment, subject to 10 days approval 
+  volumes. Those desiring merely a special group of papers can obtain such papers in a single volume. 
+The volumes will be printed in such a way as to reflect 
+credit upon the Congress and the science with which it deals. 
+Printed on a fifty per cent rag paper, light natural color, bound 
+in blue linen weave book cloth and stamped in gold. The 
+illustrations will be printed on a special coated paper that 
+matches in color the text paper. Size: 6 x 9 inches. About 400 
+to 450 pages to each volume. Over fifty papers to each volume, 
+If you are interested in Wells’ “The Outline of History,” 
+Van Loon’s “The Pon of Mankind,” or Osborn’s “Men of 
+the Old Stone Age,” then you will read with a great deal of 
+pleasure EUGENICS, GENETICS AND THE FAMILY and 
+EUGENICS IN RACE AND STATE. No work o¥ suce 
+INTEREST AND THOROUGHNESS HAS APPEARED FOR MANY YEARS. The volumes ARE REPRESENTATIVE OF THE MOST MODERN 
+KNOWLEDGE of the principal American, British, French and 
+SearinevaD biologists and sociologists, and will be in wide 
+jemand. 
+eeeee $11.00 
+eee. $6.00 
+  Single Volume..............+ $6.00 
+   
+-P-A-G-E-66
+  Personnel 
+Research 
+Series 
+Job Analysis and Edited by 
+LEONARD OUTHWAITE 
+Volume I 
+The Curriculum 
+With special reference to the training of Printing Executives—- 
+By Epwarp K. Srrone, Jr., AND RicHArpD S. UHRBROCK 
+Personnel Research Series 
+This series has been created by Personnel 
+Research Federation to carry into the field 
+of book report and monograph publication 
+the type of service already established in 
+the periodical field by the Journal of Per- 
+sonnel Research. 
+The present volume constitutes the first 
+number of the Personnel Research Series, 
+which has been created to facilitate the 
+publication of the work of members of Per- 
+sonnel Research Federation, and of others 
+contributing to the study of personne! 
+problems. As such it is a pleasure to call 
+attention to some of its special character- 
+istics; the fact that it advances definite in- 
+formation in one field of personnel activity, 
+the fact that it illustrates the development 
+of a method and extends its use, the fact 
+that it presents its procedure, methods and 
+conclusions through the medium of a 
+straight-forward and readable exposition, 
+the fact that it will be welcomed with inter- est not only by the technicians in personnel 
+research but by an important industrial 
+group as well, and the fact that it is the 
+result of a codperative effort on the part of 
+an academic and an_ industrial group. 
+These are features which it is hoped will be 
+matieinel in subsequent numbers of the 
+eries. 
+The Series will be issued in a form that 
+will be convenient as to size, legible as to 
+type and reasonable as to prices, the inten- 
+tion being to give each volume the widest 
+possible circulation, both among those 
+interested in research work and those en- 
+gaged in practical personnel administra- 
+tion. While edited under the auspices of 
+Personnel Research Federation, the Series 
+will not be an integral part of the Journal. 
+Each number of the Series will be issued 
+separately. Probably the differences in 
+length and printing cost will make neces- 
+sary varying prices. 
+  
+ORDER FORM 
+WILLIAMS & WILKINS COMPANY 
+Mr. Roya anp GuiLrorD AVENUES 
+Bautimore, Maryann, U.S. A. 
+GENTLEMEN:—Kindly enter an order for one copy of JOB ANALYSIS AND THE 
+CURRICULUM by Strong and Uhrbrock. Remittance for $2.00, Cloth Edition—$1.00, 
+Paper Edition, United States, Canada, Mexico, Cuba; ($2.25, Cloth Edition—$1.25, Paper 
+Edition, other countries), is enclosed to cover. 
+   

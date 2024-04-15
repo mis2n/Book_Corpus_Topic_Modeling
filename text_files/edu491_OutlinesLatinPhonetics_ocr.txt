@@ -1,0 +1,4845 @@
+-P-A-G-E-1
+OUTLINES OF LATIN PHONETICS
+-P-A-G-E-2
+
+-P-A-G-E-3
+  OUTLINES 
+OF 
+BEATIN: PHONETI@? 
+BY 
+PROFESSOR MAX NIEDERMANN 
+EDITED BY 
+PROFESSOR H. A. STRONG, M.A., LL.D., 
+EMERITUS PROFESSOR OF LATIN, LIVERPOOL UNIVERSITY 
+AND 
+H. STEWART, B.A. 
+LECTURER IN CLASSICS, LIVERPOOL UNIVERSITY 
+  LONDON: 
+GEORGE ROUTLEDGE & SONS, LIMITED 
+NEW YORK: E. P. DUTTON & CO. 
+1910 
+ 
+-P-A-G-E-4
+
+-P-A-G-E-5
+    INTRODUCTION. 
+Iv has long been recognised that the methods of teaching 
+Latin grammar in vogue in England are marked by an 
+absence of scientific accuracy and by a neglect of philo- 
+logical principles. The conditions that Professor Meillet 
+in his foreword to this book describes as existing in France 
+obtain in this country as well : ‘Separated from all modern 
+conceptions, and still scholastic in its essence and formation, 
+grammatical instruction has become a dead element; it 
+is confined to facts unconnected by any ideas or connected 
+only by ideas which are now obsolete and conflicting with 
+everything else learnt by the pupil. Thus every day 
+opinion becomes more hostile to grammar, and every year 
+fewer hours are assigned to a subject the barren nature 
+of which is felt by every one. Yet,’ as the same critic 
+continues, ‘it might be thought that a science the essen- 
+tial object of which is to study the principal means of 
+expression of human thought might deserve the attention 
+of schoolboys, and be capable, if properly taught, of 
+awakening their lively interest.’ 
+In the hope, then, of filling to some extent an admitted 
+blank in the public school curriculum, the editors have 
+translated this little Book, which has met with a large 
+measure of favour on the Continent. It may prove use- 
+ful in University courses as well as in schools. It was 7     3969
+-P-A-G-E-6
+   
+   vi LATIN PHONETICS 
+intended, however, not for students, but for schoolboys 
+between the ages of fifteen and eighteen with a sufficient 
+grounding in the elements of Latin. The author has 
+omitted references to Greek, believing that a large 
+majority of such boys know nothing, or next to nothing, 
+of that language; and, as Professor Meillet remarks with 
+justice, this has also definite advantages from a purely 
+scientific point of view: Latin has closer connections 
+with Oscan and Umbrian and the Celtic dialects than 
+with Greek. 
+The translators have compiled an index, but have 
+refrained, except in a few instances, from inserting notes, 
+not only from reluctance to burden the outline with 
+additional matter, but chiefly in the conviction that 
+further elucidation and comment should be left to the 
+teacher. 
+* before a word indicates a hypothetical form restored 
+by induction. 
+> means ‘developed into’; te, ¢ > ¢ means 
+developed into %.’ 
+0.L. = Old Latin. 
+)( means ‘contrasted with.’ 
+A small dash before or after, or both before and after 
+a letter or a combination of letters, marks an initial, 
+final, or medial sound; ¢.g., s-=initial s, -s=final s, -s-= 
+medial s. 
+Since Latin presents numerous grammatical coincidences 
+with Greek, Celtic, Slavonic and several other languages, 
+we must conclude that all these languages develop from a 
+ 
+-P-A-G-E-7
+  INTRODUCTION vii 
+a common source, that they continue a prehistoric common 
+language just as French, Italian, Spanish, etc., continue 
+Latin. This prehistoric language is known as the Indo- 
+European ; its various transformations, represented by the 
+languages to which we have just referred, are called Indo- 
+European languages. 
+The stem of a word is that part of it which remains 
+after the termination is cut off. The termination is the 
+variable element which serves to indicate the part played 
+by the word in the sentence. Thus diic- is the stem of 
+dux, manu- of manus, ama- of amare, and so on. The 
+division into stem and termination in Latin is often 
+difficult, and in several cases quite impossible without 
+the help of its cognate languages. Sometimes the stem 
+cannot be reduced further, as, for example, dic in dua, 
+but generally it can be split up into two quite distinct 
+factors, each of which is found in other combinations. 
+Consider, for example, cantu-, the stem of cantus, -iis. 
+The element can- is seen also in cano, canor, cantor, etc., 
+and the element -tu- in gustus, -iis ; partus, -iis ; sumptus, 
+-as, etc. Similarly the analysis of riubé-, the stem of 
+riibére shows a factor ru%b- which is contained also in 
+ruber, rubor, ribia (‘madder,’ a plant from whose roots 
+is made a red dye), and a factor -é- found in calére, 
+latére, nitére, etc. Of these two constituent elements of 
+the stem the first is called the root, the second the suffix. 
+Thus a word consists normally of three parts—root, suffix, 
+and termination.! 
+1 [From * on is translated from the French. Editorial notes are indi- 
+cated throughout by square brackets. ]
+-P-A-G-E-8
+   
+-P-A-G-E-9
+LATIN PHONETICS. 
+PRELIMINARY OBSERVATIONS. 
+§ 1. Puonerics is the science dealing with the sounds 
+which constitute language. By sounds are meant all the 
+impressions that are made on our organs of hearing, 
+determined by the modifications which the organs of 
+speech produce on the current of breath issuing from the 
+lungs. These impressions may be investigated from two 
+points of view: (1) from that of their physiological pro- 
+duction, and (2) from that of their historical development. 
+Indeed, sounds depend for their development on space 
+and time. The transformations which they undergo occur 
+unconsciously, 7.¢., independently of the will or reflection 
+of the speaker. They are brought about by imperceptible 
+gradations, and according to unchangeable laws. That is to 
+say, all sounds, or groups of sounds, if exposed to identical 
+conditions, develop with absolute regularity. Exceptions 
+to this rule, which is the fundamental principle of the 
+linguistic method, are merely apparent. ‘They are mostly 
+to be explained as being the result of disturbances 
+in the normal course of phonetic laws brought about 
+by a psychological cause, which we call analogy. For 
+example, in Latin, in an open medial syllable (7.e., where 
+the vowel is followed by a single consonant only), a 
+short @ appears unchanged in such words as comédo,
+-P-A-G-E-10
+2 LATIN PHONETICS 
+appéto, obtégo, disséco, subvénio ; while it becomes ? in such 
+words as praesédeo ()(sédeo), constiti ()(stéti), colligo 
+() (lego), auspicis (genitive of auspéx), susténeo ( )( téneo). 
+But we must be careful not to regard this difference of 
+treatment as a capricious trick of language. As a matter 
+of fact, the transition of ¢ into % took place in all the 
+words mentioned ; but analogy has restored the original 
+& in comédo, appéto, obtégo, disstéco, subvénio, in order to 
+accentuate their affinity with édo, péto, etc. Thus analogy 
+acts with a levelling tendency on words related by gram- 
+matical function or signification. 
+ 
+-P-A-G-E-11
+GENERAL THEORY OF SOUNDS 3 
+GENERAL THEORY OF SOUNDS. 
+§ 2. Spoken language is produced by the current of air 
+issuing from the mouth in the shape of breath. The 
+breath, expelled from the lungs, passes first through the 
+windpipe and then into the larynx. The larynx is formed 
+of several cartilages, between which are stretched two 
+membranes—the vocal chords. Between these again lies a 
+slit called the glottis. If the current of breath finds the 
+glottis closed, it forces its way out by a series of jerks 
+which set the vocal chords in vibration. On the other 
+hand, if it finds the glottis open, it passes freely through, 
+and sets up no movement of the vocal chords. In the 
+former case the sound produced is said to be voiced; in 
+the latter case, breathed. A simple method of testing to 
+which of these two categories any given -sound belongs is 
+to close the ears while uttering the sound. If you hear 
+a buzzing noise in the head, the sound produced is voiced ; 
+if no buzzing sound is heard, it is breathed. After passing 
+through the glottis the breath enters the pharynx, from 
+which it escapes through the mouth or the nose, or 
+through both exits simultaneously, according as the soft 
+palate, a membraneous partition between the cavity of 
+the mouth and that of the nose, is raised, depressed, or 
+held in balance in an intermediate position by its muscles. 
+The mouth plays a double part in sound production. 
+Sometimes it serves merely as a sounding-board to the 
+sound produced in the larynx; at other times, by a series 
+of stoppages, or narrowing processes, it puts various 
+ 
+-P-A-G-E-12
+  4 LATIN PHONETICS 
+obstacles in the way of the breath. Consequently sounds 
+are divided into (a) those in the utterance of which 
+the mouth cavity maintains unchanged the position it 
+has once adopted, and (b) those which depend entirely 
+or mainly on a closing or opening movement. The 
+former are called vowels; the latter consonants. It is 
+important, however, to notice carefully that one cannot 
+draw an absolute line between these two classes of 
+sounds [eg., the sonant use of consonants J, m, n (also 
+ng, 1.¢., %), 7, 2, represented as J, m, etc., spelt, eg., 
+rattle, Birmingham, written, can give, as; fr is not 
+represented in English, but is common in German, ¢g., 
+‘butter.”] On the other hand 7, ou, w are true vowels in 
+the French words je lie, je tue, je loue; but as they 
+admit of a distinct raising of the tongue, they can act 
+also as movements of closing and opening, that is to 
+say as consonants; compare nous lions, nous tuons, nous 
+louons, where, in modern French, each word is pronounced 
+as a monosyllable. With this reservation we may for 
+convenience maintain the accepted terms vowel and 
+consonant. 
+§ 3. Starting with the neutral vowel a, which is pro- 
+nounced with the tongue lying loosely on the base of the 
+mouth cavity, we may divide the vowels into front and 
+back vowels. This distinction is based upon whether the 
+tongue lies bunched in the front or the back part of 
+the mouth. Another possible division may be drawn 
+dependent on the vertical distance between the top of 
+the arched part of the tongue and the roof of the hard 
+palate. In this way we distinguish between low and high 
+yowels, more commonly known as open and close vowels.1 
+1 Of. Giles, § 79,
+-P-A-G-E-13
+  GENERAL THEORY OF SOUNDS 5 
+Two vowels of different timbre or acoustic quality, 
+uttered without break in the same syllable, constitute 
+a diphthong. 
+Diagram of the Organs of Speech (after Vietor). 
+   (a) nasal cavity. 
+(b) hard palate. 
+(c) soft palate. 
+(d) mouth cavity. 
+(e) tongue. 
+(f) pharynx. 
+(g) hyoid bone. 
+(h) epiglottis. 
+(i) rima glottidis. 
+(%) vocal chord. 
+(2) thyroid cartilage. 
+(m) laryngal cavity. 
+(n) tracheal rings. 
+(0) air tube. 
+(p) oesophagus. 
+§ 4. Consonants fall into two main categories: close 
+or stops, and narrow. The first are characterised by a 
+complete stoppage, the latter by a mere narrowing of 
+the air passage. The stops are instantaneous explosive 
+sounds; the narrow, on the other hand, can be maintained 
+for a more or less long time. Hence the stops are some- 
+times called ‘momentary’ and the narrow ‘continuous’ 
+sounds. The narrow are divided into four categories, 
+which are named after the manner in which the air
+-P-A-G-E-14
+  6 LATIN PHONETICS 
+escapes in the process of their production: Fricatives or 
+Spirants, Trilled Consonants, Lateral or Divided Con- 
+sonants (these last two are often spoken of by the common 
+name of Liquids), and Nasals. 
+In the production of spirants the current of air finds 
+the breath passage of the mouth narrowed, and produces 
+a rubbing sound. 
+The trilled consonants are determined by the rapid 
+vibration against the teeth roots of an elastic organ (the 
+uvula or tip of the tongue), which is displaced by the 
+breath, and then returns to its former position [or by 
+vibration of the flexible parts of the mouth between 
+themselves, ¢.g., the lips]. 
+Divided consonants are formed when the tip or back of 
+the tongue is pressed against the central line of the hard 
+palate, from the teeth to the soft palate, and blocks the 
+path for the breath, which escapes sideways. 
+Finally, the nasals are produced when the mouth is 
+closed, but the soft palate lowered, so that the air can 
+pass freely through the nose. 
+Another division of the consonants may be made accord- 
+ing to the place in the mouth where the obstacle arises, 
+which conditions the sound characteristic of each. 
+[Divided thus there are seven main classes :— 
+(1) Velar, back or guttural, formed by the root of the 
+tongue and the soft palate (velum), ¢g., ch as in Scotch 
+loch (spirant); ng or 2a as in being (nasal). 
+(2) Palatal or front, formed by the middle of the tongue 
+and the hard palate, ¢.g.,& before ¢ or 7 in such words as 
+Kent, kindred (stop). 
+(8) Cerebral, formed by the blade of the tongue and the 
+front of the hard palate, ¢9g., s=sh, y=2h, as in daze 
+(spirant). 
+(4) Dental (alveolar), formed by the tip of the tongue
+-P-A-G-E-15
+GENERAL THEORY OF SOUNDS a 
+and the roots of the upper teeth, ¢.g., t as in temper (stop) ; 
+sas in swmmer (spirant); as in nowhere (nasal). 
+(5) Interdental, formed by the tip of the tongue and the 
+tips of the front teeth, ¢.g., th as in then, thin (spirants). 
+(6) Labiodental, formed by the lower lip and upper 
+teeth, ¢.g., f and v as in fall, veal (spirants). 
+(7) Labial, formed by the upper and lower lips, ¢.g., p, 6, 
+w, m (and sometimes 7 when used alone as an ejaculation), 
+as in pile, beer (stops); woman, man (nasals).]
+-P-A-G-E-16
+8 LATIN PHONETICS 
+CLASSIFICATION OF THE LATIN SOUNDS. 
+§ 5. The Latin vowels may, according to the principles 
+laid down above, be represented by the following scheme, 
+which shows the different positions of the tongue :— 
+Tongue 
+in front of mouth. in back of mouth. 
+least 2 Gu 
+most———> a Space between 
+tongue and palate. 
+Note.—The vowel y, net mentioned in the scheme, occurs 
+only in Greek loanwords (see § 6, note iv. 3). 
+There were four diphthongs in classical Latin, viz. :— 
+ew (very rare, see § 22), ae, au, oe. 
+§ 6. In the following Table the consonants are classified 
+from the double standpoint of the form and place of 
+their articulation :—
+-P-A-G-E-17
+CLASSIFICATION OF THE LATIN SOUNDS 9 
+Form of 
+Articulation. 
+  
+Stops. Narrow. 
+    pai seal. 
+Nasals. | Divided. | Trilled. | Spirants. Place of 
+Articulation. 
+voiced. 
+breathed. 
+voiced. 
+breathed. 
+voiced, 
+breathed. 
+voiced. 
+breathed. 
+voiced. 
+breathed. 
+  Labials. a 
+  Dentals. 
+  
+[7 
+  
+Gutturals. 
+ek, q 
+        
+[For fuller table see Giles, table opposite, p. 90.] 
+ 
+-P-A-G-E-18
+  10 LATIN PHONETICS 
+NoTEs. 
+(i.) The place of articulation of the guttural stops is not 
+fixed. The tongue touches the palate more or less back 
+according to the acoustic quality of the following vowel. 
+Before ¢ and ¢ the position is at the hard palate; before a 
+at the middle of the palate, i.¢, half-way between the 
+hard and soft palates ; before o and wu at the back part of 
+palate, i.¢., the soft palate or velum. It is probable that 
+in O.L, the use of the three symbols ¢, &, g, corresponded 
+to these three positions. Indeed, it seems that originally 
+c was as a rule written before i and e¢ (civis, céna), k before 
+a (kipitit, kirus), q before o and wu (gimés, gira). Gradually, 
+however, the use of ¢ became general; & disappeared and 
+left but a few traces in certain abbreviations, e.g., K=Kaeso 
+(proper name), K or KAL=ciilendae, KA =ctipitalis, KK =cast- 
+rorum, ete. ; while g was retained only in the combination qu, 
+which denoted the breathed labialised guttural in words 
+like qui, quae, quod (§ 39). Latin recognised also two kinds 
+of the narrow divided J, which was articulated sometimes 
+at the root of the upper front teeth (palatal 7) ; sometimes 
+at the soft or velar palate (velar 2). The 7 was palatal, 
+(a) when initial; (}) when medial before 7; (c) in cases 
+of doubled 77. It was velar (a) when final; (5) when 
+medial before ¢, a, 0, u, and before a consonant. 
+(ii.) The sound represented by Latin f was originally 
+formed by pressing the lips together. But ata relatively 
+early period this bilabial! changed into a labiodental f, 
+which, as in English, French, and German was produced 
+by the pressure exercised by the upper front teeth on the 
+lower lip. 
+(iii.) 22 denotes the guttural nasal, for which the Latin 
+alphabet like English, French, and German possessed no 
+special symbol. Before a guttural stop this sound was 
+written n, as in angulus and anceps; before a nasal, g as 
+in dignus (§ 69). The poet Accius (170-94 B.c.), proposed to 
+employ g before gutturals as well, as was done in Greek. 
+Thus instead of angulus, anceps, ancora, etc., he would 
+  
+1 [See Edmonds, pp. 77, 78. The bilabial f was represented in early 
+Latin by fh, ¢.g., FHEFHAKED, the old form of fecit.]
+-P-A-G-E-19
+  CLASSIFICATION OF THE LATIN SOUNDS 11 
+have written aggulus, agceps, agcora. His suggestion, how- 
+ever, was not adopted. 
+(iv.) In the scheme given above the following letters are 
+omitted :— 
+(1) kh, which was mute in classical times as in modern 
+French (§ 44). 
+(2) j and v, which were semi-vowels, at least as late as 
+the first century A.D., ¢.e., consonantal forms of the vowels 
+zandu. Their sounds were equivalent to those heard in 
+zand wu respectively in the French pierre (pronounced pyér 
+and échouer (pronounced échwé). The use of the letters j 
+and » dates from modern times. Their introduction is due 
+to the scholars of the Renaissance. In this book these 
+convenient symbols will be employed to represent initial 
+consonantaliandw. The Latin alphabet, however, knew 
+only ¢ and w. 
+(3) The voiced dental spirant z, which was unknown in 
+genuine Latin words, ¢f. Quintilian, Instit. Orat., xii. 10, 
+28; namque est ipsis statim sonis durior (i.e., Latina 
+facundia) quando et jucundissimas ex Graecis litteras non 
+habemus, vocalem alteram, alteram consonantem, quibus 
+nullae apud eos dulcius spirant, quas mutuari solemus 
+quotiens illorum nominibus utimur—quod cum contingit, 
+nescio quomodo velut hilarior protinus renidet oratio, ut in 
+zephyris et zophoris: quae si nostris litteris scribantur, 
+surdum quiddam et barbarum efficient. 
+(4) The breathed aspirate stops ch, ph, th, originally 
+restricted to Greek loanwords borrowed at a compara- 
+tively late period, such as chdrus, machina, philirum (a 
+love charm), romphaea (a broad-sword), thésawrus, cithira. 
+Under the influence of these aspiration was introduced, 
+it is true, from the end of the second century B.C., in a 
+certain number of words of genuine Latin origin, as in 
+pulcher (the pronunciation pulcer was obsolete in Cicero’s 
+time, as he himself informs us, cf. Orator, 48, § 160); s%pul- 
+chrum (a pronunciation which in Cicero’s time was not 
+common, and one which Cicero personally rejects (cf. 
+Orator, loc. cit.), limpha (spring water), sulphur, ete. 
+(§ 35). 
+(v.) The difference which manifests itself in English in 
+the names given to the letters denoting the consonants (f,
+-P-A-G-E-20
+12 
+  LATIN PHONETICS 
+l,m, n, 7, 8, being called ef, ell, emm, enn, ar, ess, while on 
+the other hand, }, c, d, g, k, p, q, t are called bee, cee, dee, 
+gee, kay, pee, kew, tee) goes back to ancient times with the 
+reservation that until the second half of the fourth century 
+A.D. the letters of the first group named /, J, m, etc., were 
+pronounced without any supporting vowel. Thus up to 
+this time they were ‘litterae per se nominativae sive quae 
+per se prolatae nomen suum ostendunt’ (Charisius, i. p. 9, 
+4 K and Priscian, ii. p. 8, 10 K) just like a, e, 7, 0, wu 
+Hence the Roman grammarians called them semivocales 
+in opposition to }, ¢, d, g, ete., which were called mutae ; 
+‘quod per se sine adminiculo vocalium non possunt enun- 
+tiari’ (Diomedes, i. p. 428, 24 K). 
+ 
+-P-A-G-E-21
+LATIN ACCENTUATION 13 
+LATIN ACCENTUATION. 
+§ 7. In the sound groups which we call words, one of 
+the syllables in each word may be brought into promin- 
+ence either by strong muscular effort or by a more or less 
+marked elevation of the voice. 
+The degree of prominence obtained by special energy 
+in articulation forms the stress accent, or, shortly, ‘the 
+accent’; that which is due to the change from a lower to 
+a higher musical note makes the pitch accent or tone. 
+Now, accent and tone may exist simultaneously in one 
+and the same language. This was the case in pre-literary 
+Latin. Independently of the alternations, inherited from 
+the Indo-European language, of high and low syllables, a 
+sharply-marked stress accent had begun to mark the first 
+syllable of words. But at the beginning of the literary 
+period this stress accent disappeared, as it was ill-suited 
+to the genius of the Latin language, in which the quan- 
+tity of the syllables was strictly marked. From the 
+second century B.c. down to the fourth century a.p., 
+Latin possessed merely a pitch accent or tone, the place 
+of which was regulated by the quantity of the penultimate 
+syllable. 
+There are no traces left to show that before the Romance 
+period the pitch accent exercised any influence whatever 
+on the sound system of Latin. On the other hand, the 
+initial stress accent has profoundly altered the original 
+vowels of medial syllables by strengthening ‘the initial 
+syllable at their expense. Still, it is remarkable that this 
+influence is manifest only in the short vowels. Not only
+-P-A-G-E-22
+  14 LATIN PHONETICS 
+did the long vowels, in spite of the influence of the stress 
+accent, maintain both their acoustic quality and length, 
+but it was nothing else than the struggle between the 
+long and the stressed syllables—which gave rise to two 
+opposed rhythms—that caused the initial stress accent to 
+disappear. 
+[Wote.—The views above given are those traditionally 
+held by French scholars. The Germans maintain, almost 
+without exception, that even in historical times the stress 
+accent was far stronger than the musical one, and they 
+explain the evidence of the Roman grammarians, which 
+is suitable only to a musical accent, as mere thoughtless 
+application of the terms used by Greek scholars when 
+discussing Greek piteh accent.]
+-P-A-G-E-23
+DEVELOPMENT OF THE LATIN VOWELS 15 
+DEVELOPMENT OF THE LATIN VOWELS. 
+Changes due to Initial Stress Accent. 
+§ 8. The results of initial stress accentuation may be 
+referred to two main phenomena :— 
+(1) Change of the timbre or acoustic quality of short 
+medial vowels: umlaut, or Vowel-weakening, 
+(2) The disappearance or Syncope of short medial 
+vowels. 
+It has not yet been possible to draw a definite line of 
+demarcation between these two classes : 7.¢., to explain why 
+in one word the vowel has disappeared, instead of being 
+merely weakened, and vice versd. All that we can safely 
+say is that vowel-weakening invariably comes into opera- 
+tion where syncope has not taken place. 
+Vowel-weakening (umlaut). 
+§ 9. The weakening of short medial vowels under the 
+influence of the initial stress accent varied, according as 
+these vowels occurred in an open or close syllable, ¢.e., 
+according as whether only one or more consonants followed 
+them. We have therefore to examine their treatment 
+separately in either of these two positions. 
+A. Vowel-weakening in an Open Medial Syllable. 
+§ 10. In an open medial syllable, except before r and 
+after 7, all short vowels, without regard to their original 
+acoustic quality, passed into one of the two closest short 
+   
+-P-A-G-E-24
+  LATIN PHONETICS 
+vowels i or i. The appearance of % or % depended on the 
+nature of the neighbouring sounds. Thus we have :— 
+(1) i before d, ¢, n, g, ¢; 
+(2) i before 7 followed by 7, but % before Z followed 
+by any other vowel; 
+(3) { or & respectively before the labial sounds 6, p, 
+J, m; it has not as yet been possible to formulate 
+definitely the laws which decided on the choice 
+of the one rather than the other. 
+EXAMPLES. 
+(1) (a) i remains: 
+video; pervideo, évidens, providus. 
+eito (I set in motion); excito, suscito. 
+minuo ; comminuo, imminuo. 
+rigo; irriguo, irriguus. 
+mico; dimico, émico. 
+vicis, gen. (nom. not in use) ; invicem. 
+(b) é>%: 
+sédeo ; obsideo, praesideo, 
+dedi; reddidi, tradidi. 
+miédius ; dimidius, 
+stéti; déstiti, restiti. 
+stipts, nom. (from *stipéts) ; gen. stipttis. 
+péto ; compitum, ‘a crossway.’ 
+tinéo ; abstineo, sustinéo. 
+flumin ; gen. fluminis. 
+légo; séligo, colligo. 
+régo ; érigo, porrigo. 
+ausp2x (=auspecs, from “*iivi -sp%e-s) ; auspicis, gen. 
+(c) &>t: 
+cddo ; cecidi, decido, incido, succiduus. 
+ita; ittidem. 
+fatéor ; diffiteor, profiteor. 
+stdtuo ; restituo, substituo. 
+ditus ; éditus, proditus. 
+riétus, ‘ratified’; irritus. 
+cdno ; cecini, concino, praecino, tibicinium, 
+digo ; abigo, transigo, prodigus,
+-P-A-G-E-25
+(2) 
+(3)   
+DEVELOPMENT OF THE LATIN VOWELS 17 
+pango (root pég); pepigi. 
+téngo (root tag); tétigi. 
+facio ; conficio, officio, difficilis, aedificium. 
+tdceo ; conticesco, reticeo. 
+fdcetus ; inficetus. 
+(d) 8>%: 
+Wceus (in O.L. stldcus according to Quintilian, Jnstit. 
+Orat. i. 4, 16); ilico, from *in stldcd. 
+novis (which became noviis in the Augustan period 
+(§ 29)) ; novitas, from *novétas. 
+(e-) G>t: 
+capit ; capitis. 
+corna (stem corn%-) ; corniger. 
+maniis (stem mani-); manica, ‘sleeve’ or ‘ handcuff.’ 
+Exilium but exilans. 
+familia, the body of dwellers in one household, with 
+special reference to the body of slaves under one 
+master ; but famélus. 
+Sicilia, but Sictlus, 
+similis, but similo. 
+Compare also—desilio, a compound of sdlio; and sediilo, 
+‘with real earnestness,’ from *sé dvl6, 
+habeo ; adhtbeo, prohtbeo. 
+tdéberna ; contibernalis. 
+litbet ; quodltbet (from compounds of this kind a form 
+ltbet established itself, which entered into competition 
+with the original form, li#bet, and finally ousted it). 
+arctis, nom, sing. ; arctibus, dat. abl. plural. 
+mantis; mantbus, dat. abl. plural. 
+Compare also :— 
+intibum and int#bum, ‘chichory.’ 
+auctps, nom. ; auciipis, gen. 
+mancéps ; manciipis, archaic form, and mancipis, classi- 
+cal form of the gen. 
+edpio ; rectpero and rectipero. 
+acetpio, but occipo. 
+répio ; surripio, but in Plautus surripui. 
+aurifex and aurtifex. 
+manifestus (classical form) and maniifestus (archaic 
+form). 
+B
+-P-A-G-E-26
+18 LATIN PHONETICS 
+ferimus, legimus, but posstimus, voliimus. 
+specimen, but doci#mentum. 
+In the case of the superlatives in -émus and -d#mus, as 
+optimus and optimus, Quintilian tells us that the medial 
+vowel which was weakened represented a sound half-way 
+between 7 and % (Insti. Orat., i. 4, 8: medius est quidam 
+w et @ litterae sonus: non enim opt#mum dicimus aut 
+optimum). He states also that w was the archaic and ¢ 
+the classical spelling (ib., i. 7, 21): jam optimus, maximus, 
+ut mediam litteram quae veteribus w fuerat acciperent, 
+Gai primum Caesaris inscriptione traditur factum. This 
+remark is generally confirmed by the orthography of the 
+inscriptions and the best manuscripts, which permits us 
+to apply it further to a certain number of other words 
+belonging to this third group (¢f eg., the genitive man- 
+cupis, mancipis ; manvfestus, manvfestus mentioned above). 
+At the same time it is to be noticed that as regards 
+mintmus no form min#mus appears to be proved, and 
+this fact, together with the contrast of ferémus, legimus, 
+with poss#mus, vol#mus, and of specimen with doc#men- 
+tum, seems to suggest a certain influence exercised by 
+the vowel of the first syllable on the acoustic quality of 
+the vowel of the second syllable. In other cases, as in 
+that of acc%pio )( occ%po, it seems more probable that 
+the vowel of the syllable which followed determined the 
+acoustic quality of that which was weakened. 
+§ 11. Before » every short medial vowel has the acoustic 
+value of é. 
+EXAMPLES. 
+Nom, cinis; gen. cinéris (from *cinisis, *ciniris (§ 41)). 
+pulvis ; pulvéris. 
+Falisci ; Falzrii from *Falisii, *Falirii (§ 41).
+-P-A-G-E-27
+DEVELOPMENT OF THE LATIN VOWELS 19 
+legifer ; legérupa, ‘law breaker’ (this form is testified to 
+by the best MSS. of Plautus, Persa, 68). 
+férus ; efferus. 
+verbér ; verbéris. 
+dére ; reddére, tradére. 
+pario ; peperi, repério. 
+Compare further—legére, numérus, volneris (volnus). 
+§ 12. Lastly, & represents the weakened vowel after 7. 
+EXAMPLES. 
+pittas, variztas (derived from piiis and varius, older 
+forms pivs, varids, like novitas from novis (§ 10, 1, d)). 
+abittis, ariztis, parittis, genitives from abiés, ariés, pariés 
+(the long vowel in the nominative of these three words is 
+exactly comparable with that of pés )( pédis). 
+B. Vowel-weakening in Closed Medial Syllables. 
+§ 13. In a closed medial syllable & became ¢ irrespective 
+of its neighbouring sounds; 0 became % from the end of 
+the third century B.c., except after «w, whether vocal or 
+consonantal, when it was retained in writing until the 
+commencement of the Augustan Era.!' The other vowels 
+remained unchanged. 
+EXAMPLES 
+1, &>é: 
+dirceo ; coérceo, exérceo. 
+carpo ; discérpo, excérpo. 
+sedndo ; ascéndo, desezndo. 
+tracto; detrécto, obtrécto. 
+fictus ; efféctus, refectus, 
+jactus ; abjéctus, subjéctus. 
+filo ; fefelli. 
+pdreo; pepéerci. 
+annus; bignnium. 
+1 [Probably because of the confusion entailed by the collocation wu.]
+-P-A-G-E-28
+20 LATIN PHONETICS 
+bdrba ; imbérbis. 
+aptus ; ingptus. 
+2. 0>%: 
+O.L. endéstruos, ‘industrious,’ properly ‘ working within 
+one’s head,’ from end, ‘ within,’ and striio, ‘I build’: of. 
+Paulus Diaconus, p. 75, 28 Th.: industrium antiqui 
+dicebant endostruom quasi qui, quidquid ageret, intro 
+strueret et studeret domi. Classical form indéstrius. 
+mént-, stem of mons (with compensatory lengthening 
+of 8 (§ 25, 2)). 
+prominturium (this and not proménturium is the 
+proper spelling). 
+O,L. Venos,! Venéris (the form Venos is found on two 
+very old mirrors); venistus. 
+On the other hand, during the whole Republican period 
+the pronunciation of the 8rd pers. plur. pres. indic. of 
+frior and séquor was exclusively fridntur, séquéintur 
+(§ 29). 
+3. 4, &, j remain unchanged : 
+disco ; dedisco, perdisco. 
+firmus ; infirmus. 
+séntio; conséntio, disséntio. 
+s@rvos ; consérvos. 
+fiindo ; effiindo, transfiindo. 
+ciirvos ; reciirvos. 
+Effect of Analogy and Particular Cases. 
+§ 14. The regular action of these laws that effected 
+the vowel weakenings was frequently crossed by analogy. 
+Thus, for instance, the compounds comédo, dedécus, 
+posthdbeo, perfdcilis, convdco, bifdris, dispito, impédicus, 
+illécrimor, subréncidus, addpto, etc., were remodelled 
+on the simple words édo, décus, habeo, facilis, vdco, foris 
+(generally in the plural fdres) puto, pddicus, ldcrimo, 
+rdncidus, dpto. The form which followed the natural 
+law of sound change is found sometimes retained in 
+1 [Properly a neuter noun.)
+-P-A-G-E-29
+  DEVELOPMENT OF THE LATIN VOWELS 21 
+popular speech. Thus, to take one example, the written 
+language recognised only the form sepdro (from séd, a 
+prefix denoting separation, and paro, ‘I put on an equal 
+footing’! (§ 57)), which was due to analogy. Certain vulgar 
+texts, however, exhibit sepéro, and their testimony finds 
+confirmation in the Romance languages, ¢.g., Fr. sevrer, 
+‘to wean,’ ‘to deprive’; sepdrare would have produced 
+*severer [thus the Romance languages seem to postulate 
+alécrem beside aldcrem; of. Grandgent, Introduction to 
+Vulgar Latin, § 194]. 
+In corpéris, gen. of corpus, decdris of decus, tempéris 
+of tempus, which stand for * corpéris, * decéris, * tempéris, 
+where the ¢ should, according to rule, have been main- 
+tained, 0 comes from the old nominatives * corpds, * decds, 
+*tempds: the regular vowel has maintained itself in the 
+adverb tempéri (‘at the right time,’ ‘punctually’). This 
+word was exempted from the influence of analogy by the 
+fact that it did not fall under the regular paradigm. 
+In other cases the result of the laws of vowel-weakening 
+is obscured by later changes independent of the initial 
+stress accent. In this way we must explain, ¢g., attingo 
+instead of *atténgo )( tdéngo (§ 16); ins#lsus instead of 
+*insélsus )( sdélsus (§ 17); secli#do instead of * secléudo 
+)(cldéudo (§ 22). With regard to the last example, it 
+should be noted that of the two factors in the diphthong 
+au in claudo, the former was the more emphasised ; hence, 
+the second, uw, instead of being prolonged was dropped 
+immediately, or, in other words, this w« became con- 
+sonantal (§ 6, iv. 2). Thus the & of cldéudo stood before 
+two consonants (vd), and the compounds of this verb 
+consequently take, according to rule, the form *-cléudo, 
+1 [For paro in this sense cf. Pl, Curc., 4, 2, 20: eodem hercle vos pono 
+et paro: parissumi estis iibus.]
+-P-A-G-E-30
+  22 LATIN PHONETICS 
+which, as already mentioned, passed, at a later period, 
+into -clédo. Compare also :— 
+caus(s)a ; accis(s)o. 
+caedo (O.L. caido (§ 20)); cectdi: intermediate stage 
+*ceceidi (§ 19). 
+laedo (O.L. laido); illido: intermediate stage *illeido. 
+Syncope. 
+§ 15. In contrast with vowel-weakening syncope does 
+not seem to have been brought about merely by initial 
+stress accent, though it is certain that this was the 
+principal factor in the process. ‘The examples to be cited 
+immediately show indeed that the complete loss of the 
+short medial vowel was often connected with the length 
+of the following syllable. But it is not sufficient to hold 
+quantity as responsible for all the phenomena of syncope. 
+There must have been other factors as well, but in the 
+present state of our knowledge, we can say nothing 
+decisive concerning their character. 
+Syncope has not always entailed the loss of a syllable. 
+In fact, in those words where syncope took place in 
+immediate proximity to a j or a », these last sounds 
+became vowel sounds, and, unless following a vowel, 
+maintained in the word the original number of syllables. 
+EXAMPLES. 
+(a) Syncope is caused by the combined action of the 
+stress accent, and the length of the following syllable :— 
+ardére )( aridus. 
+disciplina )( disciptlus. 
+infra ) ( inftrus, ‘lower’ (¢.g., mare inferum, ‘the lower,’ 
+ae, ‘the Tyrrhenian Sea’), 
+supra )(supérus, ‘upper’ (¢.g. mare superum, ‘the 
+upper,’ i.e, ‘the Adriatic Sea’). 
+valdé )( validus. 
+ 
+-P-A-G-E-31
+Mr en en 
+DEVELOPMENT OF THE LATIN VOWELS) 23 
+Thus the paradigm of a word like calédus was originally :— 
+Nom. calidus. 
+Ace. calidum, 
+Gen. caldi, 
+Dat. and Abl. caldo, 
+But this original condition did not remain unchanged. 
+On the one hand analogy extended the syncopated form 
+to the nominative and accusative, and thus produced the 
+duplicate form caldus ; a form used, according to Quintilian 
+CInstit. Orat., i. 6, 19), by the Emperor Augustus in 
+preference to calidus which he considered pedantic and 
+affected: ‘sed Augustus quoque in epistulis ad C. Caesarem 1 
+scriptis emendat quod is calédum dicere quam caldum malit, 
+non quia id non sit Latinum, sed quia sit otiosum.’ On 
+the other hand analogy restored the syncopated vowel 
+in the genitive, dative, and ablative. The explanation 
+given above of caldus holds equally good for soldus, 
+‘solid,’ ‘complete,’ ‘the whole sum’ (cf eg., Horace, 
+Sat. i. 2, 113: 
+Quaerere plus prodest et inane abscindere soldo ? 
+and ii. 5, 65: 
+Filia Nasicae metuentis reddere soldum). 
+as against solidus; raucus, ‘hoarse,’ from *r&v(Z)cus, 
+derived from rivis, ‘hoarseness,’ etc. 
+(6) Syncope is caused by the combined action of the 
+stress accent, and of a second factor other than the 
+length of the following syllable, but which cannot be 
+defined more precisely. 
+abicio from *abj(Z)cio. 
+auceps from *av(i)ceps. 
+conciitio from *conqu(éd)tio. 
+  
+4 [Son of M, Vipsanius Agrippa, grandson of Augustus. ]
+-P-A-G-E-32
+24 LATIN PHONETICS 
+junior from *juv(2)nior > *jitinior. 
+(for the contraction of *jittinior to jiinior see § 32). 
+reccidi, reppuli, retttli perfects of recido, repello, refero, 
+from *rec(2)cidi, *rep(2)puli, *ret(2)tuli (tetuli as perfect 
+of fero is often found in Old Latin). 
+In the compounds of jacio, the regular form according 
+to the law of sound change, -icio, was replaced from the 
+classical period onwards by the form -jicio, if not written, 
+at least pronounced in this way, as the metrical scansion 
+of abicio, adicio, conicio, obicio, subicio proves; the 
+prefix of these words is always long by position in lyrical 
+poetry and in the classical period. Vergil, for instance, 
+begins a hexameter with obicit, Aen., vi. 421, and vii. 
+480, and Aulus Gellius expressly remarks of subicit that 
+the 7 of the root syllable ‘vim consonantis capit et idcirco 
+ea syllaba productius latiusque paulo pronuntiata priorem 
+syllabam brevem esse non patitur, sed reddit eam positu 
+longam,’ Noct. Att., 4, 17, 8. This innovation was due 
+to analogy: conjicio for conicio, for example, was formed 
+on a model like conficio according to the formula facio: 
+conficio=jacio: a. 
+Changes Independent of Initial Stress Accent. 
+A. Changes of the Acoustic Quality in Syllables 
+not Final. 
+§ 16. & before a guttural nasal became 7. 
+EXAMPLES. 
+septingenti from *sept?mcenti. 
+confringo from *confréngo, from *confrdngo (§ 14). 
+suppingo (‘I fasten underneath,’ ‘I beat’), from 
+*subpéngo, from *subpéngo (§ 14). 
+dignus from *dégnos, from *décnos (belonging to the 
+root of décet): c>g according to § 62.
+-P-A-G-E-33
+DEVELOPMENT OF THE LATIN VOWELS 25 
+lignum from *légnom (connected with légo, ‘I gather’; 
+lignum meant originally ‘gathered wood.’) [The jurist 
+Gaius connected it with lego, ¢f. Giles, § 195, but the 
+derivation accepted by Walde is from a word akin to 
+Gk. Avis ‘smoke,’ ‘ reek.’] 
+For the representation of the guttural nasal by g in the 
+last two cases, see § 6 note iii., and § 69. 
+§ 17. & became d before J followed by one of the vowels 
+é, d, 0, %. Inthe combination -é- followed by a consonant, 
+except in the case of -d-, it passed first into 6 and then 
+into % (see the following paragraph). 
+EXAMPLES. 
+hédlus, O.L. hélus. 
+The verb vélle from *vélse (§ 74), root vél-; vélo, vilebam, 
+volam, vélui; but vélim, véllem, vélle. 
+exstlto from *exsélto, from *exsédlto (§ 14). 
+piilsus, perf., part. pass. from péllo. 
+§ 18. 0, both original J and when substituting ¢ (§ 17), 
+became % before 7 *consonant (except in the combina- 
+tion -oll-). 
+EXAMPLES, 
+ctilmen )( cilumen, a height. 
+piilvis )( pollen. 
+stiltus )( stdlidus. 
+§ 19. e¢ became 7 after the second century B.c. 
+EXAMPLES. 
+dico from deico (deicerent is found in an inscription of 
+the year 186 B.c., the Senatus Consultum de Bacchanalibus, 
+given in the Appendix), 
+diffidens from diffe‘dens (found on an inscription dating 
+from the beginning of the second century B.C.). 
+ineido from inceido (inceideretis in S, C. de Bacchanalibus). 
+ 
+-P-A-G-E-34
+  26 LATIN PHONETICS 
+§ 20. ad became ae from the beginning of the second 
+century B.¢. [pronounced like -ai- in ‘ Cairo’). 
+EXAMPLES. 
+aedes, ‘temple,’ from aidés (aide = aedem is found on the 
+burial inscription, belonging to the third century B.c., of 
+L. Cornelius Scipio, consul 259 B.c.; while the S. C. de 
+Bacchanalibus (186 B.c.) exhibits already aedem). 
+quaero from quairo: quairatis appears as an archaic 
+form beside aetatem on the burial inscription of a Scipio, 
+dating probably from 180 B.c. 
+In the low country round Rome ae ceased at an early 
+period to be a diphthong. Indeed Varro informs us 
+that the peasants in his time said Mesius and edus for 
+Maesius and haedus: (de lingua Latina vii. 96: rustici 
+pappum Mesium non Maesium; ¢f. also vy. 97). [An 
+attempt to change the name Caecilius to the popular 
+form Cecilius (like Claudius to Clodius), was successfully 
+laughed down by Lucilius: ‘Cecilius pretor ne rusticu’ 
+fiat,’ Lindsay, S. H. Gr., § 2 note]. Under the Empire 
+this pronunciation gradually gained ground, and finally 
+became general. The 4, arising from an older ae, was 
+open (@), in contrast with the original @ which was 
+close (2). Thus, when towards the end of the Empire 
+Latin ceased to distinguish the quantity of the vowels 
+and retained merely the differences of acoustic quality, 
+ae became completely assimilated to ¢ (i.e. ¢), while on 
+the other hand original 2 (i.¢., ¢) remained always sharply 
+distinguished from it. This is proved by the Romance 
+languages in which ae and @ led to the same result, 
+whereas @ was treated differently: of Lat. quaerit > 
+Fr. quiert; Lat, héri > Fr. hier, as against Lat. céra > 
+Fr, cire,
+-P-A-G-E-35
+  
+DEVELOPMENT OF THE LATIN VOWELS 27 
+§ 21. o¢ from the beginning of the second century B.c. 
+passed first into ve and then into @. 
+EXAMPLES. 
+anus from oinos (oino = wnum in the burial inscription 
+of L. Cornelius Scipio, mentioned above); oenus in 
+Plautus, 7ruculentus, 104, 
+communis from commoinis (comoinem in S., C, de 
+Bacchanalibus, 186 B.¢.). 
+asus from oisos; of. Martianus Capella,! iii. 236: oisus 
+etiam dicitur; sic enim veteres usum dixere. 
+In a certain number of words the spelling o¢ was 
+maintained even long after the pronunciation was w. 
+Thus mwrus is often written moerus as late as the 
+manuscripts of Vergil. Finally, by a reaction of the 
+written language on the pronunciation, oe was restored 
+in pronunciation in cases like poena ()(pwnire), mocnia 
+() (murus), ete. 
+In the case of coepi the ve does not represent the Indo- 
+European diphthong 07, but is a later contraction of 6 + @: 
+coepi from cd—épi (for the trisyllabic scansion ~-~ ef. 
+Lucretius, iv. 619, si quis forte manu premere ac siccare 
+coepit, ¢f Monro ad loc.), contains the perfect of a verb 
+apio, ‘to join,’ which seems to have become obsolete at an 
+early date [hence apiscor and aptus]. 
+§ 22. ew passed into ow and later into @ (see § 23). As 
+the transition from eu to ow took place before the commence- 
+ment of written tradition, Latin itself shows us no example 
+of the original diphthong ew. But on the one hand, com- 
+parison with the related languages compels the conclusion 
+that the % of déco, for example, goes back to a primitive 
+ew (the intervening grade ow is guaranteed by the form 
+1 [(Flor. circ. 410-427 a.D.). The African scholar who wrote the Ency- 
+clopedia of the Seven Liberal Arts.] 
+ 
+-P-A-G-E-36
+ee eT ge eee pe Lee er gree ee ree 
+28 : LATIN PHONETICS 
+abdoucit found in a sepulchral inscription belonging to the 
+beginning of the second century B.c. Secondly, the laws 
+of vowel-weakening entitle us to trace back accés(s)o, for 
+example, to *adcews(s)o ; which in its turn arose regularly 
+from *adcaus(s)o, derived from caus(s)a, ‘a lawsuit’ 
+(§ 14). 
+For the apparent exceptions cew, new, duplicate form of 
+neve, sew of sive, and neuter, the remarks made on coepi 
+apply. In all these words ew arises from a later contraction 
+ofe+wu. As to neuter it is not even certain that this word 
+was ever pronounced in prose in any other way than as a 
+trisyllable, ne-uter. 
+§ 28. ow passed into # towards the end of the third 
+century B.C. 
+EXAMPLES. 
+lucus, ‘grove,’ properly, ‘clearing in a wood’ [¢f. 
+collicare, ‘to make a clearing,’ connected with liceo], 
+from lowcos, which is found in an old inscription from 
+Spoletium. 
+Natrix, ‘nurse,’ from nowtrix, found in an old dedicatory 
+inscription, from Nemi [¢/., however, Lindsay, S. H. L. G., 
+p. 153). 
+§ 24. aw was maintained in the written Latin of 
+Rome. But in the dialects of the adjacent districts, 
+and in the popular language of the capital itself, aw 
+passed into 6 at an early period. This double treatment 
+of aw sometimes caused confusion, as in instances 
+containing @ it naturally remained doubtful if the & 
+represented a primitive 0, or an au which had become 
+o in popular speech. Suetonius in his biography of the 
+Emperor Vespasian, § 22, tells the following anecdote on 
+this point: (Vespasianus) Mestrium Fldrum consularem, 
+ 
+-P-A-G-E-37
+DEVELOPMENT OF THE LATIN VOWELS 29 
+admonitus ab eo plaustra potius quam pldstra dicenda, 
+postero die Flawrum salutavit. In doubtful cases those 
+who prided themselves on correct pronunciation, preferred 
+au, even at the risk of introducing it into words where 
+properly it did not belong. 
+In this way plaudo replaced plddo, although the latter 
+word contained an original 4, as is shown by the com- 
+pounds complddo, displédo, explédo. In fact, if plaudo 
+contained an original aw, we should have the forms 
+*complido, * displédo, * explido (§ 14). [aw- of aufugio, 
+aufero represents an Indo-European preposition dwé, 
+which was used in these compounds before an initial 
+to avoid confusion with the compounds of ad, e.g., affero, 
+Lindsay, S. H. L. G., p. 129.—Umbrian and Faliscan had 
+o in place of Latin aw: so, in general, the dialects of 
+Northern and Central Italy. Grandgent, § 211.] 
+B. Changes of Quantity in Syllables not Final. 
+(a) Lengthening of Short Vowels. 
+§ 25. A short vowel received compensatory lengthening— 
+(1) In cases of the loss of an s before voiced consonants 
+(§ 86). 
+EXAMPLES, 
+dinosco from *disnosco. 
+éduco from *éxduco (#=¢s). 
+idem from *is-dem (is+dem), 
+pono from *pis(ijno; ¢f. the participle positus = pd 
+(prefix) +situs, perf. part. pass. of sino, 
+sédecim from *séxdecim. 
+(2) Before -nf- and -ns-, because in this combination 
+the nasal lost its character as stop, and the vibrations
+-P-A-G-E-38
+  30 LATIN PHONETICS 
+of the ligaments of the glottis that caused the sound 
+were added to the preceding vowel (§ 87). 
+Cicero, Orator, 48, 159: quid vero hoc elegantius, quod 
+non fit natura, sed quodam instituto, indoctus dicimus 
+brevi prima littera, 7nsanus producta, tmhumanus brevi, 
+tnfelix longa et, ne multis, quibus in verbis eae primae 
+litterae sunt quae in ‘sapiente’ atque ‘felice,’ producte 
+dicitur in, in ceteris omnibus breviter: itemque cdnposuit, 
+consuevit, cdncrepuit, cdnfecit: consule veritatem, repre- 
+hendet; refer ad aures, probabunt. These remarks of 
+Cicero are confirmed by the inscriptions which show at 
+the same time that the lengthening process in question 
+was not confined to the 7 of the prefix %m- and the 6 of 
+the prefix cdn-. In fact, in the Latin epigraphic records, 
+every kind of vowel occurring before one of the two com- 
+binations -n/- and -ns- is frequently marked as long by a 
+special sign, the so-called apex. Further, as the Greek 
+alphabet possessed two different letters for é and @ and 
+also for 6 and 0d, the Greek transcription of Latin words 
+in inscriptions and in authors may also to some extent 
+give us information as to the quantity of vowels before 
+-nf- or -ns-, and this evidence is absolutely i in favour of 
+their having been long. 
+Amongst other instances which might be cited, a passage 
+in Quintilian (Jnstit. Orat., i. 7,29) proves that the fore- 
+going are really cases of compensatory lengthening. He 
+remarks that in the word cénsiiles the nasal n was not 
+pronounced (. . . consules exempta n littera legimus) [just 
+as it disappeared in O. Eng. fif (Germ. finf), gos, ‘goose’ 
+(Germ. gans), Lindsay, p. 11]. 
+§ 26. Irrespective of the lengthening by compensation, 
+a short vowel was lengthened in perfect participles passive,
+-P-A-G-E-39
+DEVELOPMENT OF THE LATIN VOWELS 31 
+in the case of verbs whose root ended with a voiced 
+consonant, and again in the verbal and noun forms derived 
+from these participles (§ 62, 1). 
+EXAMPLES. 
+actus, léctus, part. from dgo, légo. 
+(The length of the root syllables in these two participles 
+is proved by the testimony of Aulus Gellius, Noctes 
+Atticae, ix. 6, and xii. 3, and also by the apex in numerous 
+inscriptions). 
+cdsus, visus, participles from cddo, video (§ 83), but 
+factus (participle of facio). 
+(If the a of factus had been long, the compounds would 
+have been *confactus,xeffactus, etc., instead of confectus 
+effectus, as is the case, cf. idactus.) 
+méssus, part. of méto (§ 83). 
+(That the % in messus was short may be shown as 
+follows: towards the end of the first century B.C., -ss- 
+following a long vowel was simplified into -s-; conse- 
+quently had messus contained a long ¢, it would have at 
+that period appeared in the form *mesus, which is not 
+the case (§ 58).) 
+In the same way we have dctito, frequentative of ago 
+[¢f. ambéges], protéctor, as against féctito, séctio. 
+Exceptions like séssus, part. of sédeo, fssus, part. of 
+foédio, arose probably under the influence of analogy. 
+(b.) Shortening of Long Vowels. 
+§ 27. In the classical period every long vowel that was 
+followed, but not preceded by another vowel, was shortened. 
+EXAMPLES. 
+finio )( the infinitive finire. 
+pius (in O.L. pius: a hexameter of Ennius begins with 
+the words pectora pia tenet desiderium). 
+ra gen. of rés (but didi gen. of dizs, glacizi gen. of glaciés, 
+because in these words the é was not only followed but also 
+preceded by a vowel).  
+-P-A-G-E-40
+  32 LATIN PHONETICS 
+figo )( the imperfect flzbam. 
+griis, gen. of gras, ‘a crane.’ 
+stio )( sitor, ‘a cobbler’ [sabula, ‘an awl’), 
+The classical poets scan as a rule illzus, ipstus, unzus ; 
+but in prose the accepted pronunciation, at least in 
+Quintilian’s time, was illzus, ips?us, un?us (Instit. Orat., 
+i. 5, 18, unvus extra carmen non deprendas). The 
+reasons for the restoration of the long quantity in 
+these genitives have not been sufficiently elucidated. 
+[It has been suggested that they may be due to the 
+long vowel 7 in the datives ill?, ips?, unz.] On the other 
+hand when Servius, the commentator on Vergil, informs 
+us that in the perfect of audire and lenire prose writers 
+insisted on audzit, lenzit, in opposition to the scansion 
+audvit, lenvit of the poets, the influence of analogy is 
+obvious: audzit and lenzit are formed after their dupli- 
+cate forms aud?vit, lenzvit, in which cases the 7 was not 
+followed by a vowel, and hence could not be shortened. 
+In the same way fio is a case of substitution for *fio, 
+following fts, fémus. 
+(For a difficult case of the shortening of a long vowel in 
+a syllable not concluding a word see below, § 55). 
+C. Changes of Acoustic Quality in Final Syllables. 
+§ 28. In cases where & absolutely terminates a word it 
+remains unchanged ; compare generd, frigord, nom. and ace. 
+plur. of genus and frigus; ité; where the short quantity 
+of final @ is proved by the evidence of the other Indo- 
+European languages to be original. In other cases final & 
+is secondary, 7.¢., it comes from the shortening of an a 
+(see pita below, §31, 3). 
+With regard to the other original short vowels when 
+absolutely final, they seem one and all to have taken on
+-P-A-G-E-41
+DEVELOPMENT OF THE LATIN VOWELS 33 
+the acoustic quality of e. Linguistic testimony, however, 
+is too scanty to provide positive proof except in the case 
+of 7, of. maré, nom. and acc. sing. )( marza nom. and ace. 
+plur. ; lené, neuter )( len%s, masc. and fem. 
+§ 29. When not absolutely final, the short vowels were 
+treated quite differently. In the case of words of one 
+syllable they underwent no change. In words of two or 
+more syllables. 7 and % remained, and likewise ¢, except 
+before s, when it became 7; & before two consonants 
+developed in the same way as in a medial syllable, 
+ae, it passed into &; as to its treatment before a single 
+consonant, nothing certain can be said in the absence of 
+decisive examples. Finally, 6 became % in the nom. and 
+ace. sing. of the 2nd declension, in the nom. and acc. 
+sing. of neuter substantives of the 8rd declension, and in 
+the 3rd pers. plur. indic. of the present and perfect of 
+verbs. This change of 5 goes back to the end of the 
+third century B.c., in words where ¢ was not preceded by 
+wu or v. After w and v, 6 changed to % only after the 
+beginning of the Empire. 
+EXAMPLES : MONOSYLLABLES. 
+nix, nivis; pix, picis; ml, méllis; nx, nécis; lée, léctis 
+fix, ficis ; 0s, Jssis; ndx, nvctis; nux, nicis; trix, 
+tricis. 
+DISSYLLABIC AND POLYSYLLABIC WoRDS. 
+(a) (1) énsis (stem énsi-; of. gen, plur. énsi-um); calix, 
+calicis ; agilts (stem agilt-). 
+(2) turtir, -iris, turtle-dove; magistratis, -us (stem 
+magistrati-); reditx, rediicis. 
+(b) flumén, -inis; forféx, -icis; hi#ms, higmis; haruspéx, 
+-icis (spécio in O.L.); but généris from* generés, gen. 
+of genus; ordinis from *ordinés, gen. of ordo; just 
+as in the genitives attested by old inscriptions 
+Apolones = Apollinis, Cereres = Cereris, Salutes = 
+Salutis, Veneres = Veneris. 
+c
+-P-A-G-E-42
+    34 LATIN PHONETICS 
+Cases like dés%, -sidis, dives, -itis are merely 
+apparent exceptions. In fact désts goes back to 
+a form *deséd-s, and divés to a form *divét-s (§ 68). 
+Thus the 2 of words of this type did not, as in the 
+examples just given, stand originally before s; and 
+this fact explains its retention. 
+(c) aucéps from *iv(i) -c&p-s (avis + capio). 
+réméx from *rem-dg-s (remus + ago). 
+auriféx from *auri-fic-s (aurum + facio). 
+(d) filits, from filivs, nom. sing. 
+virtim from virdm, ace. sing. of vir. 
+dontm from dondm, nom. and ace. sing. 
+Spits from dps, nom. and ace, sing. 
+consentitint from consentiint, 8rd pers. plur., present 
+indic. consentio. 
+dederiint from dedervnt, 3rd pers. plur., perf. indice. of do. 
+The forms filits, vir’m, dondm, opds, co(n)sentidnt, 
+dederént, are testified to partly by inscriptions, partly by 
+quotations in Latin authors, ¢/., for example, Quintilian, 
+Instit. Orat., i. 4, 16. With regard to words like bidusm, 
+equés, vivint, modern editions of Caesar, for example, 
+ought not to give the forms biduwm, equus, vivunt. In- 
+scriptions prove unmistakably that these forms with u 
+were later than the Republican era; thus their introduc- 
+tion into a text like the Beli. Gall. is an anachronism. 
+§ 30. Long vowels, whether absolutely final or in the last 
+syllable, suffered no qualitative changes. On the other 
+hand, the diphthongs which occurred in either of these 
+positions became long vowels. Of these it is especially 
+important to note (i.) that e, ai, ot became 7; and (ii.) 
+that ow became #. 
+EXAMPLES. 
+sib?, dat. of the reflexive pron. from sibez. 
+abis, 2nd pers. sing. pres. indic. of abeo from *abeis. 
+tutudi, perf. of tundo, from *tutudaz. 
+1 [But the pronunciation from the third century B.c. was probably u 
+not 0, ef. Velius Longus, vii. p. 48, 4k, Hermann.]  
+-P-A-G-E-43
+DEVELOPMENT OF THE LATIN VOWELS 35 
+rosis, dat. and abl. plur. of rosa, from *rosais. 
+virz, nom. and voce. plur, of vir, from *viroi. 
+donis, dat. and abl. plur. of donum, from *donois. 
+curras, gen. sing. of currus, from *currous. 
+Sometimes the original diphthong is attested by inscrip- 
+tions (e.g. sibei appears in the S. C. de Bacch.), or by 
+quotations made by grammarians (as by Paulus Diaconus,? 
+p. 14,17 Th.: ab oloes dicebant pro ab illis), but generally 
+speaking its existence is revealed only by a comparison 
+with the other Indo-European languages, 
+As then ai was represented by 7, the termination ae in 
+the gen. and dat. sing. and in the nom. and voc. plur. 
+of words of the 1st declension cannot have arisen from ad. 
+As a matter of fact it represented rather an older dz; ¢f. 
+the archaic gen. aulai in Vergil, Aen., iii. 354, aulai medio 
+libabant pocula Baccho, and again picté?, Aen., ix. 26; 
+aura, vi. 747, aqua, vii. 464, all gen. sing. [so Iphianassaz 
+in Lucret., i. 84, 6; Martial ridicules the form ai as 
+affected, xi., 90, 5; attonitusque legis ‘terrai frugiferai,’ 
+see S. H. L. G., p. 44]. 
+D. Changes of Quantity in Final Syllables. 
+§ 31. The vowel element of a final syllable tended to 
+undergo abbreviation of length. This is shown in the 
+following cases :— 
+1. Every short vowel standing absolutely last was 
+reduced to a fraction of the unity of length, and accord- 
+ingly showed a tendency to disappear entirely. 
+EXAMPLES. 
+The imperatives dic, dit, fac, fér )( c&pé, mitté, tundé, ete. 
+The duplicate forms ic (§ 82) and atqué; néc (§ 82) and 
+néqué (it should be noted that ac and nec were generally   
+1 [Paulus Diaconus, 725-797 A.D., a Benedictine monk who wrote a 
+summary of Festus’ (second century A.D.) abridgment of Verrius Flaccus 
+(circ. 10°B.c.) De Verborum Significatu.|
+-P-A-G-E-44
+36 LATIN PHONETICS 
+used before a word that began with a consonant, and that 
+hence the disappearance of terminal 2 cannot be due to 
+elision); neu and nevé. 
+tot from * tot; of. totidem. 
+2. Every long vowel was shortened before any consonant 
+other than s. 
+EXAMPLES. 
+animédl, gen. animdlis; caledr, gen. caledaris. 
+lictdr, gen. lictéris. 
+cantabim, but cantabdés; punit, but punis; sp%m, ace, of 
+spés. 
+3. In cases of absolute finals of iambic dissyllables 
+Old Latin poetry could count every long vowel as short ; 
+and there is no doubt that this rule of scansion reflected 
+the ordinary pronunciation of the age. On the other 
+hand, the classical usage admitted the scansion v» only 
+in the case of certain words used to help out a phrase, 
+and so constantly employed that they were actually 
+pronounced less completely than the other words in the 
+phrase. 
+EXAMPLES. 
+benz, malé)( caté, slyly, feré. 
+cits, mods )( ed, ‘thither,’ retré. 
+putdé, ‘for instance,’ properly ‘bring into a line of 
+reckoning,’ imp. of putare; hav’, ‘hail!’, properly 
+‘rejoice,’ imp. from (h)avére (the pronunciation avé was 
+characterised by Quintilian as pedantic, Instit. Orat., 
+i, 6, 21), but ama, docé. 
+quast, adv. and conj. from quasi (quasei is found on 
+several inscriptions of the second century B.C.; e > % 
+(§ 19). 
+[¢f. also such scansions as cavé-facias, vdld-scire, as well 
+as voluptatem, égéstatem, fer’ntarium, where the syllable 
+scanned as a short syllable is long, not by nature, but 
+by ‘position’; this shortening process which turns an
+-P-A-G-E-45
+  
+DEVELOPMENT OF THE LATIN VOWELS 37 
+iambus into a pyrrhic in the Latin dramatists is called 
+the law of the Brevis Brevians. An example is found 
+in Catullus (1xi. '77)— 
+virgo adest, vidén ut faces 
+splendidas quatiunt comas.] 
+£. Contraction of Vowels. 
+§ 32, When two adjacent vowels made a hiatus, that 
+is to say, when the change from the first to the second 
+was brought about by a sharp interrupted movement in 
+the utterance, they were as a rule contracted, ¢.¢., they 
+coalesced into a single vowel or a diphthong. That was 
+the case in combinations of the type i+7, e+e, a+a, 0+0, 
+u+u, O+i%, o+e, etc. When, on the other hand, the 
+transition was effected by a light gliding movement with- 
+out break of continuity—in other words, when there was 
+no hiatus—the two vowels remained uncontracted. This 
+was the treatment of the combinations i+any other vowel 
+except 7, and u-+any other vowel except u. However, the 
+combinations é+@ and &+46, although belonging to the 
+former of the two categories just mentioned, seem never 
+to have undergone contraction. 
+The most obvious and common examples of this process 
+are the following :— 
+t+i=0 
+nil from ni(h)il; mi from mi(h)z. 
+é+é=6 
+némo from * né-(h)%mo (hemo =homois attested by Paulus 
+Diaconus, p. 71, 18 Th.). 
+dzmo from * dz-¢mo ; dégi, perfect of dégo (contracted from 
+* dé-igo (see below) from * dé-2gi), 
+a+a=4, 
+latrina from 1é(v)atrina. 
++6=0, 
+cdpia from * e3-dpia (¢f. in-dpia). 
+ 
+-P-A-G-E-46
+    
+38 LATIN PHONETICS 
+coram, adv. and from Cicero’s time preposition, from * c3- 
+6ram (the second part of the compound is connected 
+with 6s, Gris; for the termination ¢f, clam and palam), 
+[These terminations are adverbial acc. sing. fem. forms.] 
+G+u=%. 
+junior, comparative from juvenis, from * jtinior (§ 15d). 
+é+a=6 
+dégo from * dé-digo. 
+O+%t=08. 
+coctus, a gathering, from c¥-itus. 
+O+é=0, 
+cémo from * c3-2mo; contio from * cd(v)éntio (§ 50). 
+o+é=08, 
+coepi from o%-2pi (§ 21). 
+o+a=0, 
+cégo from * cd-ago. 
+copula, from * cd-dpula (&pére in O,.L. meant ‘to fasten’ 
+(§ 21). 
+In a number of cases analogy restored the uncontracted 
+form. Thus mh? was contracted according to rule to mz, 
+but restored later on the analogy of tibi and sibi which 
+always remained disyllabic. 
+The same remark applies to déésse beside désse, dédémo 
+)( dago, cddlesco )( cdgo, etc. The contrast between the 
+present cago and the perfect cdégi, the latter of which 
+was restored by analogy, while the former escaped this 
+influence, may be due to the fact that in cdgo the con- 
+traction goes back to a very old date, while the coalescence 
+of 5+ into oe seems, on the contrary, to be comparatively 
+recent; thus the perfect was more accessible to the influ- 
+ence of analogy than the present. It should be added, 
+however, that generally speaking the chronology of the 
+laws of Latin contraction is an exceedingly obscure subject, 
+and it seems improbable that it will ever be satisfactorily 
+elucidated. 
+Synizesis must not be confused with contraction. By
+-P-A-G-E-47
+  DEVELOPMENT OF THE LATIN VOWELS 39 
+synizesis is meant the liberty taken in prosody, according 
+to which two vowels in juxtaposition, although both pro- 
+nounced, count in scansion as a single syllable: cf, Vergil, 
+Georgies, iv. 34: 
+Seu lento fuerint alvéaria vimine texta. 
+Aen. vii. 190 : 
+Auré’ percussum virga versumque venenis. 
+Ovid, Met., ix, 143. 
+diffudit miseranda suom ; mox déinde quid autem, 
+Vergil, den., i, 131: 
+Eurum ad se Zephyrumque vocat, déiine talia fatur ; 
+but compare, eg , 
+Vergil, Georg., iii, 167. 
+cervici subnecte ; dehine, ubi libera colla, 
+Ablaut or Vowel Gradation. 
+§ 33. Besides the vowel weakening apparent in conficio ) ( 
+facio ; exsulto ) ( salto ; volo ) ( velim ; infra ) ( inférus ; rém 
+)(rés, etc., which, as we have already seen, have their 
+origin in the separate development of Latin, and conse- 
+quently are peculiar to this language, there are other 
+vowel changes which are found also in the allied languages, 
+and presumably go back to the Indo-European. As a 
+matter of fact, from the period when the Indo-European 
+stock was still undivided, each of the three component 
+parts of a word, 2.¢., root, suffix, and termination (pp. v, vii) 
+could assume different types of vowel system to indicate 
+different types of formation. This morphological process, 
+originally closely adhered to, is known under the name of 
+ablaut or vowel gradation. 
+Ablaut is strongly marked in Greek;? in Latin its 
+influence has been largely obscured. As a consequence of 
+1 [As also in German and, to a less extent, in English,] 
+ 
+-P-A-G-E-48
+  40 LATIN PHONETICS 
+circumstances which we cannot examine here, the original 
+conditions obtaining in this particular branch of the Indo- 
+European family of languages have been so greatly changed 
+that the system of its vowel gradations has become un- 
+recognisable. We must therefore content ourselves with 
+the mere enumeration of a few of the most characteristic 
+instances. 
+EXAMPLES. 
+(i.) The 21 grade combined with the 3 grade. 
+péndo, ‘I weigh’; pindo, indecl, ‘in weight,’ abl. of an 
+obsolete substantive * pondus -i. 
+tigo; tiga. 
+equé, voc. ; equis, nom. 
+(ii.) The 2 grade combined with the nought grade. 
+édo, I eat; d- ens, tooth, orig. pres. part. of édo. 
+est; s -unt. 
+gm- ui; gi- gn—o. 
+(iii.) & grade 0- grade and nought grade combined. 
+O.L. féido (Class. Lat. fido (§ 19); O.L. féidos (the abl. 
+foidere is found in an old inscription. Class, Lat. foedus) ; 
+fides. 
+(iv.) The é grade combined with the 2 grade. 
+émi perf. ; émo pres. 
+tegula; tégo. 
+(v.) The % grade, 2 grade, 3 grade and nought grade are com- 
+bined in sédéo sédes svlium (for d > / see § 37) sido from 
+*si-sd-o (a formation like gi-gn-o above): *sisdo > 
+*sizdo > sido according to §§ 25 and 86. 
+(vi.) The 6 grade combined with the 2 grade. 
+O.L. majésem (Class. Latin majérem); majéstas (the % 
+grade is concealed in the neuter majus, older * majés), 
+O.L. *hondsem, Class. Lat. honérem ; honéstus. 
+(vii.) The 6 grade combined with the ¢ grade. 
+fédi perf. ; fédio pres. 
+édi; tdium. 
+  
+spate e and a grades are known as High, the o grade as Low, the nought 
+grade as Weak. The last was due to stress accent. ]
+-P-A-G-E-49
+  
+DEVELOPMENT OF THE LATIN VOWELS 41 
+(viii.) The 6 grade combined with the nought grade. 
+ne- potem, acc, sing. of nepés (‘ grandson’ or ‘nephew’ ) ; 
+ne-pt-em. acc. sing. of neptis (‘ granddaughter’ or ‘ niece’). 
+genitdrem ; gene-tr-icem. 
+(ix.) The 2 grade combined with the & grade. 
+féci ; faécio. 
+sémen; sdtus, 
+(x.) The 6 grade combined with the & grade. 
+cés, a hone; cdétus, properly ‘sharpened,’ and so ‘sly.’ 
+donum; dédtus. 
+ 
+-P-A-G-E-50
+    
+42 LATIN PHONETICS 
+HISTORY OF THE LATIN CONSONANTS. 
+Single Consonants. 
+Stops. 
+§ 34. When between two vowels, the Latin stops, more 
+especially the breathed stops, underwent but few changes. 
+The following are worthy of remark :— 
+Breathed Stops. 
+§ 35. From the end of the second century 8.c. the fashion 
+became prevalent of introducing into a number of genuine 
+Latin words the aspiration of the three kinds of breathed 
+stops. Before that date this peculiarity was confined to loan- 
+words from Greek (§ 6, note iv. 4). When Greek civilisation 
+was transplanted to Rome, and attracted a constantly- 
+increasing number of adherents, certain Roman families 
+thought it elegant to give their names a Greek stamp by 
+adorning them with aspiration. Thus Sempronius altered his 
+cognomen Graccus, ‘a jay,’ into Gracchus, to rhyme with 
+Bacchus: we find on coins of the year 103 B.c. Pulcher ; 
+and again the names Ce¢egus, Oto, Torius became Cethegus, 
+Otho, Thorius. From proper names this habit spread to 
+common nouns. Thus instead of ancora, lacrima, pulcer, 
+sepulcrum, sulpur, etc., it became the fashion to say 
+anchora, lachrima, pulcher, sepulckrum, sulphur, etc. We 
+possess a body of instructive evidence on this practice in 
+passages from ancient authors, of which we may cite the 
+two most important: Cicero, Orator, 48, 160; quin ego 
+ipse, cum scirem ita majores locutos, ut nusquam nisi in
+-P-A-G-E-51
+  HISTORY OF THE LATIN CONSONANTS 43 
+vocali aspiratione uterentur, loquebar sic, ut pulcros, 
+Cetegos, triumpos, Karfaginem dicerem ; aliquando, idque 
+sero, convicio aurium cum extorta mihi veritas esset, usum 
+loquendi populo concessi, scientiam mihi reservavi. 
+Orcivios tamen et Matones, Ofones, Caepiones, sepulcra, 
+coronas, lacrimas dicimus quia per aurium judicium licet : 
+Quintilian, Jnstit. Orat., i. 5, 20; diu deinde servatum, 
+ne consonantibus [veteres] adspirarent, ut in Graccis et in 
+triumpis, erupit brevi tempore nimius usus, ut choronae, 
+chenturiones, praechones adhuc quibusdam in inscrip- 
+tionibus maneant, qua de re Catulli nobile epigramma 
+est. The epigram of Catullus referred to by Quintilian is 
+No. 84, which begins with the words :— 
+Chommoda dicebat si quando commoda vellet 
+dicere, et insidias Arrius /insidias, 
+[¢f. also Quintilian, xii. 10, 27, and Lindsay, S. H. L. G., 
+p. 16: ‘Nigidius, a grammarian of Cicero’s time, empha- 
+sised the importance of accuracy in the use of the letter h: 
+rusticus fit sermo si adspires perperam ; St Augustine says 
+the dropping of 4 was a sign of vulgarity; Gellius says 
+ahenum, vekemens, incohare are archaic, see Grandgent, 
+Introduction to Vulgar Latin, p. 106.} 
+No trace of this affectation remains in the Romance 
+languages; thus we may probably conclude that the 
+fashion, after degenerating into a mania, eventually fell 
+into complete disuse. 
+It is important to note that the sound of Latin ch, ph, 
+and th was the same as that of German f, p, ¢ before 
+vowels; [#.e., the aspiration was similar to, but not so 
+strong as, that heard in park-head, top-hat, foot-hold.] 
+We must therefore reject the pronounciations /iltrum, 
+limfa, sul far.
+-P-A-G-E-52
+  44 LATIN PHONETICS 
+Voiced Stops. 
+b. 
+§ 36. b became a spirant from the second half of the 
+first century a.D., and was pronounced like the N. German 
+w in words like Wein, or the French v in words like vin. 
+This change first set in when 4 was in the middle of a 
+word between two vowels, but afterwards also when b was 
+initial, though only in one part of the Roman Empire. 
+Hence on inscriptions we find constant interchanges of b 
+and v (i.e. consonantal w), which also about the same period 
+had become a spirant (§ 52). Thus we find, for instance, 
+incomparavilis for incomparabilis ; libertavus for libertabus 
+—from liberta; vene for bene, and, on the other hand, beni 
+for veni, bixi for vixi, lebare for levare. This confusion 
+increased as time went on, so that in the fifth century a.p. 
+a grammarian found it necessary to write a special treatise 
+entitled ‘De b vocali et v vocali.’ This change is reflected, 
+too, in the Romance languages, ¢f. Fr. Besancon, from Lat. 
+Vesuntionem ; devoir from debere ; féve from fiba.2 
+d. 
+§ 37. d was replaced by 7 in O.L. dacrima> 
+Class. Lat. Jacrima (¢/ Paulus Diaconus, p. 48, 15 Th.: 
+dacrimas pro Jacrimas Livius [Andronicus] saepe posuit), 
+0.L. dautia, -iorum, hospitality offered to foreign ambas- 
+sadors>Class. Lat. Jautia. Paulus Diaconus says that 
+Livius Andronicus often used this word for lautia, p. 48, 
+16 Th.; lautia is frequently used by Jivy, of. eg. xxx. 
+17, 14. O.L. dingua>Jdingua (Marius Victorinus,? vi. 
+1 [See Grandgent, p. 184. 6 is substituted for » much oftener than v for 
+b; other common instances are salbum, serdus, solbit: App. Prob. ‘alveus 
+non albeus. gE 
+2 (Marius Victorinus, a grammarian and rhetorician of African origin, 
+floruit circ. the middle of the fourth century a.D.]
+-P-A-G-E-53
+  HISTORY OF THE LATIN CONSONANTS 45 
+p. 9, 17k, says : nos nunc... dinguam per/ potius quam per 
+d [scribamus]). In some of these cases it is supposed that 
+analogy has been operative, as in the case of dingua, possibly 
+influenced by lingo, ‘I lick’; Jautia by Jautus, ‘dainty’; 
+it has also been thought that the substitution of J for d 
+was due to Sabine influence. 
+Sometimes d and J change in forms which belong to the 
+same root; ¢.g., odor, olere [perhaps influenced by o/eum], 
+sedeo, solium (for the vowel gradation, see § 33). 
+§ 38. Final d remained after a short vowel; but after a 
+long vowel it disappeared from the beginning of the second 
+century B.C. 
+EXAMPLES. 
+1. ad prep., alitid, neuter of alius; illud, neuter of ille; 
+séd, conjunction. 
+2. The ablative singular of all five declensions [and of 
+ego, tu, se]; the 2nd pers. sing. and 8rd pers. sing. and 
+plur. of the imperative of verbs. 
+(a) praeda, abl. sing. of praeda, O.L. praidad. 
+merit6, earlier meritod. 
+aeri (replaced at an early date by aeré, which, like 
+all ablatives in -¢ of the third declension is really 
+an old instrumental case), abl. sing. of aes, 
+O.L, airid. 
+magistrati, abl. sing. of magistratus, O.L. magis- 
+tratud. 
+die, abl. sing. of dies, O.L. *died. 
+Praidad, meritod, airid, magistratud are attested 
+by old inscriptions; for the fifth declension we 
+have no evidence. (Cf., too, Naevius, Bellum 
+Punicum, 7 m. :— 
+Noctu Troiad exibant capitibus opertis. 
+[méd, téd, séd, old forms of abl. sing.; for long 
+vowel, see Giles, § 328, iv.] 
+(0) dato, 2nd and 8rd pers. sing. of the imperative of 
+dare, from original datod. 
+ 
+-P-A-G-E-54
+46 LATIN PHONETICS 
+sunto, 8rd pers. plur. imp. from esse, from original 
+suntéd. [This -tdd seems originally to have been 
+the abl. sing. of the demonstrative pronoun -to- 
+‘from that,’ ‘thereon,’ and hence abito will 
+mean ‘go away at once,’ or ‘be sure you go 
+away,’ a stronger form of command than abi 
+(see Lindsay, S.H.G., p. 103; Giles, § 519).] 
+dat6d and suntdd are attested by inscriptions. 
+The negative haud maintained its d, although the 
+preceding diphthong aw was in the duration of its pronun- 
+ciation equivalent to a long vowel, because the word was 
+proclitic ; 7.¢., attracted into the following word, so that its 
+d was not final. 
+% 9. 
+§ 39. The pure voiced guttural g suffered no changes. 
+On the other hand, the labialised voiced guttural which 
+we represent by g’, and which the Latin orthography 
+represented by gu, was replaced by » whenever it occurred 
+between two vowels. 
+EXAMPLES. 
+nivis, from nix, which goes back to an original form, 
+*nig’s (§ 82), )( ninguit, ‘it snows.’ 
+struvo, written struo (§ 47), )( structum, the supine, 
+which developed from *strug’ tum (§ 82). 
+It is important to note that g” and gq’, written in 
+ordinary spelling gw and qu, must not be regarded as 
+consonantal combinations. They were not groups formed 
+of a guttural stop and the semi-vowel v, but guttural 
+stops with a labial aftersound ; the latter receiving a very 
+much weaker articulation than the semi-vowel v. 
+Thus gw standing alone is not sufficient to make a 
+syllable long by ‘position’ (§ 95), as would be the case 
+if the combination were regarded as one of two independent 
+ 
+-P-A-G-E-55
+  HISTORY OF THE LATIN CONSONANTS 47 
+consonants: ¢f. Vergil, Aen., ii. 15, Instar montis équom 
+divina Palladis arte. 
+Spirants. 
+f 
+§ 40. f was not tolerated in the middle of words; for the 
+medial / of the other Italian dialects, Latin substituted 
+bord. Still there are a few cases in which / is actually 
+found in this position, of. e.g., fefelli, defero, reficio, rufus, 
+scrofa, vafer. 
+The explanation of these exceptions is simple. Cases 
+like those of fefelli, defero, reficio are to be explained by 
+analogical restoration, and rufus, scrofa, vafer are loan- 
+words from neighbouring dialects adopted into the language 
+of Rome. We find such loanwords frequently in the 
+language of the people, where the literary language main- 
+tained the genuine Latin form. Thus we gather from a 
+passage in Nonius Marcellus,! (p. 531, 2 m.), that the 
+educated Romans pronounced sibilare, while the people 
+said sifilare: sifilare quod nos, vilitatem verbi vitantes, 
+sibilare dicimus. From the form sifilare came the 
+French word ‘siffer. In the same way the Latin writers 
+call the truffle tuber, while the Romance languages, as 
+the French word truffe proves, imply the existence of a 
+duplicate vulgar form *tu/er. 
+Ss. 
+§ 41. The breathed dental spirant s, when beginning a 
+word, remained unchanged. On the other hand, when 
+occurring between two vowels in the middle of a word, it 
+1 [Nonius Marcellus, a native of Numidia, floruit circ. 323 a.D. He is 
+the author of an encyclopaedic work called De compendiosa doctrina, 
+See Sandy’s History of Classical Scholarship, vol. i. p. 209.]  
+-P-A-G-E-56
+  48 LATIN PHONETICS 
+first became voiced, and then passed into 7. Instances of 
+this process, commonly known as rhotacism, are very 
+numerous. Cf. aeris, gen. of aes; juris, gen. of jus; operis, 
+gen. of opus; feriae, ‘holidays,’ ) ( festus ; heri ) ( hesternus; 
+haurio, )( supine haustum ; queror, )( questus sum ; erit, 
+future, ) ( est, present ; dizimo, older form *disemo ; amare, 
+delere, legére, audire, ) ( esse. 
+We may compare Varro, de lingua Latina vii. 26: in 
+multis verbis, in quo antiqui dicebant s, postea dicunt 7... 
+foedesum, foederum; plusima, plurima; meliosem, meliorem ; 
+asenam, arenam ; Quintilian, Jnstit. Orat. i. 4, 13: nam ut 
+Valesii Fusii in Valerios Furiosque venerunt, ita . . lases 
+et asa fuerunt; and again Paulus Diaconus, p. 359, 1 
+Th.:—s pro r littera saepe antiqui posuerunt, ut majosibus, 
+meliosibus, lasibus, fesiis. [Livy expressly remarks that 
+the name Furius was by certain old writers written Fusius 
+(ii. 4, 1).] 
+We are enabled to fix the approximate date when 
+rhotacism set in by means of two special passages. 
+Cicero, ad Familiares, ix. 21, 2, states that L. Papirius 
+Cursor, dictator B.c. 339, was the first person to bear the 
+name of Papirius instead of the former Papisius: and the 
+Digests (1, 2, 2, 36) mention that Appius Claudius Caecus 
+(Censor in 312 B.c., and Consul in 307 B.c. and 296 B.c.) 
+changed the spelling Valesii and Fusii to Valerii and 
+Furii. Now, as we know that of all the words in any 
+language proper names are the least accessible to change, 
+we cannot go far wrong in assuming that rhotacism in 
+common nouns had finally set in somewhere about the year 
+350 B.o. 
+The apparent exceptions to the universal application of 
+thotacism admit of several explanations. Such compounds 
+as desuper, nisi, resédo are evidently restored forms after
+-P-A-G-E-57
+  HISTORY OF THE LATIN CONSONANTS 49 
+the model of super, si, sedo. In other cases where s 
+between two vowels appears unchanged, we have to deal 
+with an old -ss-, which, after a long vowel or diphthong, 
+was simplified into -s- (§ 58). Thus causa, casus, divisio 
+were written and pronounced till Cicero’s time, and even 
+later, caussa, cassus, divissio ; cf. Quintilian, Instit. Orat., i., 
+7,20: quid? quod Ciceronis temporibus paulumque infra 
+fere quoties s littera media vocalium longarum vel subjecta 
+longis esset, geminabatur? ut causse, cassus, divissiones : 
+quomodo et ipsum et Vergilium quoque scripsisse manus 
+eorum docent. Finally we meet s between two vowels in 
+a number of loanwords which found their way into Latin 
+after 350 B.c., and so escaped the influence of rhotacism ; 
+of, eg., cisium, ‘a light, two-wheeled carriage,’ gaesum, 
+‘a heavy iron javelin,’ both Celtic words; basis, ‘founda- 
+tion,’ nausea, ‘sea sickness,’ pausa, ‘stoppage,’ which are 
+of Greek origin; and asinus which seems to have come 
+from Asia Minor through some Thracian dialect.1 
+§ 42. If we disregard words of the type of milés, 5s a 
+bone, etc. (for which see § 56, 4), the law holds good that 
+final s in Old Latin was dropped when standing after a 
+short vowel, and when the following word began with a 
+consonant; ¢f. Cicero, Orator, 48, 161: quin etiam quod 
+jam subrusticum videtur, olim autem politius, eorum 
+verborum quorum eaedem erant postremae duae litterae 
+quae sunt in optimus, postremam literam detrahebant, nisi 
+vocalis insequebatur. And in fact the dental spirant under 
+these conditions is seldom written in the oldest inscriptions. 
+The Old Latin poets also generally treated it in this 
+position as not affecting the scansion ; thus, for instance, 
+1 [Hehn, Kulturpflanzen und Hausthiere, p. 475, assumes the derivation 
+of asinus to be from the Hebrew athén.] 
+D  
+-P-A-G-E-58
+    
+50 LATIN PHONETICS 
+Eunius writes ‘Ancu’ reliquit,’ and Lucilius, ‘ Aeserninu’ 
+fuit.’ When, however, the following word began with a 
+vowel, a process of liaison, as in French, set in; ¢.¢., final 
+s was separated from the previous word and connected 
+with the initial vowel of the following word; this pre- 
+vented its being dropped (¢f. optimos~~omnium like French 
+mauvais’ esprit). Analogy, however, gradually introduced 
+regularity into the treatment of final s by restoring its 
+value in all cases alike. In Lucretius it is proved by 
+statistics that the cases in which the presence of a final 
+s before a word beginning with a consonant makes a 
+preceding short vowel long by position, are more numerous 
+than those in which it is neglected. Catullus shows but 
+one instance of final s which has not caused a lengthening 
+by position before a word beginning with a consonant. 
+This example is in Carmen, 116, 8: at fixus nostris tu 
+dabi(s) supplicium. 
+The disappearance of final s in Old Latin, of which 
+we have just spoken, explains the presence of duplicate 
+forms like magis and mage, amaris and amare (thou art 
+loved). The old pronunciation was really, eg., magis 
+elegans, but magi’ saepe. Since, as we have seen 
+(§ 28), every absolutely final 7 became ¢, * magi became 
+magé. Once this change had taken place there was 
+naturally no restoration of final s possible; hence the 
+two parallel forms magis and mage survived side by side ; 
+similarly with amaris and amare. Analogy, however, 
+interfered with the original conditions; the use of magis 
+and amaris soon ceased to be connected with position 
+before a vowel, and in like manner the use of mage 
+and amare was no longer connected with position before 
+a consonant; the initial letter of the following word 
+ceased to play any part in the choice of one or the other
+-P-A-G-E-59
+  HISTORY OF THE LATIN CONSONANTS 51 
+of the two forms [¢/. also potis, pote; sive=*sivis; neve 
+=* nevis]? 
+§ 43. Sometimes final s was replaced by r. Thus the 
+word labér, as it is written in Classical Latin, took the 
+place of the archaic form labds (for the shortening of 
+the d in labér see § 31, 2); and similarly vapdr replaces 
+vapos (of. Quintilian, Jnstit. Orat., i. 4, 13: nam ut 
+Valesii Fusii in Valerios Furiosque venerunt, ita arbos, 
+labos, vapos, etiam . . . fuerunt). 
+This change must not be considered as the result of a 
+regular sound-development ; the final 7 of the nominative 
+case labor, vapor, etc., is simply the r of the oblique cases, 
+which has extended its influence beyond its original limits 
+owing to the analogy of nomina agentis such as dator, 
+. tonsor, whose r was Indo-European. It is worth noting, 
+too, that although the nominative honér is found on an 
+inscription as early as 130 B.c., honds is unquestionably 
+the prevailing form in the best MSS. of Cicero, Livy and 
+Horace, and that Vergil employs exclusively the form arbés, 
+and never arbir. 
+h. 
+§ 44. From the beginning of the literary period, the 
+breathed guttural spirant 2 (the sound in Scotch ‘loch’) 
+was still merely a breathed sound in the larynx, produced 
+by the friction of the breath against the borders of the 
+vocal chords. Thus the Latin grammarians never speak of 
+the symbol # as a littera, but only as a nota aspirationis. 
+Lightly pronounced when initial, and almost inaudible 
+when medial, this breathed sound fell into complete 
+1 [In the greater part of Italy, and probably in Dacia, final s disappeared 
+once for all from the common pronunciation in the second and third 
+centuries A.D., except in monosyllables; see Grandgent, Introduction to Vulgar Latin, § 29.]  
+-P-A-G-E-60
+  52 LATIN PHONETICS 
+disuse in both positions at an early date. We know that 
+words beginning with / were treated in prosody in precisely 
+the same way as words commencing with a vowel; and 
+that medial 4 had no power to prevent the rhotacism of 
+s in *dishibeo, ‘I separate,’ which became diribeo (§ 41), 
+nor the contraction of nihil and nehemo to nil and nemo 
+respectively (§ 32). In spite of this, educated society re- 
+introduced the aspiration of this symbol under the influence 
+of orthography, and in classical times neglect to aspirate 
+the # was regarded as a sign of bad education or low origin. 
+But as this was a purely artificial pronunciation, many 
+people introduced 4 wrongly even into words where it did 
+not belong, ¢f the well-known epigram of Catullus, in 
+which the poet derides a certain Arrius who instead of 
+insidias said hinsidias (§ 35). Under these circumstances 
+an uncomfortable uncertainty crept in even into the 
+orthography, as in many cases no sure criterion was at 
+hand for distinguishing the words which rightly took the 
+aspiration from those where it was incorrect. ‘Thus it 
+became customary to write, instead of the correct form 
+hanser, ‘a goose,’ the rural and plebeian form anser.! 
+On the other hand the customary orthography spelt 
+umerus as Aumerus adding an / which had no right to be 
+there. This explains, too, the inconsistencies in the old 
+texts, and consequently also in the modern editions, which 
+hesitate between irpex and Airpex, ‘harrow’; erus and 
+herus, ‘master’; arundo and harundo, ‘reed’; olus and 
+holus, ‘vegetable,’ etc. 
+It is therefore not strange that the Roman grammarians 
+from the earliest times made it one of their principal 
+occupations to lay down clearly the correct facts as to 
+aspiration. These efforts, for the most part futile, may 
+1 [Or perhaps through analogy of anas which never had an h.]
+-P-A-G-E-61
+  
+HISTORY OF THE LATIN CONSONANTS 53 
+be compared with those of French teachers who give 
+themselves much unnecessary trouble in impressing on 
+their pupils the difference between / aspirate and / mute, 
+although / aspirate has been unknown in France for at 
+least two centuries, except in some local dialects such as 
+those of Normandy and Lorraine. 
+Trills and Divided Consonants. 
+§ 45. When two 7’s or two 7s are in close proximity 
+their tendency is to suffer differentiation ; ¢.e., the articula- 
+tion of one of the two sounds is modified, or actually 
+suppressed under the influence of the other. This character- 
+istic, known under the name of Dissimilation, follows certain 
+principles which are analogous to the other phonetic laws, 
+but much more difficult to formulate. It seems, therefore, 
+best to confine ourselves here to an enumeration of the 
+actual changes attested by historical evidence. 
+(1) l-1>1-r: 
+The suffix -alis was replaced by-aris, whenever the word, 
+to which it was attached, already contained an 4 ¢f. 
+auxiliaris, consuliris, luniris, militaris as against 
+mortiilis, navalis, rega/is, venalis, and similarly pulvinar 
+(a cushion on which the effigies of the gods reclined during 
+a lectisternium) as against cervicitd (pillow), cubiti/ (elbow- 
+cushion). These substantives are neuters from adjectives 
+in -alis, used as substantives; for the loss of final ¢ see 
+§ 31, 1; for the shortening of @ see § 31, 2. 
+For the same reason the suffix -crwm has taken the place 
+of -clum in the words fulerum, lucrum, sepulcrum as 
+against periclum, poclum, vinclum. [@/, too, lavacrum, 
+simulacrum. ] 
+(2) 1-I>r-1: 
+Caeruleus, ‘ blue,’ from *caeZuleus from caelum ; Parilia, 
+-ium (the festival of Pales) from Padilia. 
+(3) r-r>l-r: 
+Lemuria, -iorum (Roman festival held on 9th May to
+-P-A-G-E-62
+  54 LATIN PHONETICS 
+propitiate the dead and the evil spirits) from *Remuria 
+according to Ovid, Fasti, v. 479 sqq. 
+The Vulgar Latin form pelegrinus for peregrinus (¢f. the 
+English pi/grim, and French pé/erin), 
+Flagrare, to cause a smell of burning, from fragrare, ¢f. 
+French flairer [which means at present ‘to scent,’ but 
+which formerly signified ‘to spread a smell’). 
+(4) r-r>r-nil: 
+erebesco, crebui from crebresco, crebrui. 
+praestigiae, ‘juggler’s tricks,’ connected with praestringo, 
+‘I dazzle.’ 
+Vulgar Latin propius and propietas from proprius and 
+proprietas (¢f. Fr, propiétaire, a common mispronunciation 
+for propriétaire). 
+Stil oe 
+Fabaris, an affluent of the Tiber in the Sabine territory 
+(Vergil, Aen., vii. 715), called by the Oscans Farfarus, Ovid, 
+Met., xiv. 330; for the treatment of Latin 6 as against 
+Oscan f see § 40, 
+Nasals. 
+§ 46. The treatment of final m is the only point which 
+calls for remark. 
+We have four different authorities on which to base our 
+conclusions as to the value of final m in Latin : 
+(1) The statements made by the Latin grammarians ; 
+(2) the orthography of the inscriptions; (3) metre; 
+(4) comparison with the Romance languages. 
+(1) Of the passages in grammarians in which the 
+definition of the nature of final m is attempted, the 
+following three seem of the greatest importance for our 
+purpose :— 
+(a) Quintilian, Instit. Orat., ix, 4, 40: atqui eadem illa 
+littera (ie., m) quotiens ultima est et vocalem verbi 
+sequentis ita contingit, ut in eam transire possit, etiam
+-P-A-G-E-63
+  HISTORY OF THE LATIN CONSONANTS 55 
+si scribitur, tamen parum exprimitur, ut multum ile et 
+quantum erat, adeo ut paene cuiusdam novae litterae 
+sonum reddat; neque enim eximitur, sed obscuratur et 
+tantum in hoc aliqua inter duas vocales velut nota est, 
+ne ipsae coeant. 
+(6) Velius Longus, vii. p. 78, 19 k [a grammarian who 
+lived in Trajan’s time]: cum dico etiam nunc, quamvis 
+per m scribam, nescio quomodo tamen exprimere non 
+possum. 
+(c) Priscian [about the beginning of the fifth century 
+A.D.], ii. p, 29, 15 k: m obscurum in extremitate dictionum 
+sonat, ut templum; apertum in principio, ut magnus; 
+mediocre in mediis, ut wmbra. 
+(2) In the Old Latin inscriptions final m is very often 
+dropped. Thus we read in the sepulchral inscription in 
+saturnine verses of L. Cornelius L. F. Scipio, consul 259 
+B.c., oino for oimom (=unum); dvonoro for dvonorom 
+(=bonorum); viro for virom (=virum); aide for aidem 
+(=aedem); but also Luciom=Lucium. This habit of 
+dropping final m was continued during the following 
+centuries on plebeian inscriptions, and indeed became more 
+and more frequent, whilst in the orthography of the official 
+inscriptions the insertion of final m was practically never 
+neglected from the second half of the second century B.c. 
+In rare cases we find a final -m replaced by -n (¢.g., salvon 
+for salvom, tan for tam). 
+(3) In poetry if a word ends in -im, -em, -wm, -om, -um, 
+and the followiig word begins with a vowel, there is 
+always elision just as if no m were there; on the other 
+hand, these syllables are scanned as long if the following 
+word begins with a consonant; ¢f. Vergil, Aen., ii. 101: 
+Sed quid ego haec autem nequiqu™ ingrata revolvo? 
+4. The Romance languages show no trace of final -m, 
+except in a small number of stressed monosyllables like
+-P-A-G-E-64
+  56 LATIN PHONETICS 
+the French rien from rem. [The Romance languages 
+point to a loss of -m in all words but monosyllables ; 
+see Grandgent, Introduction to Vulgar Latin, § 309.] 
+These different statements can be reconciled only by 
+assuming that as early as the pre-literary period of 
+Latin, final m was reduced to a mere nasalisation of the 
+vowel preceding it. As the Latin alphabet, like the 
+English, possessed no special symbol for the representation 
+of nasal vowels, spellings like viro, equom, and salvon 
+represented three different phases in the attempts at 
+denoting nasalisation in writing. This enables us to 
+understand why Velius Longus called the sound in 
+question ‘undefined,’ and also why Quintilian spoke of 
+it as ‘paene cuiusdam novae litterae sonus.’ As nasal 
+vowels preceding a consonant were always long, it is 
+natural that scansions like 
+Urbem quam dicunt Romam, Meliboee, putavi 
+represent the normal treatment in scansion of the groups 
+-em, -am, etc., before a word beginning with a consonant. 
+And, finally, this explains the elision of these same groups 
+before a following vowel; for, since the nasalisation was 
+produced during the utterance of the vowel, and not after- 
+wards, the poets could not do otherwise than put these 
+groups on the same footing, as regards liability to elision, 
+with the pure mouth-vowels. 
+Semi-vowels. 
+§ 47. In the sound combinations forming two syllables 
+a+ any other vowel than ¢, and w+any other vowel than 
+u,) after ¢ and w respectively the semi-vowels j and v 
+developed as transition sounds. These parasitical sounds 
+1 [t-+¢ was contracted to % and ww to a (§ 82).] 
+ 
+-P-A-G-E-65
+HISTORY OF THE LATIN CONSONANTS 57 
+were not commonly denoted in writing at all. Thus the 
+written form was pius, via, duo, pluit, but the pronuncia- 
+tion was pi-j-us, vi,j-a, du-v-o, plu-v-it. The suppression 
+of v after w in the written language was actually extended 
+to v when organically correct, as in words like fluvere, ‘to 
+flow’ (which comes from *flug’ere (§ 39); conflovont ap- 
+pears on an old inscription); fruvor, ‘I enjoy’ (from *frug’or 
+(§ 39); these were written fluere, fruor. But since the 
+Latin alphabet did not distinguish between ¢ and J, and 
+between w and » (§ 6, note iv, 2) the ambiguity of 
+spellings like IVENTA, ‘youth,’ which might be read 
+either as juventa or as *iventa, or of PLVIA, ‘rain,’ 
+which could stand for either pluvia or *pluja, caused 
+toward the end of the Republic the restoration or intro- 
+duction of the symbol v, in the form V, of course, in 
+these words and in some others of the same kind as for 
+example fluvius. 
+Note. —The appearance of the parasitic semi-vowels j 
+and v after i and w followed by vowels is found also 
+in modern French, ¢f. plier, pronounced pli-y-er and 
+bouvard. 
+§ 48. 7 between two vowels was pronounced 7+j. For 
+this reason Cicero, in order to reconcile the spelling with 
+the pronunciation, wrote acéo, Aiiax, Mazza, instead of aco, 
+Aiax, Maa, the way in which these words were ordinarily 
+written, ¢f Quintilian, Instit. Orat., i. 4, 11: sciat etiam 
+Ciceroni placuisse aiéo Matiamque geminata 7 scribere, and 
+Velius Longus, vii. p. 54, 16 k, in plerisque Cicero videtur 
+auditu emensus scriptionem, qui et Azdacem et Maziam per 
+duo @ scribenda existimavit. Forms like adiunt, ezus, 
+maiiorem, are found also in inscriptions and in a number 
+of our oldest MSS.
+-P-A-G-E-66
+  58 LATIN PHONETICS 
+§ 49. » occurring between two vowels whose acoustic 
+quality was essentially identical was regularly lost, and 
+the two vowels were contracted (§ 32). 
+EXAMPLES. 
+ditis, genitive of dives, from divitis; in the same way 
+we have ditior, comparative, and ditissimus, superlative, 
+from divitior and divitissimus. 
+sis, ‘pray,’ from si vis. 
+latrina, from lavatrina. 
+introrsum, retrorsum, dextrorsum, from *introvorsum, 
+*retrovorsum, *dextrovorsum (vorsum is an archaic form 
+from versum). [Qf our ‘Hawarden’ pronounced with 
+loss of w, Lindsay, S.H.L.@., p. 14.] 
+The duplicate forms divitis, divitior, divitissimus, and 
+lavatrina are due to analogy. Thus the genitive divitis is 
+clearly a new formation after the analogy of the nominative 
+dives, where the v had to be maintained. On the other 
+hand, the oblique cases ditis, diti, ditem, dite have called 
+into existence a nominative dis along with dives. 
+§ 50. In the same way v was lost in the combinations 
+-dvé- and -&vd- before a consonant, but with this restric- 
+tion, that the second of the two vowels did not stand 
+in the final syllable. 6+¢ were then contracted into 0, 
+while +0 did not undergo contraction (¢f. § 32). 
+cdntio from cdvéntio (coventio is attested in S. C. de 
+Bacch.). 
+nonus from *novénos; novem for *noven owes its -m 
+to decem. 
+déorsum, séorsum from *dévorsom, *sévorsum (for the 
+shortening of the @ after the loss of v, see § 27). 
+but 
+fovea (ditch) and novem, retain the », since in the former 
+the combination -ove- stands not before a consonant but 
+before a vowel, and in the latter the second of the two 
+vowels belongs to the final syllable. 
+ 
+-P-A-G-E-67
+  HISTORY OF THE LATIN CONSONANTS 59 
+§51. In Vulgar Latin the disappearance of v between 
+two vowels seems to have set in on a much larger scale 
+than in the literary language. The ancient grammarians 
+state that the people said failla for favilla, paor for 
+pavor, probai for probavi. The inscriptions preserve 
+forms like paimentum for pavimentum, dedicait for dedi- 
+cavit. The Romance languages seem also to testify to 
+the loss of v in this position; ¢f. Fr. paon from * paonem ; 
+peur from * paorem ; and the so-called past definite tenses 
+like chantai, prouvai, which presuppose a Latin * cantai, 
+* probai. 
+§ 52. The semi-vowel v became a spirant from the end 
+of the second half of the first century a.p. Thus after 
+this date we find the inscriptions hesitating between it 
+and 6, which also became a spirant (§ 36) [further instances 
+from inscriptions are biginti, bixit, botum, vene; Baleria, 
+bictor, bos; bivere for vivere is very common. See 
+Grandgent, § 316]. 
+§ 58. Some four centuries later j in its turn became a 
+spirant, with the sound dz which it had in Old French 
+and still has in modern Italian. As the Latin alphabet 
+had no special sign to represent this new sound, we find 
+no less than four different symbols on the inscriptions, 
+i.t., % 8, gi, di; of. forms like Zulia=Julia; Zanuarius and 
+Gianuarius = Januarius; Sustus = Justus; Giove = Jove; 
+eodiux=co(n\jux, found in Low Latin inscriptions belong- 
+ing to the beginning of the Middle Ages. 
+Double Consonants. 
+§ 54. When in articulating a consonant special muscular 
+energy is called into play, and the interval which normally 
+passes between the time when the organs assume the 
+necessary position and when they abandon it, is prolonged, 
+ 
+-P-A-G-E-68
+  60 LATIN PHONETICS 
+the ear in such a case fancies that it catches separately 
+the noise made by the closing and opening movements. 
+In this case we speak of a double consonant. In writing, 
+double consonants were represented in Latin from the 
+second century B.0. by a repetition of the symbol employed 
+for a single consonant. It is, however, specially to be 
+remarked that from a physiological point of view they 
+do not denote two separate sounds, but only the doubled 
+time of articulation. The double consonants consist 
+merely of one single articulation, strengthened and pro- 
+longed. Thus when the Roman grammarians lay it down 
+that in words like assiduos, siccus, currit, fadlit, two 
+successive movements of the organs of speech were 
+necessary to the production of the consonants s, ¢, 7, J, 
+they were misled by their imperfect auditory impressions 
+and by the customary spelling. This explanation will enable 
+us without any fear of misunderstanding to continue to 
+employ the inexact but convenient and generally used 
+term double consonant. 
+A. Doubling of Simple Consonants. 
+§ 55. In a certain number of Latin words a breathed 
+stop between two vowels, when it terminated the initial 
+syllable and followed a long vowel, was doubled with a 
+. shortening of this long vowel. We may regard it as 
+certain that this doubling was due in the first place to 
+the initial stress accent of pre-literary Latin (§ 7), but at 
+the same time the process is obscure, firstly because it 
+seems to be absolutely sporadic, and secondly because 
+nearly always the original form with the single consonant 
+after a long vowel remained in use side by side with 
+the later form which had the double consonant after a 
+short vowel. This extremely delicate and complex question
+-P-A-G-E-69
+  HISTORY OF THE LATIN CONSONANTS 61 
+will no doubt have to wait some considerable time for 
+its solution. 
+EXAMPLES. 
+ctippa, ‘tub,’ ‘cask,’ beside ciipa (the two variants are 
+represented in French where coupe came from ciippa and 
+cuve from cipa. 
+Jippiter beside Japiter. 
+littera asi: puOLa, 
+littus 3) cleus: 
+bicca >»  baica. 
+maticcus | mucus. 
+B. Simplification of Double Consonants. 
+§ 56. Every double consonant was reduced to a single 
+consonant :— 
+(1) After a short vowel of the initial syllable in poly- 
+syllabic words in which the second syllable was long 
+either naturally or by position. 
+EXAMPLES. 
+cinalis, derived from canna, ‘ reed.’ 
+etirilis, derived from cirrus. 
+disertus, perf. part. pass. of dissero. 
+fella, ‘a small cake,’ dim, of Sfa. 
+sicellus, dim. of siiccus. 
+As we might naturally expect, analogy re-introduced 
+double consonants into a large number of words, ¢f., ¢.9.: 
+gillina for *gi/ina, on the model of gii/lus. 
+innoxius for *inoxius, on the model of innécuos. 
+sérratus for *sératus, on the model of sérra ‘a saw.’ 
+(2) Before a consonant. 
+EXAMPLES. 
+pergo from *perrgo, *perr(e)go (per + rego: for the 
+syncope, see § 15), of. the perfect perrexi,
+-P-A-G-E-70
+  62 | LATIN PHONETICS 
+aspiro from *asspiro, which itself stands for atspiro, 
+adspiro (ad+spiro (§ 68)). 
+discindo from *disscindo (dis + scindo). 
+dispicio from “disspicio (dis + specio; for the vowel- 
+weakening, see § 10, 1, 5). 
+disto from *dissto (dis + sto). 
+but 
+perrumpo, dissimilis, dissocio. 
+New formations due to analogy: accresco, opprimo, atéraho, 
+on the model of accedo, oppugno, attingo. The spellings 
+disscindo, disspicio, etc., insisted on by certain Latin gram- 
+marians are purely artificial, and depend not so much on 
+current pronunciation as on considerations of etymology ; 
+cf. on this point Cassiodorus,! vii. p. 205, 18 k. sqq.: 
+disspicio verbum . . . per duo s scribendum est, non per 
+unum, quoniam ex praepositione et verbo constat esse 
+compositum, quemadmodum et conspicio, aspicio, despicio, 
+ac per hoc per duo s disspicio scribi debet, et ita dividi, 
+dis et spicio. 
+(3) After a consonant. 
+EXAMPLES. 
+corciilum, ‘little heart’ (used especially as a term of 
+endearment), from *corcculom ; original form *cordculom 
+(gf. gen. of cor, cordis) > *cortculom (§ 62) > *coreculom 
+($76). 
+sarmentum, ‘twigs,’ from *sarmmentom; the original 
+form was *sarpmentom, belonging to the same root as the 
+verb sarpere, ‘to lop off,’ ‘prune’>*sarbmentom (§ 62)> 
+*sarmmentom (§ 70). 
+arsi, perfect of ardeo, from *arssi, which itself came from 
+*artsi, *ardsi (§ 68). 
+  
+1 [Died at the end of the sixth century A.D, Author of De Orthographia, 
+borrowed from the works of twelve grammarians, beginning with Donatus 
+Sete with Priscian. Of. Sandy’s Hist, Class. Scholarship, vol. i. 
+Pp. 2
+-P-A-G-E-71
+  
+HISTORY OF THE LATIN CONSONANTS 63 
+sensi, perfect of sentio, from *senssi, which itself came 
+from *sentsi (§ 68). 
+but 
+siccus, summus, pessimus. 
+The double consonant was restored to gain etymological 
+clearness in cases where the prefix ew- was connected with 
+a word beginning with s. Thus the forms exsatio, exsolvo, 
+exsomnis became, according to rule, *exatio, *exolvo, 
+*exomnis; but since the simplification of the double 
+consonant seemed likely to obscure the etymological con- 
+struction of these words, exsatio, exsolvo, exsomnis were 
+restored, in spelling at least. For the same reason the 
+words exculpo, expolio, extruo, which represent the cor- 
+rect forms (¢f 2 and 3 above), are commonly replaced 
+by exsculpo, exspolio, exstruo. 
+(4) When final. 
+EXAMPLES. 
+és, ‘thou art,’ from *ess (*es-s, 2nd pers. sing. pres, indic. 
+of es-se, like ama-s, 2nd pers. sing. pres. indic. of ama-re). 
+£67, ‘gall,’ from *fedd, ¢f. gen. felis. 
+hoc, nom. ace. sing. neuter, from *hoce (original form 
+*hodce>*hocce) (§ 31, 1; § 76). 
+milés, from *miless, which itself came from *milets 
+(§ 68). 
+6s, ‘bone,’ from *oss, ¢f. gen. ossis. 
+It is, however, to be remarked that even though the 
+spelling no longer exhibits any traces of final ‘double 
+consonants,’ we find a certain number indicated by the 
+usages of prosody.. Thus Plautus scans es as long, and 
+miles as a spondee (milés), and Vergil quite commonly 
+begins hexameters with words like hoc erat (Aen., ii. 664) 
+hoc illud (2b. iv. 675), hoc opus (7b. vi. 129): these scan- 
+sions testify to the pronunciation ess, miless, hoce. On
+-P-A-G-E-72
+64 | LATIN PHONETICS 
+the other hand, it must be observed that miles forms a 
+trochee as early as the time of Ennius, and Terence never 
+scans the last syllable of words like ades and potes as long 
+except when the following word begins with a consonant. 
+These apparently contradictory pieces of evidence may 
+perhaps be explained in the following way. Originally, final 
+double consonants were, as a rule, simplified only before a 
+pause (7.¢., at the end of a sentence), and before a word which 
+began with a consonant; while before words commencing 
+with a vowel they remained, as a rule, unchanged. Scan- 
+sions like ess, miless, hocc, are the last traces of this 
+original condition. Analogy effaced it by gradually bring- 
+ing about, in all cases, the simplification of the final double 
+consonants. Hence came the scansion milés, adés, potés 
+with the last syllable short. 
+It is important to note that the final s of words like és, 
+milés, 6s is in Old Latin never silent like the same letter in 
+amicus, civis, manus, spes, etc. (§ 42); te. when followed 
+by a consonant it always made a preceding short vowel 
+long by position. 
+§ 57. The double stops were simplified after a long 
+vowel. 
+EXAMPLES. 
+secubo, from *seccubo, which itself goes back to *setcubo, 
+*sedcubo (§ 76). 
+separo, from *sepparo, older *setparo, *sedparo (§§ 14 and 
+76). 
+§ 58. -ss- remained intact in every case till the end of 
+the first century B.c., but after that time was reduced to -s- 
+when following a long vowel or diphthong; see Quintilian, 
+Instit. Orat., i. 7, 20 (the passage already quoted in § 41). 
+Thus the pronunciation of Cicero, and of Vergil also, was as 
+ 
+-P-A-G-E-73
+  HISTORY OF THE LATIN CONSONANTS 65 
+given below ; we may infer this not merely from the testi- 
+mony of Quintilian, but also from contemporary inscrip- 
+tions and the best manuscripts of these authors. 
+classis; esse; gessi, perf. of gero (from *geso, § 41); 
+missus, perf. part, pass. of mitto (§ 83); cassus -as, from 
+*cadtus (§§ 26 and 83) ; divissio, from *dividtio (§§ 26 and 838), 
+caussa, 
+On the other hand, in Quintilian’s time the pronuncia- 
+tion was : 
+classis, esse, gessi, missus ; but casus, divisio, causa. 
+As regards this last example, caussa seems to have 
+remained in use, together with causa, during the whole 
+of the first century a.p. This seeming anomaly is to be 
+explained by the fact that we are dealing with a term 
+belonging especially to legal phraseology which affected 
+archaisms. 
+In view of the linguistic facts thus stated it were to be 
+wished that modern editors would make up their minds to 
+avoid such spellings as casus, divisio, causa in texts of 
+Cicero, Caesar, Vergil, etc. Cassus, divissio, caussa are the 
+only forms that correspond to the pronunciation of the 
+republican era. 
+§ 59. -d/- was simplified to -/- : 
+(1) After a long vowel, when the following syllable 
+contained an ¢. 
+(2) After a diphthong. 
+EXAMPLES. 
+(1) mivia, nom, and ace. plur, of mille. 
+stilicidium, ‘dripping,’ )( sti//a, ‘a drop,’ from * stir-la 
+(§ 73), of. stiria, ‘a drop,’ or ‘an icicle.’ 
+vilicus, )( villa. 
+stélio, ‘spotted lizard,’ )(sté//a, 
+E 
+ 
+-P-A-G-E-74
+66 LATIN PHONETICS 
+The length of the root-vowel in mille, villa, stélla is 
+vouched for by the evidence of the Romance languages. 
+(2) aula, ‘a pot,’ from aulla (attested by the oldest 
+Plautine MSS.) )( the Vulgar Latin duplicate form ol/a 
+(§ 24). 
+caelum, ‘chisel,’ from *cae//um, from * caedlom (§ 71) 
+belonging to the root ‘of caedo, )( rad/um, ‘instrument 
+for scraping ploughshare,’ from *radlom (§ 71), 
+§ 60. -mm- after a long vowel or diphthong was reduced 
+to -m-. 
+EXAMPLES. 
+gluma, ‘husk of corn,’ from *glumma, *glubma ; glubo, 
+‘I peel’ (§ 70). 
+ramentum, ‘shavings,’ ‘chips,’ from *rammentom, 
+*radmentom (§ 70). 
+caementum, ‘cement,’ from *caemmentom,*caedmentom; 
+caedo (§ 70). 
+   
+-P-A-G-E-75
+COMBINATIONS OF CONSONANTS 67 
+COMBINATIONS OF CONSONANTS. 
+A. Groups of Two Consonants. 
+1.—-Assimilation. 
+§ 61. In any language when two consonants of different 
+acoustic quality come into contact, there is a tendency to 
+suppress, or at least modify, the transition from the first to 
+the second by an entire or partial levelling of their 
+respective natures. This linguistic phenomenon is known 
+under the name of assimilation. Assimilation can affect 
+breath and voice (c.¢., if two consonants, one breathed, the 
+other voiced, are in combination, they are likely to become 
+both either breathed or voiced). It affects also the manner 
+and the place of articulation. It is progressive or 
+regressive, according as to whether it is the first or second 
+consonant from which the process of levelling proceeds, or, 
+in other words, whether the assimilating consonant is the 
+first or the second. In Latin, regressive assimilation was 
+much more common than progressive. 
+(a). Breath and Voice Assimilation. 
+Regressive Assimilation. 
+§ 62. Every stop or spirant becomes breathed before a 
+breathed stop or spirant, and voiced before a voiced stop 
+or spirant. 
+EXAMPLES. 
+(1) actus (for the lengthening of the a, see § 26), perf. 
+part. pass. of igo. 
+scriptus, perf. part. pass. of scribo.
+-P-A-G-E-76
+68 LATIN PHONETICS 
+rexi (i.e. recsi), perf. of régo. 
+nipsi, perf. of nubo, 
+(2) abduco, )( aperio. 
+obdo, )( operio. 
+segmentum, belonging to the root of seco. 
+§ 63. In other cases the results of this law are latent, 
+ery obscured by further changes. Compare :— 
+*clautsi, perf. of claudo, which became claussi (§ 68), 
+and from the Augustan period, clausi (§ 58). 
+*submos superlative, ‘the highest,’ from *supmos (cf. the 
+comparative suyerior), which became summus (§ 70). 
+*izdem, ‘the same,’ from *isdem, which became idem 
+(§ 25, 1 and § 86). 
+For further examples see §§ 66 sqq. and § 86. 
+§ 64. If in ordinary spelling a voiced consonant precedes 
+a breathed, as in words like obtineo, subtilis, plebs, urbs, the 
+violation of the rule is only apparent. A considerable 
+mass of evidence from the Roman grammarians establishes 
+the fact that these words were always pronounced optineo, 
+suptilis, pleps, urps; ¢/. for example, Quintilian, Jnstit. 
+Orat., i. 7, 7: quaeri solet in scribendo praepositiones 
+sonum quem junctae efficiunt, an quem separatae observare 
+conveniat, ut cum dico obtinuwit (secundam enim 0 litteram 
+ratio poscit, aures magis audiunt p). By ratio, of course, 
+we must understand analogy: obtineo, subtilis were 
+written after the analogy of obduro, subdolus, and pleds, 
+urs after the analogy of their oblique cases plebis, pledi, 
+urbis, urbi, etc. 
+Progressive Assimilation. 
+§ 65. Its operations are always latent. 
+Under the influence of a preceding trilled or divided 
+consonant, a voiced spirant was substituted for a breathed 
+spirant.
+-P-A-G-E-77
+  
+COMBINATIONS OF CONSONANTS 69 
+EXAMPLES. 
+*ferze (‘to carry’), from *ferse (compare esse, ‘to be’), 
+which became ferre (§ 74). 
+*velze (‘to wish’), from *velse, which became velle 
+(§ 74). 
+*ferze and *velze are not attested forms, but the physio- 
+logical analysis of pronunciation proves that the combina- 
+tions -rs- and -Js- could not become -rr- and -iJ- without a 
+previous change of the breathed s into the voiced z. 
+(b) Assimilation of the Manner of Articulation. 
+§ 66. Assimilation of the manner of articulation was 
+very common in Latin. Hence we can give only a 
+selection of the most characteristic examples, leaving the 
+student to multiply the number in the course of his read- 
+ing. It should be noted also that it is often impossible 
+to determine the constituent elements of a combination 
+assimilated from this point of view without the help of 
+the other Indo-European languages. Thus -//- arises from 
+-dl-, -nl-, -rl-, -ld-, -in-, -Is-, and so it is only the com- 
+parison of the German Hals that enables us to recognise 
+that the Latin collwm (‘a neck’) is developed from *colsom.! 
+If one of the two consonants in combination was voiced 
+and the other breathed, or vice versa, the assimilation of 
+the manner of articulation was preceded by that of their 
+acoustic quality, according to the laws formulated in § 62. 
+The double consonant that resulted from the assimilation 
+of the manner of articulation was reduced to a single 
+consonant in all the cases provided for by the formulae in 
+§ 56 sgg. It should be added, however, that apart from 
+a few rare exceptions the double consonant, which was 
+simplified after a short vowel in polysyllabic words with 
+a long second syllable (§ 56, i.), was re-established by 
+analogy. By 1 See Giles, § 184,
+-P-A-G-E-78
+  710 LATIN PHONETICS 
+Regressive Assimilation. 
+Stop + Spirant. 
+§ 67. In combinations formed of a labial, dental or 
+guttural stop followed by f, the stop is changed to f. 
+Thus here the assimilation of the manner is combined 
+with that of the place of articulation; the three kinds 
+of stops not being replaced by corresponding spirants but 
+changing all to f. 
+Practically there are no examples save for the group 
+ahs Uf pt 
+-df- > *-tf } > Sf 
+-cf- 
+EXAMPLES. 
+officina (a workshop) from op(i)ficina (opificina is found 
+in Plautus Miles, 880); compare also opifex. 
+offero from * opfero. 
+affero from adfero, the intermediate stage being *atfero. 
+effero from ecfero (ecferet is found in Plautus Aulularia, 
+664, ecfari in a quotation from Ennius in Cicero, De 
+Legibus, iii. 9; the triple form of the preposition 6-, éc-, 
+ex- corresponds exactly with a-, ib-, abs-), 
+Restorations due to analogy: obfero, adfero, obfundo, 
+adfigo, which are duplicate forms of offero, a/fero, 
+offundo, affigo. Offundo and affigo in their turn are 
+re-established by analogy of offero, affero, and other 
+words of the same type. ‘The only regular forms are 
+* ofundo, * afigo (§ 56, i.). The pronunciation of obfero, 
+adfero, obfundo, adfigo was, of course, opfero, atfero, 
+opfundo, atfigo; the spellings obfero, adfero, obfundo, 
+adfigo correspond precisely with obtineo, subtilis, etc. 
+& 64).
+-P-A-G-E-79
+  COMBINATIONS OF CONSONANTS 7 
+§ 68. A combination of a dental stop followed by s 
+became ss. 
+ts aa 
+ds > ts 
+EXAMPLES. 
+concussi, perfect of concutio, from * concuisi. 
+messui, perfect of meto, from * metsui. 
+assequor, from adsequor, the intermediate stage being 
+*atsequor. 
+assum, from * atsum, from adsum. 
+Double -ss- was reduced to single -s- :— 
+(1) After a short vowel in the first syllable of poly- 
+syllabic words where the second syllable was long naturally 
+or by position (§ 56 (1)). 
+There are no examples; analogy everywhere introduced 
+the double -ss- and effaced the results of this law (see 
+below). 
+(2) In a final position (§ 56 (1)). 
+EXAMPLES. 
+miles from * milefs (compare gen. militis from * miletis 
+(§ 10, i., b)), miless. 
+pés from * péds (compare gen. pédis), * péis, *pess. (For 
+the long vowel of the nom. pés, see § 12.) 
+(3) After a long vowel or diphthong, from the end of 
+the first century 3.0. (§ 58). 
+EXAMPLES. 
+lusi, perfect of ludo, from *ludsi, *luisi, lussi. 
+plausi, perfect of plaudo, from *plaudsi, *plauisi, 
+plaussi. 
+Restorations due to analogy : adsequor, adsum, duplicate 
+forms of assequor, assum; assigno, assisto which have 
+supplanted the regular forms *asigno, *asisto ((1) above).
+-P-A-G-E-80
+1} LATIN PHONETICS 
+Stop + Nasal. 
+§ 69. Under the action of a following », each kind of 
+stop was changed into the nasal produced by the same 
+organ. ‘Thus :— 
+-bn- > -mn- 
+-pn- > -mn- passing through -bn- 
+-dn- > -nn- 
+-tn- > -nn- passing through -dn- 
+-gn- > -nn- 
+-n- > -an- passing through -gn- 
+EXAMPLES. 
+scamnum (‘a stool,’ ‘a bench’) from *scabnom (compare 
+the diminutive scabellum). 
+Samnium (the district in Central Italy whose inhabitants 
+were descended from the Sabines) from *Sadniom (which 
+belongs to the same root as Sabini, Savelli, ‘the Sabines’). 
+somnus from *sopnos (¢f. sopor, ‘deep sleep’), by an 
+intermediate stage *sobnos. 
+annoto from adnoto. 
+penna from *petna (which belongs to the root of peto, 
+‘I direct myself towards,’ the oldest meaning of which 
+was ‘I fly’), through an intermediate stage *pedna. 
+As for the group -gn-, representing partly an older -cn- 
+(of. § 62), writing has not been able to reproduce its 
+development into -nn-, because, as we have seen (§ 6, 
+note 3), the Romans did not possess a special letter to 
+denote the nasal guttural. Thus they continued to write 
+-gn- while pronouncing -2n-. 
+Compare :— 
+linnum, written lignum, ‘firewood’; primitive form 
+*legnum (§ 16). 
+dinnus, written dignus; primitive form *decnos (§§ 16, 
+62) ; intermediate stage *degnos,
+-P-A-G-E-81
+COMBINATIONS OF CONSONANTS 13 
+The proof that in lignum and dignus -gn- was pro- 
+nounced -nn- is provided by the radical % of these words, 
+which comes from an original @, the change of @ to 7 in 
+a closed syllable being the rule before a nasal guttural 
+(§ 16). Restorations due to analogy: abnuo, abnego, which 
+have almost entirely ousted the regular forms amnuo, 
+amnego; adnoto, a duplicate form of annoto; annecto, 
+annitor for *anecto, *anitor (§ 56 (1)). 
+§ 70. Omitting the combination guttural stop+m, the 
+treatment of which has not yet been established, all 
+the stops followed by m became m. This development 
+presupposes the earlier change of d and ¢ tob and p in 
+consequence of an assimilation of the place of articulation. 
+(§ 78). Hence :— 
+-bm- 
+Sime > Fon } peas 
+cee } > -mn- passing through -bm-. -tm- > -pm- 
+For -tm-, it is true, we have no examples, but it is 
+beyond doubt that this combination developed in the 
+way indicated wherever it presented itself. 
+EXAMPLES. 
+ammoveo from admoveo. 
+summus from *submos from *supmos (§§ 62, 63). 
+Double -mm- was simplified later to -m- (S§ 56 (1), 60) 
+after a short vowel in the initial syllable in polysyllabic 
+words whose second syllable was long by nature or 
+ 
+-P-A-G-E-82
+  74 LATIN PHONETICS 
+position, and in all words where it followed a long vowel 
+or diphthong. 
+EXAMPLES. 
+omitto from *opmitto (op being the original form of the 
+preposition ob ; § 62 (2)), *obmitto, *ommitto. 
+glama (‘husk’) from *glubma, *glumma (glibo, ‘peel’). 
+caementum (‘hewn stone’) from *caedmentom, *caem- 
+mentom (caedo, ‘ break’). 
+Restorations due to analogy: admoveo, duplicate form 
+of ammoveo (see above); submitto, duplicate form of 
+summitto, which is itself of analogical origin, the correct 
+form being *sumitto (compare omitto above). 
+Stop + Divided Consonant. 
+§ 71. The voiced dental stop d followed by the divided 
+consonant / is assimilated to it. 
+-dl- > -ll- 
+EXAMPLES. 
+alloquor from adloquor. 
+gradlae (‘stilts’) from *gradlae (gradior). 
+radlum (instrument for scraping earth off a ploughshare) 
+from *radlom (rado). 
+sella from *sedla (sedeo). 
+After a diphthong double -i/- is simplified (§ 59 (2)). 
+EXAMPLE. 
+eaelum (a sculptor’s chisel) from *caedlom > *cae/lum 
+(caedo). 
+Restorations due to analogy: adloquor, duplicate form 
+of adloquor; adlatus, perf. part. pass. of adfero, affero 
+(§ 67), duplicate form of a/latus, which in its turn analogy 
+substituted for * alatus (§ 56 (1)).  
+-P-A-G-E-83
+  
+COMBINATIONS OF CONSONANTS 15 
+Nasal + Trilled or Divided Consonant. 
+§ 72. Nasal » is assimilated to a following trilled or 
+divided consonant. 
+-mt- > -rT- 
+-nl- > -ll- 
+EXAMPLES. 
+(i.) corripio, from *conrapio (with umlaut, § 10, i. c). 
+irrevocabilis, from inrevocabilis. 
+(ii.) colloquium, from conloquium. 
+villum (‘a sup of wine’), from *vin(o)lum (diminutive of 
+vinum with syncope, § 15), 
+Restorations due to analogy: inrevocabilis, conloquium, 
+duplicate forms of irrevocabilis, colloquium (see above) ; 
+corrumpo, illatus (perf. part. pass. of infero), which have 
+replaced the regular forms corumpo and *ilatus (§ 56 (1)). 
+Of corumpo there remains a last trace in Lucretius, vi., 
+1135: 
+An coelum nobis ultro natura cdruptum. 
+Trilled + Divided Consonant. 
+§ 73. A trilled followed by a divided consonant is changed 
+by the latter into a divided consonant. 
+-al- > -ll- 
+EXAMPLES. 
+agellus, from *agerlos (diminutive of ager). 
+pellicio, from *perlacio (with umlaut, § 10, i. c). 
+satudlus (‘satisfied’) from *saturlos (derived from satur). 
+Restorations due to analogy : perlicio, duplicate form of 
+pellicio (see above), perluceo, duplicate form of pedluceo, 
+which is itself substituted by analogy for *peluceo (§ 56 (1)).
+-P-A-G-E-84
+  76 LATIN PHONETICS 
+Progressive Assimilation. 
+Trilled or Divided Consonant + Spirant. 
+§ 74. A trilled or divided consonant assimilates a follow- 
+ing s after having first changed it into 2 (§ 65). 
+-rs- > -rr- 
+-ls- > -Il- 
+EXAMPLES. 
+ferre from *ferze, from *ferse (compare esse). 
+velle from *velze from *velse. 
+To the same category belong words like col/um, torreo, 
+verres which come from *colsum, *torseo, *verses. These 
+original forms, however, are proved only by a comparison 
+with the other Indo-European languages (§ 66). 
+To this rule there are exceptions, z.¢., words which show 
+the combinations -7s- and -/s- without assimilation. Com- 
+pare for example arsi, farsi, mulsi, the perfects of ardeo, 
+farcio, mulceo ; pulsus, perf. part. pass. of pello. Of course 
+this different treatment of the same combinations of 
+consonants only apparently violates the principle of the 
+constancy of phonetic laws. The formulae of these laws, 
+in fact, apply only to sounds or combinations of sounds of 
+perfectly identical nature. Now in arsi, the combination 
+-rs- comes from -rss- (§ 89); farsi and mulsi stand for 
+*farcsi, *mulcsi (§ 90), and the simplification of the com- 
+binations -rcs and -Jes- to -rs- and -Js- came only after the 
+assimilation of original -rs- and -/s- to -rr- and -Il-. Finally, 
+pulsus is an analogical creation that has replaced the 
+regular form *pultus. Of this there remains a last trace 
+in the verb pultare (‘strike’) used by Plautus, Captivi, 832, 
+of. also Quintilian, Instit. Orat., i. 4, 14: nam mertare et 
+pultare dicebant. Pulsus was substituted for *pultus at a
+-P-A-G-E-85
+  
+COMBINATIONS OF CONSONANTS OG 
+time when the assimilation of original -rs- and -/s- was 
+equally an accomplished fact. None of these forms thus 
+corresponds exactly with *ferse or *velse. 
+(c.) Assimilation of the Place of Articulation. 
+§ 75. Assimilation of the place of articulation was always 
+regressive. All the remarks made above (§ 66) with regard 
+to the assimilation of the manner of articulation are true of 
+this process also. The student must therefore refer to them 
+before beginning to study the following laws. 
+Assimilation between Stops. 
+§ 76. Before a guttural stop every dental or labial stop 
+is changed into a guttural stop; dental stops are also 
+assimilated to a following labial stop. The following table 
+summarises these changes :— 
+(1) -dg- 
+-tq’ ‘] 
+-dq’ - > -iq’ - pa" | >*.q" q’-, which became -cqy - (§ 82). 
+bq” - > pq 
+(2) -db- -bb- 
+es 
+-tp- 
+-dp- > -tp- pear
+-P-A-G-E-86
+718 LATIN PHONETICS 
+Some of the instances of assimilation shown in this 
+table rest, it is true, only on analogical induction, as 
+there are no examples. The following are attested his- 
+torically :— 
+aggero, from adgero, 
+oggero, from *opgero, obgero. 
+siccus, from *sit(i)cos (which belongs to the same root as 
+sitis). 
+succido, from *supcado (with umlaut, § 10, i. ¢.). 
+quicquam, from quidquam, *quifquam. 
+ocquinisco (‘stoop’), from *opquinisco (compare con- 
+quinisco ; the simple verb is not used). 
+quippe, from *quidpe (quid, neuter of quis + pe, a particle 
+found also in nempe), *quitpe. 
+A double guttural (¢.e., -cc-, -pp-, etc.) was simplified 
+in a final position (§ 56 (4)), and in a medial syllable after 
+a long vowel (§ 57). 
+EXAMPLES. 
+hoc, from *hodce (*hod, neuter, like id, + ce, # demon- 
+strative particle; old inscriptions have honce = hunc, 
+hance = hane, etc.), *hotce *hocce, and with the loss of the 
+final vowel (§ 31 (1)), hoce, (On this form, see § 56 (4)). 
+secubo (‘I lie alone or apart’), from *sedcubo (the prefix 
+séd denoting separation, ¢f. seditio), *sefcubo, *seccubo 
+( 57). separo, from sedparo, *setparo, *sepparo (§ 57). 
+Restorations due to analogy: adgero, obgero, quid- 
+quam, duplicate forms of aggero, oggero, quicquam ; 
+adbibo, which has ousted *abbibo doubtless owing to the 
+latter’s ambiguity ; iccirco for *icirco (§ 56 (1)), arising 
+from idcirco, which was re-established and existed as a 
+duplicate form along with iccirco.  
+-P-A-G-E-87
+  
+COMBINATIONS OF CONSONANTS 719 
+Assimilation between a Stop and a Spirant produced 
+by Different Organs. 
+§ 77. Before the labial spirant / every dental or guttural 
+stop was changed into a labial stop. 
+This assimilation is latent because the labial stop was later 
+changed into a spirant owing to assimilation of the manner 
+of articulation (§ 67). 
+Assimilation between a Stop and a Nasal produced by 
+Different Organs. 
+§ 78. Before the labial nasal m, every dental stop was 
+changed into a labial stop. 
+As in § 77, this assimilation is latent, and its results 
+altered by a secondary assimilation of the manner of articu- 
+lation (§ 70). 
+Note.—In this instance the reconstruction of the latent 
+assimilation of the dental stops to labial stops before m is 
+based partly on the physiological difficulty of a direct change 
+from -dm- and -tm- to -mn-, and partly on the very pro- 
+nounced tendency to labialise a dental stop followed by m, 
+which is seen in other languages as well as Latin. Thus 
+in the Swiss pronunciation of modern German, written 
+words like Badmeister (‘ bath-attendant’), Mitmensch (‘fel- 
+low-creature’), we seem to hear Bapmeister, Mipmensch. 
+Assimilation of Dental Spirant s to Labial Spirant f. 
+§ 79. The dental spirant s of the prefix dis- is assimilated 
+to a following /: 
+-sf- > ff- 
+Compare : différo, from *disféro. 
+difficilis, from “*disficilis (with umlaut) 
+(§ 10, i. c).
+-P-A-G-E-88
+80 LATIN PHONETICS 
+Restorations due to analogy: diffido, diffundo, which 
+have replaced *difido, *difundo, the only regular forms 
+(§ 56 (1)). 
+Assimilation between Nasals and Stops, 
+§ 80. Only the corresponding nasal, i.¢., formed by the 
+same organ as the stop, can precede a stop. 
+EXAMPLES, 
+The prefixes cim- (comes), in- (ineo) and the negative 
+particle in- (in-iitilis) end in m before a labial stop, in n 
+before a dental stop, and in 2 (written owing to the lack 
+of a special letter to denote the nasal guttural (§ 6, note 3)) 
+before a guttural stop ; compare :— 
+  Moreover, the change from m to x before a dental stop 
+and to % before a guttural stop is seen in the following 
+cases :— 
+eundem, eandem (eum, eam + dem). 
+eorundem, earundem (eorum, earum + dem). 
+quandiu (quam + diu). 
+septendecim (septem + decem). 
+clanculum (adv, ‘secretly’ and prep. ‘without the 
+knowledge of,’ found in Plautus and Terence) pronounced 
+clanculum ; ¢f. clam, which has the same meanings. 
+tune, pronounced tune (tum + enclitic ce (§ 31 (1)). 
+tanquam, pronounced tazquam (tam + quam), 
+Restorations due to analogy: eumdem, eamdem, 
+eorumdem, earumdem, quamdin, septemdecim, tamquam, 
+duplicate forms of eundem, etc.; sumptus (with develop- 
+ment of a parasitic p (§ 85)), perf. part. pass. of sumo 
+for suntus. The latter form, however, existed in Vulgar 
+ 
+-P-A-G-E-89
+  COMBINATIONS OF CONSONANTS 81 
+Latin and survives in certain Romance forms. It 
+is, moreover, probable that the restoration of the 
+etymological forms eumdem, etc., was at first purely 
+literary, that is to say, the same people who wrote with 
+the m none the less continued to pronounce the words 
+eundem, etc. 
+Assimilation of the Nasal Dental to the Nasal Labial. 
+§ 81. The nasal dental 2 is assimilated to the nasal 
+labial m wherever the preposition or negative particle in- 
+precedes a word beginning with m. 
+am > mm. 
+EXAMPLES. 
+immolo from inmolo (properly, ‘I sprinkle the head of 
+the victim with the sacred flour called mola). 
+immerito from inmerito. 
+Restorations due to analogy: inmolo, inmerito, 
+duplicate forms of immolo, immerito; immuto, immitis, 
+the phonetic forms being *imuto, * imitis (§ 56 (1)). 
+II. Treatment of g’ and gq’ before a Consonant. 
+§ 82. Before a consonant the labialised guttural stops 
+g* and q” (written gu and gu (§ 39)) lost their labial 
+appendix and were changed into pure gutturals g and c. 
+Moreover, if the following consonant was breathed—and 
+that is true of all the examples that can be adduced of 
+the combination g” + consonant—the voiced g became 
+a breathed ¢ (§ 62). Hence :— 
+g, Y + consonant > ¢ + consonant. 
+F 
+ 
+-P-A-G-E-90
+82 LATIN PHONETICS 
+EXAMPLES. 
+extincsi, written extinxi, perfect of extinguo. 
+nics, written nix, )( the genitive nivis that goes back to 
+*nigvis (§ 39). 
+unctio, )( ungventum. 
+assecla (‘a hanger-on’), )( assegéor. 
+coctus, perf. part. pass. of coguo. 
+delictum, )( delinguo. 
+This law explains also ac and nec, duplicate forms of 
+atgue and neque, and used when the following word begins 
+with a consonant. After the loss of the final e of atque 
+and neque (§ 31 (1)) the labialisation of gu disappeared 
+under the influence of the following consonant. Hence 
+*atc and nec; *atc was then assimilated into *acc (§ 76), 
+and finally the double cc was reduced to a single ¢ 
+(§ 56 (4)). 
+III. Treatment of the Combination Dental Stop + t 
+§ 83. From the Indo-European epoch the combination 
+of a dental stop and ¢ gave rise to the development of 
+a medial parasitic s. Hence the combination ¢st, which 
+in Latin became ss by a double assimilation. 
+d,t+t> tst > ss. 
+EXAMPLES. 
+eassus from *cidtus (cido; for the lengthening of the 
+radical vowel in this word and the two following, see 
+§ 26). 
+divissio from *dividtio (divido), 
+éssus, perf. part. pass. of édo (‘I eat’) from *édtos. 
+plaussus, perf. part. pass. of plaudo, from *plaudéos. 
+sessus, perf. part. pass. of sedeo, from *sedtos (on the 
+probable reason why the radical vowel in sessus is not 
+lengthened, see § 26). 
+messis from *meétis (meto). 
+passus sum, perfect of patior, from *pattos sum. 
+quassus, adj. old perf. part. pass. of quatio, from *quattos.
+-P-A-G-E-91
+COMBINATIONS OF CONSONANTS 83 
+After a long vowel and diphthong the double ss was 
+reduced to a single s from the end of the first century 
+Bo. Cicero still pronounced and wrote cassus, etc., but in 
+Quintilian’s time these words were spelt casus, ete. 
+(§ 58). 
+§ 84. In a certain number of cases the combination 
+dental stop + t was formed afresh after the development 
+traced above which ended well before the historical period. 
+The result of this second evolution was not now -ss- but 
+-tt-. This happened especially when the prefix ad- was 
+combined with a verb that began with ¢; ¢f. :— 
+atfenuo from adfenuo. 
+attuli, perfect of affero (assimilated from adfero, § 67) 
+from adtuli. 
+The prefixes attached to verbs were in fact originally 
+independent words, and this character had not yet been 
+lost completely in Plautus’ time ; cf. Trinwmmus, v. 833 : 
+dixtraxissent disque tulissent .. . 
+Thus the combination -dé¢- in adtenuo, adtuli, was too 
+recent to be affected by the law that caused for example 
+the change of *sedtos to sessus (see above). Hence we 
+get attenuo, attuli. It should be added that by the side 
+of attenuo, attuli, restored duplicate forms, adtenuo, adtuli 
+are also found in inscriptions and manuscripts. 
+IV.—Development of a parasitic sound in certain 
+combinations of two consonants. 
+§ 85. Between the two elements of the combinations sr 
+(as far as it represents an earlier dtr, see §§ 56 (2), 83), 
+ml, ms, mt, a parasitic transitional sound developed, which 
+in the case of sr was a ¢, and in that of ml, ms, mt a p. 
+ 
+-P-A-G-E-92
+84 LATIN PHONETICS 
+Gi.) sr > sér. 
+Gi) ml > mol. 
+ms > mps. 
+mt > mpt. 
+EXAMPLES. 
+(1) claustrum, from *clausrom, *claudtrom (claudo), 
+rasirum, from *rasrom, *radtrom (rado). 
+tonsirix, from *tonsrix, *tondtrix (tondeo). 
+(2) exemplum, from *exemlom (properly ‘that which is 
+taken out as a sample, from *exemo, which became 
+eximo (§ 10, i. 6)). 
+compsi, dempsi, prompsi, sumpsi, perfects of como, 
+demo, promo, sumo, from *comsi, *demsi, *promsi, *sumsi 
+(¢f., for example, dixi, i.¢., dicsi, perfect of dico). 
+comptus, demptus, promptus, sumptus, from *comtus, 
+*demtus, *promtus, *sumtus. 
+In popular speech a parasitic » developed also in the 
+combination -mn-, os is shown by the spellings, such as 
+autumpnus, contempno, sompnus, which are found fre- 
+quently in vulgar texts. Educated people absolutely 
+eschewed this pronunciation. 
+NorTE.—(i.) *comtus, *demtus, *promtus, *sumtus ought 
+to have become *contus, *dentus, *prontus *suntus (§ 80) ; 
+but the m was restored by analogy. 
+(ii.) If the parasitic consonants were relatively few in 
+Latin, French, on the other hand, is rich in them, ¢f. 
+O.F. ancesére, esire from Latin antecess(5)r, *ess(é)re ; 
+mod. Fr. combler from Latin cum(i)lare, nombre from 
+num(é)rum, pondre from pon(é)re, ete. 
+V.—Loss of the first element of a combination of 
+two consonants. 
+§ 86. Before a voiced consonant, s changed to z (§ 63), 
+and then was lost with a compensatory lengthening of 
+the preceding vowel if the latter was short (§ 25 (1)).
+-P-A-G-E-93
+COMBINATIONS OF CONSONANTS 85 
+EXAMPLES. 
+idem, from *isdem (is+dem), which became first *izdem, 
+jadex, from *jiisdex (‘ quod jis dicat’); -dex for -dix by 
+analogy of the second element of compounds like auspex, 
+opifex, ete., according to the proportional formula, aus- 
+picis, opificis: auspex, opifex=judicis : x), *jizdex. 
+trédecim, from *trésdecim, *trézdecim. 
+prélum (‘ wine-press’), from *préslom (¢f. prés-si, perfect 
+of prémo), *prézlom. 
+primus, from *prismos (cf. priscus), *prizmos. 
+égénus, from *égésnos (of. égéstas), *égéznos. 
+pono, from *pés(i)no (§ 25 (1)), *pdzno. 
+Gf. also diduco, digero, dilanio (‘I tear in pieces’), 
+dimitto, dinosco, as against distorqueo, discedo, dispono, 
+dissocio. 
+Restorations due to analogy : ejusdem, quibusdam, after 
+ejus and quibus. 
+§ 87. Before f and s the nasal dental » lost its stop 
+character at an early date; the vibrations set up in the 
+glottis during this sound were then attracted to the pre- 
+ceding vowel, lengthening it by way of compensation when 
+it was short (§ 25 (2)). 
+The loss of m in this position is proved (i.) by spellings 
+like iferos, cesor, cosol, found frequently on archaic in- 
+scriptions; (ii.) by the abbreviation cos. for consul; 
+(ii.) by the testimony of Quintilian (§ 25 (2)); (iv.) by 
+‘inverse spellings’ in vulgar texts, ¢.g., occansio, then- 
+saurus for occasio, thesaurus; (v.) by the Romance 
+languages, ¢f, for example, the French épouse, mois, toise 
+‘fathom ’), which go back to spdsa, mésem, tésa. But at 
+an early period etymological considerations caused the 
+restoration of m, first in the spelling, and then, owing 
+to the instinctive popular tendency to harmonise the 
+spoken with the written language, partially at any
+-P-A-G-E-94
+  86 LATIN PHONETICS 
+rate in pronunciation. This happened especially in the 
+case of compounds with con- and in-. Hence the French 
+conseil, enfant, ensemble, that develop from consilium, 
+infantem, isimul. 
+B. Combinations of Three Consonants. 
+§ 88. Combinations of three consonants were reduced 
+most frequently to two consonants, but occasionally even 
+to one. The simplification to two consonants was due— 
+(1) To the assimilation of two consonants of the com- 
+bination, after which the double consonant was 
+made a single one. 
+(2) To the loss pure and simple of a consonant under 
+conditions formulated below. 
+The simplification to a single consonant was due (a) to 
+the combination of the one or other of these two causes 
+with the loss of an s, or (6) to the loss of ms before a voiced 
+consonant. 
+Assimilation and Simplification of a double consonant 
+along with a possible loss of an s. 
+§ 89.— EXAMPLES. 
+(a) aspiro from adspiro, *asspiro (§§ 68, 56 (2)). 
+asto from adsto, *assto (§§ 68, 56 (2)). 
+corculum, from *cordculom, *coreculom (§§ 76, 56 (8)). 
+sarmentum, from *sarymentom, *sarmmentom (§§ 70, 
+56 (3)). 
+arsi, from *ardsi, *arssi (§§ 68, 56 (3)). 
+sensi, from *senési, *senssi (§§ 68, 56 (3)). 
+nox (é.¢,, nocs), from *noets (ef. gen. noctis), *noess (§§ 68, 
+56 (4). 
+testis, from *terstis (‘qui tertius stat’), *tesstis. 
+tostus, perf. part. pass, of torreo (originally *torseo (§ 74)), 
+from *torstos, *tosstos,
+-P-A-G-E-95
+  COMBINATIONS OF CONSONANTS 87 
+The two last examples might seem to violate the law 
+laid down in § 74. But for an 7 to assimilate a following 
+s, the latter must first become voiced, which in the case of 
+*terstis and *torstus was impossible owing to its position 
+before the breathed 7 (§ 62). Hence the assimilation has 
+been regressive. 
+Superstes is a restoration due to analogy ; the phonetic 
+form supestes is found frequently on vulgar inscriptions. 
+(2) pone, prep. and adverb, from *postne (cf, superne), 
+*posnne, *posne (§§ 69, 56 (3), 86). 
+Loss of a consonant together with a possible loss of an s. 
+§ 90. A guttural stop is lost between r or / on the one 
+hand, and ¢, s, m or” on the other, and also between n and 
+a dental stop. 
+EXAMPLES, 
+farsi and fartus (farcio) from *faresi, *farctos. 
+sarsi and sartus (sarcio) from *sarcsi, *sarctos. 
+fulsi and fultus (fulcio) from *fulesi, *fulctos. 
+ultus (ulciscor) from *ulctos. 
+tormentum, from *torg’mentom, *torementom (§ 82; 
+derived from the root of torqueo). 
+fulmen, from *fulgmen (fulgeo). 
+quernus, ‘oaken,’ from *querenos (quercus). 
+quindecim, from *quingu(e)decim, *quincdecim, *quing- 
+decim (§§ 15, 82, 62). 
+quintus, from *quing’tos, quinctos (§ 82). 
+The combination -ncet- was restored by analogy in 
+junctus, unctus, vinctus: quinctus is also found by the 
+side of quintus especially in proper names, Quinctus, 
+Quinctius, Quinctilis. 
+§ 91. Every labial or guttural stop was lost before s 
+followed by another consonant. When the final consonant
+-P-A-G-E-96
+  88 LATIN PHONETICS 
+of the combination was voiced, s was lost in its turn along 
+with compensatory lengthening of the preceding vowel if it 
+was short (§ 86). 
+EXAMPLES. 
+(a) asporto, from *apsporto. 
+ostendo, from *opstendo. 
+suscipio, from *supscapio (with umlaut (§ 10, i. ¢.)). 
+The prefixes ops- and sups- are copied from aps- according 
+to the proportional formula ap- (ab-): aps- = op- (0b-), sup- 
+(sub-) : 2%. 
+sescenti from sexcenti (% = ¢s). 
+Restorations due to analogy: abstuli (the phonetic 
+form astuli is attested by the grammarian Charisius,! 1, 
+p. 237, 2k), dexter, juxta, sextus, etc. These restorations, 
+however, belonged exclusively to the literary language ; 
+the people generally knew only dester, justa, sestus, etc., 
+as is shown (i.) by numerous inscriptions and manuscripts 
+written in the common language, and (ii.) by the Romance 
+tongues (¢f. Old French, destre, jouste, sistes). 
+Note.—It is interesting to find the same simplification of 
+the combinations guttural stop + s + breathed consonant into 
+s + breathed consonant in modern popular French (gf. the 
+common pronunciations esclure, espliguer, estraire). 
+(0) amitto, from *apsmitto. 
+ebibo, from exbibo. 
+sumo, from *sups(é)mo (with syncope (§ 15)). 
+jumentum, from jouzmentum (a form attested by the 
+most ancient Latin inscription found in 1899 in the Roman 
+Forum ; ow > @ (§ 23)). 
+sedecim, from *sexdecim. 
+tela, from “tezla (texo). 
+  
+1([Charisius was a grammarian of the fourth century .D., who 
+transcribed passages of Palaemon (85-70 a.D.), the author of the Ars 
+Grammatica. |
+-P-A-G-E-97
+  CONBINATIONS OF CONSONANTS 89 
+Loss of the Combination -ns- before a Voiced Consonant. 
+§ 92. The examples of this modification, which is due to 
+the combination of the laws formulated in §§ 86 and 87, 
+are almost exclusively furnished by the prefix ¢rans- when 
+it precedes a voiced consonant, e.g. :— 
+traduco, from transduco. 
+trameo, from transmeo. 
+trano, from transno. 
+The restorations transduco, transmeo, transno, etc., 
+were employed by the side of these phonetic forms.
+-P-A-G-E-98
+LATIN PHONETICS 
+  APPENDIX. 
+THE SYLLABLE. 
+Division of Syllables. 
+§ 93. The combinations of sounds that we call words 
+are divided into as many sections as they contain vowels 
+(or diphthongs). These sections, separated from each 
+other by a complete or partial movement of closing, or 
+simply by a cessation of the vibrations in the glottis, are 
+called syllables. 
+In Latin the end of the syllable lay immediately after 
+the vowel (or diphthong) when this was followed by 
+another vowel or single consonant. When the vowel 
+(or diphthong) was followed by two consonants or a 
+double consonant, the consonantal element was as a 
+tule divided between the preceding and following syllable. 
+An exception was made only for the combination stop + 
+trilled or divided consonant, both of which were attached 
+to the following syllable. Lastly, of three consonants the 
+first and the second belonged to the preceding, the third 
+to the following syllable unless the combination was 
+terminated by a stop followed by a trilled or divided 
+consonant. In this case the break came after the first 
+of the three consonants. 
+EXAMPLES, 
+(i.) (w) me-us, qui-es, quo-ad. 
+(b) ca-do, pau-per, cae-cus, ro-sa, do-mus, si-nus, 
+a-ra, cae-lum. 
+(ii.) (a) ag-men, pug-na, prop-ter, tec-tum, ip-se, aes-tas, 
+pis-cis, am-bo, om-nis, men-sa, or-do, pul-vis, 
+but 
+qua-drans, a-trox, fe-bris, su-pra, ae-gre, lu-crum, 
+locu-ples. 
+We must set aside compounds like abrumpo, sublatus, 
+in which the combination between the stop and
+-P-A-G-E-99
+APPENDIX 91 
+the trilled or divided consonant was much less 
+strong, because the prefixes formed for a very 
+long time distinct words (§ 84). Hence these 
+words were divided, ab-rumpo, sub-latus. 
+(b) ag-ger, gib-bus (a hunch), sic-cus, pos-sum, an- 
+nus, il-le. 
+(iii.) abs-temius, cons-picio, ins-tituo, temp-to, sanc-tus, 
+but 
+spec-trum, plaus-trum, mem-brum, tem-plum. 
+Such is, at least, the method followed by the best 
+inscriptions and manuscripts, which reflects, no doubt 
+faithfully, the phonetic division. ‘he principle laid down 
+by the Roman grammarians from the fifth century of our 
+era stipulates, it is true, that all the combinations which 
+can begin a word must be joined to the second syllable 
+(e.g., a-spice, a-mnis, ca-stra). Their remarks, however, are 
+merely subleties of the imagination, devoid of any lingu- 
+istic interest. 
+Duration of Syllables. 
+§ 94. A syllable is short when it contains a short vowel 
+followed by a single consonant—e.g., the first syllable of 
+cido, cdquo (gu being a single sound (§ 39)) : 
+A syllable is long :— 
+G.) When it contains a long vowel or a diphthong, 
+whatever the nature of the consonantal element 
+that follows—e.g., the first syllable of paene, 
+actus (§ 26), faustus. 
+Gi.) When it contains a short vowel, followed by a 
+double consonant, or a combination of con- 
+sonants —e.g., the first syllable of messis, ¢/. 
+méto (§ 83); sella, of stdeo (§ 71); neptis, 
+‘grand-daughter’ or ‘niece,’ ¢f népos (§ 33) ; 
+tango, ¢f. tetigi from *tetigi (§ 10,1, ¢.). An 
+exception is formed by the syllables containing 
+a short vowel followed by the combination 
+stop + trilled or divided consonant, which with 
+the early Latin dramatists are always short,
+-P-A-G-E-100
+  92 LATIN PHONETICS 
+e.g., pitrém, léctiplés. The poets of the classical 
+period, it is true, reckon them sometimes short, 
+sometimes long ¢.g., Ovid, Met., xiii. 607 :— 
+Et primo similis voliicri, mox vera volicris. 
+The lengthening in this case, however, is known to be 
+due to erudite imitation of Greek prosody. 
+[In repeating a word the Roman poets constantly vary 
+the quantity in order that the ictus may fall differently on 
+it. Of. Vergil, Aen., 2, 663: gnatum ante ora pitris, 
+patrem qui obtruncat ad aras; Hor., Od., i. 32, 11: et 
+Lycum nigris oculis nigroque. Gf. Monro on Lwer., 4, 
+1259: crassane conveniat liquidis et liquida crassis. ] 
+§ 95. According to the Roman grammarians, the 
+syllables which are long in spite of the short quantity 
+of the vowel they contain, are long positione or positu. 
+Qf. Quintilian, Jnstit. Orat., 9, 4, 86: certe in dimen- 
+sione pedum syllaba quae est brevis insequente vel brevi 
+alia, quae tamen duas priores consonantes habeat, fit 
+longa, ut: agrestem tenui musam...a brevis, gres 
+brevis, faciet tamen longam priorem. dat igitur illi aliquid 
+ex suo tempore. Quo modo, nisi habet plus quam quae 
+brevissima, qualis ipsa esset detractis consonantibus ? 
+nunc unum tempus accommodat priori et unum accipit 
+a sequente; ita duae natura breves wpositione sunt 
+temporum quattuor; ¢ also Aulus Gellius, oct. 
+Attic., iv. 17, 8, who says, in reference to subicit, that 
+the i vim consonantis capit et idcirco ea syllaba produc- 
+tius latiusque paulo pronuntiata priorem syllabam brevem 
+esse non patitur, sed reddit eam positu longam. The 
+terms positione or positu, translated from the Greek, like 
+the majority of the technical terms of Latin grammar, 
+mean properly ‘by convention. The Greek scholars 
+of rhythm, in fact, imagined that the syllables which 
+enclosed a long vowel were naturally long by them- 
+selves; while the syllables which enclosed a short vowel 
+followed by a double consonant, or a combination of con- 
+sonants, were long through an arbitrary whim—a free and
+-P-A-G-E-101
+  
+APPENDIX 93 
+voluntary arrangement. But the Romans, who were indif- 
+ferent to the question discussed by the Greek philosophers, 
+as to whether names have been attached to things through 
+natural inspiration or artificial convention, soon misunder- 
+stood the meaning of positione or positu, and used these 
+terms in the sense ‘by position,’ é.¢., by the position of the 
+vowel before a repeated consonant or a combination of 
+consonants. 
+The explanation of the lengthening ‘by position’ lies in 
+the phonetic division of the syllables. A consonantal ele- 
+ment shared between two syllables lengthens the preceding 
+syllable, an consonantal element not shared between them 
+leaves it short. It is not the consonants which add length, 
+but the pause which separates them. Note also that it is 
+not the vowel but the syllable which is long by position. 
+(SPECIMENS OF OLD LATIN. 
+i 
+From the Laws of the Twelve Tables, 451 B.c. (see 
+Wordsworth, Fragments and Specimens of Early 
+Latin, p. 254). 
+(1) Si in ius vocat, ito. Ni it, antestamino ; igitur em 
+capito. (2) Si calvitur pedemve struit, manum endo 
+jacito. (3) Si morbus aevitasve vitium escit (qui in 
+ius vocabit) iumentum dato; si nolet arceram ne sternito. 
+ae, (1) If he (the accuser) summons (him, the accused) 
+before the law let him go. Unless he goes let him 
+(the accuser) summon him (a bystander) to witness; 
+thereupon let him (the accuser) take him (arrest him). 
+(2) If he (the defendant) tries to shirk or runs away let 
+him (the accuser) lay his hand upon him. (3) If illness 
+or old age shall be his weakness, let him who summons 
+him grant him a vehicle; if he is not willing let the 
+accuser not prepare an ambulance,
+-P-A-G-E-102
+94 LATIN PHONETICS 
+i 
+SrpuLcuraL Inscrrprion rv SaruRNIAN VERSE. 
+L. Cornelius L. f(ilius) Scipio, Consul 259, Censor 258 ; 
+OL. L., i. 82. 
+hone oino ploirume cosentiont Romai 
+duonoro optumo fuise uiro 
+Luciom Scipione. _ filios Barbati 
+consol censor aidilis hic fuet apud uos 
+hec cepit Corsica Aleriaque urbe 
+dedet Tempestatebus aide meretod. 
+hune unum plurimi consentiunt Romae 
+bonorum optimum fuisse virum 
+Lucium Scipionem. filius Barbati 
+consul, censor, aedilis hic fuit apud vos ; 
+hic cepit Corsicam Aleriamque urbem, 
+dedit Tempestatibus aedem merito. 
+III. 
+Senatusconsultum de Bacchanalibus of the year 186; 
+OMe Han, 190. 
+Q. Marcius L. f. 8. Postumius L. f. cos. senatum con- 
+soluerunt N. Octob. apud aedem Duelonai. Sc. arf. M. 
+Claudi M. f. L. Valeri P. f. Q. Minuci 0. f. de Bacana- 
+libus quei foideratei esent ita exdeicendum censuere. 
+neiquis eorum Bacanal habuise uelet. seiques esent quei 
+sibei deicerent necesus ese Bacanal habere eeis utei ad 
+pr. urbanum Romam uenirent deque eeis rebus ubei 
+eorum uerba audita esent utei senatus noster decerneret 
+dum ne minus senatoribus C adesent quom ea res coso- 
+leretur. Bacas uir nequis adiese uelet ceiuis Romanus 
+neue nominus Latini neue socium quisquam nisei pr. 
+urbanum adiesent isque de senatuos sententiad dum ne 
+minus senatoribus C adesent quom ea res cosoleretur 
+iousiset. censuere. sacerdos nequis uir eset. magister 
+neque uir neque mulier quisquam eset. neue pecuniam 
+ 
+-P-A-G-E-103
+  APPENDIX 95 
+quisquam eorum comoinem habuise uelet neue magistra- 
+tum neue pro magistratud neque uirum neque mulierem 
+quisquam fecise uelet. neue post hac inter sed coniou- 
+rase neue comouise neue conspondise neue conpromesise 
+uelet neue quisquam fidem inter sed dedise uelet. sacra 
+in oquoltod ne quisquam fecise uelet neue in poplicod 
+neue in preiuatod neue exstrad urbem sacra quisquam 
+fecise uelet nisei pr. urbanum adieset isque de senatuos 
+sententiad dum ne minus senatoribus C adesent quom 
+ea res cosolereretur iousiset. censuere. homines plous 
+V_ oinuorsei uirei atque mulieres sacra ne quisquam 
+fecise uelet neue inter ibei uirei plous duobus mulieri- 
+bus plous tribus arfuise uelent nisei de pr. urbani sena- 
+tuosque sententiad utei suprad scriptum est. haice utei 
+in couentionid exdeicatis ne minus trinum noundinum 
+senatuosque sententiam utei scientes esetis. eorum 
+sententia ita fuit sei ques esent quei aruorsum ead fe- 
+cisent quam suprad scriptum est eeis rem caputalem 
+faciendam censuere. atque utei hoce in tabolam ahenam 
+inceideretis ita senatus aiquom censuit uteique eam figier 
+ioubeatis ubei facilumed gnoscier potisit atque utei ea 
+Bacanalia sei qua sunt exstrad quam sei quid ibei sacri 
+est ita utei suprad scriptum est in diebus X quibus 
+uobeis tabelai datai erunt faciatis utei dismota sient. 
+Q. Marecius L. f(ilius), S(purius) Postumius L. f(ilius) 
+cons(ules) senatwm consuluerunt N(onis) Octob(ribus) apud 
+aedem Bellonae. Sc(ribendo) adf(uerunt) M. Claudi(us) M. 
+SCilius), L. Valeri (us) P. f(ilius), Q. Minuci(us) C. f(ilius). 
+de Bacchanalibus qui foederati essent ita edicendum cen- 
+suere. nequis eorum Bacchanal habuisse vellet. siqua essent 
+qui sibi dicerent necesse esse Bacchanal habere, e uti ad 
+pr(aetorem) urbanum Romam venirent, deque eius rebus, 
+ubi eorum verba audita essent, uti senatus noster decerneret, 
+dum ne minus senatoribus C adessent cum ea res consuleretur. 
+Bacchas vir nequis adiisse vellet civis Romanus, neve nominis 
+Latini, neve sociorum quisquam, nisi pr(aetorem) urbanum 
+adiissent, isque de senatus sententia, dum ne minus senatoribus 
+C adessent cum ea res consuleretur, jussisset. censuere. 
+sacerdos nequis vir esset. magister neque vir neque mulier 
+ 
+-P-A-G-E-104
+  96 LATIN PHONETICS 
+quacquam esset. neve pecuniam quisquam eorum communem 
+habuasse vellet, neve magistratum, neve pro magistratu neque 
+virum neque mulierem quisquam fecisse vellet. neve posthac 
+inter se conjurasse neve convovisse neve conspondisse neve 
+compromisisse vellet neve quisqguam fidem inter se dedisse 
+vellet. sacra in occulto ne quisquam fecisse vellet, neve in 
+publico neve in privato, neve extra urbem sacra quisquam 
+Secisse vellet, nisi pr(aetorem) urbanum adiisset, isque de 
+senatus sontentia, dum ne minus senatoribus C adessent cum 
+ea res consuleretur, jussisset. Censuere. homines plus V unt- 
+versi, viri atque mulieres, sacra ne quisyuam fecisse vellet, 
+neve interibi viri plus duobus mulieribus plus tribus adfuisse 
+wellent, nisi de pr(aetoris) urbani senatusque sententia, uti 
+supra scriptum est. haec uti in contione edicatis ne minus 
+trinum nundinum, senatusque sententiam uti scientes essetis. 
+eorum sententia ita fuit: siqui essent qui adversum ea fecis- 
+sent, quam supra scriptwm est, eis rem capitalem faciendam 
+censuere. atque uti hoc in tabulam ahenam incideretis, ita 
+senatus aequum censuit, utique eam figi jubeatis, ubi facillime 
+nosci possit, atque uti ea Bacchanalia, siqua sunt, extra 
+quam siquid ibi sacri est, in diebus X quibus vobis tabellae 
+datae erunt faciatis uti dimota sint. 
+IV. 
+A Curistian EprrapH to a Huspanp. 
+(in Museo Laterensi: de Rossi, n. 62) Fourth Century a.p. 
+Depossio Iuniani pri idus Apriles 
+Marcellino et Probino conss. 
+qui bixit annis xu. in pace decissit et 
+amator pauperorum vixit 
+cum Birginia annis xv. benemerenti Birginia sua Bictora 
+Benemerenti fecit amatrix pauperorum et operaria. 
+te. 
+Depositio Juniani, pridie idus Apriles, Marcellino et 
+Probino consulibus, qui vixit annos xu. In pace decessit 
+et amator pauperum vixit cum Virginia amnos Xv. 
+Bene merenti Virginia sua Victoria bene merenti fect 
+amatria pauperorum et operaria. |  
+-P-A-G-E-105
+A 
+a, 67 
+ab, 67, 91 
+abdoucit, 22 
+abduco, 62 
+abeis, 30 
+abeo, 30 
+abicio, 15 
+abies, 12 
+abietis, 12 
+abigo, 10 (1) ¢ 
+abis, 30 
+abjectus, 13 (1) 
+abnego, 69 
+abnuo, 69 
+abs, 67 
+abstineo, 10 (1) b 
+abstuli, 91 
+ac, 31 (1), 82 
+accedo, 56 (2) 
+accipio, 10 (3) 
+accresco, 56 (2) 
+accus(s)o, 14, 22 
+actito, 26 
+actus, 26, 62 (1) 
+ad, 38, 56 (2) 
+adactus, 26 
+adbibo, 76 
+ades, 56 (4) 
+adfero, 67, 71 
+adfigo, 67 
+adgero, 76 
+adhibeo, 10 (3) 
+adicio, 15 
+adlatus, 71 
+adloquor, 71 INDEX. 
+[The references are to the sections.] 
+  admoveo, 70 
+adnoto, 69 
+adopto, 14 
+adsequor, 68 
+adspiro, 56 (2), 89 
+adsto, 89 
+adsum, 68 
+adtenuo, 84 
+adtuli, 84 
+aedem, 20, 46 (2) 
+aedes, 20 
+aedificium, 10 (1) ¢ 
+aedus, 20 
+aere, 38 
+aeri, 38 
+aeris, 41 
+aes, 38, 41 
+Aeserninu(s), 42 
+affero, 67, 71, 84 
+affigo, 67 
+agceps, 6 (iii.) 
+agcora, 6 (iii.) 
+agellus, 73 
+ager, 73 
+aggero, 76 
+aggulus, 6 (iii.) 
+agilis, 29 (a) 
+ago, 10 (1), 26 ,29 (v), 62 (1) 
+ahenum, 35 
+aide, 20, 46 (2) 
+aides, 20 
+Ai(i)ax, 48 
+ai(ijo, 48 
+aiiunt, 48 
+airid, 38 
+aliud, 38 (1) 
+G   alius, 38 (1) 
+allatus, 71 
+alloquor, 71 
+alvearia, 32 
+ama, 31 (3) 
+amare, 41, 42, 56 (4) 
+amaris, 42 
+amas, 56 (4) 
+ambages, 26 
+amitto, 91 
+ammoveo, 70 
+amnego, 69 
+amnuo, 69 
+anas, 44 
+anceps, 6 (iii.) 
+anchora, 35 
+ancora, 6 (iii.), 35 
+Ancu(s), 42 
+angulus, 6 (iii.) 
+animal, 31 (2) 
+animalis, 31 (2) 
+annecto, 69 
+annitor, 69 
+annoto, 69 
+annus, 13 (1) 
+anser, 44 
+ap-, 91 
+apere, 32 
+aperio, 62 
+apio, 21 
+apiscor, 21 
+Apollinis, 29 (5) 
+Apolones, 29 (b) 
+appeto, 1 
+aps-, 91 
+aptus, 13 (1), 21 
+aquai, 30 
+ 
+-P-A-G-E-106
+98 
+arbor, 43 
+arbos, 43 
+arceo, 13 (1) 
+arcubus, 10 (3) 
+arcus, 10 (3) 
+ardeo, 56 (3), 74, 89 
+ardere, 15 (a) 
+arenam, 41 
+aridus, 15 (a) 
+aries, 12 
+arietis, 12 
+arsi, 56 (3), 74, 89 
+arundo, 44 
+asa, 41 
+ascendo, 13 (1) 
+asenam, 41 
+asinus, 41 
+aspiro, 56 (2), 89 
+asporto, 91 
+assecla, 82 
+assequor, 68, 82 
+assigno, 68 
+assisto, 68 
+assum, 68 
+asto, 89 
+astuli, 91 
+atfero, 67 
+atfigo, 67 
+atque, 31 (1), 82 
+atspiro, 56 (2) 
+attenuo, 84 
+attingo, 14, 56 (2) 
+attraho, 56 (2) 
+attuli, 84 
+auceps, 
+29 (c) 
+aucupis, 10 
+audiit, 27 
+audire, 41 
+audivit, 27 
+aufero, 91 
+aula, 59 (2) 
+aulai, 30 
+aulla, 59 (2) 
+aurai, 30 
+aurea, 32 
+aurifex, 10, 29 (c) 
+aurufex, 10 
+aurum, 29 (c) 10, 15 (), 
+  LATIN PHONETICS 
+auspex, 1, 10 (1) 3, 
+86 
+auspicis, 1, 10 (1) b, 
+86 
+autumpnus, 85 
+auxiliaris, 45 (1) 
+ave, 31 (3) 
+ayere, 31 (3) 
+avis, 29 (c) 
+B 
+bac(c)a, 55 
+Bacchus, 35 
+barba, 13 (1) 
+basis, 41 
+benes, 31 (3), 36 
+beni, 36 
+bictor, 52 
+biduom, 29 
+biduum, 29 
+biennium, 18 (1) 
+biforis, 14 
+biginti, 52 
+bixi, 36 
+bonorum, 46 (2) 
+Cc 
+cado, 10 (i.) c, 26, 88 
+caedo, 14, 59 (2), 60, 70 
+caelum, 45 (2), 59 (2), 
+71 
+caementum, 60, 70 
+Caepio, 35 
+caeruleus, 45 (2) 
+calcar, 31 (2) 
+calearis, 31 (2) 
+caldus, 15 (a) 
+calicis, 29 (a) (1) 
+calidus, 15 (a) 
+calix, 29 (a) (1) 
+canalis, 56 (1) 
+canna, 56 (1) 
+cano, 10 (1) ¢ 
+cantabam, 31 (2)   cantabas, 31 (2) 
+cantai, 51 
+cape, 31 (1) 
+capio, 10 (8), 29 (c) 
+capitis, 10 (1) ¢ 
+caput, 10 (1) e 
+carpo, 13 (1) 
+cas(s)us, 26, 41, 58, 
+83 
+cate, 31 (3) 
+catus, 33 (x.) 
+caus(s)a, 14, 22, 41, 
+58 
+-ce, 76 
+cecidi, 10 (1) ¢ 
+cecidi, 14 
+cecini, 10 (1) ¢ 
+cena, 6 (i.) 
+cera, 20 
+Cereres, 29 (b) 
+Cereris, 29 (6) 
+cervical, 45 (1) 
+cesor, 87 
+Cetegus, 35 
+Cethegus, 35 
+ceu, 22 
+chenturio, 35 
+chommoda, 35 
+chorona, 35 
+chorus, 6 (iv.) 4 
+cineris, 11 
+cinis, 11 
+cisium, 41 
+cithara, 6 (iv.) 4 
+cito, 10 (1) a, 31 (3) 
+civis, 6 (i.) 
+clam, 32, 80 
+clanculum, 80 
+clas(s)is, 58 
+claudo, 14, 63, 85 
+clausi, 63 
+claustrum, 85 
+coalesco, 32 
+coctus, 82 
+codiux, 53 
+coegi, 32 
+coepi, 21, 32 
+coerceo, 13 (1) 
+coetus, 32
+-P-A-G-E-107
+cogo, 82 
+coitus, 32 
+colligo, 1, 10 (1) b 
+colloquium, 72 
+collum, 66, 74 
+columen, 18 
+com-, 80 
+comedo, 1, 14 
+comes, 80 
+comminuo, 10 (1) a 
+commoda, 35 
+commoinis, 21 
+communis, 21 
+como, 32, 85 
+comoinem, 21 
+compitum, 10 (1) 6 
+complodo, 24 
+compono, 80 
+compsi, 85 
+comptus, 85 
+-con-, 25 
+concenatio, 80 
+concino, 10 (1) ¢ 
+concrepuit, 25 
+concussi, 68 
+concutio, 15 (b), 68 
+confeci, 15 
+confecit, 25 
+confectum, 15 
+confectus, 26 
+conficio, 10 (1) ¢, 15, 
+33 
+confiteor, 10 (1) ¢ 
+conflovont, 47 
+confringo, 16 
+conicio, 15 
+conjeci, 15 
+conjectum, 15 
+conjicio, 15 
+co(n)jux, 53 
+conloquium, 72 
+compono, 80 
+conposuit, 25 
+conquinisco, 76 
+conscendo, 18 (1) 
+consentio, 13 (3), 29 
+d. (a) co(n)sentiont 29 (d) 
+consentiunt, 29 (d)     INDEX 
+conservos, 13 (3) 
+consilium, 87 
+conspicio, 56 (2) 
+constiti, 1 
+consuevit, 25 
+consul, 87 
+consularis, 45 (1) 
+consules, 25 
+contempno, 85 
+contexo, 80 
+conticesco, 10 (1) ¢ 
+continuos, 10 (1) b 
+contio, 32, 50 
+contubernalis, 10 (3) 
+convoco, 14 
+copia, 32 
+copula, 32 
+coquo, 82 
+coram, 32 
+corculum, 56 (3), 89 
+cordis, 56 (8) 
+corniger, 10 (1) e 
+cornu, 10 (1) e 
+corona, 35 
+corporis, 14 
+corpus, 14 
+corripio, 72 
+corrumpo, 72 
+corumpo, 72 
+coruptus, 72 
+cos, 83 (x.) 
+cosol, 87 
+coventio, 32, 50 
+crebesco, 45 (4) 
+crebresco, 45, (4) 
+crebrui, 45 (4) 
+crebui, 45 (4) 
+cubital, 45 (1) 
+culmen, 18 
+cumulare, 85 
+cup(p)a, 55 
+currus, 30, 56 (1) 
+eurulis 56 (1) 
+curvos, 13 (3) 
+D 
+dabi(s), 42 
+dacrima, 37     99 
+dare, 11, 38 (2) b 
+dato, 38 (2) b 
+datod, 38 (2) b 
+dator, 43 
+datus, 10 (1) c, 33 (x.) 
+dautia, 37 
+deamo, 32 
+debere, 36 
+decem, 50, 80 
+decet, 16 
+decido, 10 (1) ¢ 
+decoris, 14 
+decus, 14 
+dedecus, 14 
+dederont, 29 (d) 
+dederunt, 29 (d) 
+dedi, 10 (i.) dedicait, 51 
+dedisco, 13 (8) 
+deesse, 32 
+defero, 40 
+degi, 82 
+dege, 32 
+dehine, 32 
+deicerent, 19 
+deico, 19 
+deinde, 32 
+delere, 41 
+delictum, 82 
+deligo, 10 (1) & delinquo, 82 
+-dem, 80, 86 
+demo, 32, 85 
+dempsi, 85 
+demptus, 85 
+dens, 38 (ii.) 
+deorsum, 50 
+descendo, 18 (1) 
+deses, 29 (b) 
+desidis, 29 (b) 
+desilio 10 (2) 
+despicio, 56 (2) 
+desse, 32 
+dester, 91 
+destiti, 10 (1) b 
+desuper, 41 
+detrectro, 13 (1) 
+dexter, 91 
+dextrorsum, 49
+-P-A-G-E-108
+100 
+dic, 31 (1) 
+dico, 19, 85 (2) 
+dicsi, 85 (2) 
+dictus, 85 (2) 
+diduco, 86 
+die, 38 (2) a 
+diei, 27 
+dies, 27, 88 (2) a diffeidens, 19 
+diffeido, 19 
+differo, 79 
+difficilis, 10 (1) c, 79 
+diffido, 19, 79 
+diffiteor, 10 (1) ¢ 
+diffundo, 79 
+digero, 86 
+dignus, 6 (iii), 16, 
+69 
+dilanio, 86 
+dimico, 10 (1) a 
+dimidius, 10 (1) b 
+dimitto, 86 
+dingua, 37 
+dinosco, 25 (1), 86 
+diribeo, 44 
+dirimo, 41 
+dis, 49 
+dis, 56 (2) discedo, 86 
+discerpo, 18 (1) 
+discindo, 56 (2) 
+disciplina, 15 (a) 
+discipulus, 15 (a) 
+disco, 18 (3) 
+disertus, 56 (1) 
+dispicio, 56 (2) 
+displodo, 24 
+dispono, 86 
+disputo, 14 
+disque tulissent, 84 
+disscindo, 56 (2) 
+disseco, 1 
+dissentio, 13 (3) 
+dissimilis, 56 (2) 
+dissocio, 86 
+disspicio, 56 (2) 
+disto, 56 (2) 
+distorqueo, 86 
+dite, 49 LATIN PHONETICS 
+  diti, 49 
+ditior, 49 
+ditis, 49 
+ditissimus, 49 
+diu, 80 dives, 29 (b), 49 
+divido, 83 
+divis(s)io, 41, 58, 83 
+divitior, 49 
+divitis, 29 (b), 49 
+divitissimus, 49 
+dixi, 85 (2) 
+doce, 31 (3) 
+documentum, 10 (3) 
+donis, 30 
+donom, 30 
+donum, 30, 33 
+duc 31 (1) duco, 22 
+| duo, 47 
+duvo, 47 
+dvonoro(m), 46 (2) 
+E 
+e-, 67 
+eam, 80 
+eamdem, 80 
+eandem, 80 
+earum, 80 
+earumdem, 80 
+earundem, 80 
+ebibo, 91 (6) 
+ec-, 67 
+ecfari, 67 
+ecferet, 67 
+editus, 10 (1) ¢ 
+&do, 1, 14, 38 (ii.), 88 educo, 25 (1) 
+edus, 20 
+effectus, 18 (i.), 26 
+effero, 67 
+efferus, 11 
+effundo, 13 (3) 
+| egenus, 86 
+| egestas, 31 (3), 86 
+elius, 48 
+ejus, 86 | | 
+  ejusdem, 86 
+emi, 38 (iv.) 
+emico, 10 (1) a 
+emo, 33 (iv.) 
+endo, 13 (2) 
+endostruos, 18 (2) 
+ensium 29 (a) 
+ensis 29 (a) 
+eo, 31 (8) 
+eorum, 80 
+eorumdem, 80 
+eorundem, 80 
+eque, 33 (i.) 
+equom, 39, 46 (4) 
+equos, 29, 33 (1) 
+equus, 29 
+erigo, 10 (1) b 
+erit, 41 
+erus, 44 
+es, 56 (4) 
+esse, 38 (2) b, 41, 56 
+(4), 58, 65 
+est, 33 (ii.), 41 
+essus, 83 
+etiam nunc, 46 (i) 
+eum, 80 
+eumdem, 80 
+eundem, 80 
+evidens, 10 (1) @ 
+ex-, 56 (3), 67 
+excerpo, 13 (1) 
+excito, 10 (1) a 
+exemplum, 85 (2) 
+exerceo, 13 (1) 
+exilium, 10 (2) 
+eximo, 85 (2) 
+explodo, 24 
+exsatio, 56 (3) 
+ex(s)culpo, 56 (3) 
+exsilium, 10 (2) 
+exsolvo, 56 (8) 
+exsomnis, 56 (3) 
+ex(s)polio, 56 (8) 
+ex(s)truo, 56 (3) 
+exsulans, 10 (2) 
+exsulto, 17, 33 
+extinguo, 82 
+extinxi, 82 
+exulans, 10 (2) 
+ 
+-P-A-G-E-109
+F 
+faba, 36 
+Fabaris, 45 (5) 
+fac, 31 (1) 
+facetus, 10 (1) ¢ 
+facilis, 14 
+facio, 10 (1) c, 26, 29 
+(c), 33, 33 (ix.) 
+facis, 29 
+factito, 26 
+factus, 18 (1), 26 
+failla, 51 
+Falerii, 11 
+Falisci, 11 
+fallo, 18 (1), 40 
+familia, 10 (2) 
+famulus, 10 (2) 
+farcio, 74, 90 
+Farfarus, 45 (5) 
+farsi, 74, 90 
+fartus, 90 
+fateor, 10 (1) ¢ 
+favilla, 51 
+fax, 29 
+feci, 33 (ix.) 
+fefelli, 13 (1), 40 
+feido, 33 (iii.) fel, 56 (4) fellis, 56 (4) 
+fer, 31 (1) 
+fere, 31 (3) 
+ferentarium, 31 (3) 
+feriae, 41 
+ferimus, 10 (3) 
+fero, 15 (b) 
+ferre, 17, 65, 74 
+ferrus, 11 
+fesiis, 41 
+festus, 41 
+fhefhaked, 6 (iii.) 
+fides, 38 (iii.) 
+fido, 33 (iii.) 
+filios, 29 (d) 
+filius, 29 (d) 
+fimus, 27 
+finio, 27 
+finire, 27   INDEX 
+fio, 27 
+fis, 27 
+firmus, 13 (3) 
+flagrare, 45 (3) 
+Flaurus, 24 
+flebam, 27 
+fleo, 27 
+Florus, 24 
+fluere, 47 
+flumen, 10 (1) 5, 29 (b) 
+fluminis, 10 (1) ), 
+29 (b) fluvere, 47 
+fluvius, 47 
+fodi, 38 (vii.) 
+fodio, 26, 88 (vii.) 
+foederum, 41 
+foedesum, 41 
+foedus, 33 (iii) 
+foidere, 33 (iii.) 
+foidos, 33 «iii.) 
+fores, 14 
+forfex, 29 (b) 
+forficis, 29 (b) 
+foris, 14 
+fossus, 26 
+fovea, 50 
+fragrare, 45 (3) 
+frigora, 28 
+frigus, 28 
+fruontur, 13 (2) 
+fruor, 47 
+fruuntur, 13 (2) 
+fruvor, 47 
+fulcio, 90 
+fulcrum, 45 (1) 
+fulgeo, 90 
+fulsi, 90 
+fulmen, 90 
+fultus, 90 
+fundo, 18 (8) 
+Furii, 41 
+Fusii, 41 
+G 
+gaesum, 41 
+gallina, 56 (1) 
+G *   101 
+gallus, 56 (1) 
+genera, 28 
+generis, 29 (b) 
+genetricem, 33 (viii.) 
+genetrix, 33 (viii.) 
+genitor, 33 (vii 
+genitorem, 33 (viii.) 
+genui, 33 (ii.) 
+genus, 29 (b) 
+gero, 58 
+gessi, 58 
+gigno, 383 (ii.) 
+Gianuarius, 53 
+Giove, 58 
+glacies, 27 
+glaciei, 27 
+glubo, 60, 70 
+gluma, 60, 70 
+Gracchus, 35 
+Graccus, 35 
+gradior, 71 
+grallae, 71 
+gruis, 27 
+grus, 27 
+  H 
+habeo, 10 (3), 14 
+haedus, 20 
+hance, 76 
+hance, 76 
+harundo, 44 
+haruspex, 29 (b) 
+haruspicis, 29 (6) 
+haud, 38 
+haurio, 41 
+haustum, 41 
+have, 81 (3) 
+havere, 31 (8) 
+hemo, 32 
+heri, 20, 41 
+herus, 44 
+hesternus, 41 
+hic, 56 (4), 76 
+hiemis, 29 (5) 
+hiems, 29 (4) 
+hinsidias, 35, 44 
+hirpex, 44
+-P-A-G-E-110
+102 
+hoe, 56 (4), 76 
+holus, 17, 44 
+homo, 32 
+honce, 76 
+honestus, 33 (vi.) 
+honor, 33 (vi.), 43 
+honorem, 33 (vi.) 
+honos, 43 
+humerus, 44 
+hune, 76 
+i 
+iecirco, 76 
+id, 76 
+idcirco, 76 
+idem, 25 (1), 63, 86 
+iferos, 87 
+ilico, 10 (1) d 
+illacrimor, 14 
+illatus, 72 
+ille, 88 (1) 
+illi, 27 
+illido, 14 
+illis, 30 
+illius, 27 
+illud, 38 (1) 
+imbellis, 80 
+imberbis, 13 (1) 
+imbuo, 80 
+immerito, 81 
+imminuo, 10(1) a 
+immitis, 81 
+immolo, 81 
+immuto, 81 
+impudicus, 14 
+in-, 25, 80 
+inceideretis, 19 
+inceido, 19 
+incido, 10 (1) ¢ 
+incido, 19 
+incohare, 35 
+incomparabilis, 36 
+incomparavilis, 36 
+indoctus, 25 
+induro, 80 
+industrius, 18 (2) 
+ineo, 80 LATIN PHONETICS 
+  ineptus, 13 (1) 
+infantem, 87 
+infelix, 25 
+| infero, 72 
+inferus, 15 (a), 33 
+inficetus, 10 (1) ¢ 
+infirmus, 13 (3) 
+infra, 15 (a), 33 
+ingenuos, 80 
+inhumanus, 25 
+immolo, 81 
+innocuous, 56 (1) 
+innoxius, 56 (1) 
+inopia, 82 
+| inquietus, 80 
+inrevocabilis, 72 
+insanus, 25 
+insidias, 35, 44 
+insimul, 87 
+insulsus, 14 
+intactus, 80 
+intibum, 10 (8) 
+introrsum, 49 
+intubum, 10 (3) 
+inutilis, 80 
+invicem, 10 (1) a@ 
+Iphianassai, 30 
+ipsi, 27 
+ipsius, 27 
+irpex, 44 
+irrevocabilis, 72 
+irrigo, 10 (1) a 
+irriguos, 10 (1) a 
+irritus, 10 (1) ¢ 
+is, 86 
+ita, 10 (1) ¢, 28 
+itidem, 10 (1) ¢ 
+jacio, 15 
+jactus, 18 (1) 
+Januarius, 53 
+jouxmentom, 91 (b) 
+Jove, 58 
+judex, 86 
+judicis, 86   Julia, 53 
+jumentum, 91 (5) 
+junctus, 90 
+jungo, 90 
+junior, 15 (2), 32 Jup(p)iter, 53, 55 
+juris, 41 
+jus, 41 
+justa, 91 (a) 
+Justus, 53 
+juvenis, 32 
+juventa, 47 
+| juxta, 91 (a) 
+K 
+K=Kaeso, 6 (i.) 
+K or Kal=Kalendae, 
+6 (i) 
+KA=capitalis, 6 (i.) 
+kaput, 6 (i.) 
+karus, 6 (i.) 
+Kartago, 35 
+KK=castrorum, 6(i.) 
+L 
+labor, 48 
+labos, 43 
+lac, 29 
+lachrima, 35 
+lacrima, 35, 37 
+lacrimo, 14 
+lactis, 29 
+laedo, 14 
+lases, 41 
+lasibus, 41 
+latrina, 32, 49 
+lautia, 37 
+lautus, 37 
+lavacrum, 45 (1) 
+lavatrina, 32, 49 
+lebare, 36 
+lectus, 26 
+legere, 11, 41 
+legerupa, 11 
+legifer, 11
+-P-A-G-E-111
+legimus, 10 (3) 
+lego, 1, 10 (1) 8, 16, 
+26 
+Lemuria, 45 (8) 
+lene, 28 
+leniit, 27 
+lenire, 27 
+lenis, 28 
+lenivit, 27 
+levare, 36 
+liberta, 36 
+libertabus, 36 
+libertavus, 36 
+libet, 10 (8) 
+lictor, 31 (2) 
+lictoris, 31 (2) 
+lignum, 16, 69 
+limpha, 6 (iv.) 4 
+lingere, 37 
+lingua, 37 
+lit(t)era, 55 
+lit(t)us, 55 
+locus, 10 (1) d 
+loucos, 23 
+lubet, 10 (3) 
+Luciom, 46 (2) 
+Lucium, 46 (2) 
+lucrum, 45 (1) 
+lucus, 23 
+ludo, 68 (3) Tunaris, 45 (1) 
+lusi, 68 (3) 
+M 
+machina, 6 (iv.) 4 
+Maesius, 20 
+mage, 42 
+magis, 42 
+magistratu, 38 (2) a 
+magistratud, 38 (2) a 
+magistratus, 29 (a), 
+38 (2) @ magnus, 38 (vi.), 46 
+(1) 
+Maia, 48 Maiia, 48 
+maiiorem, 48   INDEX 
+majestas, 33 (vi.) 
+majorem, 33 (vi.) 
+majosem, 38 (vi.) 
+majosibus, 41 
+majus, 33 (vi.) 
+male, 31 (3) 
+manceps, 10 (3) 
+mancipis, 10 (3) 
+mancupis, 10 (3) 
+manibus, 10 (3) 
+manica, 10 (1) ¢ 
+manifestus, 10 (3) 
+manufestus, 10 (3) 
+manus, 10 (1) e, 10 (3) 
+mare, 28 
+maria, 28 
+Mato, 35 
+maximus, 10 
+med, 88 
+medius, 10 (1) d 
+mel, 29 
+meliorem, 41 
+meliosem, 41 
+meliosibus, 41 
+mellis, 29 
+merito, 38 (2) a 
+meritod, 38 (2) a 
+meritum, 38 
+mertare, 74 
+mesem, 87 
+Mesius, 20 
+messis, 83 
+messui, 68 
+messus, 26 
+meto, 26, 68, 83 
+mi, 32 
+| mico 10 (1) a 
+mihi, 32 
+miles, 42, 56 (4), 68 
+2. ( milia, 59 (1) 
+militaris, 45 (1) 
+militis, 68 (2) 
+mille, 59 (1) 
+minimus, 10 
+minuo, 10 (1) a 
+missus, 58 
+mitte, 81 (1) 
+mitto, 58     103 
+modo, 81 (3) 
+moenia, 21 
+moerus, 21 
+mola, 81 
+mons, 13 (2) 
+mortalis, 45 (1) 
+muc(c)us, 55 
+mulceo, 74 
+mulsi, 74 
+multum ille, 46 (1) 
+munire, 21 
+murus, 21 
+N 
+nausea, 41 
+navalis, 45 (1) 
+nec, 81 (1), 82 
+necis, 29 
+nemo, 32, 44 
+nempe, 76 
+nepos, 33 (viii.) 
+nepotem, 33 ( 
+neptem, 33 (viii. 
+neptis, 33 (viii.) 
+neque, 31 (1), 82 
+neu, 22, 81 (1) 
+neuter, 22 
+neve, 22, 31 (1) 
+nex, 29 
+nihil, 82, 44 
+nil, 82 
+ninguit, 39 
+nisi, 41 
+nivis, 29, 39, 82 
+nix, 29, 39, 82 
+noctis, 29, 89 
+nonus, 50 
+noutrix, 23 
+novem, 50 
+novitas, 10 (1) d, 12 
+novos, 10 (1) d, 12 
+novus, 10 (1) d 
+nox, 29, 89 
+nubo, 62 (1) 
+nucis, 29 
+numerum, 85 
+numerus, 11   
+-P-A-G-E-112
+104 
+nupsi, 62 (1) 
+nutrix, 23 
+nux, 29 
+oO 
+ob-, 70, 91 (a) 
+obdo, 62 (2) 
+obduro, 64 
+obfero, 67 
+obfundo, 67 
+obgero, 76 
+obicio, 15 
+obicit, 15 
+obsideo, 10 (1) b 
+obtego, 1 
+obtineo, 64, 67 
+obtrecto, 13 (1) 
+occa(n)sio, 87 
+occupo, 10 (3) 
+ocquinisco, 76 
+odi, 33 (vii.) 
+odium, 38 (vii.) 
+odor, 37 
+oenus, 21 
+ofella, 56 (1) 
+offa, 56 (1) 
+offero, 67 
+officina, 67 
+officio, 10 (1) ¢ 
+offundo, 67 
+oggero, 76 
+oino(m), 21, 46 (2) 
+oinos, 21 
+oisos, 21 
+olere, 37 
+olla, 59 (2) 
+oloes, 30 
+olus, 44 
+omitto, 70 
+op-, 70,91 (a) 
+operio, 62 (2) 
+operis, 41 
+opfero, 67 
+opfundo, 67 
+opifex, 67, 86 
+opificina, 67 
+opificis, 86   opos, 29 (d) 
+opprimo, 56 (2) 
+oppugno, 56 (2) 
+ops, 91 (a) 
+optimus, 10, 42 
+optineo, 64 
+opto, 14 
+optumus, 10 
+opus, 29 (d), 41 
+Orcivius, 35 
+ordinis, 29 (b) 
+ordo, 29 (b) 
+oris, 32 
+6s, 29, 56 (4) 
+6s, 82 
+ossis, 29, 56 (4) 
+ostendo, 91 (a) 
+Otho, 35 
+Oto, 35 
+Ee 
+paimentum, 51 
+palam, 32 
+Palilia, 45 (2) 
+pango, 10 (1) ¢ 
+paor, 51 
+paorem, 51 
+Papisius, 41 
+parco, 13 (1) 
+paries, 12~ 
+parietis, 12 
+Parilia, 45 (2) 
+pario, 11 
+paro, 14 
+passus sum, 83 
+patior, 83 
+pausa, 41 
+pavimentum, 51 
+pavor, 51 
+-pe, 76 
+pedis, 12, 68 (2) 
+pelegrinus, 45 (3) 
+pellicio, 73 
+pello, 17, 74 
+pelluceo, 73 
+pendo, 33 (i.) 
+penna, 69 
+peperci, 13 (1) LATIN PHONETICS 
+  
+    peperi, 11 
+pepigi, 10 (1) ¢ 
+per-, 56 (2) 
+perdisco, 18 (3) 
+peregrinus, 45 (3) 
+perfacilis, 14 
+pergo, 56 (2) 
+periclum, 45 (1) 
+perlicio, 73 
+perluceo, 73 
+perrexi, 56 (2) 
+perrumpo, 56 (2) 
+pertinax, 10 (1) 6 
+pervideo, 10 (1) a 
+pes, 12, 68 (2) 
+pessimus, 56 (3) 
+peto, 1, 10 (1) 4, 69 
+philtrum, 6 (iv.), 4 
+| pictai, 30 
+| picis, 29 
+| pietas, 12 
+pijus, 47 
+pios, 12 
+pius, 12, 27, 47 
+pix, 29 
+plaudo, 24, 68 (3), 83 
+plausi, 68 (3) 
+plaus(s)us, 83 
+plaustra, 24 
+plebi, 64 
+| plebis, 64 
+plebs, 64 
+pleps, 64 
+plodo, 24 
+plostra, 24 
+pluit, 47 
+plurima, 41 
+Pplusima, 41 
+Pluvia, 47 
+pluvit, 47 
+po-, 25 (1) 
+Poclum, 45 (1) 
+poena, 21 
+Poenus, 21 
+pollen, 18 
+pondo, 33 (i.) 
+pone, 89 
+pono, 25 (1), 86 
+porrigo, 10 (1) b
+-P-A-G-E-113
+positus, 25 (1) 
+possumus, 10 (3) 
+posthabeo, 14 
+potes, 56 (4) 
+praecho, 35 
+praecino, 10 (1) ¢ 
+praeda, 38 (2) a 
+praesideo, 1, 10 (1) b 
+praestigiae, 45 (4) 
+praestringo, 45 (4) 
+praidad, 38 (2) a 
+prelum, 86 
+premo, 86 
+pressi, 86 
+primus, 86 
+priscus, 86 
+probai, 51 
+probavi, 51 
+prodigus, 10 (1) ¢ 
+proditus, 10 (1) c 
+profiteor, 10 (1) ¢ 
+prohibeo, 10 (3) 
+promo, 85 
+promontorium, 13 (2) 
+prompsi, 85 
+promptus, 85 
+promunturium 13 (2) 
+propietas, 45 (4) 
+propius, 45 (4) 
+proprietas, 45 (4) 
+proprius, 45 (4) 
+protector, 26 
+providus 10 (1) a 
+pudicus, 14 
+pulcer, 6 (iv.), 35 
+pulcher, 6 (iv.), 35 
+Pulcher, 35 
+pulsus, 17, 74 
+pultare, 74 
+pulveris, 11 
+pulvinar, 45 (1) 
+pulvis, 11, 18 
+Punicus, 21 
+punire, 21 
+punis, 31 (2) punit, 31 (2) 
+puta, 28, 31 (3) 
+putare, 31 (3) 
+puto, 14   INDEX 
+Q 
+quae, 6 (i.) 
+qomes, 6 (i.) 
+quaerit, 20 
+quaero, 20 
+quairatis, 20 
+quairo, 20 
+quam, 80 
+quamdiu, 80 
+quandiu, 80 
+quantum erat, 46 (1) 
+quasei, 31 (3) 
+quasi, 31 (3) 
+quassus, 83 
+quatio, 83 
+_ quercus, 90 
+quernus, 90 
+queror, 41 
+questus sum, 41 
+qui, 6 (i.) 
+quibus, 86 
+quibusdam, 86 
+quicquam, 76 
+quid, 76 
+quidam, 86 
+quidquam, 76 
+Quinctilis, 90 
+Quinctius, 90 
+Quinctus, 90 
+quindecim, 90 
+quintus, #0 
+quippe, 76 
+quod, 6 (i.) 
+quodlibet, 10 (3) 
+qura, 6 (i.) 
+R 
+rado, 59, 60, 71, 85 (1) 
+rallum, 59, 71 
+ramentum, 60 
+rancidus, 14 
+rapio, 10 (8) 
+rastrum, 85 (1) 
+ratus, 10 (1) ¢ 
+raucus, 15 (a) 
+ravis, 15 (a) 
+reccidi, 15 (6)     105 
+recido, 15 (b) 
+recipero, 10 (8) 
+recupero, 10 (3) 
+recurvos, 13 (8) 
+reddere, 11 
+reddidi, 10 (1) b 
+reducis, 29 (a) 2 
+redux, 29 (a) 2 
+refectus, 13 (1) 
+refero, 15 (b) 
+teficio, 40 
+regalis, 45 (1) 
+rego, 10 (1) 6 
+rei, 27 
+rem, 38, 46 (4) 
+remex, 29 ¢ 
+remus, 29 (c) 
+repello, 15 (b) 
+reperio, 11 
+reppuli, 15 (2) 
+res, 27, 83 
+resedo, 41 
+restiti, 10 (1) b 
+restituo, 10 (1) ¢ 
+reticeo, 10 (1) ¢ 
+retro, 31 (3) 
+retrorsum, 49 
+rettuli, 15 (b) 
+rexi, 62 (1) rigo, 10 (1) a 
+romphaea, 6 (iv.), 4 
+rosa, 80 
+rosis, 30 
+rufus, 40 
+Ss 
+Sabelli, 69 
+Sabini, 69 
+saccus, 56 (1) 
+sacellus, 56 (1) 
+salio, 10 (2) 
+| salsus, 14 
+salto, 33 
+Salutes, 29 (b) 
+Salutis, 29 (6) 
+salvom, 46 (2) 
+salvon, 46 (2) (4) 
+Samnium, 69
+-P-A-G-E-114
+106 
+sarcio, 90 
+sarmentum, 56 (3), 89 
+sarpere, 56 (3) 
+sarsi, 90 
+sartus, 90 
+satullus, 73 
+satur, 73 
+satus, 33 (ix.) 
+scabellum, 69 
+scamnum, 69 
+scando, 18 (1) 
+scindo, 56 (2) 
+seribo, 62 (1) 
+scriptus, 62 (1) 
+scrofa, 40 
+se-, 10 (2) 
+secludo, 14 
+seco, 26, 62 (2) 
+sectio, 26 
+secubo, 57, 76 
+séd, 38 (1) 
+séd, 14, 76 
+sedecim, 25 (1), 910 
+sedeo, 1, 10 (1) b, 26, 
+33 (v.), 37, 71, 83 
+sedes, 38 (v.) 
+seditio, 76 
+sedo, 41 
+sedulo, 10 (2) 
+segmentum, 62 (2) 
+seligo, 10 (1) b 
+sella, 71 
+semen, 33 (ix.) 
+sensi, 56 (8), 89 
+sentio, 13 (3), 56 (3), 89 
+seorsum, 50 
+separare, 14 
+separo, 14, 57, 76 
+sepero, 14 
+septem, 80 
+septemdecim, 80 
+septendecim, 80 
+septingenti, 16 
+sepulchrum, 6 (iv.) 
+4, 35 
+sepulcrum, 35, 45 (1) 
+sequontur, 13 (2) 
+serra, 56 (1) 
+serratus, 56 (1) LATIN PHONETICS 
+  servos, 13 (3) 
+sescenti, 91 
+sessus, 26, 83 
+sestus, 91 
+seu, 22 
+sextus, 91 
+si, 41 
+sibei, 80 sibi, 30, 32 
+sibilare, 40 
+siccus, 56 (3), 76 
+Sicilia, 10 (2) 
+Siculus, 10 (2) 
+sido, 33 (v.) 
+sifilare, 40 
+similis, 10 (2) 
+simulacrum, 45 (1) 
+simulo, 10 (2) 
+sis (=si vis), 49 
+sitis, 76 
+situs, 25 (1) 
+soldus, 15 (a) 
+solidus, 15 (a) 
+solium, 33 (v.), 37 
+somnus, 69 
+sompnus, 85 
+sopor, 69 
+specimen, 10 (3) 
+specio, 29 (b), 56 (2) 
+spem, 31 (2) 
+spes, 81 (2) 
+-spicio, 56 (2) 
+spiro, 56 (2) 
+sposa, 87 
+statuo, 10 (1) ¢ 
+stella, 59 (1) 
+stelio, 59 (1) 
+steti, 1, 10 (1) b 
+stilicidium, 59 (1) 
+stilla, 59 (1) 
+stipes, 10 (1) b   | stipitis, 10 (1) b 
+| stiria 59 (1) 
+| stlocus, 10 (1) d 
+sto, 56 (2) 
+stolidus, 18 
+structum, 39 
+struo, 13 (2), 39 
+struvo, 39 
+  stultus, 18 
+sub-, 91 (a) 
+subdolus, 64 
+subicio, 15 
+subicit, 15 
+subjectus, 13 (1) 
+submitto, 70 
+subrancidus, 14 
+substituo, 10 (1) ¢ 
+subtilis, 64, 67 
+subula, 27 
+subvenio, 1 
+succido, 76 
+succiduos, 10 (1) ¢ 
+sulphur, 6 (iv.) 4, 85 
+sulpur, 35 
+summitto, 70 
+summus, 56 (3), 63, 70 
+sumo, 80, 85, 91 (6) 
+sumpsi, 85 
+sumptus, 80, 85 
+sunt, 33 (ii.) 
+sunto, 38 (2) b 
+suntod, 38 (2) 6 
+suntus, 80 
+suo, 27 
+sup-, 91 (a) 
+super, 41 
+superne, 89 
+superstes, 89 
+superior, 63 
+superus, 15 (a) 
+supestes, 89 
+suppingo, 16 
+supra, 15 (a) 
+sups-, 91 (a) 
+suptilis, 64 
+surripio, 10 (3) surrupui, 10 (3) 
+suscipio, 91 (a) 
+suscito, 10 (1) a 
+sustineo, 1, 10 (1) b 
+Sustus, 53 
+sutor, 27 
+iF 
+taberna, 10 (3) 
+taceo, 10 (1) ¢ 
+ 
+-P-A-G-E-115
+tam, 46 (2), 80 
+tamquam, 80 
+tan, 46 (2) 
+tango, 10 (1) c 
+tanquam, 80 
+ted, 38 
+tego, 1, 88 (i., iv.) 
+tegula, 33 (iv.) 
+tela, 91 (b) 
+temperi, 14 
+templum, 46 (1) 
+temporis, 14 
+tempus, 14 
+teneo, 1, 10 (1) 5 
+tesa, 87 
+testis, 89 
+tetigi, 10 (1) ¢ 
+tetuli, 15 (5) 
+texo, 91 (b) 
+thensaurus, 87 
+ebereura, 6 (iv.) 4, 
+8 
+Thorius, 35 
+tibi, 32 
+tibicinium, 10 (1) ¢ 
+toga, 33 (i.) 
+tondeo, 85 (1) 
+tonsor, 43 
+tonstrix, 85 (1) 
+Torius, 35 
+tormentum, 90 
+torqueo, 90 
+torreo, 74, 89 
+tostus, 89 
+tot, 31 (1) 
+totidem, 31 (1) 
+tracto, 13 (1) 
+tradere, 11 
+tradidi, 10 (1) b 
+traduco, 92 
+trameo, 92 
+trano, 92 
+transduco, 92 
+transfundo, 13 (3) 
+transigo, 10 (1) ¢ 
+transmeo, 92 
+transno, 92 
+tredecim, 86 
+triumpus, 35     INDEX 
+Troiad, 38 (2) a 
+trucis, 29 
+trux, 29 
+tuber, 40 
+tum, 80 
+tune, 80 
+tunde, 31 (1) 
+tundo, 30 
+turturis, 29 (@) 
+turtur, 29 (a) 
+tutudi, 30 
+U 
+ulciscor, 90 
+ultus, 90 
+umbra, 46 (1) 
+umerus, 44 
+unctio, 82 
+unctus, 90 
+unguentum, 82 
+unguo, 90 
+uni, 27 
+unius, 27 
+unum, 21, 46 (2) 
+unus, 21 
+urbi, 64 
+urbis, 64 
+urbs, 64 
+urps, 64 
+usus, 21 
+Vv 
+vafer, 40 
+valde, 15 (a) 
+Valerii, 41, 43 
+Valesii, 41, 43 
+validus, 15 (a) 
+vapor, 43 
+vapos, 43 
+varietas, 12 
+varios, 12 
+varius, 12 
+vehemens, 35 
+velim, 17, 33 
+velle, 17, 65, 74 
+vellem, 17   107 
+venalis, 45 (1) 
+vene, 36 
+Veneres, 29 (0) 
+Veneris, 29 (6) 
+veni, 36 
+venos, 13 (2) 
+venustus, 13 (2) 
+verber, 11 
+verberis, 11 
+verres, 74 
+Vesuntionem, 36 
+via, 47 
+vicis, 10 (1) a 
+viden, 31 (3) 
+video, 10 (1) a, 26 
+vija, 47 
+vilicus, 59 (1) 
+villa, 59 (1) villum, 72 
+vincio, 90 
+vinclum, 45 (1) 
+vinctus, 90 
+vinum, 72 
+vir, 29 
+viri, 29 
+viro, 46 (2, 4) viro(m), 29, 46 (2) 
+virum, 29 (d), 46 (2) 
+visus, 26 
+vivont, 29 
+vivunt, 29 
+vixi, 36 
+voco, 14 
+volam, 17 
+volebam, 17 
+volneris, 11 
+volnus, 11 
+volo, 17, 83 
+volui, 17 
+voluptatem, 31 (3) 
+vomer, 17 
+vulnus, 17 
+Zz 
+Zanuarius, 53 
+zephyrus, 6 (iv.), 3 
+zophyrus 6 (iv.), 3 
+Zulia, 53
+-P-A-G-E-116
+PRINTED AT THE EDINBURGH PRESS 
+9 AND 11 YOUNG STREET

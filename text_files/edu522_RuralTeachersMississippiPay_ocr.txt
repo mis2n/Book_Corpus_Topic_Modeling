@@ -1,0 +1,1697 @@
+-P-A-G-E-1
+WHAT IS THE RELATION OF ACADEMIC PREP- 
+ARATION, EXPERIENCE, INTELLIGENCE, 
+ACHIEVEMENT, AND SEX OF RURAL 
+TEACHERS IN MISSISSIPPI TO 
+THEIR PAY? 
+BY 
+H. M. IVY, Ph. D. 
+GEORGE PEABODY COLLEGE FOR TEACHERS 
+CONTRIBUTIONS TO EDUCATION 
+NUMBER TEN 
+  PUBLISHED UNDER THE DIRECTION OF 
+GEORGE PEABODY COLLEGE FOR TEACHERS 
+NASHVILLE, TENN. 
+1922 
+ 
+-P-A-G-E-2
+Copyright, 1922, by H. M Ivy 
+  
+  McQuippy PRINTING Co. Nashville
+-P-A-G-E-3
+  
+Chapter dé 
+Chapter II. 
+Chapter III. 
+Chapter IV. 
+Chapter V. 
+Bibliography 
+Other Studies. Suggested 
+  CONTENTS 
+PAGE 
+Purpose and Scope of the Study__---------------- 5 
+Methods Used to Obtain the Data___--_-__-------- 8 
+Exposition of the Data: 
+1. Academic Preparation -_- 
+2. Experience 
+          3. Intelligence 
+4. Achievement —____ 
+Analysis and Comparison of the Data as Shown by: 
+1. Correlations 
+  2. Partial Correlations _ 
+3. Multiple Correlation __ 
+Summary and Conclusions 
+          RELL 1 Aooy
+-P-A-G-E-4
+  ACKNOWLEDGMENTS 
+The author desires to express his grateful appreciation 
+to W. F. Bond, State Superintendent of Education, for per- 
+mission to gather the data used in this study from the sum- 
+mer normals of Mississippi; to J. T. Calhoun, Supervisor of 
+Rural Schools, for his collaboration in giving the intelli- 
+gence and achievement tests; and to Dr. Shelton Phelps, of 
+George Peabody College for Teachers, for his patient advice 
+and kindly criticism.
+-P-A-G-E-5
+CHAPTER I 
+THE PURPOSE AND SCOPE OF THE STUDY 
+The inequality of educational opportunity in the United 
+States is nowhere more in evidence than in the contrast be- 
+tween that afforded the urban child and that afforded the 
+rural child. - The concentration of wealth in corporate bod- 
+ies makes the taxes levied in cities for the support of edu- 
+cation in large part indirect. In the rural community the 
+school tax is direct. The farmer is not willing to pay high 
+costs for schools unless he can see a direct value being re- 
+turned. The teacher stands to him as a representative of 
+what education can do for his boys and girls. Hence, the 
+quality of rural education depends far more upon the qual- 
+ity of the teacher than does urban education. In general, 
+the quality of any product is in proportion to the amount 
+paid for it. This may be said to be true in regard to the 
+rural teacher. If his salary is low, is his quality also low? 
+In fixing his salary, what traits is society consciously and 
+unconsciously seeking? We know and can measure some 
+of these traits; others are known, but as yet unmeasured ; 
+still others are both unknown and unmeasured. 
+When the traits that affect the pay of the rural teacher 
+have been ascertained, it will be possible to find the effect 
+of each. With the effect known, the proper treatment may 
+be applied that will result in a general improvement of rural 
+salaries. It is in the hope of making a beginning along this 
+line that this study was undertaken. 
+Coffman! made an exhaustive study of the social compo- 
+sition of the teaching population, in which he gathered data 
+in regard to the training, experience, age, pay, et cetera, of 
+rural, town, and city teachers in twenty-two states. Foght? 
+collected data from most of the states in regard to sex, expe- 
+rience, salary, and preparation of rural teachers. Various 
+state surveys which included the rural schools have been 
+made, notably Washington,*? Wyoming,t Arizona,® South 
+Dakota,® and Nebraska.‘ Each of these studies is of great 
+value and has done much to point the way to the solution 
+of the rural school problem. In each, however, the data   
+1Social Composition of the Teaching Population, Teachers’ College Contribution, 
+No. 41. 
+*Efficiency and Preparation of Rural School Teachers, U. S. Bureau of Education, 
+Bulletin 1914, No. 49. 
+®U. S. Bureau of Education, Bulletin 1916, No. 26. 
+wv. S. Bureau of Education, Bulletin 1916, No. 29. 
+S. Bureau of Education, Bulletin 1917, No. 44. 
+S. Bureau of Education, Bulletin 1918, No. 31. 
+S. Bureau of Education, Bulletin 1919, No. 20. 
+    
+-P-A-G-E-6
+  6 Mississippi Rural Teachers 
+were more objective than subjective, the individual equa- 
+tion of the teacher being scarcely touched. 
+The caption of this study, ‘What is the Relation of the 
+Academic Preparation, Experience, Intelligence, Achieve- 
+ment, and Sex of Rural Teachers in Mississippi to Their 
+Pay?” is intended to suggest its content. No claim is made 
+that all of the factors entering into pay are considered, 
+though it will be shown in Chapter IV that those included 
+make up a significant number of them. What the others 
+may be and the respective influence of each must be left for 
+subsequent studies. 
+Intelligence tests are in wide use in dealing with children. 
+They seem to have won their place as diagnostic and prog- 
+nostic instruments in the hands of the trained school admin- 
+istrator. Their use in connection with the selection of 
+teachers has been practically neglected, though experience 
+with them in the army should indicate their applicability. 
+One investigator states that “given enough intelligence to 
+get through high school and two years of normal school, 
+more does not function in a practical situation.”! There 
+is a possibility that he is right, but 66 per cent of the teach- 
+ers? of the United States do not meet the requirement speci- 
+fied. Many normal schools are establishing their own 
+norms? for future application to entrants, but it is still pos- 
+sible to become a teacher in thirty-five states without at- 
+tending a normal.’ Hence, an intelligence norm is needed 
+below which no one should be permitted to attempt teaching. 
+Achievement tests are also in wide use with school chil- 
+dren, and have proven their value to such an extent that the 
+methods involved in their construction are beginning to be 
+applied to remodel the time-worn examination questions. 
+Teachers, however, still take the examinations made up from 
+the questions given years ago and by industrious cramming 
+secure a certificate. How do such teachers score when 
+given the same tests that they are urged to give their pu- 
+pils? The results are interesting and suggest some new 
+problems for solution. 
+This investigation has undertaken to determine (1) 
+whether practice takes into consideration in fixing the sal- 
+ary paid the rural teacher his academic preparation, expe- 
+rience, intelligence, achievement, and sex; (2) to arrive at 
+a tentative minimum intelligence norm for rural teachers; 
+(3) to determine the relative intelligence of those teachers 
+  
+1Knight, in Journal of Educational Research, Vol. 5, p. 213. 
+2Table showing report of data gathered by Carnegie Foundation, School and Soci- 
+ety, Vol. 15, p. 304. 
+*Twenty-First Yearbook, Society for Study of Advancement of Education, Chap- 
+ter 8. 
+4U. S. Bureau of Education, Bulletin 1921, No. 22.
+-P-A-G-E-7
+Mississippi Rural Teachers i 
+who persist in the rural schools; (4) to ascertain whether 
+the quality of the rural teacher as shown by intelligence and 
+achievement is improving; and (5) to make a comparison 
+of the male and female rural teacher. 
+The nature of the data requires that their treatment be 
+statistical. The raw data will be first considered, after 
+which the relationships of the various items will be ascer- 
+tained. As practically all of the traits dealt with in edu- 
+cation are complex and have interdependence—such as 
+training, intelligence, and achievement—partial correla- 
+tions will be used to hold some factors constant while the 
+relationship of the others are found. In order to be cer- 
+tain that the items included in this study were not negligi- 
+ble factors in the pay of a teacher, multiple correlation was 
+resorted to. 
+The conclusions arrived at in this study are limited to 
+the “universe” from which the sampling was taken, and the 
+figures and rates given, based on regression coefficients, ap- 
+ply only within the limits of this study.
+-P-A-G-E-8
+CHAPTER II 
+METHODS USED TO OBTAIN THE DATA 
+A teacher who obtains a first-grade certificate in Missis- 
+sippi is permitted to renew it yearly by attending a normal 
+for six weeks and passing satisfactorily certain required 
+courses. After teaching on such certificate for five years, 
+it becomes a permanent one, and the teacher is exempt from 
+further examination. 
+As one Normal College does not have adequate facilities 
+for taking care of all those desiring to attend, local normals 
+are established each summer at various places in the state. 
+These normals are under the supervision of the State De- 
+partment of Education, and give as far as possible the same 
+courses that are given at the Normal College. 
+During the summer of 1921 there were fourteen of these 
+provisional normals in operation. They were located! at 
+Aberdeen, Benton, Clinton, College Hill, Corinth, Jackson, 
+Meadville, Mendenhall, Meridian, Mize, New Albany, Slay- 
+den, Summit, and Wesson. Only one large section, known 
+as the “Delta,’’ had no normal located in it, as practically 
+all of the teachers in this section come from counties out- 
+side of it. 
+Three thousand rural teachers were enrolled in these 
+fourteen provisional normals and the Normal College (Hat- 
+tiesburg) during the summer of 1921. Every county in the 
+state except one was represented by one or more teachers. 
+The exception is a county with a very small white popula- 
+tion and employs only eighteen white teachers, practically 
+all of whom are drawn from other counties. 
+A supply of questionnaires was sent to the directors of 
+the summer normals, with instructions to have every teacher 
+fill out one at the time of registration. On account of the 
+unprecedented enrollment the supply of blanks was inade- 
+quate, and they were filled out by only 2,194 teachers. 
+The ten largest normals—Aberdeen, Clinton, College Hill, 
+Corinth, Jackson, Hattiesburg, Meridian, New Albany, 
+Slayden, and Wesson—were visited. At each the teachers 
+were gathered into one large assembly room and given the 
+Woody-McCall Mixed Fundamentals Test, Form 2; the Otis 
+Intelligence Test, Advanced Examination, Forms A or B; 
+and the Monroe Silent Reading Test No. 3, Form 2. 
+Before each test was given an explanation was made to 
+the teachers as to its purpose. It was expected that as a   
+  
+‘These normals were open to white teachers only. Similar ones are held for the 
+negro teachers, several of which were in the Delta.
+-P-A-G-E-9
+Mississippi Rural Teachers 9 
+result of taking the tests the teachers would become inter- 
+ested in them, learn more about their use, and try them out 
+in their own schools the following session. 
+The time limit on the Woody-McCall test was reduced to 
+ten minutes, as previous experience in giving that test had 
+indicated that practically all of the children taking it had 
+completed the work inside that limit. The papers written 
+by the teachers showed that their scores were due to lack of 
+accuracy rather than lack of time. 
+At Corinth it was necessary to divide the teachers into 
+two groups on account of the lack of seating capacity. In 
+order to comply with some local arrangements, it was nec- 
+essary to curtail the time of the Otis test for the second 
+group, which contained seventy-five teachers. This was 
+done by omitting sections one and ten of the test. The 
+scores were then transmuted according to the table given 
+by Dr. Otis. (Manual for 1920.) Other than as sug- 
+gested, the exact time limits were observed and full direc- 
+tions for giving and scoring each test were carried out. 
+The examiners! were experienced in the work, and the 
+teachers were in most cases anxious to try out the tests. 
+As has been stated, the questionnaire was filled out by 
+2,194 teachers. A few of the blanks were illegible, a few 
+so incomplete as to be worthless. These, together with 
+those filled out by individuals who could not be classified 
+as rural teachers, were set aside. Altogether, 2,066 of 
+these questionnaires were worked up. 
+Several failed to put their names on the Otis booklet, and 
+a few quit after trying three or four tests. Altogether, 
+1,759 of these booklets were scored. 
+In the same way there were discrepancies among the 
+reading and arithmetic papers that necessitated the discard- 
+ing of some. The final tabulation showed 1,575 arithmetic 
+scores and 1,472 reading scores. 
+When the questionnaires were checked with the tests, it 
+was found that there were 1,265 teachers for whom there 
+was a questionnaire and intelligence booklet; 966 of them 
+had an arithmetic score, and 910 had reading scores. The 
+tables in the following chapters are based upon these teach- 
+ers.   
+1The arithmetic and reading tests were given by J. T. Calhoun, Supervisor of Rural 
+Schools for Mississippi. 
+ 
+-P-A-G-E-10
+    
+‘CHAPTER III 
+EXPOSITION OF THE DATA 
+The data gathered as indicated in Chapter II naturally 
+fall into five groups: (1) academic preparation, (2) teach- 
+ing experience, (3) intelligence, (4) achievement, (5) pay. 
+They will be taken up in that order. 
+1. Academic Preparation. 
+The standard of preparation set for the rural teacher by 
+the United States Bureau of Education! is graduation from 
+a four-year high school, with two additional years in a nor- 
+mal school. That he falls short of this standard has been 
+shown in practically every survey made.2 That he is no 
+exception in this regard in Mississippi is shown in the fol- 
+lowing table: 
+  
+      
+  
+  
+  
+  
+  TABLE I 
+ACADEMIC PREPARATION OF RURAL TEACHERS 
+Experi- a 
+Grade or Class |___FEMAVES__ ES hai Ceneanl nae 
+com pleted Exper" | Novice| Total |§*P*ti| Novice| Total | Teach |" ers 
+Senior (16) 14 5 19 10 2 12 31 24 7 
+Junior (15) 8 5 13 7 0 T | j20 15 5 Sophomore (14) 59 28 87 18 10 28 | 115 7 38 Freshman (13) 41 19 60 7 3 10 70 43 | 22 
+Grade 12. 147 90 237 31 17 48 285 178 107 
+Grade 11 195 93 | 286 25 18 43 | 881 | 220 | 111 Grade 10 139 37 176 29 9 38 214 168 46 
+Grade 9 69 23 92 8 6 14 | 106 11 29 Grade 8 20 5 25 3 2 5 30 28 7 
+Totals | 693 | 305 | 997 | 138 | 67 | 205 | 1202 | 830 | 872 
+@ [i165 [11-80 [11.7 [13° [11.9 | 12.67 | 11.83 | 11.78 | 11.8 
+M [10.6 | 10.95 | 10.71 | 11.13 | 10.92 | 11.05 | 10.76 | 10.67 | 10.93 
+Qu | 9.6 | 10.12 | 9.75 | 9.81 [ 9.97 | 9.85 | 9.77 | 9.64 | 10.1 
+Q | 102 | 83 | 98 | 161| .96| 1.86] 1.08 | 1.04| .85   
+‘Foght, in United States Bulletin No. 49, 1914. 
+*Carnegie Foundation Report, School and Society, Vol. 16, p. 304. Educational 
+onda in Arizona, Bureau of Education, Bulletin 1917, No. 44; 1916, No. 29; 1919, 
+‘0. 20. 
+*Used to indicate freshman year.
+-P-A-G-E-11
+Mississippi Rural Teachers 11 
+GRAPH SHOWING ACADEMIC PREPARATION 
+Completed Senior in 
+College LLL) 3% 
+2% Junior 
+Sophomore 10% 
+Freshman 6% 
+High School: 
+Grade 12 23% 
+Grade 11 27% 
+Grade 10 17% 
+Grade 9 9% 
+Elementary : 
+Grade 8 3% 
+  EXPLANATION OF TABLE I 
+The first column shows the grade in school or class in col- 
+lege which was completed. Column two shows the num- 
+ber of experienced female teachers who completed the grade 
+or class indicated in the corresponding row of column one. 
+For example, 14 female teachers had completed the senior 
+year in college. At the bottom of the table are shown the 
+75, 50, and 25 percentiles and Q the semi-interquartile 
+range. The graph below the table shows the comparison 
+between the male and female teachers by percentages. 
+The range of preparation is from the eighth grade 
+through the senior year in college, with the mode at the 
+eleventh grade. From the graph it is readily seen that 
+the high schools are producing the rural teachers, as 50 
+per cent of the entire number come from the three and four- 
+year schools. The percentage who have completed the ele- 
+mentary grades only is too large (3 per cent), and will prob- 
+ably lose ground rapidly, as many of these teachers obtained 
+their certificates during the war or were in the ranks be- 
+fore the certificate requirements were increased in 1916. 
+That 21 per cent of these teachers have had some college 
+training may be attributed to the rapid spread of consolida- 
+tion, which tends to hold such teachers in the rural school 
+instead of seeking the towns, as they did before it began. 
+ 
+-P-A-G-E-12
+  12 Mississippi Rural Teachers 
+The predominance of those with sophomore college train- 
+ing is probably due to the influence of the Normal College, 
+as its diploma graduates were given that rating. 
+A comparison of the experienced female teacher with the 
+novice (a novice is one having a certificate to teach, but 
+without teaching experience) shows that there is an in- 
+crease in the amount of academic training on the part of the 
+latter. The semi-interquartile range is also smaller with 
+the novices, which, taken into consideration with the 25 
+percentile, shows that the incoming female teacher has had 
+more schooling than her predecessor. 
+The same comparison with the male teachers shows that 
+the experienced ones have had more training than the nov- 
+ices, though Q is again smaller for the novices, which indi- 
+cates that there is a tendency toward increase in the amount 
+of schooling before attempting to teach. 
+There seems to be very little difference in the preparation 
+of the novice males and females; but the experienced males 
+seem to have had more training than the females, this dif- 
+ference appearing chiefly in the upper quartile. This may 
+be due to higher requirements being demanded of principals 
+of consolidated schools, who are generally men. Coffman! 
+found that women in the rural schools had had, on an aver- 
+age, one more year of training than the men. 
+Grouping the experienced teachers and comparing them 
+with the novices indicates that the median novice has re- 
+ceived approximately one-fourth of a year (two months) 
+more training than the median experienced teacher.2 This 
+might be taken as an indication that the quality of aca- 
+demic preparation is gradually approaching the national 
+standard, but the question arises: ““May not the increase 
+be due to the better prepared teachers quitting after a year 
+or two?” The answer to this question is discussed in 
+Chapter IV in connection with the correlation of prepara- 
+tion and experience. 
+2. Hauperience. 
+The rapid “turn-over” in the teaching force contributes 
+much of the difficulty in organizing an educational system 
+that will produce the optimum citizenship. This “turn- 
+over” is more rapid in the rural schools than in those of any 
+other class. Evenden? found the median experience for 
+urban teachers to be seven and one-half terms, while the 
+Nebraska Survey! found the median experience for rural   
+4Social Composition of the Teaching Population. 
+*If allowance were made for the training received by experienced teachers after 
+beginning to teach, the novices would show up still better. 
+®Teachers’ Salaries and Salary Schedules. 
+‘Rural Teacher of Nebraska, United States Bulletin 1919, No. 20.
+-P-A-G-E-13
+Mississippi Rural Teachers 13 
+teachers in that state in 1914-1915 to be 1.85 terms or 16.28 
+months. 
+The experience of the rural teachers of Mississippi is 
+shown in the following table: 
+TABLE II 
+TEACHING EXPERIENCE IN MONTHS OF RURAL TEACHERS 
+  
+    
+  
+  
+  
+  
+  ber of 
+aoe tee Se 
+0 months 316 60 385 
+1-5 80 20 100 
+6-10 201 31 232 
+11-15 141 22 163 
+16-20 81 21 102 21-25 57 16 73 
+26-30 32 5 37 
+31-35 18 3 21 36-40 20 3 23 41-45, 6 | 3 9 Over 45 | 387 26 63 
+ROCA SE S| 989) Tee |e BIG ae 1208 
+Q3 [ES GDB ae | 2199 | 172 
+M | 8.45 | 9.5 8.57 
+Ql | 0 months | 0 months | 0 months 
+Q | Si3=54(<= 4069-5 1 8.63  
+-P-A-G-E-14
+14 Mississippi Rural Teachers 
+TERM OF SERVICE OF EXPERIENCED TEACHERS 
+45 mos. upward), 
+1=45 mop. 
+36-40 mos. 
+31-35 mos. 
+2e-s0mo. (PA / 77) 
+21-25 mos. 
+a2 O moe re} 
+11-15 mos. __ 
+    6-10 mos. 
+1-5 mos. 
+Shaded bars represent percentage of females. Open bars represent percentage of males. 
+EXPLANATION OF TABLE II CLILITIITT TIT TTT ITT LLL LLL LT 5% 
+17% 
+1% 
+2% 
+3% 
+2% 
+3% 
+2% 
+5% 
+3% 
+8% 
+11% 
+12% 
+14% 
+21% 
+15% 
+30% 
+21% 
+12% 
+13% 
+Column one shows the number of months of teaching ex- 
+perience the individuals have had. Column two shows the 
+number of female teachers who have taught the number of 
+months shown in the corresponding row of column one. 
+For example, 316 female teachers had had no experience. 
+At the bottom of the table are shown the 75, 50, and 25 per-
+-P-A-G-E-15
+Mississippi Rural Teachers 15 
+centiles and Q for each group. Beneath the table is a bar 
+graph showing the percentages of male and female teach- 
+ers who had taught for the number of months shown in the 
+first column. 
+The range of experience is from no months to 180, all 
+above 46 being thrown together into one interval. A rapid 
+dwindling in numbers is evident after the 11-15 month in- 
+terval among the females, while those for the males vary 
+but little until the 21-25 month interval is passed. 
+The median for the females falls at 8.45 months and that 
+for the males at 9.5. Of course the inclusion of the novices 
+lowers these medians, but they show the experience of the 
+median rural school-teacher at the beginning of the school 
+year 1921-1922. With the novices eliminated, the medians 
+become 13 and 17.5 months for the females and males, re- 
+spectively. This, however, was their median experience 
+at the end of the session, 1920-1921. A comparison of 
+either set of medians indicates that the men persist longer 
+than the women. 
+The stationary percentage of men from 26 to 46 months 
+of service is probably the effect of the war in drawing away 
+numbers of the younger men. 
+It is interesting to note that the percentage of male nov- 
+ices compared with experienced males is slightly larger 
+than the percentage of novice females compared with expe- 
+rienced females. It may indicate a tendency for a larger 
+proportion of men to become teachers. 
+With a median service of 13 and 17.5 months for the fe- 
+males and males, respectively, the terms must be limited to 
+five or six months. The longer term in the consolidated 
+school doubtless raises the medians. 
+8. Intelligence. 
+A great deal has been done during the last ten years in 
+studying the intelligence of school children, but very little 
+has been done with the teachers in that respect. Knight! 
+tested a number of trained teachers in three city systems 
+in Massachusetts, and concluded that “given enough intelli- 
+gence to get through high school and two years of normal 
+school, it was not a subsequent factor in teaching success.” 
+This statement is based on the teachers who are highly 
+trained. Hence, it is not necessarily true in regard to rural 
+teachers, a large proportion of whom have not even com- 
+pleted high school. Turner? obtained the Otis scores of 470   
+1Journal of Educational Research, Vol. 5, p. 213. 2A Study of the Intelligence of Four Hundred and Seventy Rural Teachers in Ar- 
+kansas as Related to Their Certificates, Training, Experience, and Salary. (Unpub- lished.
+-P-A-G-E-16
+  16 Mississippi Rural Teachers 
+Arkansas teachers, most of them rural, and found a posi- 
+tive correlation between intelligence and training and in- 
+telligence and pay, but no definite relation between intelli- 
+gence and experience. That there is an intelligence level 
+below which none should be permitted to teach has been 
+suggested by Miss Gambill,! and to that end the data of 
+this section are suggestive. 
+The Otis Scale for General Intelligence, Advanced Exam- 
+ination, consists of ten tests, each of which contains from 
+twenty to thirty questions. A time limit is assigned to 
+each test. The whole may be completed within an hour. 
+The highest possible score is 230 and the lowest is 0. Norms 
+have been established for this scale for each chronological 
+age from 8 to 18, at which age the norm becomes constant. 
+The normal score for an adult is 130. 
+‘Twenty-First Yearbook, National Society for the Study of Education, p. 238.
+-P-A-G-E-17
+  
+    
+  
+  
+  
+  
+  
+  
+  
+                          Mississippi Rural Teachers ey, 
+TABLE III 
+Otis Test ScorEs—MIssIssiPpP! TEACHERS 
+FEMALES MALES 
+aoa Experi- | ; Experi- | aera Total Experi-! Novice | “Total | EXPY | Novice | Total 
+211-215 1 A 1 
+206-210 0 0 
+201-205 3 3 aL 1 4 
+196-200 1 1 1 
+191-195 1 1 2 1 3 4 
+186-190 9 1 10 2 2 12 
+181-185 10 4 14 2 2 4 18 
+176-180 14 4 18 4 1 5 23 
+171-175 12 2 14 3 t ae 18 
+166-170 24 7 31 2 2 33 
+161-165 19 4 | 23 6 2 8 31 
+156-160 33 5 38 2 2 40 
+151-155 AT 15 62 5 4 9 Tle 
+146-150 31 17 48 Flee - 12 60 
+141-145 44 20 64 4 3 7 ale 
+136-140 50 22 72 12 5 a: 89 
+131-135 48 17 65 12 5 Ly 82 
+126-130 49 26 15 12 7 19 94 
+121-125 62 25 87 15 9 24 TL 
+116-120 37 26 63 8 1 9 12 
+111-115 36 23 59 12 3 15 74 
+106-110 43 17 60 6 2 8 68 
+101-105 35 16 51 4 3 ts 58 
+96-100 34 22 56 6 2 8 64 
+91-95 19) 10 29 10 5 15 44 
+86-90 12 12 24 2 3 5 29 
+81-85 13 9 22 3 iL 4 26 
+76-80 8 ie 15 2 3 5 20 
+71-75 5 3 8 1 a 2 10 
+66-70 at 3 10 2 2 12 
+61-65 6 4 10 10 
+56-60 2 2 1 1 3 
+51-55 aL 2 3 a at 4 
+46-50 3 3 3 
+41-45 2 2 2 
+36-40 0 
+31-35 0 
+26-30 3 3 3 
+Totals 718 328 1046 151 68 219 1265 
+Q3 150 133.5] 146.15| 147.5| 189 145.93| 145.98 
+M 129.7| | 121 127.07| 127.3] 123.9 126.79| 127.04 
+Ql 114 105.5] 107.21] 111.1 97.5 102.81| 108.08 
+Q 18 14 19.47 18 15.75 21.56 18.95 
+( 
+EXPLANATION OF TABLE III 
+The first column shows the scores made in the test. Col- 
+umn two shows the number of experienced female teachers 
+making the score in the corresponding row of column one. 
+For example, three experienced female teachers made scores 
+ 
+-P-A-G-E-18
+  
+18 Mississippi Rural Teachers 
+within the interval 201-205. At the bottom of the table 
+are shown the 25, 50, and 75 percentiles and Q for each 
+column. 
+The range of the scores is seen to be from 30 to 215, with 
+the widest range shown by the female teachers. 
+The experienced female teachers have the best scores on 
+comparison of the medians and quartiles. The experienced 
+males follow, with the novice males third, and the novice 
+females last. However, the novice females are bunched 
+closer to their median score than the novice males, who 
+drop below the female score at the lowest quartile. On 
+comparing the sexes on the same points, indications are that’ 
+the females are slightly better than the males. On com- 
+paring the experienced teachers with the novices, the for- 
+mer seem to be considerably better.
+-P-A-G-E-19
+  Mississippi Rural Teachers 19 2402 Frequency 
+yor 5 3 ¥ t oe 
+ie 
+1 
+aH 
+e0/. 
+  
+ost 
+Sul 
+      Fi nm 3 3 ba 
+ae zee ° = % 
+jo>S a Cacti ae ef f= Scag Zoe 
+oe +3 en ee 
+9 
+ae Zi = i S 3 5 
+  EXPLANATION OF FIGURE III-A 
+This graph shows the comparison of the actual frequency 
+diagram of the Otis scores with the normal frequency curve. 
+The data on the actual frequency graph are taken from 
+Table III, column eight. The scores are laid off on the 
+base line and the frequency to the left. The normal curve
+-P-A-G-E-20
+  20 Mississippi Rural Teachers 
+is superimposed by determining the ordinates in terms of 
+sigma (5.704). (Table II in Rugg’s Statistical Methods 
+Applied to Education, page 388.) 
+In order to check the closeness of fit of the actual curve 
+to the normal curve, the following formula! was used: 
+; fies 3 eee eS Sigma of sampling = \ N 
+Where f is the frequency at the point chosen on the nor- 
+mal curve, N is the number of cases in the whole distribu- 
+tion. The difference between the theoretical and actual 
+frequency at any point must be less than three times the 
+sigma of sampling if the distribution is normal. 
+In this curve the greatest difference apparent is at the 
+apex of the curve. Substituting in the formula, we have: 
+Sigma — «2 ae BBAG1) 9 og 
+Since the actual difference is 111 — 88.461 — 22.539, the 
+distribution is normal. 
+TABLE III-B 
+COMPARISON OF TEACHERS’ Scores WITH OTIS NoRMS   
+Per CENT OF TEACHERS FALLING BELOW THAT NoRM   
+Chronological 
+  
+  
+  
+  
+  
+  
+  ‘Age Norm? FEMALES | MALES 
+Experi: | Novice | Expeti- | Novice rot 
+12 years (B04 a 78 bee Soe |e LO Ae ees 
+18 years eeSO ee Sealeelows |G ee 
+14 years | 100 | 153 | 235 | 166 | 235 | 182 
+15 years | 110 | 262 | 335 | 23.2 | 33.8 | 281 
+16 years | 120 | 301 | 485 | 364 |.40 | 39.7 
+‘IT years | 127 | 492 | 60 |. 50. | 67.8] Sele 
+18 years [ 130 | 518 | 637 | 643 | 632 | 559   
+EXPLANATION OF TABLE III-B 
+Column one shows the chronological age; column two, 
+the Otis norm corresponding to the age in the same row; 
+and the remaining columns, the percentages of the respec- 
+tive groups of teachers falling below the norm in the cor- 
+responding row. For example, 4.5 per cent of the expe- 
+rienced female teachers scored below the Otis norm for 
+twelve-year-old children. 
+The experienced teachers again show up as better than 
+the novices. The suggestion here obtrudes itself that teach- 
+ing experience may cause a higher test score through greater   
+‘Rugg, Statistical Methods Applied to Education, p. 213. 
+2Otis Manual for 1921.
+-P-A-G-E-21
+  Mississippi Rural Teachers 21 
+familiarity, but the correlation between the two is almost 
+negligible, being .09 + .026 for females and .125 + .05 for 
+males. (See Chapter IV, page 31.) 
+The female experienced teachers are slightly better than 
+the males, though the males show smaller percentages be- 
+low the 12, 18, and 14-year norms. 
+There is not much to choose between the novices, except 
+that the males have a higher percentage of very low scores. 
+The most remarkable feature of the table is that 55.9 per 
+cent of all the cases scored below the norm they should have 
+attained. This condition is further accentuated when it is 
+known that the compulsory education law compels the at- 
+tendance of children up to their fifteenth birthday at schools 
+in many of which the intelligence level of the child is above 
+that of the teacher. 
+4. Achievement. 
+The achievement of teachers has been sought through 
+examination as a means to ascertaining their proficiency in 
+subject-matter. Few, if any, of these examinations have 
+been in the nature of standardized tests in the subjects they 
+were toteach. The following tables show the results of giv- 
+ing such tests to the rural teachers: 
+  
+  
+    
+  TABLE IV 
+Woopy-McCatu TEest ScorES—MIssIssipPl1_ TEACHERS 
+5 FEMALES | MALES | 
+‘core = 7 
+Experi- | Novice Total | Experi | Novice | Total ies 
+34 22 f 23 10 0 10 33, 
+33 26 2 28 5 2 if 35 
+32 Al 8 49 9 1 10 59 
+31 48 17 65 6 1 “f 12 
+30 49 16 65 10 6 16 81 
+29 44 1g) 63 17 5 22 85 
+28 59 19 78 8 3 11 89 
+Beat 43 18 61 6 1 7 68 
+26 40 20 60 1 6 17 17 
+25 45 23 68 6 4 10 718 
+24 Al 25 66 4 2 6 72 
+23 28 18 46 4 2 6 52 
+22 29 18 47 A 2 3 50 
+21 LT: 11 28 4 2 6 34 
+20 14 13 27 r 2 3 30 
+19 8 8 16 1 0 i 17 
+18 8 ve 15 15 
+17 2 6 8 2 2 4 12 
+16 1 1 
+15 1 3 4 4 
+14 1 1 1 
+13 0 
+12 1 a A 
+Totals 566 254 820 105 41 146 966              
+-P-A-G-E-22
+22 Mississippi Rural Teachers 
+EXPLANATION OF TABLE IV 
+Column one shows the score made in the Woody-McCall 
+Mixed Fundamentals Arithmetic Test, Form 2. Column 
+two shows the number of experienced female teachers who 
+made the score in the corresponding row of the first column. 
+For example, 22 experienced female teachers scored 34 in 
+the test. 
+The range is greatest among the novice females, being 
+from 12 to 34. The narrowest range is among the novice 
+males, none of whom made a perfect score. 
+For easier analysis the following table is presented: 
+  
+  
+    TABLE IV-A 
+PERCENTILE TABLE FOR Woopy-McCALL TEST 
+FEMALES | MALES 
+Percentile = = 8th Grade ie Experi | Noviee -| ExPe | Novice | Norm! 
+High 34 34 34 33 | 34 
+90 32.8 31.2 33.9 31 | 31.8 
+80 31.5 29.6 32.3 30.3 | 30.6 
+70 30.3 28.3 30.8 29.5. | 30 
+60 29.1 26.9 29.9 28:oUs4| 29.3 
+50 28.1 25.7 28.3 26.7 | 28.4 
+40 26.8 24.6 28.2 26.1 | 26.9 
+30 25.5 23.5 25.9 25.1 | 25.1 
+20 24.1 22 25.7 23.1 23.4 
+10 22.2 20 23.4 21.1 20.6 
+Low | 15 12 17 i 7   
+EXPLANATION OF TABLE IV-A 
+In the first column is shown the various percentiles from 
+10 to 90, with the high and low scores. Column two shows 
+the score made by the experienced female teachers accord- 
+ing to the percentile in the corresponding row of the first 
+column. In the last column is given the eighth-grade 
+norm. For example, the score below which 80 per cent 
+of the experienced females came is 31.5, which is .9 more 
+than the norm for the eighth grade. 
+The experienced females are above the norm, except for 
+the 40 and 50 percentiles. The experienced males are well 
+above the norm for each percentile, but not enough to indi- 
+cate that the eighth-grade comparison is too low for them. 
+The novices are below in every instance, with the novice 
+females below the seventh-grade norm at the 40, 50, 60, and 
+70 percentiles. :   
+’Bulletin No. 1, Bureau of Tests and Measurements, George Peabody College for Teachers. 
+ 
+-P-A-G-E-23
+Mississippi Rural Teachers 23 
+These comparisons! indicate that the novice teachers are 
+below the standard of achievement that their own pupils 
+should attain and that the experienced teachers have barely 
+attained it. 
+  
+  
+    
+  TABLE V 
+READING Test ScorES—MIssIssIprl TEACHERS—RATE 
+: FEMALES MALES ‘cores - - Exper | Noviee | Total | EXP | Novice | Total | 
+151-154 4 4, 4 
+146-150 0 
+141-145 63 17 80 8 8 88 
+136-140 1 Ali r 
+131-135 34 14 48 11 4 15 63 
+126-130 3 1 4 2. 2 6 
+121-125 99 53 152 18 9 27 179 
+116-120 1 x a 
+111-115 3 2 5 5 
+106-110 oo) 53 152 22 8 30 182 
+101-105 3 1 4 4 
+96-100 6 0 6 2 0 2 8 
+91-95 3 3 3 
+86-90 110 51 161 18 11 29 190 
+81-85 3 0 3 3 
+76-80 59 32 91 11 4 15 106 
+71-75 0 
+66-70 17 9. 26 8 3 11 37 
+61-65 eal 3 3 
+56-60 2 2 1 3 
+51-55 4 5 9 2 1 3 12 
+46-50 0 
+41-45 3 1 4 4 
+36-40 2 x 3 3 
+31-35 2 1 3 3 
+26-30 a 1 21-25 2 2 2 
+Totals 520 246 766 105 40 145 911                 
+EXPLANATION OF TABLE V 
+Column one shows the scores made in the rate of reading 
+in the Monroe Silent Reading Test, Form 2, Test 3. Col- 
+umn two shows the number of experienced female teachers 
+whose score fell in the class interval in the corresponding 
+row of column one. For example, four experienced female 
+teachers made a score between 151 and 155. 
+The range in rate of reading was from 25 to 155, with a 
+distinct tendency to bunch scores in a few intervals. The 
+highest scores were made by experienced females, with the 
+novice females scoring the lowest. 
+The percentile table follows:   
+‘Dr. McCall was consulted as to the comparability of these scores, since the teach- 
+ers were limited to ten minutes instead of the usual twenty minutes. It is his opin- 
+ion, as well as that of the examiners, that the teachers had exhausted their ability in 
+that time. The papers show low scores due to errors rather than lack of time.
+-P-A-G-E-24
+24 Mississippi Rural Teachers 
+TABLE V-A 
+PERCENTILE TABLE, SILENT READING TEST—RATE 
+  
+  FEMALES MALES wth =| Lith ee eee Fs erica ee OES Grade Eines Novice | Experi Novice Norm Norm! 
+95 144.8 142.4 142.5 18355 2 14709. 140.4 
+90 142.2 133.3 134.8 131 139.2 134.1 
+80 127.7 124.4 126 123.8 130.7 125.8 
+70 | 123.4 122.1 123 121.6 123.5 | 109.8 
+60 Add 110 110.5 110.8 107.5 | 104.1 
+50 108.3 107.7 108 107.1 102.3 89 
+40 98.5 90.8 97 89.6 87.6 | 84.3 
+30 88.8 88.4 88.2 87.8 83.1 79.6 
+20 85.4 81 Ngee 86 17.5 73.1 
+10 17.6 eee 69.5 76 69.6 61.9 
+5 68.9 67.2 66.8 67.7 59.8 54.7   
+EXPLANATION OF TABLE V-A 
+The first column shows the percentiles; the second, the 
+score below which the corresponding per cent of the expe- 
+rienced females fell; and the last columns, the norms for the 
+eleventh and twelfth grades. For example, 95 per cent of 
+the experienced females scored below 144.8, whereas the cor- 
+responding score for the twelfth grade is 147.9. 
+A comparison of each group with the twelfth-grade norm 
+shows that each is slightly better than the norm, though 
+there are numerous fluctuations, particularly among the 
+highest percentiles, where they more nearly approximate 
+the eleventh-grade norm. This may indicate that the best 
+readers do not choose teaching. However, the median 
+schooling of these teachers is 10.93 grades; so they are not 
+far off in their scores. 
+1Bulletin No. 5, Bureau of Educational Research, University of Illinois.
+-P-A-G-E-25
+Mississippi Rural Teachers 25 
+  
+  
+  
+  
+    TABLE VI 
+READING TEST SCORES—MISSISSIPPI TEACHERS—COMPREHENSION 
+5 | FEMALES | MALES 
+core - : ea 
+| Experi- | Novice | Total | Experi | Novice | Total | 
+86-90 2 2 2 
+81-85 1 a 1 
+76-80 1 if a: ols 2 
+71-75 | 2 1 3 1 di 4 
+66-70 | 3 2 5 1 1 6 
+61-65 | 12 2 14 iL | 1 15 
+56-60 20 4 24 4 4 28 
+51-55 | 18 3 21 5 1 6 27 
+46-50 | 25 13 38 3 ie 4 42 
+41-45 56 12 68 6 4 10 78 
+36-40 | 62 32 94 10 5 15 109 
+31-35 81 43 124 19 ace 26 150 
+26-30 | 88 39 127 16 et 23 150 
+21-25 i 69 39 108 17 6.41 23 131 
+16-20 | 38 29 67 9 4 13 80 
+11-15 | 302 ir 2-16 46 10 2 12 58 
+6-10 | 103) 3 13 4 0 7 4 ne 
+1-5 So] Gee} 9 0 ol: 1 10 
+Totals | 520 | 244 | 64 106 | 40 | 146 910   
+EXPLANATION OF TABLE VI 
+Column one shows the score in comprehension in the Mon- 
+roe Silent Reading Test, Form 2, Test 3. Column two 
+shows the number of experienced female teachers making 
+a score in the class interval in the corresponding row of 
+the first column. For example, two experienced female 
+teachers scored between 86 and 90. 
+The range is from 5 to 90, with experienced female teach- 
+ers making the highest score and greatest range. 
+These scores for each group are thrown into percentiles 
+in the table below: 
+  
+  
+      TABLE VI-A 
+PERCENTILE TABLE, SILENT READING TEST—COMPREHENSION 
+Peven< FEMALES MALES ae en 
+pie Senet Novice Boxperi Novice Norm Norm 
+95 59.5 50.9 58.1 56 56.3 58.9 
+90 52.7 46.4 52.4 48.5 49.7 51.8 
+80 44,1 39.1 40.9 41.0 42.9 43.6 
+70 39.6 35.5 35.8 37 38 39.7 
+60 35.6 32.7 33 33.9 33.1 35.9 
+50 32.4 29.5 30.9 31 29.4 32.1 
+40 29.3 26.3 26.7 28.2 25.9 28.4 
+30 26.4 23.2 23.6 25.2 22.8 24.9 
+20 22.7 19:8 20 21.8 19.9 20.3 
+10 17.2 15.2 14.3 17.25 15.1 16.1 
+5 12.2 12 aT: 13.5 11.3 12.6    
+-P-A-G-E-26
+  26 Mississippi Rural Teachers 
+EXPLANATION OF TABLE VI-A 
+The first column shows the percentile; the second, the 
+score for experienced female teachers; the last two columns, 
+the eleventh-grade and the twelfth-grade norms. For ex- 
+ample, 95 per cent of the experienced female teachers scored 
+below 59.5, which is .6 above the twelfth-grade norm. 
+This table shows that the experienced female teachers 
+and the novice male teachers average up to the twelfth- 
+grade norm, with the novice females and the experienced 
+males almost a grade behind them. However, the lower 
+percentiles show up consistently above the norm, with the 
+upper percentiles below the norm. 
+5. Pay. 
+The pay received for services rendered has much to do 
+with the quality of service. The Nebraska Survey! shows 
+for two districts a median monthly salary paid to rural 
+teachers in 1914-1915 of $47.69. The shortage of teachers 
+incident to the war has raised salaries generally, though 
+the following table shows that they are not yet munificent.: 
+‘Rural Teacher of Nebraska, United States Bulletin 1919, No. 20.
+-P-A-G-E-27
+Mississippi Rural Teachers 
+  
+  
+  
+  
+  
+  
+  
+      TABLE VII 
+Pay oF MISSISSIPPI TEACHERS 
+Monthly Salary Females Males Totals 
+$246—250 1 1 241-245 0 
+236-240 0 
+231-235 0 226-230 0 221-225 0 216-220 0 
+211-215 0 
+206-210 0 
+201-205 0 
+196-200 3 3 191-195 0 186-190 1 4 
+181-185 0 176-180 0 
+171-175 4 4 
+166-170 1 1 
+161-165 1 1 
+156-160 0 151-155 1 1 
+146-150 2 20 22 
+141-145 0 
+136-140 1 1 2 
+131-135 1 4 5 
+126-130 1 1 
+121-125 9 20 29 
+116-120 4 il 5 
+111-115 5 1 6 
+106-110 4 3 7 
+101-105 1 2 3 
+96-100 48 22 70 
+91-95 14 3 17 
+86-90 47 13 60 
+81-85 49 13 62 
+76-80 66 10 76 
+71-75 152 10 162 
+66-70 90 q 97 
+61-65 123 11 134 
+56-60 110 6 116 
+51-55 45 1 46 
+46-50 41 4 45 
+41-45 8 8 36-40 22 2 24 
+31-35 1 1 2 
+Totals 844 167 1011 
+Q3 79.10 124.56 84.89 
+M 70.00 96.57 72.04 
+Qi 60.73 75.88 61.44 
+Q 9.18 10.28 11.73    
+-P-A-G-E-28
+  
+28 Mississippi Rural Teachers 
+EXPLANATION OF TABLE VII 
+Column one shows the monthly salary intervals and col- 
+umn two the number of female teachers receiving a salary 
+within the interval in the corresponding row of column one. 
+Column three shows the same for male teachers. At the 
+a5 of the table are given the 25, 50, and 75 percentiles 
+and Q. 
+The range of female salaries is from $35.00 per month to 
+$150.00, with a very small percentage (3 1-3) above $100.00. 
+There are two and one-half times as many who receive less 
+than $50.00. With Q at $60.73, M at $70.00, Q3 at $79.10, 
+and a semi-interquartile range of only $9.18, the financial 
+“usa to the woman rural teacher are fairly definitely 
+xed. 
+The range of male salaries is from $35.00 per month to 
+$250.00. There is only one case at the upper limit, and the 
+nearest cases to this one are at $200.00. The latter is possi- 
+bly more nearly the maximum for rural male teachers. 
+There seems to be a tendency for male salaries to increase 
+by definite large units, as the distribution shows concen- 
+tration at the $75.00, $100.00, $125.00, and $150.00 inter- 
+vals. Approximately the same percentage (7.5) receive 
+more than $150.00 as receive less than $60.00. Q shows 
+that there is a variation of $10.18 from the median for the 
+middle 50 per cent of the men. 
+A comparison of the medians shows that the male teacher 
+receives 37.9 per cent more than the female teacher. 
+Ninety-one per cent of the females do not attain the median 
+male salary, while 81 per cent of the males exceed the me- 
+dian female salary. 
+A comparison of the 25 percentiles shows the male sal- 
+ary 24.95 per cent better than the female; the 75 percentile 
+shows 21.92 per cent in favor of the male. The greatest 
+difference is found between those falling within the middle 
+50 per cent.
+-P-A-G-E-29
+    
+Mississippi Rural Teachers 29 
+TABLE VII-A 
+MONTHLY SALARY PERCENTILES—RURAL TEACHERS 
+  
+  
+  | FEMALES | MALEs 
+arcane Salary | Imerease | Salary | Increases 
+Bish ee S160 l 61.3% $250 67.1% 90 | 93 12.3 149.83 10.6 | 
+80 82.76 9 135.50 10.5 
+70 75.96 | 3.8 | 122.73 | 22.3 
+60 73.19 4.6 100.37 | 4 
+50 70 i 96.57 | 11.14 
+40 65.50 5.5 86.70 | 8.3 
+30 62.07 1.2 80.05 | 11.6 
+20 57.90 10.5 71.70 | 15.3 
+10 | 52.40 50 62.23 | 17.8 
+Low | 35 | 35 |   
+EXPLANATION OF TABLE VII-A 
+The first column shows the percentile; the second, the 
+salary below which the per cent of females shown in the 
+corresponding row of the first column fell; the third col- 
+umn, the percentage increase each percentile salary is over 
+the next lowest. 
+The rate of increase is erratic for both males and females, 
+but is consistently larger for the males than for the females, 
+except at the 60 and 90 percentiles. The percentage in- 
+crease for the women tends to decrease steadily until the 
+70 percentile is passed, when it begins to increase again. 
+SUMMARY OF CHAPTER III 
+1. Academic Training.—The median rural teacher has 
+completed 10.76 grades in school. The experienced teach- 
+ers lack two months of having as much preparation as the 
+novices. Of all the teachers, 21 per cent have had some 
+college training, 76 per cent have had some high-school 
+training, 3 per cent have had no training beyond the ele- 
+mentary grades. 
+2. Experience-—The median rural teacher had at the 
+close of the 1920-1921 session taught 13 months if female 
+and 17.5 months if male. The rate of withdrawal from 
+teaching is less among the men. The percentage of men 
+persisting beyond 45 months is three and two-fifths times 
+the percentage of women for that period. The percentage 
+of men beginning to teach a second session in September, 
+1921, was slightly greater than that for women. 
+3. Intelligence.—The median rural teacher has an intel- 
+ligence slightly below the norm for adults. The experienced 
+female is practically normal, followed, respectively, by the
+-P-A-G-E-30
+30 Mississippi Rural Teachers 
+experienced male, the novice male, and the novice female. 
+Eighteen and two-tenths per cent of all the teachers are be- 
+low the normal score of a fourteen-year-old child, whom the 
+compulsory education law compels to go to such teachers 
+for instruction. The experienced teacher has a higher in- 
+telligence than the novice. 
+4, Achievement.—In the fundamental operations of arith- 
+metic the experienced teachers approximate the eighth- 
+grade norms, but the novices are barely up to the seventh- 
+grade standard. The male teachers excel the females in 
+their respective groups. 
+In reading rate, each group averages slightly better than 
+the twelfth-grade norm, though the highest percentiles 
+more nearly approximate the eleventh-grade norm. The 
+experienced teachers are slightly better than the novices. 
+The novice males are poorest. 
+In reading comprehension, the experienced teachers aver- 
+age up to the twelfth-grade norm, but the novices are al- 
+most a grade behind them. The lower percentiles show con- 
+sistently above the norm, with the upper ones below it. 
+5. Pay.—The range of monthly salaries paid females is 
+from $35.00 to $150.00, with the median at $70.00. The 
+range of salaries paid male teachers is from $35.00 to 
+$250.00, with the median at $96.57. Based on medians, the 
+male teacher receives a 37.9 per cent higher salary than the 
+female teacher. Ninety-one per cent of the female teachers 
+do not attain the median salary paid the men, but 81 per 
+cent of the men exceed the median salary paid the women. 
+The initial salary paid women is lower than for the men, but 
+in the highest percentiles the rate of increase of pay is ap- 
+proximately the same.
+-P-A-G-E-31
+CHAPTER IV 
+Chapter III set forth the data showing as isolated items 
+the academic preparation, experience, intelligence, achieve- 
+ment, and pay of rural teachers in Mississippi. This chap- 
+ter (IV) will study the relation that each bears to the other. 
+The first section of the chapter shows the relationships by 
+means of total correlations; the second section uses the 
+method of partial correlation; the third, that of multiple 
+correlation. 
+SECTION 1—CoRRELATIONS! 
+A positive correlation shows that as one variable in- 
+creases, the other does also; while a negative correlation 
+shows that as one variable increases, the other decreases. 
+From 0 to .20 is considered a negligible correlation; from 
+-35 to .50, marked; from .50 to .70, high; above .70, very 
+high. The probable error indicates the amount of varia- 
+tion in the coefficient of correlation, as successive samples 
+are drawn from the same universe. Within + 1 probable 
+error the probabilities are even (1: 1) that r shows the true 
+relationship; within + 2 P. E. they are 4.5 to 1; within + 
+3 P.E., 21 to 1; within + 4 P.E., 142 to 1. Hence, a sat- 
+isfactory degree of reliability requires that r be at least 
+four times the P. E. 
+TABLE VIII 
+Raw CORRELATIONS OF Factors SHOWN 
+Females Shown Above Diagonal Line, Males Below 
+  
+  
+     = 2 
+ee z ‘i a a Beane Bog B98 ue & 8 3 $ < =e e 3 5 3 $ oe 8 ZO 4 2 al q & Re a o> aH g I s ® es ee 3 i 8 @ > 2 5 2 Be a a ee ae |e Training 0861 : P. 2026 Experience 12283 P: 20256 Intelligence 5061 ¥ ES 2020 Arithmetic x B Rate Reading x Ps Comprehension x Reading P. Pay per month 2127 —.1232 —.041 P.E. 206 206 206 Composite i 5 x x x Achievement P.E. .060 060 —.049 
+  
+'The tabular method of computing the correlation coefficient (r) is used through- 
+out. See Rugg’s Statistical Methods Applied to Education, p. 263.
+-P-A-G-E-32
+382 Mississippi Rural Teachers 
+EXPLANATION OF TABLE VIII 
+Correlations for female teachers are shown above the 
+diagonal; males, below. 
+To find r for training and intelligence of females, locate 
+the intersection of the row training with the intelligence 
+column, where .2664 is found with its P. E. immediately 
+beneath it. To find the one for the males, locate the inter- 
+section of the intelligence row with the training column, 
+where .376 is found. 
+The Relation of Training to Experience.——The table 
+(VIII) shows for women that r = .235 + .025; for men, 
+.32 + .05. These are low correlations, but the probabilities 
+are greater than 142 to 1 that teachers above the mean in 
+training will be above the mean in term of service. The 
+regressions show that each additional year given to train- 
+ing is accompanied by an increase of 244 months in term 
+of service for the women and 5 months for men. This in- 
+dicates that a law requiring the completion of high school 
+and two years of normal-school training before beginning 
+to teach would tend to increase the term of service of women 
+from 8.45 months to 16.75 months; for men, from 9.5 to 
+23.5 months. 
+The Relation of Training to Intelligence—For women r 
+(.27 + .02) is low, while that for men (.38+ .04) is 
+marked. The regression of intelligence on training indi- 
+cates that for each additional year of training the intelli- 
+gence score for women is 5 higher; for men, 614, higher. 
+If two years of normal-school training above high school 
+were required before teaching, the probabilities are that 
+the level of intelligence of the rural teacher would be raised 
+from the present mean of 126.7 to above 140. 
+The regression of training on intelligence indicates that 
+an increase of 60 in Otis score for women and 40 for men 
+is accompanied by an increase of one year in training. 
+The Relation of Training to Arithmetic—For men r 
+(.21 + .05) is low, though much higher than for women 
+(.09 + .025). This seems to verify the statement fre- 
+quently made that males do better in arithmetic than fe- 
+males. The regression of arithmetic on training shows an 
+increase of one problem in arithmetic, with an increase of 
+4 years in training for women and two for men; for train- 
+ing on arithmetic, an increase of 33 problems for women 
+and 11 for men is accompanied by an increase of 1 year in 
+training. 
+The Relation of Training to Reading Rate and Compre- 
+hension.—F ox each sex a very low correlation, with a cor- 
+respondingly large probable error, is shown. This would
+-P-A-G-E-33
+  
+Mississippi Rural Teachers 33 
+spelen that the relationship is too variable for relia- 
+ility. 
+The Relation of Training to Composite Achievement.— 
+For the women there is a very low positive correlation 
+(.086 + .026), invalidated by a correspondingly large prob- 
+able error; for the men there is a low correlation (.246 + 
+.06). The regression of composite achievement on training 
+indicates that for men one year and for women two years 
+of additional training are accompanied by an increase in 
+achievement of one-tenth sigma (2%). 
+The Relation of Training to Pay—For women r (.38 + 
+02) is marked and for men (.51 + .04) may be called high. 
+The regression of pay on training indicates that each addi- 
+tional year of training is accompanied by an increase in pay 
+of $4 per month for women and $10 for men, while that of 
+training on pay shows that an increase of $27 per month in 
+pay for women and $40 for men is accompanied by an in- 
+crease of one year in training. 
+The requirement of the completion of high school and 
+two years of normal-school training should raise the aver- 
+age pay of women from $70 per month to $82; for men, 
+from $96.57 to $126.57. 
+The Relation of Experience to Intelligence—For each 
+sex a very low positive correlation (women, .094 + .026; 
+men, .13 + .05) is rendered unreliable by a correspondingly 
+large probable error. The tabulation shows a tendency for 
+the high and low Otis scores to be eliminated as experience 
+increases. 
+The Relation of Experience to Arithmetic—tThere is a 
+low positive correlation (women, .22 + .02; men, .19 + 
+.05) for each sex. The regression of arithmetic on expe- 
+rience indicates that an increase of 30 in score for women 
+and 8 for men is accompanied by an increase of 5 months 
+in experience, while an increase of 11-5 months in expe- 
+rience for women and 30 months for men is attended by an 
+increase of one problem in score. 
+The Relation of Experience to Reading Rate and Com- 
+prehension.—In each instance a very low r, tending to be- 
+come negative for men, has a correspondingly large prob- 
+able error, which renders the relationship unreliable. The 
+indications seem to be that teaching does not improve the 
+teacher’s reading ability, or else better readers quit the rural 
+school. 
+The Relation of Experience to Composite Achievement. 
+—For women r shows a low (.228 + .025) positive rela- 
+tionship; while that for men is so small as to be negligible, 
+even though the probable error did not render it unreliable. 
+The regression of experience on achievement for women «    
+-P-A-G-E-34
+34 Mississippi Rural Teachers 
+indicates that an increase of six-tenths of sigma (12%) is 
+accompanied by an increase of 5 months in experience, or 
+25 months’ increase in experience by three-tenths of sigma 
+(6%). The Relation of Experience to Pay.—For each sex r 
+shows a marked relationship between these two factors 
+(women, .387 + .02; men, .38 + .045). The regression of 
+pay on experience indicates that an increase of 30 months 
+in experience for women and 20 months for men is accom- 
+panied by an increase of $10 per month in pay, while that 
+of experience on pay shows for each $40 per month increase 
+in pay there is for women an increase of 15 months’ expe- 
+rience and 11 months for men. 
+The Relation of Intelligence to Composite Achievement.— 
+There is a high correlation (.51 + .02) for women and a 
+marked one (.4595 + .048) for men. The regression of 
+composite achievement on intelligence indicates that an in- 
+crease of 10 in Otis score is accompanied by an increase of 
+seven-tenths sigma (14%) for women and one-tenth sigma 
+(2%) for men, or an increase of sigma in achievement is 
+accompanied by an increase in Otis score of 37 for women 
+and 20 for men. 
+The Relation of Intelligence to Pay—There is a low 
+relationship for both sexes (.24 + .025 for women and 
+.8156 + .05 for men). The regression of pay on intelli- 
+gence shows that an increase in Otis score of 15 for women 
+and 25 for men is accompanied by an increase of $10 per 
+month in pay; or an increase of $25 per month in pay for 
+women and $80 for men is accompanied by an increase of 
+20 in Otis score. Apparently the effect of intelligence on 
+. pay is greater with the women than with the men. 
+The Relation of Arithmetic Score to Pay.—There is a 
+low positive relationship for both sexes, though the large 
+probable error tends to invalidate that of men. The re- 
+gression of pay on arithmetic shows that an increase in 
+score of 6 for women and 8 for men is accompanied by an 
+increase of $5 per month in pay, or an increase of $20 per 
+month in pay for women and $35 for men is accompanied 
+by an increase of one in arithmetic score. 
+The Relation of Reading Rate and Comprehension to 
+Pay.—For both sexes the correlation is very low, tending 
+to negative values for men. The size of the probable error 
+renders them all unreliable, except comprehension for 
+women. Apparently reading ability has little or no rela- 
+tionship to salary. 
+The Relation of Composite Achievement to Pay.—The re- 
+lation for each sex is very low, that of men being rendered
+-P-A-G-E-35
+Mississippi Rural Teachers 35 
+unreliable by a large probable error. The regression of 
+achievement on pay for women shows an increase of one- 
+tenth sigma (2%) with an increase of $12.50 per month 
+in pay; or an increase of $5 per month in pay with an in- 
+crease of 1.25 sigma (25%). It is probable that employ- 
+ing a teacher at a higher salary tends to secure one better 
+in achievement, but high achievement is recognized very lit- 
+tle in fixing salary. 
+SECTION 2—PARTIAL CORRELATIONS! 
+The first section of this chapter deals with the relation- 
+ship existing between various pairs of factors as shown by 
+means of total correlation. It has been brought out that 
+such relationships may be affected by a factor included in 
+both variables the relation of which to each variable may 
+be found. For example, the relationship of training to 
+achievement is affected by intelligence. We desire to know 
+the relation of training to achievement with the effect of 
+intelligence removed. This can be ascertained by consid- 
+ering only those cases in which intelligence is the same, but 
+that process is too cumbersome. It can also be determined 
+by the method of partial correlation when the total correla- 
+tions of the three, or more, variables are known. The gen- 
+eral formula for this process is given by Yule? as: 
+Tie sa...(n—1) — Vinsa... 2—) Von... —0) 
+2 § 2 7 (1 —Vins...—0) (1—T'nst...@—n) 
+In order to find the relation of pay to training, with intel- 
+ligence, experience, and achievement remaining constant, 
+we have: Bia 34 cy   
+Yr, eats Yr. 
+LOA eo ate ee aN 
+(1151.00)? L—%44.95)? 
+in which variable 5 is pay, 1 is academic preparation, 2 is 
+experience, 3 is intelligence, and 4 is composite achieve- 
+ment. 
+By substituting the values given in Table VIII and mak- 
+ing the required computations, we find the following rela- 
+tionships: 
+pRceenoy: An Analysis of Mental Abilities, Psychological Monographs, Vol. 24, No. 
+Tntroduction to the Theory of Statistics, p. 238.    
+-P-A-G-E-36
+    
+36 Mississippi Rural Teachers 
+TABLE IX 
+PARTIAL CORRELATIONS 
+Females Males 
+  r51 Payeandetraining 2.2. eae bec eae es .3828 .5144 
+2 Pay-training, with experience constant___ .38262 =.443 
+23 Pay-training, with experience and intelli- 
+pence CONSpants 68s eas sos OTe ee ae -2852 = -.881 
+234 Pay-training, with experience, intelligence, 
+and achievement constant ____-------- 2859 = 3914 
+152 Pay and experience ______~--______=-..-_ -3706° = .3796 
+1 Pay-—experience, with training constant. 314 -266 
+18  Pay-experience, with training and intelli- 
+Pence CONstanbas = sie sss ee 334 .268 
+134 Pay-experience, with training, intelligence, 
+and achievement constant. _-_---------~ 2694 .2675 
+r53 Payeand. intelligence:24. 22220 a -2405 3156 
+1 Pay-intelligence, with training constant__  .154 -146 
+12 Pay-intelligence, with training and expe- 
+Men CeLCONStan t= == ee 228s 3 ie tee 152 149 
+124 Pay-intelligence, with training, experience, 
+and achievement constant ___...-_____ 1197. .1869 
+154 Pay andtachievement 25-285 ss ate as -1807 .0812 
+1 Pay-achievement, with training constant. .1582 —.0570 
+12  Pay—achievement, with training and expe- 
+        Tience: constant: = =< gia ees Sea .0975 —.0531 
+123 Pay-achievement, with training, expe- 
+rience, and intelligence constant_______ .0228 —.1261 
+123 Experience and intelligence ________-__-_ -09 13 
+Ae Experience-intelligence, with training con- 
+stant .0297 = -.0095 
+14 Experience—intelligence, with training and 
+achievement constant __________-_____ —.0946  .0200 
+145 Experience—intelligence, with training, 
+achievement, and pay constant_________ —.1259 —.0377 
+143 Achievement and intelligence ___-________ -5061 = .4595 
+bl Achievement-intelligence, with training 
+constant _ 5064 4076 
+12 Achievement. ge 
+and experience constant 5128 4079 
+EXPLANATION OF TABLE IX 
+The total correlation of pay and training (51) is .3828 + 
+.026 for females and .5144 + .04 for males. When the in- 
+fluence of experience on each of these factors is eliminated, 
+the correlation is reduced to .326 for females and .443 for 
+males. When the influence of experience and intelligence 
+is eliminated, there is a further drop to .285 for females and 
+.881 for males. Upon eliminating the influence of expe- 
+rience, intelligence, and achievement, there is a slight in- 
+crease to .286 for females and .391 for males.
+-P-A-G-E-37
+Mississippi Rural Teachers 37 
+In the same way the influence of the other factors on pay 
+and experience, pay and intelligence, pay and achievement, 
+and experience and intelligence, is eliminated. 
+The relation of training to pay, with the other factors 
+constant, is proportionately the same for both sexes. 
+The same is true with pay and experience, except that 
+intelligence has a negative effect, which is larger with the 
+females than the males. 
+The elimination of training reduces the relation between 
+pay and intelligence; but when experience and achievement 
+are held constant, they show a negative influence for males 
+and positive for females. 
+The relation of pay to achievement is low in each sex, but 
+is reduced almost to zero for the females and becomes un- 
+mistakably negative for the males, after training, intelli- 
+gence, and experience are eliminated. 
+Experience and intelligence begin low and are rapidly 
+reduced for both sexes to a negative relationship when 
+training, achievement, and pay are held constant. The 
+larger negative effect of achievement on males and the 
+larger positive total relationship between experience and 
+intelligence for males reduce the decisiveness of the nega- 
+tive value of the partial coefficient for them. 
+Achievement and intelligence begin with a marked cor- 
+relation for both sexes. The elimination of the influence 
+of training has very little effect with the female coefficient, 
+but decreases the male. The further elimination of expe- 
+rience increases each coefficient slightly. 
+Using the formulas suggested by Yule,’ the following re- 
+gressions are found: 
+X, = .58X,+.25X, + .07X, + .01X, for females, and 
+X, = 1.57X, + .83X, + .23X, — .12X, for males. 
+X, represents pay; X,, training; X., experience; X,, in- 
+telligence; and X,, achievement. For women, as X, in- 
+creases one year, X, increases $2.50 per month (for class 
+intervals of one year in training and $5 per month in pay 
+and within the limits of this study). In the same way 
+all of the other factors increase pay in proportion to their 
+coefficients, except achievement in males, where a decrease 
+occurs.   
+‘Introduction to the Theory of Statistics.
+-P-A-G-E-38
+38 Mississippi Rural Teachers 
+SECTION 3—MULTIPLE CORRELATION! 
+Having found the relation of academic preparation, 
+experience, intelligence, and achievement to pay for each 
+sex, the question naturally arises: “Do these items consti- 
+tute an appreciable number of the factors that enter into 
+the amount of salary paid?” In order to answer this ques- 
+tion, we must resort to the method of multiple correlation. 
+The fundamental difference between partial and multiple 
+correlation is that in partial correlation, with, for instance, 
+five variables, the fundamental relation sought is between 
+two variables, with the three others out or controlled; while 
+in multiple correlation, with the same five factors involved, 
+the fundamental relation sought would be between one vari- 
+able and the remaining four used collectively. The sym- 
+bols indicate this difference, as 12.345 means the correla- 
+tion between 1 and 2 when 8, 4, and 5 are out; while the 
+symbol 71.2345 (multiple) means the significance of the 
+first variable (1) when 2, 3, 4, and 5 are used collectively 
+with 1. The formula for finding multiple correlation with 
+five variables is: 
+2 6 0 0 ee 
+This result can be checked by the use of the formula: 
+"1.2345 = (1 (1—r?,.) (1 —r’g2) (L—Pises) (1 Pso)) 
+The value of *1.2345 should, of course, be the same, using 
+the two formulas. 
+. In the partial correlation, if 12.345 approaches zero, then 
+the total correlation of "12 shows increased dependence on 
+the factors 3, 4, and 5, and loses significance as an indica- 
+tion. Conversely, if *12.345 approaches 1, then "12 shows 
+increased independence of variables 3, 4, and 5, and increas- 
+ing importance as an indication. 
+In the multiple correlation, if 71.2345 approaches zero, 
+then there are some important factors unconsidered, and the 
+ones used are not the most important causal factors. On 
+the other hand, if *1.2345 approaches 1, as .85, .90, or .95, 
+then most of the important factors are being considered, 
+and the results as indicated by partials are significant. If 
+all factors are considered, multiple correlation is 1. 
+On substituting in the above formula, the coefficient of 
+multiple correlation for the females is found to be .498; for   
+1Rosenow: An Analysis of Mental Abilities, Psychological Monographs, Vol. 24, 
+fo. 5.
+-P-A-G-E-39
+Mississippi Rural Teachers 39 
+the males, .584. These coefficients indicate that the factors 
+involved in this study are significant, but others as highly 
+significant are not touched. 
+SUMMARY OF CHAPTER IV 
+1. Total Correlations. 
+Those teachers who have had the most schooling tend to 
+longer terms of service. With equal schooling, men tend to 
+teach longer than women. 
+There is a low correlation between amount of schooling 
+and intelligence. Approximately one-third of those scor- 
+ing below the norm for fourteen-year-old pupils are above 
+the median in schooling, there being a larger proportion of 
+men than women. 
+There is a negligible correlation for women and a low 
+correlation for men between schooling and ability in the 
+fundamental operations in arithmetic. 
+The reading rate and comprehension correlations. with 
+schooling are negligible for both sexes. 
+There is a marked correlation between schooling and pay 
+for both sexes, higher for men. The regressions show that 
+aman’s pay increases with schooling two and one-half times 
+as fast as that of women. 
+There is a negligible correlation between intelligence and 
+experience for both sexes. One-fourth of the women and 
+one-third of the men below the Otis fourteen-year norm are 
+above the median in experience. The high and low Otis 
+scores seem to quit teaching first. 
+There is a low correlation between experience and arith- 
+metic ability for both sexes. 
+The correlations between experience and reading rate and 
+experience and reading comprehension are negligible for 
+both sexes, though tending to be negative for the males. 
+Either teaching prevents further development in reading 
+ability or the best readers do not teach. 
+There is a marked correlation between experience and 
+pay for both sexes, but the increase is more rapid for the 
+men. 
+Intelligence seems to have some effect on pay, though one- 
+fifth of the women and one-fourth of the men below the 
+fourteen-year norm are above the median in pay. 
+Achievement seems to have no effect on pay for either sex. 
+Training improves composite achievement for men, but 
+experience has no effect. The opposite seems true for 
+women. 
+There is a marked correlation between composite achieve-
+-P-A-G-E-40
+40 Mississippi Rural Teachers 
+ment and intelligence for both sexes, though 18.6 per cent 
+of the women and 29.4 per cent of the men below the four- 
+teen-year norm are above median in achievement. 
+2. Partial Correlations. 
+Pay and training have a low correlation for females and 
+a marked one for males when experience, intelligence, and 
+achievement are constant. The regressions show that pay 
+increases almost three times as fast due to training for 
+males as for females. 
+Pay and experience, with the other factors constant, have 
+the same correlation coefficient for the two sexes (.27), and 
+the regressions indicate a ratio of 8 to 4 in the rate of in- 
+crease of pay due to experience in favor of the men. 
+Pay and intelligence, with the other factors constant, 
+have a positive but negligible coefficient of correlation for 
+both sexes. The regressions indicate that intelligence 
+counts three times as much for the men as for the women. 
+Pay and achievement, with the other factors constant, 
+have no relation for either sex, though the correlation co- 
+efficient for the males is fairly strong in the negative direc- 
+tion. 
+Experience and intelligence begin with a negligible coeffi- 
+cient of correlation for each sex, which decreases to a neg- 
+ative relationship when training, achievement, and pay are 
+held constant. The negative relationship is stronger for 
+females than for males. 
+Composite achievement and intelligence begin with a 
+marked correlation for each sex, the females some higher 
+than the males. With the elimination of the influence of 
+training and experience, the coefficient is increased slightly 
+for the women and decreased for the men. 
+8. Multiple Correlations. 
+The factors involved in this study have a marked relation 
+to pay, but others as highly significant are not touched. 
+ 
+-P-A-G-E-41
+  
+CHAPTER V 
+SUMMARY AND CONCLUSIONS 
+1. Summary. 
+Chapter I states the purpose of the study as (1) to deter- 
+mine whether practice takes into account in fixing the sal- 
+ary of the rural teacher in Mississippi his academic prepa- 
+ration, experience, intelligence, achievement, and sex; (2) 
+to arrive at a tentative minimum intelligence norm for 
+rural teachers; (3) to determine the relative intelligence 
+of those teachers who persist in the rural schools; (4) to 
+ascertain whether the quality of the rural teacher as shown 
+by intelligence and achievement is improving; and (5) to 
+make a comparison of the male and female rural teacher. 
+Chapter II describes how the data were collected from 
+the teachers assembled in the fifteen summer normals of 
+Mississippi by questionnaire and testing. 
+Chapter III shows the data of the questionnaires and 
+tests in tabular and graphic form. So far as possible, the 
+data of each test are compared to standard norms. 
+Chapter IV indicates the relationship existing between 
+every factor and each subsequent one. In order to remove 
+the interdependence of the factors, partial correlation is 
+used. .To show that the factors included in the study are 
+significant, multiple correlation is resorted to. 
+2. Conclusions. 
+In accordance with the analysis of the data as made in 
+Chapters III and IV, it is believed that the following con- 
+clusions are justified : 
+1. Though the combined effect of training, experience, 
+intelligence, achievement, and sex on pay is significant, as 
+shown by the multiple correlation, there are other factors 
+whose combined effect is probably of equal weight. 
+2. The pay of rural teachers increases with training, that 
+of the men more rapidly. 
+8. The pay of rural teachers increases with experience, 
+that of the men more rapidly. 
+4. Intelligence has little effect on the pay of men and less 
+on the pay of women. 
+5. Achievement in arithmetic and reading has a negligi- 
+ble effect on the pay of women and tends to have a negative 
+effect on the pay of men. 
+6. The median rural teacher is below normal in intelli- 
+gence.  
+-P-A-G-E-42
+  
+42 Mississippi Rural Teachers 
+7. No novice should be permitted to teach who consis- 
+tently makes an Otis score (or the equivalent on another 
+scale) below 101 
+8. As experience increases, intelligence tends to decrease. 
+Apparently the most intelligent and the least intelligent 
+teachers drop out earliest, leaving those of middle intelli- 
+gence to persist. This tendency seems to be stronger 
+among the women. 
+9. The quality of the rural teacher, as shown by intelli- 
+gence and achievement, is not improving. 
+10. Teaching does not improve the teacher’s reading abil- 
+y. 
+11. If the classes in the schools from which rural teach- 
+ers are drawn are normal in achievement, the best pupils do 
+not teach. 
+12. The male rural teacher surpasses the female in train- 
+ing, experience, the fundamental operations of arithmetic, 
+reading rate, and pay. The female surpasses the male in 
+intelligence and reading comprehension. 
+   
+-P-A-G-E-43
+  
+A garowo pw oo 
+10. 
+oe 6 fe BIBLIOGRAPHY 
+ON RELATED SUBJECTS 
+Bureau of Education, United States: Bulletins, 1914, No. 49; 
+1916, No. 26; 1916, No. 29; 1917, No. 44; 1918, No. 31; 1919, 
+No. 20; 1921, No. 22. 
+. Bureau of Educational Research, University of Illinois: Bulletin 
+No. 5. 
+. Bureau of Tests and Measurements: George Peabody College for 
+Teachers, No. 1. 
+. Carnegie Foundation Report: School and Society, Volume 15, 
+page 304. 
+. Coffman, L. D.: Social Composition of the Teaching Population.— 
+Teachers’ College Contributions to Education, No. 41. 
+. Evenden, E. S.: Teachers’ Salaries and Salary Schedules._N. E. 
+A. Bulletin, Commission Series, No. 6. 
+. Knight, F. B.: Qualities Related to Success in Elementary School 
+Teaching.—Journal of Educational Research, Volume V, page 
+213. 
+. Otis, Arthur S.: Manual of Directions for Otis Intelligence Scale, 
+1920 and 1921. 
+. Turner, H. L.: A Study of the Intelligence of Four Hundred and 
+Seventy Rural Teachers in Arkansas.—George Peabody College 
+for Teachers, M. A. Thesis. 
+Twenty-First Yearbook: National Society for the Study of Edu- 
+cation. 
+On METHOD 
+- Brown and Thompson: Essentials of Mental Measurements. 
+. Peterson, Dr. Joseph: Tables for Partial and Multiple Correla- 
+tions. 
+. Rosenow, Curt: An Analysis of Mental Abilities—Psychological 
+Monographs, Volume 24, No. 5. 
+. Rugg, H. O.: Statistical Méthods Applied to Education. 
+. Yule, G. U.: An Introduction to the Study of Statistics.
+-P-A-G-E-44
+  OTHER STUDIES SUGGESTED 
+1. To find all the factors upon which the pay of a rural 
+teacher depends. 
+2. At what point in school training is the maximum of 
+achievement in reading reached? 
+3. Does the best reader or computer make the best teacher 
+of such subjects? 
+4. Does teaching rural pupils tend to decrease the teach- 
+er’s Pose comprehension through restriction of vocabu- 
+lary? 
+5. Why is society willing to pay a male teacher more than 
+a female? 
+ 

@@ -1,0 +1,3456 @@
+-P-A-G-E-1
+    
+      
+{| wiverside Coucational Monographs | 
+      
+       
+    
+         
+            
+    EDITED BY HENRY SUZZALLO 
+PRESIDENT OF THE UNIVERSITY OF WASHINGTON 
+SEATTLE, WASHINGTON 
+THE TEACHING OF 
+PRIMARY ARITHMETIC 
+A critical study of recent tendencies in method 
+BY 
+HENRY SUZZALLO 
+WITH AN INTRODUCTION BY DAVID EUGENE SMITH 
+  
+HOUGHTON MIFFLIN COMPANY 
+BOSTON, NEW YORK AND CHICAGO 
+Che Wivergide press Cambridge 
+    
+               
+      
+LIBRARY 
+MIDDLE TENNESSEE STATE COLLEGF 
+MURFREFSRNPD 7 : 
+     
+-P-A-G-E-2
+  COPYRIGHT, 1911, BY TEACHERS COLLEGE, COLUMBIA UNIVERSITY 
+COPYRIGHT, 1912, BY HOUGHTON MIFFLIN COMPANY 
+ALL RIGHTS RESERVED 
+The Riversive Press 
+CAMBRIDGE . MASSACHUSETTS 
+U.S.A
+-P-A-G-E-3
+  CONTENTS 
+INTRODUCTION . . David Eugene Smith 
+THE TEACHING OF PRIMARY ARITH- 
+METIC. ... + « « Menry Suszallo 
+I. THe Scope oF THE STUDY. . -.. 
+II. Tue InrLvence or Arms on TEACHING 
+III. Tue Errecr or THE CHancinc Status 
+or TEACHING METHOD. . . aes 
+IV. MeErTHop aS AFFECTED BY THE DiIstRI- 
+BUTION AND ARRANGEMENT OF ARITH- 
+METICAL WORK 050 6200.5 nie aie 
+V. Tue DistrIBuTION OF OBJECTIVE WorK 
+VI. Tue Mareriats or Opjective TEAcH- 
+: PNG tote teria ted sne wha: veh tage he 
+VII. Some Recent INFLUENCES ON OBJEC- 
+IV LRACHING ©0556 025 0-41 8 
+VIII. Tue Usr or Metuops oF RATIONALI- 
+AVION ee es tes ie'sl, 0S e638), ister ie 
+K iii ‘Gg Cc 
+3641 LIBRARY 
+MIDDLE TENNESSEE STATE COLLEGE 2r 
+32 
+42 
+47 
+53 
+60
+-P-A-G-E-4
+  CONTENTS 
+IX. Spectra, METHODS FOR OBTAINING AC- 
+CURACY, INDEPENDENCE, AND SPEED. 69 
+X. Tue Use or SpeciaL ALGorISMS, ORAL 
+Forms, AND WRITTEN ARRANGEMENTS 83 
+XI. ExaMPLes AND PROBLEMS . . . . + 96 
+XII. Cuaractertstic Moprs oF PRrocREss 
+In TEACHING METHOD . .. . « IIO 
+OUTLINE, |5) 6 oh eee el ee se BID
+-P-A-G-E-5
+INTRODUCTION 
+BY DAVID EUGENE SMITH 
+Tue evolution of the teaching of primary arith- 
+metic extends over a period of about two hundred 
+years, although numerous sporadic efforts at 
+teaching the science of number to young child- 
+ren had been made long before the founding 
+of the Francke Institute at Halle. During the 
+eighteenth century not much progress was made 
+until there was established the Philanthropin at 
+Dessau, and perhaps it would be more just to 
+speak of primary arithmetic as having its real be- 
+ginning in this institution at about the time that 
+our country was establishing its independent ex- 
+istence. It is, however, to Pestalozzi, at the be- 
+ginning of the nineteenth century, that we 
+usually and rightly assign the first sympathetic 
+movement in this direction, and it is the period 
+from that time to the present that has seen the 
+real evolution of the teaching of arithmetic to 
+children in the first school years. 
+v
+-P-A-G-E-6
+  INTRODUCTION 
+The evolution of this phase of education is one 
+of the most interesting and profitable studies 
+that a teacher of arithmetic can undertake. It re- 
+veals the experiments, many of them puerile but 
+a few of them virile, that have been made from 
+time to time; it brings into light the failures 
+which should serve as warnings, and the suc- 
+cesses which will inspire the teacher to better 
+and more carefully considered effort ; it shows the 
+trend of primary instruction, and it makes the 
+student of education more sympathetic with the 
+great problem before him. In particular, he will 
+see the danger of narrowness in matters of 
+' method, the futility of expecting to create genu- 
+ine interest by any single line of devices, the 
+pitiful results that came from over-emphasis of 
+the doctrine of formal discipline, and the errors 
+of judgment that have been made in deciding 
+upon what constitutes reality in an arithmetical 
+problem for children. If by such a study he 
+should see the childishness of confining one’s 
+self to the use of cubes alone, or of some special 
+type of number chart, or of some particular form 
+of number cards, or of sticks of varied lengths or 
+vi 
+ 
+-P-A-G-E-7
+  INTRODUCTION 
+shapes, the result would be salutary. If by his 
+study of the absurd extreme to which formal dis- 
+cipline was carried a generation ago he is led to 
+see the equal absurdity to which so many teach- 
+ers are tending to-day —the denying that any 
+such discipline exists at all — his labor will bear 
+good fruit in the school room of the present. 
+It fortunately happens that after this century 
+of experiment we are getting about ready to take 
+some account of stock; to weigh up values; to 
+select from what the world has produced, and to 
+select with some approach to good judgment. It 
+is not probable that the time is entirely ripe for 
+this labor, because we are at present in the midst 
+of a period of agitation that seems certain to warp 
+our judgment, the period of agitation for a some- 
+what narrow phase of industrial education ; but 
+even with this danger we are better able to 
+weigh up the values in the teaching of arith- 
+metic than we have ever been before. One rea- 
+son for this is that we now have men and women 
+of sufficiently sound education and sufficiently 
+broad view to attack the problem. These men 
+appreciate the efforts of Pestalozzi, but they 
+vil
+-P-A-G-E-8
+  INTRODUCTION 
+recognize that these are to the present what 
+the science of Franklin is to that of Kelvin and 
+Thompson. They appreciate what Tillich did for 
+number work, and the influence of Grube; but 
+they know that these men were narrow in view 
+and dogmatic in statement, and that they stand 
+rather as warnings than as founders of any 
+worthy theory. 
+In looking for such a man to prepare a report 
+upon the teaching of arithmetic in the primary 
+grades, the American members of the Interna- 
+tional Commission on the Teaching of Mathe- 
+matics turned first of all to Professor Suzzallo? 
+They felt that his standing as a scholar, his ex- 
+perience as a practical school man, and his posi- 
+tion in the educational world fitted him perfectly 
+for a work of this importance. That their good 
+judgment did not fail them will be seen in read- 
+ing the following report. In it Professor Suzzallo 
+1 The material presented in this study was originally col- 
+lected and organized for the purposes of a special report to 
+a sub-committee of the International Commission on the 
+Teaching of Mathematics, This commission was created at the 
+International Congress of Mathematicians held in Rome in 
+1908. The report, was first published in the 7zachers College 
+Record, March, 1911. 
+viii
+-P-A-G-E-9
+INTRODUCTION 
+has set forth very clearly the aims of instruction 
+in primary arithmetic, rightly considering these 
+aims in their evolutionary rather than in their 
+static aspects, emphasizing the importance of 
+this phase of the study, and showing the present 
+tendencies that séem making for a more rational 
+view of teaching. He has discarded the narrow 
+and trivial concept of method that characterized 
+the educational work of a generation now passing 
+away, and has brought dignity to the term by 
+considering it from the modern scientific stand- 
+point. He has discussed both historically and 
+psychologically the important question of object 
+teaching, showing the failures that have resulted 
+from narrow views of the purpose of such an 
+aid and the success that may be expected from 
+a more rational use of number material. The 
+whole question of the réle of reason, or rather of 
+the pupil’s effort to express the rationalizing pro- 
+cess has been considered, the extreme danger 
+points have been indicated, and the bearing of 
+some of our saner forms of psychology upon the 
+subject has been set forth. The technique of num- 
+ber, including the question of accuracy and speed 
+ix
+-P-A-G-E-10
+TO RN eS ee ee ee TERE arp ree Tee oe REN eee eT AT 
+INTRODUCTION 
+in the operations, has also been treated in a very 
+acceptable manner, Professor Suzzallo’s experi- 
+ence in this phase of work having been unusual. 
+And finally, the vexed question of what consti- 
+tutes a genuinely concrete problem has been con- 
+sidered in its various bearings, and the present 
+tendencies in problem-making have been indi- 
+| cated, It is needless to say that the last word has 
+not been spoken on this phase of the work, and 
+that it never will be. New generations produce 
+new lines of application of arithmetic, even for 
+children. But with respect to the general prin- 
+ciples of the selection of matter for the framing 
+of problems, Professor Suzzallo speaks with a con- 
+viction that will carry weight. 
+With all of the opinions expressed in such a 
+report probably no reader will agree. It would be 
+a poor discussion that would not provoke some 
+opposition. But with the general tenor of the 
+report it is certain that most thinking teachers 
+of to-day will find themselves in hearty accord. 
+More important still is the fact that the report 
+sets forth in clear language the present status of 
+primary arithmetic in the more thoughtful edu- 
+x  
+-P-A-G-E-11
+INTRODUCTION 
+cational circles in this country, and that it will 
+state to teachers at home and abroad the tend- 
+encies as they now appear to the leaders of edu- 
+cational thought in the United States. 
+‘TEACHERS COLLEGE, COLUMBIA UNIVERSITY, 
+February, 1911. 
+   
+-P-A-G-E-12
+
+-P-A-G-E-13
+  I 
+THE SCOPE OF THE STUDY 
+Ir is the function of this study to convey some 
+notion of the methods employed in teaching math- 
+ematics in the first six grades of the American 
+elementary school. No attempt is made to givea 
+minute description of the endless details of 
+teaching procedure, nor even to enumerate all 
+the types of teaching method employed. Its 
+purpose is restricted to an analysis of the larger 
+tendencies in teaching practice which are repre- 
+sentative of the spirit of mathematical instruction 
+in the lower schools. 
+Function of the Study to Trace General Tendencies 
+We should havea much simpler task if it were 
+ours to sketch the purposes of mathematical in- 
+struction, or to outline the nature and organiza- 
+tion of the various mathematical courses of study. 
+As it is, we have to describe something less con- 
+crete, namely the method employed in the pre- 
+I
+-P-A-G-E-14
+TEACHING PRIMARY ARITHMETIC 
+sentation of mathematical subjects. Intimately 
+dependent upon the subject matter involved, 
+dominated by the special aims of mathematical 
+instruction in a non-technical school, adjusted to 
+the immaturities of childhood, and reflecting the 
+personal habits of mind of the teacher, — teach- 
+ing method emerges —a powerful, variable, and 
+subtle thing. In spite of subtlety and variability 
+there are, however, certain general practices 
+that can be described and analyzed. It is with 
+these that this study will deal. 
+Teaching Method is a Mode of Presentation 
+Owing to the existing confusions, it is well at 
+the very outset to have in mind a clear definition 
+of the term “teaching methods.” Teaching 
+methods are always methods of presentation. In 
+this respect the teaching art is like any other 
+art, literary, graphic, plastic, or what not. The 
+literary artist, for example, has a purpose, a sub- 
+ject matter, a particular audience, and a special 
+style of presentation. All these factors are pre- 
+sent in the teaching art. The aims of instruction, 
+the particular facts to be taught, the immaturity 
+2
+-P-A-G-E-15
+  THE SCOPE OF THE STUDY 
+of the child taught, and the inevitable personality 
+of the teacher determine the style of instruc- 
+tion, or, to. use our own “trade word,” a 
+method of teaching. Every teacher, then, has 
+a style or method —conscious or unconscious, 
+good, bad, or indifferent. Unlike the literary 
+artist, he has many ends to serve rather than one. 
+His functions are general to life, and include 
+moral, social, and personal ends, as well as those 
+that are esthetic. His methods of communica- 
+tion, too, are more than one. He presents his ex- 
+periences objectively and graphically, as well as 
+through the medium of written words and speech. 
+) Always the teacher’s end is to stimulate growth 
+through the presentation of experiences. / When 
+“that presentation takes a form and order differ- 
+ent from that usual to adult life for the precise 
+_purpose of making the fact more readily compre- 
+hensible to the immature mind of the child, then 
+that modification may be called a method of 
+teaching. Teaching methods are always special 
+manners of readjusting adult wisdom to the 
+special psychological conditions of a student’s 
+mind.
+-P-A-G-E-16
+TEACHING PRIMARY ARITHMETIC 
+Distinct Uniformities Exist among tts Variations 
+In the concrete, methods of teaching are always 
+specialized responses to situations, and as variable 
+as situations are variable. Life is never just the 
+same at any point. Yet certain essential similari- 
+ties exist and give us the opportunity to inter- 
+pret life in terms of law. The same may be said 
+of the teaching life. In a sense it never repeats 
+itself; yet to the degree that the same end, the 
+same subject matter, and the same immaturity of 
+mind recur in class rooms, teachers will tend to 
+use similar modes of adjustment. In describing 
+mathematical teaching in the primary schools, it 
+is these similar modes of teaching adjustment, 
+these similar “general methods,” that we shall 
+describe and analyze. 
+The Methods of Public Elementary Schools are 
+Representative 
+It will be unnecessary to have a separate 
+treatment of the “general methods” of mathe- 
+matical teaching for public schools and private 
+schools. Whatever may be said of the state-sup- 
+4
+-P-A-G-E-17
+  
+THE SCOPE OF THE STUDY 
+ported schools will in general be true of private 
+institutions. It is true of elementary schools as 
+it is not of secondary and higher schools, that 
+private institutions hold a relatively minor place, 
+as compared with public or state schools. They 
+are in a sense mere adjuncts to the public school 
+system, claiming, in the generality of cases, no 
+real difference in their ideals and methods of in- 
+struction. In the larger number of cases they 
+draw their courses of study and methods from 
+the public school systems of the immediate neigh- 
+borhood. The social status of the parent or the 
+personal incapacity of the child, rather than 
+difference of school methods, is the cause of the 
+special clientage of the private primary schools in 
+the United States. Hence, a description of the 
+characteristic methods of the public schools will 
+be representative of the prevailing modes of in- 
+struction in American private elementary schools, 
+Elementary Mathematics is Mainly Arithmetic 
+( Mathematical instruction in the first six years 
+of the elementary school concerns itself almost 
+exclusively with the teaching of arithmetic. A 
+5
+-P-A-G-E-18
+  
+TEACHING PRIMARY ARITHMETIC 
+decade or so ago there was a vigorous movement 
+for the introduction of algebra and geometry 
+into the elementary school. As a result, these 
+subjects made their appearance in the seventh 
+and eighth grades—seldom in the first six 
+school years, Where the influence of this move- 
+ment penetrated the lower grades or persisted 
+in the higher grades, the algebraic and geometric 
+elements involved were so restricted and simpli- 
+fied that they became part and parcel of the 
+subject of arithmetic, rather than the elemen- 
+tary phases of two more advanced subjects. This 
+is true of the simple algebraic equation or the 
+measurement of simple geometric figures where 
+introduced below the seventh year. 
+Elementary Arithmetic Emphasizes the Four 
+Fundamental Processes 
+By common practice, even the arithmetic 
+taught in the primary grades has been given a 
+restrictive emphasis, For the most part it is con- 
+cerned with the mastery of the fundamental pro- 
+cesses in manipulating integers and fractions, 
+Thecasual observer, inreading American courses 
+6
+-P-A-G-E-19
+    THE SCOPE OF THE STUDY 
+of study, will note that in the lower grades the 
+mathematical subjects taught are named after 
+the abstract process involved rather than after 
+the particular business institution to which the 
+arithmetic is concretely applied, Thus in the 
+lower grades we teach counting, subtraction, 
+fractions, decimals, percentage, etc.; while in 
+the higher grades we teach interest, stocks and 
+bonds, commission, insurance, etc. There is of 
+course no hard and fast line of demarcation ; one 
+emphasis gradually passes over into the other, 
+an approximate balance being maintained in the 
+intermediate grades. It will perhaps simplify the 
+task of this study and make its treatment more 
+thoroughly representative of all conditions, if 
+the general methods described be restricted 
+to that field which is most characteristic of the 
+first five or six years of mathematical instruction, 
+namely, to the teaching of the fundamental pro- 
+cesses of manipulating integers and fractions 
+along with their simple applications to concrete 
+problems. This discussion, then, will be limited 
+to the period of school life in which the tools of 
+arithmetic are acquired. 
+7
+-P-A-G-E-20
+  TEACHING PRIMARY ARITHMETIC 
+The Need for Studying Exceptional Reform 
+Tendencies ; 
+While the aspects of mathematical instruction 
+here studied and presented are selected because 
+of their representative nature, it would be un- 
+wise to restrict ourselves to a statement of the 
+commonly accepted procedures of school-room 
+practice. There are in America certain reform 
+tendencies which are as characteristic of condi- 
+tions as are the conservative practices. These 
+modifying forces need to be mentioned along 
+with the practices that they alter. Again, there 
+are certain scientific effects now well under 
+way to study the problem of methods in teach- 
+ing. While these have, as their immediate aim, 
+the acquisition of new knowledge rather than di- 
+rect educational reform, their ultimate effect will 
+be to change methods of teaching, For this reason 
+they are important, and have a proper place in 
+this presentation.
+-P-A-G-E-21
+II 
+THE INFLUENCE OF AIMS ON TEACHING 
+Factors Influencing Teaching Methods 
+Ir has been suggested that all teaching methods 
+represent adjustments to several variable factors 
+in the school-room situation. Teaching method 
+is never, or should not be, just one thing. It is as 
+variable as the factors that determine its situa- 
+tion. The purposes of mathematical instruction, - 
+the nature of the fact to be taught, the imma- 
+turity of the child, the teacher’s scholarly equip- 
+ment, his personality, his attitude toward the 
+very idea or institution of method, —all these are 
+influences in determining the status of mathe- 
+matical teaching. Some of them are so important 
+that it will be necessary to discuss them in de- 
+tail at the very outset. 
+The Influence of a Scientific Aim 
+The purposes of mathematical instruction in 
+the elementary school must always be very in- 
+2
+-P-A-G-E-22
+  TEACHING PRIMARY ARITHMETIC 
+fluential upon method. It makes a great differ- 
+ence whether one is merely teaching the elements 
+of mathematics or is teaching mathematics as a 
+tool for business life. It has not been long since 
+the aim of mathematical teaching was merely 
+scientific. The facts taught were the beginning 
+of a science, and the end was to obtain a foun- 
+dation for more advanced facts of the same kind, 
+which were dependent upon this foundation. As 
+the teacher had learned his mathematics, so he 
+taught the subject. To a considerable degree, as 
+the master’s adult mind classified the facts of the 
+subject, so he presented it to the child. His 
+methods were logical rather than psychological, 
+He gave the finished product or process to the 
+child without special adaptation to the child’s 
+immaturity; a roundabout method that slowly 
+approximated and only finally achieved the full 
+result was with such a teacher exceptional. 
+Such a scientific aim, implicit rather than ex- 
+pressed, dominated the methods of teaching when 
+arithmetic was handed over to the elementary 
+schools by the higher institutions of education. 
+The first purpose to be rooted in the traditions 
+Io
+-P-A-G-E-23
+INFLUENCE ®F AIMS ®N TEACHING 
+of mathematical teaching, it still persists with 
+all the rigidity of a conservative force. Teachers 
+still tend to teach future workmen in the lower 
+schools as they themselves were taught by sci- 
+entific scholars in the universities. And high 
+school and college instructors still impose their 
+standards upon the lower schools so as to influ- 
+ence their methods of instruction. As higher in-- 
+struction still remains largely scientific in purpese 
+and method, its effects reinforce the earliest tra- 
+dition in the elementary schools. Under such 
+an influence, the worth of a mathematical fact is 
+measured by its place in a logical scheme, rather 
+than by its significance and recurrence in every- 
+day life. The mathematician may need to know 
+all about the names of the places in notation and 
+numeration ; the layman cares only about the ac- 
+curate reading and writing of numbers, and not 
+at all about the verbal title of “units of thou- 
+sands” place. Again the rational needs of a stu- 
+dent of mathematics may require an understand- 
+ing of the reasons why we “carry” in column 
+addition, but the effective everyday use demands 
+an accurate Aadit of “carrying” rather than an 
+It
+-P-A-G-E-24
+  TEACHING PRIMARY ARITHMETIC 
+accurate explanation. Yet just such methods 
+persist in our schools because of the domination 
+of a scientific treatment of the subject. 
+The Influence of the Aim of Formal Discipline 
+The remoteness of such mathematical teach- 
+ing from the needs of common life constantly 
+threatens the loyalty and support of the public. 
+Some defense becomes necessary on other than 
+scientific grounds. Such a sanction could not be 
+found in utilitarianism, for the waste was evi- 
+dent. It remained for a psychological theory to 
+sketch a defense upon “disciplinary” grounds, 
+The doctrine of “formal discipline” says that 
+such mathematical teaching trains the powers of 
+the mind so that any mastery gained in mathe- 
+matics is a mastery operating in full elsewhere, 
+regardless of the remoteness of the new situa- 
+tions from those in connection with which the 
+power or ability was originally acquired) The facts 
+and processes mastered may not be those most 
+needed in daily life, but they are good for every 
+man inasmuch as they train his mind, Such was 
+the dictum of the doctrine of “formal discipline.” 
+12
+-P-A-G-E-25
+  INFLUENCE OF AIMS ON TEACHING 
+The effect of such doctrine is to defend and 
+perpetuate every obsolete, unimportant, and 
+wasteful practice in the teaching of mathematics. 
+o matter that partnership as taught in the 
+schools had its original sanction in its close cor- 
+respondence to the reality of business practice; 
+no matter that the old sanction has passed ; 
+teach it now for its ability to discipline the mind ! 
+No matter that “life insurance” touches more 
+men than “cube root” ; the latter should be kept 
+because of its power to train the mind, In life, 
+where “approximation” of amounts suffices, the 
+teacher demands absolute accuracy, and the eth- 
+ical worth of such precise truth is the high law 
+for its defense. In life, “the butcher, the baker, 
+and the candlestick maker” figure out the total 
+of a bill mainly “in their heads,” with a few ac- 
+cessory pencil scribbles upon paper; the teacher 
+finds sanction in zsthetics for requiring a com- 
+plete statement written or re-written in exquisite 
+form. Regardless of the truth that is concealed 
+in the doctrine of “formal discipline,” it must be 
+confessed by those who know the history of 
+teaching method in the United States that it is 
+13
+-P-A-G-E-26
+  TEACHING PRIMARY ARITHMETIC 
+the main defense of conservatism and the larg- 
+est cause of waste in teaching methods. 
+The Shiftin Emphasis from Academic to 
+Social Aims 
+Such has been the ground upon which recent 
+educational reform has operated. Slowly the 
+older scientific and disciplinary aims of instruc- 
+tion have given way to the newer purposes of 
+business utility and social insight. In that step 
+a large transition has been covered. Before, the 
+school measured the worth of its work by stand- 
+ards internal to educational institutions. The 
+schoolmaster and the scholar, rather than the 
+man on the street, had formulated the scientific 
+classifications of mathematics and expounded 
+the doctrine of “formal discipline.” Thereafter, 
+the measure of efficient school instruction was 
+determined by standards external to the school, 
+the product of conditions outside of school life. 
+Business need and social situation determine 
+whether a fact or a process is worth comprehend- 
+ing, and whether the method of instruction has 
+been effective. 
+14
+-P-A-G-E-27
+  INFLUENCE OF AIMS ON TEACHING 
+Business Utility as an End 
+The utilitarianism that first attacked the older 
+course of study and its methods was the utility of 
+the business world. The arithmetic of business life 
+became the standard. The practices of the market 
+determined what matter, skill, and accuracy 
+should be demanded of the elementary school 
+pupil. Recently it became the habit to call upon 
+the business man to give his opinion as to what 
+constitutes good arithmetical training; and no 
+criticism was so feared as that of the business 
+leader who said that the boys that came to him 
+were incompetent. Committees on courses of 
+study have even investigated the relative fre- 
+quency and importance of specific arithmetical 
+processes in the business world with the idea of 
+utilizing the results as a basis for changes in the 
+mathematical curriculum. 
+This aim of business utility, coming at a time 
+when the elementary school course was felt to 
+be overcrowded, met with a ready reception. It 
+operated for the time being as the standard by 
+which materials and methods in arithmetic were 
+15
+-P-A-G-E-28
+  TEACHING PRIMARY ARITHMETIC 
+to be eliminated, if not actually selected. Ma- 
+terials not general to the business world, such 
+as the table of Troy weight, were therefore 
+eliminated. Processes of computing interest in- 
+frequently used were supplemented by more 
+widespread and up-to-date methods, More doing 
+and less explaining characterized the instruction 
+in adding columns of figures, and such manipu- 
+lation mimicked the exact conditions of its use 
+in the world at large. If strings of figures are 
+usually added in vertical columns in the busi- 
+ness world, then they should be taught in ver- 
+tical columns more nearly exclusively than before. 
+The obsolete and the relatively infrequent, the 
+over-complex and the wasteful processes of the 
+old arithmetic tended to disappear. More than 
+any other influence, this aim of business utility 
+has combated the over-conservative influence of 
+scientific and disciplinary aims which dominated 
+previous decades. The newer methods of teach- 
+ing have kept the best of the old movements, 
+The work is still scientific in that it is accurate; 
+it is still disciplinary in that it trains; but the 
+truth and the training which are given are 
+16
+-P-A-G-E-29
+  
+INFLUENCE OF AIMS ON TEACHING 
+selected by and associated with actual business 
+situations common to every-day life. 
+Broad Social Utilitarianism as a Standard 
+There is evidence in the present thought of 
+teachers that a utility broader than that of the 
+business world is beginning to obtain in the 
+schools. Everywhere in these days the Ameri- 
+can teacher and the educational writer speak of 
+the social aims of education. More than ever be- 
+fore, the social consciousness of the teacher en- 
+larges. This general increase in the social con- 
+sciousness of the teacher is reflected in mathe- 
+matical instruction. 
+In spite of an increasing movement toward 
+specific vocational training, —as seen in the in- 
+dustrial education movement, for example, — 
+there has been a reactionary defense of the ele- 
+mentary schools as an institution for very gen- 
+eral training in the things that are socially fun- 
+damental and common. This movement toward 
+the preservation of the elementary school as a 
+place for giving a broadly socialized and modern 
+culture not only is checking the inroads of a 
+17   
+ 
+-P-A-G-E-30
+    TEACHING PRIMARY ARITHMETIC 
+narrow vocational education, but is broadening 
+the conception of the older studies, of which 
+arithmetic is but one. Arithmetic is not a sub- 
+ject in which only the skills of calculation are 
+cultivated; it is one that contributes social in- 
+sight, just as history and geography do. 
+The influence of the social aim of instruction 
+upon mathematical instruction is subtle but ob- 
+vious. The business man’s opinion with refer- 
+ence to arithmetical instruction is not always 
+taken as gospel. There are other standards. 
+“Why,” says the schoolmaster, “should I train 
+people for your special needs, any more than for 
+the demands of other trades that men ply? To 
+be sure, our graduates do not fit perfectly into 
+your shop at once. But that precise and local 
+adjustment is the work of the business course 
+or of shop apprenticeship. My function is to 
+train men for the situations common to all men 
+and special to no class. The elementary school 
+is a school for general culture or social apprecia- 
+tion, not a business college or a trade school.” 
+The sociologist usurps the place of the business 
+man as the school’s proper critic. 
+18 
+ 
+-P-A-G-E-31
+  
+INFLUENCE OF AIMS ON TEACHING 
+Some Concrete Effects of the Change in Aim 
+The immediate effect is that arithmetical ap- 
+plications find a larger place in teaching. A 
+saner relation is established between abstract 
+examples and concrete problems. And the prob- 
+lems, in increasing extent, are real problems, 
+typical of life, if not actual. No more does arith- 
+metic, in the best schools, confine itself to fig- 
+ures alone. Figures are applied in concrete 
+problems. There may be days of teaching when 
+not a figure is used during the arithmetic period. 
+The social setting, the business institution, which 
+calls for the calculation, is studied as carefully 
+as the process of calculation. (Che students are 
+given a knowledge of banking as well as skill in 
+the computation of interest. They may even 
+visit a bank, a factory, a shop, as the case may 
+require. Instead of having fifteen problems that 
+deal with fifteen different subjects all more or 
+less remote from one another, as was almost uni- 
+versally the case with older text-books and teach- 
+ing methods, the class hour may be given over to ~ 
+fifteen problems related to one situation, such 
+19
+-P-A-G-E-32
+  TEACHING PRIMARY ARITHMETIC 
+as might develop in the business of a bakery 
+shop or an apartment house. Thus arithmetic 
+gradually gains social setting and unity. 
+To-day teaching methods in arithmetic are in 
+a state of transition : old and new purposes min- 
+gle with unequal force and give us a mixed pro- 
+cess of instructing. Old materials and methods 
+still persist, for logical and disciplinary ideals 
+still hold; but the newer regimen ushered in by 
+the demands of business utility and social under- 
+standing gains ground. The obsolete, the untrue, 
+the wasteful methods pass from arithmetic teach- 
+ing ; and the pressing, modern, and useful activi- 
+ties and understandings enter. Arithmetic is less 
+abstract and formal as a subject than it was; it” 
+has become increasingly vital and concrete with 
+real interests, insights, and situations. The grind 
+of sheer mechanical drill decreases in teaching ; 
+and a reasoned understanding of relations, in 
+some degree at least, is substituted. Artificial mo- 
+tives and incentives are less frequently used to 
+get work done, while the quantitative needs of the 
+child’s life and the intrinsic interest of children 
+in the institutional occupations of their elders pro- 
+vide a more vital motive for the use of arithmetic.
+-P-A-G-E-33
+III 
+THE EFFECT OF THE CHANGING STATUS OF 
+TEACHING METHOD 
+Method as a Psychological Adjustment to 
+the Child 
+Art the very beginning, it was suggested that 
+many factors enter into the nature of our teach- 
+ing methods. There was occasion to show the 
+effect of varying aims on the spirit and manner 
+of instruction, for the end in view inevitably in- 
+fluences any presentation of facts, in school or 
+out. The most significant factor, however, in 
+teaching method is the attempt to adjust meth- 
+ods of presentation to the psychological con- 
+ditions of childhood. Teaching method in the 
+school is primarily a mode of presentation de- 
+signed to stimulate the energies of children. As 
+long as the teacher was the most active person 
+in the classroom, method as such was not impor- 
+tant in pedagogical theory. The focusing of at- 
+tention on the child as an active human factor to 
+21 
+ 
+-P-A-G-E-34
+  TEACHING PRIMARY ARITHMETIC 
+be given careful consideration is responsible for 
+the extended development of teaching technique, 
+\Whe growing importance of “method” in educa- 
+tional theory marks a growth in the teacher's 
+consciousness of psychological factors, precisely 
+as the appearance of the newer aims in teaching 
+has marked an increased regard for social factors. 
+The Effect of an Increased Reverence for 
+Childhood 
+Two important movements have been respon- 
+sible for the development of a psychological con- 
+sciousness of the pupil as a dominating factor 
+in teaching method. One is humanitarian; the 
+other, scientific. 
+There has been a steady growth in reverence 
+and sympathy for childhood. As yet it has 
+scarcely expressed itself with fullness. Its pre- 
+sence is revealed by the widespread enactment of 
+laws designed to guarantee the rights of child- 
+hood —laws against child labor and in favor of 
+compulsory education. The growth of special 
+courts for juvenile offenders, the development of 
+playgrounds, and the decreased brutality of dis- 
+22
+-P-A-G-E-35
+  
+   
+  CHANGING STATUS OF METHOD 
+cipline at home and school, are other symptoms 
+of the public attitude toward childhood. The 
+wide acceptance of the “doctrine of interest” 
+in teaching; the enrichment of the curriculum ; 
+specialized schools for truants and defectives ; 
+individual instruction, —these are the school- 
+master’s recognition of the modern attitude to- 
+childhood. Under such conditions teach- 
+ing becomes less and less a ruthless external 
+imposition of adult views, and more a means ‘war 
+  of sympathetic ministry to those inner needs of 
+child life which make for desirable qualities of 
+haracter. While it is true that teaching method 
+is a condescension to childhood, it is a socially 
+profitable condescension in that it is a guarantee 
+of more effective and enduring mastery of the 
+life that is revealed at school. Since the child’s 
+acquisition tends the more to be part and parcel 
+of his own life under such sympathetic teaching, 
+the products of such instruction are enduring. 
+The Reconstruction of Method through Psychology 
+Such a humanitarian movement naturally 
+called for knowledge of the child—the wisdom 
+23
+-P-A-G-E-36
+  TEACHING PRIMARY ARITHMETIC 
+of common sense soon exhausts itself, and more 
+scientific data are demanded. Thus the “child 
+study movement” came into existence. The 
+movement was in some degree disappointing, for 
+frequently it busied itself in cataloguing the ob- 
+vious rather than in classifying new and hitherto 
+unexplained data. But one thing it did: it focused 
+attention upon the child as the crucial factor 
+in education, the prime conditioning force in all 
+methods of instruction. Since then, a saner psy- 
+chological foundation has been laid for educa- 
+tional procedure, one which is criticising and 
+reconstructing teaching method at every turn. 
+Hitherto, teaching methods had been improved 
+fitfully through a crude empiricism. As the 
+ablest teachers’ became dissatisfied with their 
+teaching and dared to vary their methods, they 
+selected the successful experiments, and other 
+teachers willingly adopted the methods that 
+seemed better than their own. Now a body of 
+general psychological knowledge, rich in its 
+criticism of old methods and in its suggestion 
+of new means of procedure, gives a scientific 
+basis to teaching method. Where additional psy- 
+24 
+ 
+-P-A-G-E-37
+  CHANGING STATUS OF METHOD 
+chological knowledge is needed, the educational 
+psychologists seek it through special investiga- 
+tions. And where the counter claims of com- 
+peting methods defy ordinary psychological 
+analysis and investigation, judgment is sought 
+through an experimental pedagogy which sub- 
+mits teaching processes to comparative tests 
+under normal classroom conditions. 
+A 
+The Increased Professional Respectability of 
+Conscious Method 
+Increased sympathy with childhood and in- 
+creased scientific knowledge of human nature 
+together give teaching method anew justification. 
+The result is that the era of complete depend- 
+ence upon teaching genius and mere common 
+sense in methods of instruction has passed out 
+of the American elementary school. We are now 
+in a period where a specific professional tech- 
+nique in teaching is demanded, a technique partly 
+developed out of crude personal and professional 
+experience, and partly founded upon scientific 
+criticism and experiment. A new humanitarian 
+and scientific attitude toward the mental life of 
+25
+-P-A-G-E-38
+  TEACHING PRIMARY ARITHMETIC 
+children elevates teaching method to a position 
+it has never before enjoyed. 
+The public elementary-school teacher is con- 
+servative indeed who will deny that there is any- 
+thing worthy in the notion of “method.” Asa 
+class, teachers have faith in the special profes- 
+sional technique which is included under the 
+term. They are critical of the many abuses which 
+have been committed in the name of method. 
+Method cannot be a substitute for scholarship. 
+It cannot be a “‘cut and dried” procedure indis- 
+criminately or uniformly applied to class-room 
+instruction. Like every other technical means, 
+teaching method is subject to its own limitations 
+and strengths, a fact which the average teacher 
+recognizes. 
+The Prevalence of Methods Emphasizing a 
+Single Idea 
+In spite of the fact that the majority of ele- 
+mentary teachers keep reasonably sane on the 
+problem of method in teaching, it must be ad- 
+mitted that a considerable proportion of teachers 
+are inclined to be attracted by systems of method 
+26 
+ 
+-P-A-G-E-39
+  
+CHANGING STATUS OF METHOD 
+that greatly over-emphasize a single element of 
+procedure. The hold which the “ Grube method,” 
+with its unnatural logical thoroughness and 
+progression, gained in this country two or 
+three decades ago is scarcely explicable to-day. 
+Scarcely less baffling is the very large appeal 
+made by a series of textbooks which lays the 
+stress upon the acquisition of arithmetic through 
+the idea of ratio and by means of measuring. 
+Manual work as the source of arithmetical ex- 
+periences is another special emphasis, which, like 
+the others, has had its enthusiastic adherents. 
+Again it is “arithmetic without a pencil” or, 
+some other over-extension of a legitimate loca’ 
+method into a“ panacea” or “cure-all, @®hich con- 
+fronts us. The promulgation @Ad acceptance of 
+such unversatile and one-sid@d systems of teach- 
+ing method are indicative of two defects in the 
+professional equipment of teachers : (1) the lack v 
+of a clear, scientific notion as to the nature and _ 
+function of teaching method, and (2) the lack of “ 
+psychological insight into the varied nature of 
+class-room situations. Untrained teachers westill 
+have among us, and others, too, to whom a little 
+  27 
+   
+-P-A-G-E-40
+  TEACHING PRIMARY ARITHMETIC 
+knowledge is a dangerous thing. These are fre- 
+quently carried away by the enthusiastic appeals 
+of the reformer with a system far too simple to 
+meet the complex needs of human nature. Our 
+experiences seem to have sobered us somewhat, 
+the increase of supervision has made responsible 
+officers cautious, and increased professional in- 
+telligence has put a wholesome damper upon 
+naive and futile proposals to make teaching 
+easy. 
+The Tendency toward Over-Uniformity 
+in Method 
+A more serious evil than that just mentioned 
+is the tenttncy of the supervising staff to over- 
+prescribe specie for class-room teach- 
+ers. Recently there has developed, more par- 
+ticularly in large city systems, a tendency to 
+demand a uniform mode of teaching the same 
+school subject throughout the city. The prime 
+causes of this tendency are to be found (1) in the 
+specialization of grade teaching, and the conse- 
+quent interdependence of one teacher on another; 
+and (2) in the mobility of the school population, 
+28 
+ 
+-P-A-G-E-41
+  CHANGING STATUS OF METHOD 
+which involves considerable lost energy if teachers 
+do not operate along similar lines. 
+The result of such imposed uniformity is a 
+reduction of spontaneity in teaching. The pro- 
+cess of instruction proceeds in a more or less 
+mechanical fashion, the teacher working for bulk 
+results by a persistent and general application of 
+the methods laid down. That teaching which at 
+every moment tends to adjust itself skillfully to 
+the changes of human doubt and interest, diffi- 
+culty and success, discouragement and insight, 
+now taking care of a whole group at once, now 
+aiding an individual straggler, now resolutely 
+following a prescribed lead, now pursuing a line 
+of least resistance previously unsuspected, can- 
+not thrive under such conditions. The demand 
+for an excessive uniformity stifles teaching as 
+a fine art, and makes of it a mechanical busi- 
+ness; only those activities that fit the machine 
+can go on. Thus it happens that we memorize, 
+cram, drill, and review; and soon the subtler pro- 
+cesses of thinking and evaluating, which are 
+the best fruit of education, cease to exist. 
+29 
+ 
+-P-A-G-E-42
+  TEACHING PRIMARY ARITHMETIC 
+Method as a Series of Varied, Particular 
+Adjustments 
+Fortunately the one-method system of teach- 
+ing will soon belong to the past ; and fortunately, 
+too, the imposition of uniform methods is begin- 
+ning to lose ground, even in our cities, For the 
+most part, the common sense of teachers and 
+the positive statements of our better theorists 
+keep teaching methods in a sane and useful 
+status. Teaching methods should be as infinitely 
+variable as the conditions calling for their use are 
+endlessly changeable. Not one method but many 
+are necessary, for methods are supplementary 
+- rather than competitive. No one method should 
+be used with a pre-established rigidity ; each must 
+be flexible in its uses, so as to accomplish the 
+varied work to be done. The teacher, with his 
+everyday contact with the problems of child. 
+hood, is the best interpreter of conditions and 
+the best chooser of the tools of instruction. 
+The supervisor may criticize, suggest, and ad- 
+vise; he may call attention to fundamental prin- 
+ciples involved; but the teacher himself must 
+30
+-P-A-G-E-43
+CHANGING STATUS OF METHOD 
+  finally choose his own methods, He is the only 
+one who can know conditions well enough to ad- 
+just teaching methods to the needs of his own 
+children, 
+Arithmetic teaching has suffered from false 
+uses of teaching method. In this respect it has 
+shared the common professional lot. But in 
+addition it has had special difficulties and adven- 
+tures of its own. We have now to note those 
+special phases of teaching method which are 
+peculiar and local to mathematical instruction,
+-P-A-G-E-44
+  IV 
+METHOD AS AFFECTED BY THE DISTRIBU- 
+TION AND ARRANGEMENT OF ARITH- 
+METICAL WORK 
+The Tendency toward Shortening the Time 
+Distribution 
+SEVERAL decades ago arithmetic, as a formal 
+subject, was begun in the first school year and 
+continued throughout the grades to the last 
+school year. This is no longer a characteristic 
+condition, much less a uniform one. There have 
+been forces operating to complete the subject of 
+arithmetic prior to the eighth year, and to delay 
+its first systematic presentation in the primary 
+grades for a period varying from six months to 
+two years. The report of the “Committee of 
+Fifteen” of the National Education Association 
+summarizes the tendency existing in 1895 when 
+it states that, “with the right methods, and a 
+wise use of time in preparing the arithmetic 
+lesson in and out of school, five years are suffi- 
+32
+-P-A-G-E-45
+  
+DISTRIBUTION 4ND ARRANGEMENT 
+cient for the study of mere arithmetic — the five 
+years beginning with the second school year and 
+ending with the close of the sixth year. 
+The Attempt to Eliminate Waste 
+The attempt to shorten the period of formal 
+instruction in arithmetic has had its effects upon 
+the methods of teaching as well as upon the ar- 
+rangement of the course of study. The presence 
+of a large number of children who leave school 
+by the seventh year, the example of a varied 
+European practice, the overcrowded curriculum, 
+—all these have combined to suggest a short- 
+ened treatment of arithmetic. Hence economy, 
+through the elimination of obsolete and unim- 
+portant topics in the course of study and through 
+better methods of instruction, has become a 
+pressing matter. Its influence on method is ob- 
+vious. 
+It has focused attention upon “teaching 
+method” and given it an increasing importance 
+in the eyes of mathematics teachers. Specifically, 
+it has tended to reduce the amount of objective 
+work, to eliminate the explanation or rationaliza- 
+33
+-P-A-G-E-46
+  TEACHING PRIMARY ARITHMETIC 
+tion of processes which in life are done auto- 
+matically; it has made teachers satisfied with 
+teaching one manner of solution where, before, 
+two or three were given ; it has laid the emphasis 
+upon utilizing old knowledge in new places, rather 
+than on acquiring new means. 
+Delay in Beginning Formal Arithmetic 
+Teaching 
+(The tendency toward delay in beginning for- 
+mal arithmetic instruction is to be explained in 
+terms of several causes. Under a regimen where 
+complicated and obsolete problems, difficult 
+of comprehension, were common in elementary 
+school tests, it was natural that teachers should 
+believe that arithmetic is too difficult a subject 
+for young children and that better results could 
+be obtained if the subject weré not commenced 
+till the children were more mature. 
+This belief persists even after the curriculum 
+is purged of all obsolete and A 
+terials, and has become a modern course of 
+study with materials well within the compre- 
+hension and interest of primary Inibicens 
+34 er-complex ma- 
+ 
+-P-A-G-E-47
+  DISTRIBUTION AND ARRANGEMENT 
+The Incidental Method of Teaching 
+The by-product of this belief is that any arith- 
+metic taught during these first few years should 
+be taught “incidentally,” as achance accompani- 
+ment of other studies.’ Only after one or two 
+years of incidental work should the formal arith- 
+metic instruction be given. This “ incidental” 
+method of teaching beginners is difficult to es- 
+timate. It has been so variously treated that a 
+comparative measure of its worth is difficult to 
+obtain. The contention that children who are 
+taught incidentally for two years and systemati- 
+cally for two years more have at the end of 
+four years of school life as good a command of 
+arithmetic as those who have had a systematic 
+course through four school years, is difficult 
+to substantiate or deny on scientific grounds. 
+Sometimes “incidental” teaching required by 
+the course of study becomes “systematic” in 
+the hands of the teacher. Sometimes the two 
+years of “systematic” teaching which follow the 
+incidental teaching mean far more than two 
+years, since the teachers, in order to catch up, 
+35 
+ 
+-P-A-G-E-48
+  TEACHING PRIMARY ARITHMETIC 
+give more time and emphasis to the subject than 
+the relative time-allotment of any general sched- 
+ule would seem to warrant. Such have been the 
+facts frequently revealed by a class-room inspec- 
+tion that penetrates beyond the course of study, 
+the time schedule, and regulations of the school 
+board. 
+Reactions against the Plan of Incidental Teaching 
+In the lack of specific comparative measures of 
+the worth of such methods of instruction, there 
+is a growing conviction (1) that beginning school 
+children are mature enough for the systematic 
+study of all the arithmetic that the modern 
+course of study would assign to these grades ; (2) 
+that, considering the quantity and quality of their 
+experiences, they can think or reason quite as 
+well as memorize; and (3) that what the school re- 
+quires of the child can be better done in a re- 
+sponsible, systematic manner than by any hap- 
+hazard system of “incidental” instruction. 
+These reactionary attitudes by no means imply 
+a return to “systematic” teaching of arithmetic 
+in the first two school years, nor to such formal 
+36
+-P-A-G-E-49
+  
+DISTRIBUTION AND ARRANGEMENT 
+methods as were previously employed. Other 
+grounds forbid. The crude, uninteresting memori- 
+ter methods of the past have gone for good. Ob- 
+jective work, plays, games, manual activities make 
+arithmetical study easier and more efficient. In- 
+deed, these newer methods have been a large fac- 
+tor in convincing teachers that children have the 
+ability to master the first steps in arithmetic 
+during the first two years. Regardless of this 
+change in professional belief, it is a fairly general 
+opinion that arithmetic should not be thrown 
+upon the school-beginner along with the other 
+heavy burden of learning to read. Learning the 
+mechanics of reading is quite the most important 
+part of the first school year, and the addition of 
+the difficulties of another language —for such 
+number is — would overburden and distract the 
+child. Hence a common-sense distribution of 
+burdens and tasks, regardless of questions of 
+child maturity, would delay the formal and sys- 
+tematic study of arithmetic a half or whole school 
+year, little reliance being placed upon previous 
+“incidental” acquisitions. 
+oy,  
+-P-A-G-E-50
+  TEACHING PRIMARY a 
+  Logical and Psychological Types of Arrangement 
+There are other problems of method less con- 
+cerned with the time for beginning the study, or 
+with the span of school life to be given to it. 
+These deal with the arrangement of sub-topics 
+within the course of study, or with the manner 
+of progression from one aspect of arithmetical 
+experience to another. I refer now to the vari- 
+ous methods of planning the work in arithmetic 
+from grade to grade, of which the “Grube 
+method” and the “ spiral” methods are types. 
+The methods that have been employed in the 
+United States for the arrangement or ordering 
+of topics within the course of study have varied 
+considerably from time to time, but all these 
+variations may be grouped around two types: 
+_» (1) The “logical” types of arrangement, and (2) 
+{ the “psychological” types of arrangement. If 
+the course of study proceeds primarily by units 
+that are characteristic of the mathematics of a 
+mature adult mind, the type may be said to be 
+“logical.” If the ‘course of study proceeds pri- 
+marily by units that are characteristic of the 
+38
+-P-A-G-E-51
+  DISTRIBUTION AND ARRANGEMENT 
+manner in which an immature child’s mind ap- 
+proaches the subject, then the type may be said 
+to be “psychological.” The dominant arrange- 
+ments have been “logical” up to within the past 
+two decades. The older text-books taught “ nota- 
+tion and numeration” rather thoroughly, then pro- 
+ceeded to a fairly adequate mastery of “addi- 
+tion,” then to “subtraction,” and so on. Such 
+an arrangement is distinctly “logical.” So also 
+was the later “ Grube method,” which progressed 
+by numbers rather than by processes. 
+The courses of study which have been most 
+familiar to us in the past decade have used the 
+“concentric circle” or “spiral” methods of ar- 
+ranging the sub-topics of arithmetic. These ar- 
+rangements are “psychological” in type. They 
+are attempts to give a systematic order of mas- 
+tery which shall approximate the child’s order of 
+need in knowing. Here the first mathematical 
+facts and skills taught are those that the child 
+first requires, regardless as to whether they em- 
+ploy integers or fractions, additions or divisions, 
+A little later, he deals with the same subjects 
+and the same numbers in more complicated 
+39
+-P-A-G-E-52
+  TEACHING PRIMARY ARITHMETIC 
+manipulation and in more extended application, 
+The field is re-covered, as it were, by ever widen- 
+ing circles or by an enlarged swing of the “spiral” 
+progression. 
+Estimates of Worth 
+The older “logical” plans are thorough and 
+definite in their demands; the teacher always 
+knows just what he is about. But such a system 
+of procedure is unnatural and remote from the 
+child ; it lacks appeal and motive. The child pur- 
+sues the subject as a task laid down for him, not 
+as an answer to his own curiosities or necessities. 
+The newer psychological plans meet the different 
+levels of child-maturity effectively; they are 
+nearer the natural order of acquiring knowledge. 
+The difficulty with all psychological arrange- 
+ments is that the teacher cannot readily re- 
+member what the child has and has not been. 
+The supervisor, too, finds it hard to locate re- 
+sponsibility for the teaching of definite arith- 
+metic sub-topics. As orders of teaching they are 
+psychologically natural but administratively in- 
+effective. 
+40
+-P-A-G-E-53
+  
+DISTRIBUTION AND ARRANGEMENT 
+The Present Mixed Method of Procedure 
+The result is that, to-day, the two types of 
+arrangement are modifying each other and giv- 
+ing a mixed method, partly “logical” and partly 
+“psychological.” That line of least resistance in 
+which the children study arithmetical facts and 
+processes with greatest success is modified by 
+definite demands that topics —e.g., addition 
+be mastered thoroughly “then and there.” The 
+method is partly “topical” and partly “spiral.” 
+The child in the second grade may have a little 
+of all the fundamental processes, a few simple 
+fractions, and United States money; but just 
+there he will be held definitely responsible for a 
+very considerable number of the addition com 
+binations. The pupil may have had fractions in 
+every grade, but the fifth grade will be respon- 
+sible for a thorough and systematic mastery of 
+the same. Such is the mixed method of arrange- 
+ment which is to-day prevalent in American 
+schools.
+-P-A-G-E-54
+  Vv 
+THE DISTRIBUTION OF OBJECTIVE WORK 
+Objective Teaching is Generally Current 
+Tue use of objects in teaching arithmetic is cur- 
+rent in the elementary school. Particularly is 
+this true in the lowest grades of the school, in 
+primary work. It may be said that there is a very 
+large quantity of objective teaching in the first 
+year of schooling and that it decreases more or 
+less gradually as the higher grades are ap- 
+proached. By the time the highest grammar 
+grades are reached, the use of objects has reached 
+its minimum, 
+The teaching of arithmetic prior to the middle 
+of the nineteenth century was little associated 
+with object teaching. That is to say, the general 
+practice of instruction was non-objective. The 
+use of objects in giving a concrete basis for ab- 
+stract arithmetical concepts and for memoriter 
+manipulations, seems to have gained its initial 
+42
+-P-A-G-E-55
+DISTRIBUTION OF OBJECTIVE WORK 
+hold on the schools through the introduction of 
+Pestalozzian methods of teaching. The later 
+introduction of school subjects requiring objec- 
+tive treatment, such as elementary science, na- 
+ture study and manual training, fortified the 
+previous movement and gave it considerable 
+enlargement. Together these two movements 
+established the respectability of objective teach- 
+ing in arithmetic. School-room experience quickly 
+gave it an empirical sanction. It remained for 
+the modern psychological movement in educa- 
+tion to give it a scientific sanction, and to refine 
+‘its uses. 
+Its Distribution is Crudely Gauged 
+It is quite fair to say that the use of objective 
+work decreases more or less gradually from the 
+first to the last year, the underlying assumption 
+being that the use of objects has a teaching 
+value that decreases as the maturity of the pupils 
+increases. Current practice does not proceed far 
+beyond the application of the simple and some- 
+what crude psychological statement that the 
+youngest children must have much objective 
+43  
+-P-A-G-E-56
+  TEACHING PRIMARY ARITHMETIC 
+teaching, the older less, the oldest least of all. 
+The lack of a more refined analysis of the worth 
+of object teaching necessarily leads to some 
+neglect and waste. 
+If a new topic enters late into the course of 
+study, as in the case of square root, the subject 
+is not so well taught because of the current pre- 
+judice or tradition against the use of object 
+teaching in the higher grades. On the other 
+hand it is also probable that the teaching of ad- 
+dition is often accompanied by wasted time and 
+energy simply because lingering over objects 
+in the lower classes is the current fashion. 
+Tendency toward a More Refined Correlation of 
+Object Teaching with Particular Immaturity 
+Reform in the direction of a more refined 
+and exact use of object teaching has already 
+appeared in the treatment of fractions and men- 
+suration, where, regardless of the increased 
+maturity of the children studying these topics, 
+a large amount of objective method is utilized. 
+This is a considerable departure from the slight 
+objective treatment of other arithmetic topics 
+44
+-P-A-G-E-57
+  DISTRIBUTION OF OBJECTIVE WORK 
+taught in the same grades. Such exceptional 
+practices suggest that the novelty of an arith- 
+metic topic is the condition calling for objec- 
+tive work in instruction. It is immaturity in 
+a special subject or situation which determines 
+the amount of basal objective work. The cor- 
+relation is not with the age of the pupil, but 
+with his experience with the social problem or 
+subject in hand. It is of course true that the 
+younger the student is, the greater the likelihood 
+that any subject presented will be novel and 
+strange. Only in this indirect manner does the 
+novelty of subject matter coincide with mere 
+youth as an essential principle in determining 
+the need of objective presentation. The naive 
+assumption of the older enthusiastic reformers 
+that objective work is a good thing psycho- 
+logically, one of which the pupil cannot have too 
+much, is by no means the accepted view of the 
+new reformer. With the latter,. objective pre- 
+sentation is an excellent method at a given stage 
+of immaturity in the special topic involved ; but 
+it may be uneconomical, even an obstacle to 
+efficiency, if pushed beyond, \ 
+45  
+-P-A-G-E-58
+  TEACHING PRIMARY ARITHMETIC 
+The Movement Supported by both Scientific and 
+Common-Sense Criticism 
+There is, then, a certain coincidence of the sci- 
+entific criticism of the psychologist and of the 
+common-sense criticism of the conservative 
+teacher, who look suspiciously upon a highly ex- 
+tended object teaching. The teacher, on grounds 
+of experience, says that too much objective 
+teaching is confusing and delays teaching. The 
+psychological critic says it is unnecessary and 
+wasteful. The result is that, in these later days, 
+the distribution of objective work has changed 
+somewhat. More subjects are developed in the 
+higher grades through an objective instruction 
+than before. Perhaps no fewer subjects in the 
+lower grades are presented objectively, but the 
+extent of objective treatment of each of these 
+has undergone considerable curtailment.
+-P-A-G-E-59
+  VI 
+THE MATERIALS OF OBJECTIVE TEACHING 
+The Indiscriminate Use of Objects 
+Tue existing defects in objective teaching are 
+not restricted to a false placing or distribution. 
+The quality of the teaching use of objects is 
+likewise open to serious criticism. Object teach- 
+ing is a device, so successful, as against prior 
+non-objective teaching, that it has come to be a 
+standard of instruction as well as a means. As 
+long as objects — any convenient objects — are 
+used, the teaching is regarded as good. Given 
+such a sanction, the inevitable result is an un- 
+discriminating use of objects. The process of 
+objectifying tends not to be regulated by the 
+needs of the child’s thinking life ; it is determined 
+by the enthusiasm of the teacher and the ma- 
+terials convenient for school use. 
+The Artificiality of Materials Utilized 
+The first fact which is noted in observing ob- 
+jective teaching is the artificiality of the materials 
+47
+-P-A-G-E-60
+  TEACHING PRIMARY ARITHMETIC 
+employed. Primary children count, add, etc., with 
+things they will never be concerned with in life. 
+Lentils, sticks, tablets, and the like are the stock 
+objective stuff of the schools, and to a consider- 
+able degree this will always be the case. Cheap 
+and convenient material suitable for individual 
+manipulation on the top of a school desk is not 
+plentiful. But instances where better and more 
+normal material has been used are frequent 
+enough in the best schools to warrant the belief 
+that more could be done in this direction in the 
+average classroom. The “playing at store,” the 
+use of actual applications of the tables of weights 
+and measures are cases that might be cited. 
+Narrowness in the Range of Materials 
+The materials used are not only more artificial 
+than they need be, but too restricted in range. 
+As has already been said, the types of material 
+capable of convenient and efficient use in a 
+schoolroom are not numerous. But the series 
+can and ought to be extended. More forms of 
+even the artificial material should be used, thus 
+minimizing the danger of monotony. The blame 
+48
+-P-A-G-E-61
+  
+MATERIALS OF OBJECTIVE TEACHING 
+for the narrow range of materials used falls partly 
+on school boards who do not vote a sufficient 
+allowance for teaching materials to primary 
+teachers ; partly on teachers who do not exercise 
+sufficient ingenuity in devising new forms of 
+objects, or who do not show the vigor requisite 
+to a shift from one material to another; and 
+partly on the supervisory staff which has neither 
+been insistent upon, nor sensitive to, the need 
+of a more interesting range of objective stuffs. 
+Inadequate Variation of Traditional Materials 
+Even the narrow range of materials in general 
+use might be better employed than it is. There 
+is, of course, a distinct tendency to vary the ob- 
+jects, merely because a child gets tired of one 
+kind as a material. But a different quality of 
+variation is required when the pupil is to derive 
+abstract notions from concrete materials. It is 
+too frequently the case that the teacher will 
+treat the fundamental addition combinations with 
+one set of objects, ¢.g., lentils. In all the child’s 
+objective experience within that field there are 
+two persistent associations — “ lentils” and “the 
+49
+-P-A-G-E-62
+  TEACHING PRIMARY ARITHMETIC 
+relation of addition.” The accidental element is 
+thus emphasized as frequently as the essential 
+one and, being concrete, has even a better chance 
+toimpress itself. A wide variation in the objective 
+material used would make teaching more effective, 
+particularly with young children. 
+The Restricted Use of Diagrams and Pictures 
+The nature of the materials proper to objective, 
+teaching has likewise been too narrowly inter- 
+preted. Objective teaching has meant, almost 
+exclusively, instructing or developing through 
+three-dimensional presentations. There is a wide 
+range of two-dimensional representations which 
+have been neglected, but which for all the psy- 
+chological purposes of education have as much 
+worth as so-called objects. I refer here to the 
+use of such material as pictures. Such quasi-ob- 
+jective material has been little used by teachers 
+save as it appears in textbooks. Even the text- 
+book writers have not used pictures with a deep 
+sense of their intrinsic worth. They are printed 
+as a mere substitute for objects in a period when 
+objects are popular pedagogical materials. The 
+50
+-P-A-G-E-63
+  MATERIALS OF OBJECTIVE TEACHING 
+geometric figure or diagram has had a slight use 
+with both the teacher and the textbook writer. 
+Its most frequent use has been in treatments of 
+mensuration. There are, of course, obvious dis- 
+advantages to pictures and diagrams. The things 
+represented in them are not capable of personal 
+manipulation by the child in the ordinary sense. 
+But they have a superiority all their own. They 
+offer a wider, more natural, and more interesting 
+range of concrete experiences. 
+Plays and Games in Olject Teaching 
+There are other curious phases of narrowness 
+in the current pedagogical interpretation of what 
+constitutes a concrete or objective experience. 
+It will be noted that visual objects are the ones 
+generally employed and that they are generally 
+inanimate objects. Of late there has been some 
+tendency to use hearing and touch in giving a 
+concrete basis to teaching. Advantage is taken 
+of the social plays of children, and their games 
+with things. Here the children themselves, and 
+their relations and acts are the experiences from 
+which the numerical units are obtained. With 
+51
+-P-A-G-E-64
+  
+TEACHING PRIMARY ARITHMETIC 
+some of the best teachers in the lowest grades 
+it is no longer unusual to see children moving 
+about in all sorts of play designed to add reality 
+to, and increase interest in, number facts. 
+The Lack of Unity in the Use of Objects 
+The conservative teacher’s use of objects is 
+hopelessly artificial and lacking in unity.;If he 
+brings a series of objects into the development 
+of a single topic, they have little relation to each 
+other, and they represent no actual grouping. 
+Their sole connection with one another is that 
+they exemplify the same abstract arithmetical 
+truth. Beans, cardboard squares, and shoe-pegs 
+may all be employed in the same lesson. The 
+progressive teachers offer more logical unity in 
+their materials. To “play at store,” to utilize 
+games, to deal with things within a picture, is to 
+bring the concrete materials into the classroom 
+with a more nearly normal setting. It is in no 
+small measure due to this better use of material 
+that the progressive teacher is gaining power 
+throughout the elementary grades, 
+   
+-P-A-G-E-65
+  
+=< 
+VII 
+SOME RECENT INFLUENCES ON OBJECTIVE 
+TEACHING 
+Tue wasteful use of objective teaching in the 
+lowest grades has undergone some correction. 
+The sheer enthusiasm of the modern reformer is 
+partly responsible for this modification of con- 
+servative practice. When did single-minded men 
+ever keep within bounds? In our social economy 
+the defense of the radical is found in the fact 
+that other single-minded men are conservatives. 
+Men at one extreme need to be overcome by like 
+men at the other. But the check of one enthu- 
+siast on another is not always perfect. Other 
+contributory causes make it easy to go to unfor- 
+tunate extremes not easily corrected. 
+The Influence of Inductive Teaching 
+Inductive teaching has been one of several 
+movements affecting objective teaching. The 
+effort of teachers to escape the slavishness of 
+53 
+ 
+-P-A-G-E-66
+  | | 
+TEACHING PRIMARY | eae: 
+mere memoriter methods and to approximate 
+real thinking led to the introduction of inductive 
+teaching. Necessarily objective teaching became 
+more or less identified with the new movement 
+and was influenced by it. So, it has been said 
+of objective work in arithmetic as it has been 
+said of laboratory work in the sciences, that 
+such instruction is a method of “discovery” or 
+“rediscovery.” Such an alliance has had its ben- 
+eficial effects upon objective teaching ; it has re- 
+deemed it from the aimless “observational work” 
+of an earlier “objective study.” But in the teach- 
+ing of arithmetic, at any rate, it has confused an 
+objective mode of presentation with a scientific 
+method of learning truth, two activities having 
+a common logical basis, but not at all the same. 
+Under the assumption that the “development” 
+method is one of “rediscovery,” the tendency is 
+to give the child as complete a range of con- 
+crete evidences as would be necessary on the 
+part of the scientist in substantiating a new fact. 
+The result is, that long after the child is con- 
+vinced of the truth, say that 4 and 2 are 6, the 
+teacher persists in giving further objective illus- 
+54
+-P-A-G-E-67
+  INFLUENCES ON OBJECTIVE TEACHING 
+trations of the fact. The child loses interest in 
+the somewhat monotonous continuance of ob- 
+jective manipulations, and the teacher has natu- 
+rally wasted time and energy. If the fact or the 
+process that the teacher wishes to convey can 
+be transmitted with fewer objective treatments 
+(the authoritative treatment of the teacher count- 
+ing for something in school, as authority counts 
+everywhere), then it is unnecessary to exhaust 
+the objective treatments of a numerical fact. In- 
+ductive teaching and learning are not equivalent 
+to inductive discovery; and to hold them iden- 
+tical is necessarily to overdo the use of objects in 
+teaching. 
+The Movement for Active Modes of Learning 
+Another modern movement in teaching method 
+which has had a conspicuous effect on objective - 
+teaching is the Froebelian demand for “ self-ac- 
+tivity” on the part of the child. The recent favor 
+enjoyed by manual training, nature study, self- 
+government, and other active phases of school 
+life is indicative of the sway of this doctrine. Its 
+influence has forced the introduction of new sub- 
+55 
+ 
+-P-A-G-E-68
+  TEACHING PRIMARY ARITHMETIC 
+jects and changed the manner of presenting the 
+older subjects of the elementary curriculum. 
+Arithmetic has responded along with the other 
+studies, and an active use of objects by the chil- 
+dren themselves is found in increased degree. 
+There was a time when objective work in the 
+schools was a passive matter so far as the child 
+was concerned. Any active manipulation of the 
+objects that might be required was cared for by 
+the teacher, the child being merely a passive 
+observer. This is much less the case than for- 
+merly, the influence of “self-activity” having 
+entered with contemporaneous pedagogy. The 
+present ‘situation is one where the child some- 
+times merely observes objects and sometimes 
+actually handles them. 
+At present, then, we have about the same 
+range of methods employed in teaching arith- 
+metic as in teaching science. At one extreme 
+the teacher himself demonstrates by the help of 
+objects in the presence of the class, and records 
+the relations in appropriate arithmetical symbols, 
+the class being in the position of interested spec- 
+tators of a process, At the other extreme the 
+56 
+ 
+-P-A-G-E-69
+  
+INFLUENCES ON OBJECTIVE TEACHING 
+teacher puts the material on the desks of the 
+children and, with a minimum of instruction in 
+advance, directs them toward the desired expe- 
+riences and conclusions. 
+The Abbreviated Use of Objects 
+As might be expected, there has been some 
+reaction against the influences emerging from 
+inductive or developmental teaching and active 
+modes of learning. To a considerable degree the 
+reactionary influence expresses itself in the ab- 
+breviated use of objects in presenting a mathe- 
+matical relation, process, or manipulation. One 
+mode of abbreviation will suffice as an example. 
+There are two methods of relating the sym- 
+bols and processes of arithmetic to the actual 
+relations among objects. For convenience these 
+may bé called the methods of “parallel corre- 
+spondence” and of “final correspondence.” 
+The Method of Parallel Correspondence 
+The method of “parallel correspondence” is 
+generally used in the development of all the 
+simpler combinations or processes of arithmetic. 
+57
+-P-A-G-E-70
+  TEACHING PRIMARY ARITHMETIC 
+In learning to count, the child sees the first ob- 
+ject and says the symbolic “ one,” sees the sec- 
+ond object, and says the symbolic “two.” Again 
+in addition, he sees “ten,” and writes the sym- 
+bol 10; sees “‘six,’”’ and writes 6 ; sees the whole 
+as sixteen, and writes 16; then summarizes the 
+work in the form 10+6=16. Each stage in the 
+symbolic process is noted in connection with ob- 
+jects. This, the method of “ parallel correspond- 
+ence,” is the more current method of using 
+objects. 
+The Method of Final Correspondence 
+The method of showing a “final correspond- 
+ence” of result between objective manipulation 
+and symbolic manipulation is much less fre- 
+quently used, It is used with more complex pro- 
+cesses than those mentioned above, in connec- 
+tion with column addition or “borrowing” in 
+subtraction. It is a mode of object teaching used 
+in place of the usual “explanation” or “ration- 
+alization” which attempts to explain what is sim- 
+ply a correspondence between the manipulation 
+of a series of facts and the manipulation of a se- 
+58 
+ 
+-P-A-G-E-71
+  
+INFLUENCES ON OBJECTIVE TEACHING 
+ries of symbols. Under this method the teacher 
+usually tells the child directly how to perform 
+the process in the conventional manner, no spe- 
+cial explanation being given. Then a case in- 
+volving the actual use of objects is considered, 
+and this result is compared with the result ob- 
+tained by the symbolic manipulation, One or 
+two such cases suffice to convince the pupil that 
+the authoritative mode is true to nature. This 
+method of “final correspondence” in the use of 
+objects represents a new and restricted, but in- 
+creasing, tendency.
+-P-A-G-E-72
+Vill 
+THE USE OF METHODS OF RATIONALIZATION 
+The Tendency toward Rational Methods 
+Some of the marked changes which have occurred 
+in the methods employed for the presentation of 
+number to children have already been mentioned 
+in connection with the objective teaching of 
+arithmetic. (he main tendency to be noted is 
+that objective instruction, which has been used 
+as a mere device of illustration, becomes the 
+first step in inductive or developmental teaching. 
+It is subsumed under a more inclusive method. 
+The change is significant, for it is a symp- 
+tom indicating that mathematical teaching is 
+becoming less dominantly memoriter and more 
+rational. 
+The Eva of Direct Instruction and Drill 
+Several decades ago it was not at all unusual 
+for the bare facts of arithmetic to be given to 
+the child by the teacher without much attempt at 
+60 
+ 
+-P-A-G-E-73
+  METHODS OF RATIONALIZATION 
+providing a basis in the pupil’s own experience. 
+The teaching was “direct,” the teacher’s atten- 
+tion being focused on getting the fact from his 
+own mind into the child’s mind, the whole em- 
+phasis being placed upon the problem of trans- 
+mission and the subsequent difficulty of retention. 
+In so far as objects and illustrations were used, 
+they were merely incidental and reinforcive. They 
+did not constitute any basic body of personal ex- 
+perience by which the child was to seize a con- 
+cept, relation, or process to be handled thereafter 
+through symbols and conventional forms. Under 
+such a system of instruction, still too widely prev- 
+alent, the child had to memorize outright, with- 
+out any concrete basis for his belief, tables of 
+addition, multiplication, etc., and the rules for 
+solving various types of problems. It was outright 
+memorization for which little vital motivation 
+was provided. In insuring retention the teacher 
+therefore relied, not upon interested and varied 
+impressions, but upon the number of verbal re- 
+petitions. “Drill” was characteristic of this era 
+in teaching. 
+61
+-P-A-G-E-74
+TEACHING PRIMARY ARITHMETIC 
+Indirect Teaching as a Rational Method 
+Under the influence of the inductive or de- 
+velopmental method of teaching, the emphasis 
+on the repetitional memorization of number facts 
+and processes is reduced. Teaching now becomes 
+“indirect” rather than “direct” ; the child learns 
+through his own experience rather than through 
+the statement of book or teacher. Here the child’s 
+own thought and activity, not the teacher’s, are 
+conspicuously central in the teaching situation. 
+The teacher stimulates the child into action ; he 
+suggests, guides, corrects, does everything in fact 
+save obtrude his authority and opinion into the 
+child’s interpretation. The child’s activity gives 
+him many vivid and varied impressions of the sub- 
+traction combination or other relation. When he 
+has found the fact, he has already learned it! 
+Further drill or review is not primary, but simply 
+supplementary —a further guarantee of the per- 
+sistence of the impression. Even the spirit of 
+such supplementary drill and review is, in these 
+days, something different from a monotonous re- 
+petition of the same words ; it is a reimpression 
+62 
+ 
+-P-A-G-E-75
+METHODS OF RATIONALIZATION 
+or review of the essential fact in many varied and 
+interesting forms. 
+Interest as a Factor in Methods of Rational- 
+tization 
+It is perfectly natural that, in shifting the 
+teacher’s attention from his own activities to those 
+of the children, the interest of the child should 
+be considered in increasing degree. If the child 
+is to learn directly, with a maximum use of his 
+initiative, it is absolutely essential that the 
+teacher should provide some motive. This im- 
+plies that the child is to be interested in some 
+fundamental way in the activities in which he is 
+toengage. Instead of thumbing the fundamental 
+facts with his memory, in an artificial and effort- 
+ful manner, “ sing-songing ” the tables rhythmi- 
+cally, so as to make dull business less dull, the 
+child studies the arithmetic involved in his own 
+life, for the modern teacher brings the two to- 
+gether. The number story, the arithmetical game, 
+playing at adult activities, constructive work, | 
+measuring, and other vital interests of the child | 
+and community life become increasingly the basis | 
+63 ¥
+-P-A-G-E-76
+TEACHING PRIMARY ARITHMETIC 
+of instruction in number. Such is the pronounced 
+tendency wherever the movement is away from 
+the traditional rote-learning or drill. 
+Of course there is a slight tendency in Amer- 
+ican elementary schools, where a soft and false 
+interpretation of the “doctrine of interest” is 
+gospel, to teach only those things that can be 
+taught in an interesting fashion. But this tend- 
+ency is less operative in arithmetic than in 
+other subjects. Here the logical interdependence 
+of one arithmetical skill on another has quickly 
+pointed the failure of such a haphazard mode of 
+instruction. 
+The Reaction against Rationalization 
+There is, however, in “advanced” as well as 
+in reactionary quarters, a revolt against the tend- 
+ency to objectify, explain, or rationalize every- 
+thing taught in arithmetic. On the whole it is a 
+discriminating movement, for this opposition to 
+“rationalization” in arithmetical teaching, and 
+in favor of “memorization” or “ habituation,” 
+bases its plea on rational grounds, mainly derived 
+from the facts of modern psychology. 
+64 
+ 
+-P-A-G-E-77
+  
+METHODS OF RATIONALIZATION 
+It is specifically opposed to explaining why 
+“carrying” in addition, and “ borrowing” in sub- 
+traction are right modes of procedure. These 
+acts are to be taught as memory or habit, inas- 
+much as they are to be performed by that method 
+forever after. To develop such processes ration- 
+\ally or to demand a reason for the procedure once 
+it is acquired, is merely to stir up unnecessary 
+trouble, trouble unprompted by any demands of 
+actual efficiency. 
+Four Principles for the Use of Rationalization 
+A study of the actual arithmetical facts upon 
+which this opposition expresses itself suggests 
+the four following general principles as to the 
+use of “rationalization” and “habituation,” as 
+methods of mastery: (1) Any fact or process 
+which always recurs in an identical manner, and 
+occurs with sufficient frequency to be remem- 
+bered, ought not to be “rationalized” for the 
+pupil, but “habituated.” The correct placing 
+of partial products in the multiplication of two 
+numbers of two or more figures is a specific case. 
+(2) If a process does recur in the same manner, 
+65  
+-P-A-G-E-78
+TEACHING PRIMARY ARITHMETIC 
+  but is so little used in after life that any formal 
+method of solution would be forgotten, then the 
+teacher should “rationalize” it. The process of 
+finding the square root of a number illustrates 
+this series of facts. (3) If the process always does 
+occur in the same manner, but with the frequency 
+of its recurrence in doubt, the teacher should 
+both “habituate” and “ rationalize.” The division 
+of a fraction by a fraction is frequently taught 
+both “mechanically” and “ by thinking it out.” 
+(4) When a process or relation is likely to be ex- 
+pressed in a variable form, then the child must 
+be taught to think through the relations involved, 
+and should not be permitted to treat it mechan- 
+ically, through a mere act of habit or memory. 
+All applied examples are to be dealt with in this 
+manner, for such problems are of many types, 
+and no two problems of the same type are ever 
+quite alike. These laws will, of course, not be 
+interpreted to mean that no reason is to be given 
+a child in a process like “carrying ” in addition, 
+The reason is not essential to efficient mastery, 
+but it may be given to add interest or to satisfy 
+the specially curious. 
+66
+-P-A-G-E-79
+  METHODS OF RATIONALIZATION 
+The Substantiating Psychology 
+The theoretic basis which seems to underlie 
+such a statement of general principles is derived 
+from functional psychology. Memory and reason- 
+ing are not separate functions ; they are interde- 
+pendent ; but we mean differently by these terms 
+because they have distinguishable emphases. It 
+may be said that memory as a function is effi- 
+cient only in the face of familiar situations 
+where, if the association is present at all, the 
+response is quick and precise. In the face of 
+new situations it is incapable of accurate re- 
+sponse. Reason is slow and uneconomical in 
+action, but it is the only efficient method of 
+arriving at the essential nature of a problem 
+largely unfamiliar. It would be wasteful to meet 
+many of the necessary events of life with a 
+purely reasoned reaction. It would be too de- 
+vious and deliberate in reaching conclusions. 
+Rationalization as a Substitute for Object 
+Teaching 
+There is a sense in which all proof through 
+objects is a type of rationalization, but we do 
+67
+-P-A-G-E-80
+TEACHING PRIMARY ARITHMETIC 
+not ordinarily so consider it. Such a mere “cor- 
+respondence with the objective facts” is suffi- 
+ciently different from the method of “ explaining 
+a new fact in terms of previously acquired facts” 
+to warrant a separate classification. Were it 
+not that the methods are sometimes inter- 
+changeable in developing arithmetical truths, 
+they would not need to be mentioned here. A 
+citation will make the point clear. be teaching 
+the multiplication tables, the combination “ six 
+twos are twelve” may be taught as a direct ob- 
+jective fact, as when six pupils with two hands 
+each are shown. On the other hand the same 
+fact of multiplication may be taught as a “de- 
+rived fact,” as when six twos are added in a 
+column and make twelve. They are both rational 
+methods of proving that six twos are twelve. 
+One method shows it objectively, the other 
+through the use of well established addition 
+combinations viewed as multiplication. Such a 
+rational mode of “deriving” multiplication is 
+used more frequently perhaps than the objective 
+method. 
+ 
+-P-A-G-E-81
+  1D.¢ 
+SPECIAL METHODS FOR OBTAINING ACCU- 
+RACY, INDEPENDENCE, AND SPEED 
+Supervision of Learning after First Development 
+Ir is not alone the first stages in the acquisition 
+of an arithmetical process which have received 
+attention in the re-organization of teaching 
+methods, though, to be sure, the problem of 
+first presentations has in recent decades been 
+given the most attention. More and more, the 
+American tendency is to watch every step in 
+the learning process, to provide for all necessary 
+transitions, and to safeguard against avoidable 
+confusions. It might be suggested that the in- 
+termediation of the teacher at every step in the 
+child’s work might destroy the pupil’s initiative 
+and independence. Apparently, however, those 
+who are deeply interested that the child should 
+not be permitted to fall into the errors which 
+unsupervised drill would convert into habits, are 
+fully as cautious to provide steps for forcing the 
+69
+-P-A-G-E-82
+TEACHING PRIMARY ARITHMETIC 
+child to assume an increasing responsibility for 
+his own work. The distinction made is that an 
+over-early independence is as fatal to accurate 
+and rapid mathematical work as an over-delayed 
+dependence. 
+The Use of Steps, or Stages, in Teaching 
+Some of these serial treatments or related 
+stages of method to which reference has been 
+made may be cited. Necessarily only the more 
+important are mentioned. In indicating certain 
+clean-cut steps or processes, there is no intent to 
+convey the idea that these stages are fixed or 
+conscious matters. The statement is merely in- 
+dicative of the habitual tendency of the average 
+practitioner with an implied theory. As will be 
+readily evident, there is no assumption that such 
+a formal, classified, theoretic statement of stages 
+is a conscious possession of the teaching staff in 
+general. Again, in actual school work there are 
+many types of variation from the characteristic 
+modes here suggested. Always the steps overlap; 
+frequently they are extended, abbreviated, or 
+omitted. But the statement represents, in a very 
+7° ‘ 
+ 
+-P-A-G-E-83
+  SPECIAL METHODS 
+real way, the trend of underlying theory, whether 
+conscious or merely implied. 
+Stages in the Presentation of Problems 
+One of the specific controversies much argued 
+in the primary school concerns the medium 
+through which arithmetical examples and prob- 
+lems shall be transmitted to young children. 
+There are three typical ways in which a-situa- 
+tion demanding arithmetical solution may be 
+brought to the child’s mind: (1) The situation 
+when visible may be presented through itself, 
+that is, objectively. (2) The situation may be 
+described through the medium of spoken lan- 
+guage, the teacher usually giving the dictation. 
+(3) The situation may be conveyed through 
+written language, as when the child: reads from 
+blackboard or text. Inasmuch as objects are a: 
+universal language, no difficulty arises through 
+this basic method of presentation. It is when a 
+language description of a situation is substituted 
+for the situation itself that difficulty occurs. The 
+child might be able to solve the problem if he 
+really understood the situation the language was 
+71 
+ 
+-P-A-G-E-84
+  TEACHING PRIMARY ARITHMETIC 
+meant to convey. Owing to the difficulty that 
+primary children have in getting the thought out 
+of language, it has been urged that problems 
+in any unfamiliar field should be presented in 
+the following order: (1) Objectively or graphi- 
+cally ; (2) when the fundamental idea is grasped, 
+through spoken language ; and (3), after the type 
+of situation is fairly familiar, through written or 
+printed language. It is seriously urged by some 
+teachers that no written presentation should be 
+used in the first four grades. Such an extreme 
+tendency would practically abolish the use of 
+primary text-books. There are many exceptional 
+teachers who do not put a primary text in the 
+hands of children at all. Such a tendency is in- 
+creasing. Particularly is this true among primary 
+teachers in the schools of the foreign quarters of 
+large cities. Accurate communication through 
+the English language is always more difficult here. 
+Hence, the period of objective teaching is neces- 
+sarily prolonged, dependence on the “number 
+stories” told by the teacher extended, and the 
+solution of written problems much longer de- 
+layed than elsewhere. 
+72 
+ 
+-P-A-G-E-85
+    
+SPECIAL METHODS 
+An Opposite Method in Presenting Examples 
+The situation is somewhat different, almost 
+the opposite in fact, when “ examples” rather 
+than “problems” are presented, meaning by “ex- 
+ample” a “problem” expressed through the use 
+of mathematical signs. It is easier to present 
+“examples ” in written form on blackboard or in 
+text than it is to dictate them orally. This ob- 
+viates the necessity of holding the examples in 
+mind during solution, The permanence of the 
+visual presentation saves the re-statement fre- 
+quently necessary in oral presentation. Hence it 
+is a common practice to supply the youngest chil- 
+dren with mimeographed or written sheets of “ex- 
+amples.” It is with olderchildren, or with younger 
+children at a later stage in the mastery of a typical 
+difficulty, that oral presentation of examples is 
+stressed. Then we have that type of work which 
+is called “mental” or “silent” arithmetic. 
+Better Transitions from Concrete to Abstract 
+Work 
+There is some tendency toward the provision 
+of better transitions from the objective presenta- 
+73 
+ 
+-P-A-G-E-86
+  TEACHING PRIMARY ARITHMETIC 
+tion of applied’ problems to the symbolic pre- 
+sentation of abstract examples. Behind all uses 
+of objective work is the belief that it is a mere 
+foundation for more rapid and efficient abstract 
+work. Objective teaching is fundamental, but 
+purely preparatory. The child ought to pass 
+from objects and sense-impressions, through 
+images of various degrees of abbreviation, to 
+symbols and the abstract concepts for which 
+they stand. But in American practice a sharp 
+jump is usually made from concrete objects to 
+abstract symbols, The transition through ade- 
+quate transitional imagery is not made. Wher- 
+ever psychological influences are directly at work 
+in the schools, there is a minority movement 
+favoring a better transition. The nature of such 
+transition is scarcely reasoned out as so much 
+psychological science, but is the accompaniment 
+of a widening professional movement for the 
+enlarged use of pictures, diagrams, number 
+stories, and the like. A critical examination of 
+the various means of presenting arithmetical 
+situations would order them as follows in making 
+the transitions from objective concreteness to 
+74
+-P-A-G-E-87
+  SPECIAL METHODS 
+symbolic abstraction: (1) Objects, (2) pictures, 
+(3) graphs, (4) the concrete imagery of words, 
+(5) more abstract verbal presentations, (6) pre- 
+sentations through mathematical symbols. No 
+such minuteness of adjustment is apparent in 
+existing methods, though it might seem desir- 
+able in teaching young children. At any rate, it 
+would be more effective than an unreasoned tra- 
+ditional procedure full of over-emphasis and 
+omission. 
+The Child’s Four Modes of Work 
+We have thus far discussed merely the teach- 
+er’s activity in instruction. We have to note the 
+graded requirement made in the child’s own ac- 
+tivity. What is the existing custom with refer- 
+ence to the manner in which children are required 
+tosolve the problems or examples presented to 
+them? There are four typical ways in which the 
+child does his work, the names of which are de- 
+rived from the differentiating element: (1) The 
+“silent” method, otherwise spoken of as “ mental 
+arithmetic,” “arithmetic without a pencil,” etc. 
+(2) The “oral”’ method where the child works 
+75
+-P-A-G-E-88
+TEACHING PRIMARY ARITHMETIC 
+aloud, that is, expresses his procedure step by 
+step in speech, (3) The “ written” method where 
+the child writes out in full his analysis and cal- 
+culation. (4) The “mixed” method where the 
+child uses all three of the previously mentioned 
+methods, in alternation, as ease and efficiency 
+may require. 
+The Worth of these Modes 
+The worth of these four methods of work is 
+necessarily variable. The rapidity of the “silent 
+method” with simple figures is obvious. The 
+“silent method” and the “mixed method” (which 
+is more slow but more manageable with complex 
+processes and calculations) are the two methods 
+normally employed in social and business life. 
+The purely “oral” and “written” methods, with 
+their tendency toward analysis and calculation 
+fully expressed in oral or written language, are 
+highly artificial. They are valuable as school 
+devices for revealing the action of the child’s 
+mind to the teacher so that it may be corrected, 
+guided, and generally controlled. The present 
+tendency is toward an over-use of these methods 
+76
+-P-A-G-E-89
+  
+SPECIAL METHODS 
+and toward an under-use of the other two, more 
+particularly the “mixed” method. It would seem 
+- that there is little conscious attempt to make 
+certain that the child moves from full oral or 
+written statement to the judicious application of 
+the more natural “ silent” and “ mixed” methods. 
+It may be that full oral and written statements 
+of work have seriously hampered the right use of 
+the more natural methods of statement. 
+The Traditional Quarrel between “ Mental” and 
+“Written” Arithmetic 
+One conspicuous traditional quarrel in the 
+schools is between the “silent” and the “ writ- 
+ten” methods. Up to within a decade or so ago, 
+“silent” or “mental” arithmetic was much over- 
+emphasized, being carried to absurd extremes. 
+The reaction that followed was equally extreme 
+in its emphasis on the “ written” method. There 
+are signs now of a more rational use of the two 
+as supplements of each other. 
+The order in which different statements of 
+arithmetical work should come has also been a 
+subject for pedagogical argument. The usual 
+77 
+ 
+-P-A-G-E-90
+  TEACHING PRIMARY ARITHMETIC 
+order, due to the fact that first treatments of a 
+topic are simple both in the steps of reasoning 
+and the calculations involved, has been “silent” 
+arithmetic followed by “written” arithmetic. A 
+more recent order has been: (1) “silent” (2) 
+“written” (3) “silent? — a much superior serial 
+order, though by no means an accurate state- 
+ment of a perfect procedure. The fixed treat- 
+ments necessitated by text-books have made 
+teaching method arbitrary in its steps, here as 
+elsewhere. It is altogether probable that many 
+simple calculations or analyses can be done 
+“silently ” (“mentally”) from the beginning; 
+that others require visual demonstration, but once 
+mastered can thereafter be done without visual 
+aids; that still others will always have to be per- 
+formed, partially at least, with some written work. 
+It is purely a matter for concrete judgment 
+in each special case, but the existing practice 
+scarcely recognizes this truth. The result is that 
+many problems are arbitrarily done in one way, 
+and it is too frequently the uneconomical and in- 
+efficient way that is used. 
+78
+-P-A-G-E-91
+  
+SPECIAL METHODS 
+The Transition from Development by Teacher to 
+Independent Work by Pupil 
+It is well to recall that in all these efforts to 
+control the child’s activity, there is a tendency 
+to leave the child over-dependent upon the 
+teacher. It is vitally important that a child 
+should be kept free of any error which unsuper- 
+vised drill would fix into a stubborn habit; but 
+it is likewise important that the child should 
+acquire some self-reliance. While not always 
+clearly defined, there is a distinct tendency in 
+the direction of releasing the teacher's control 
+of the child. A characteristic practice would be 
+one in which the teacher's work with the child 
+would pass through various stages, each one of 
+which would mark a decrease in the control of 
+the process by the teacher and an increase in 
+the freedom of the child to do his example, or 
+problem, by himself. 
+Four Characteristic Stages of the Transition 
+One characteristic series of stages quite fre- 
+quently used in the presentation of a single topic 
+79  
+-P-A-G-E-92
+  TEACHING PRIMARY ARITHMETIC 
+in arithmetic, say “carrying” in addition, is the 
+following: (1) The teacher performs the pro- 
+cess on the blackboard in the presence of the 
+class, the children not being allowed to attempt 
+the process by themselves until after the process 
+is clearly understood from the teacher’s develop- 
+ment. (2) The children are then allowed to per- 
+form the process upon the blackboard, where it 
+is exceedingly easy for the teacher to keep the 
+work of every child under his eye. An error is 
+caught by a quick glance at the board and im- 
+mediately corrected before the child can reiterate 
+a false impression. (3) Other cases of the same 
+type of example are assigned to the children at 
+their seats where they work upon paper, still 
+under the supervision of the teacher —a super- 
+vision which is less adequate, however. (4) The 
+same difficulty, after the careful safeguarding of 
+the previous stages, is then assigned for “ home 
+work,” where the child relies almost completely 
+upon himself. Once more it is necessary to sug- 
+gest that these stages are merely roughly im- 
+plied in the variations of existing practice. 
+80
+-P-A-G-E-93
+yw SPECIAL METHODS 
+Special Methods of Attaining Speed 
+Most of the methods discussed in this chapter 
+have had as their sanction the attainment of ac- 
+curacy in thinking and calculating. Some efforts 
+to insure independent power on the part of the 
+child have already been noted. But nothing has 
+been said of the effort to add speed to accuracy 
+in getting efficient results. Such special efforts 
+have been made. These efforts may be classified 
+into two groups: (1) Those aiming to quicken 
+the rate of mental response. (2) Those aiming at 
+short-cut processes of calculation. 
+Typical of the first are (2) the use of an es- 
+tablished rhythm as the child attacks a column 
+of additions; (4) the device of having children 
+race for quick answers, letting them raise their 
+hands or stand when they have gotten the an- 
+swer ; (c) the assignment of a series of problems 
+for written work under the pressure of a restricted 
+time allotment for the performance of each. 
+These and similar devices are much used in the 
+schools. They are open to the objection that they 
+quicken the rate of the better students, but foster 
+81
+-P-A-G-E-94
+  TEACHING PRIMARY ARITHMETIC 
+confusion, error, and discouragement among the : 
+less able children, thus actually hindering speed. 
+The various shorter methods which represent 
+an effort to reduce the number of mental pro- 
+cesses required are usually not of general appli- 
+cability, and consequently have not attained gen- 
+eral currency in the elementary schools which aim 
+to teach merely one generally available and ef- 
+fective method even though it requires more 
+time, special expertness being left to later de- 
+velopment in the special school or business which 
+requires it. 
+The Relation of Accuracy to Speed 
+It has come to be quite a common opinion 
+among teachers that the fundamental element in 
+rapid arithmetical work is certain and accurate 
+calculation. If pupils know their tables of com- 
+binations and are sure of each detail of calcula- 
+tion, there is no confusion or hesitancy ; speed 
+then follows as a matter of course. This belief, 
+as much as anything else, explains why the lower 
+schools have developed few special means for at- 
+taining speed other than those mentioned.
+-P-A-G-E-95
+x 
+THE USE OF SPECIAL ALGORISMS, ORAL 
+FORMS, AND WRITTEN ARRANGEMENTS 
+Tue methods of teaching arithmetic are influ- 
+enced not only by the aims of such instruction, 
+but by the peculiar nature of the matter taught. 
+The use of special algorisms, temporary algor- 
+istic aids or teaching “ crutches,” oral and written 
+forms of analysis, are of considerable moment 
+in determining the difficulties and therefore the 
+methods of teaching. Their condition and influ- 
+ence will need to be given some slight notice. 
+The Traditional Nature of Algorisms and Forms 
+The algorisms and forms used in the American 
+schools are those that have been determined by 
+social and educational traditions. It is probable 
+that wide social practice has largely determined 
+the traditions, though it must be admitted that 
+the traditions of text-book makers have also 
+given it form. In consequence the ruling school 
+83
+-P-A-G-E-96
+TEACHING PRIMARY ARITHMETIC 
+tradition in the matter of algorisms does not al- 
+ways coincide with current community practice. 
+It is probable that the various modes of comput- 
+ing interest, given by the average arithmetic of 
+ten years ago, were once current in the business 
+world. These methods have changed somewhat, 
+and the school form of computation has not al- 
+ways been changed to accord, Such misadjust- 
+ments between the forms used in school and 
+those used in daily life are not numerous, but 
+they are more frequent than they ought to be. 
+  The Number of Algorisms Used 
+The use of various algorisms for a single pro- 
+cess is not very frequent. There is a fairly gen- 
+eral prevalence of a single algorism for a single 
+process among American teachers, Certain strik- 
+ing exceptions are to be noted in connection with 
+subtraction and division, where the so-called 
+« Austrian” methods are being brought into 
+competition with the traditional modes of the 
+American school. It may be said, however, that 
+even when two distinct algorisms are in contem- 
+poraneous use in a schol system, the teachers 
+84
+-P-A-G-E-97
+  
+USE OF SPECIAL FORMS 
+-are usually careful to employ only one algorism 
+with a given child. Even whena child moves from 
+a school using one kind of algorism to a school 
+using another, the tendency is to allow him to 
+follow his own method. 
+Reform in the Use of Algorisms 
+The tendency toward the substitution, dupli- 
+cation, and modification of existing algorisms is 
+inconsiderable, and very recent. The introduction 
+of the “ Austrian” algorisms, already mentioned, 
+is perhaps the most conspicuous movement, hav- 
+ing a very wide group of adherents. There are, 
+however, a group of teachers and educational 
+psychologists who are attempting to refine teach- 
+ing methods so as to attain a greater economy 
+and efficiency in the learning process. These are 
+responsible for a movement toward the reform 
+of existing algorisms. The movement expresses 
+itself in a number of ways, — it offers new forms, 
+modifies others, and aims to bring a larger sim- 
+ilarity and consistency into algorisms employed 
+in the various stages of the same process. Its 
+function is always to simplify for the child and 
+85
+-P-A-G-E-98
+  TEACHING PRIMARY ARITHMETIC 
+j 
+thus to increase the practical efficiency and the 
+mental economy of his methods. 
+The Standard of Social Usage 
+One of the standards set, is, that as far as is 
+consistent with economy, the algorism employed 
+with greatest frequency in social life is to be 
+preferred. If people add, subtract, and multiply 
+with their figures arranged above and below each 
+other in vertical form 5, then the vertical form 
+is to be preferred to the horizontal method 
+6+3=9 so largely used and imposed by text- , 
+book writers. 
+The Extended Use of Acquired Forms 
+To learn two forms for one thing, particularly 
+when one has no sanction either in current use 
+or on general grounds of psychological efficiency, 
+is a waste. Hence there is an increasing disposi- 
+tion both in general practice and among the 
+more critical to utilize a single form in as many 
+places as possible. “Subtracting by adding” is 
+merely using the same association and word form 
+for both addition and subtraction. Hence only 
+86
+-P-A-G-E-99
+  
+USE OF SPECIAL FORMS 
+one set of tables, instead of two, has to be learned. 
+The meaning, the applicability, and the visual 
+form of addition and subtraction are still different. 
+Only the process of remembering and using the 
+fundamental combinations is the same. But this 
+is a large saving: “ Dividing by multiplying ” is 
+an analogous situation, though not so much em- 
+ployed in American schools as “subtracting by 
+adding.” The most radical suggestion for utilizing 
+a simplified common form is one in which these 
+forms of division, as used in the tables 18+6=3, 
+in short division 6)1832, and in long division 
+62)18325(, are reduced to one consistent form 
+in all three cases, as 6[18, 6[1832, 62[18325. 
+Such a simplification is urged in other situations. 
+The movement has not passed far beyond theo- 
+retic acceptance, though several city school sys- 
+tems are trying the experiment, San Francisco 
+being a notable instance, 
+The Use of “ Crutches” or Temporary Algorisms 
+The use of special and temporary algoristic 
+aids or learning “crutches” in mathematical cal- 
+culation is one of the problems of method under 
+87 
+ 
+-P-A-G-E-100
+  TEACHING PRIMARY ARITHMETIC 
+constant controversy. Teachers seem fairly evenly 
+divided upon the question. Typical situations in 
+which such “crutches” are used may be noted 
+as follows: Changing the figures of the upper 
+number in “borrowing” in subtraction ; rewrit- 
+ing figures in adding and subtracting fractions. 
+In the broad sense any algorism which is used 
+during the teaching or learning process tempor- 
+arily, to be abandoned completely later, is an 
+“accessory algorism” or “crutch.” The objec- 
+tions to their use lie in the facts: (1) that skill in 
+manipulation is learned in connection with stages 
+and forms not characteristic of final practical 
+use ; (2) that this implies, psychologically at any 
+rate, the waste of learning two forms or usages 
+instead of one; and, (3) that it decreases the 
+speed with which mathematical calculation is 
+done. If there is a drift in any direction, it is prob- 
+ably toward the abandonment of “crutches.” 
+Full and Short Forms of Calculation 
+The division of opinion, which exists in con- 
+nection with the temporary use of special algor- 
+isms or “crutches,” likewise exists with reference 
+88 
+ 
+-P-A-G-E-101
+    USE OF SPECIAL FORMS 
+to the use of “full forms” and “short forms” 
+of manipulation and statement. The temporary 
+use of a “full form,” in a case where a “short 
+form” will finally be used, is similar to the em- 
+ployment of a “crutch.” There is one important 
+difference, however, which explains the relatively 
+larger presence of temporary “full forms” than 
+of “crutches.” The “full form” is an accurate 
+form which is used somewhere, — in a more com- 
+plex stage of the same process or in some other 
+process; the “crutch” is not. Thus: a “full 
+form” in column addition with partial totals and 
+a final total of partial totals, will be utilized in 
+column multiplication, the “long division form” 
+of doing “short division ” (which is the fully ex- 
+pressed form of dividing by a number of one 
+figure) will be utilized in division by numbers of 
+more than one figure. 
+Forms of Analysis or Reasoning 
+The problem of form applies not alone to the 
+algorism or special method of computation, but 
+likewise to the special methods of reasoning used 
+in determining the specific series of steps to be 
+89
+-P-A-G-E-102
+  TEACHING PRIMARY ARITHMETIC 
+taken in achieving the answer. In every problem 
+the child solves, he must not only decide what is 
+to be done (reason), but he must do zz (calculate). 
+There are forms of reasoning as there are forms 
+of calculation. As any calculation may have 
+several algorisms, the solution of a problem may 
+be expressed in several forms. It is the latter dif- 
+ficulty which appears in the teacher’s demands 
+for “formal analysis” of problems. The analysis 
+is usually required in full statement. 
+The Traditional Requirement of Full Formal 
+Analysis 
+It has been a very general requirement in 
+American schools that the child give a full oral or 
+written statement of his analysis and computation. 
+Formal statements have been demanded of the 
+child as much on the side of reasoning as on that 
+of calculation. One of the causes of this demand 
+is found in the tendency of the teacher to en- 
+courage full statement by the child, merely as 
+a revelation of his inner processes so that the 
+source of error in results might be detected and 
+the error eliminated. We have already noted this 
+go 
+   
+-P-A-G-E-103
+  
+USE OF SPECIAL FORMS 
+predisposition of the teacher to call for full oral 
+and written statements for purposes of control in 
+the various methods designed to achieve and safe- 
+guard accuracy, 
+The Limitations of Full Formal Analysis 
+There is, however, a marked tendency away 
+from formal analysis of arithmetic problems in 
+the elementary school, just as there is a move- 
+ment away from a formal deductive logic in 
+the higher schools. Natural, genetic modes of 
+thought are supplanting the unnatural, formal 
+statement of steps. It is felt that while such full 
+formal statements of reasoning and calculation 
+may assist in the teacher’s control, they may 
+actually interfere with accuracy and rapidity on 
+the child’s part. 
+To write out each step in full often means 
+giving an enlarged attention to factors that are 
+merely touched and assumed in actual thinking. 
+To delay the thought process, with attention held 
+on a fully developed linguistic statement, whether 
+oral or written, may be to distract from the chain 
+of essential ideas or meanings that really solve 
+91  
+-P-A-G-E-104
+  TEACHING PRIMARY ARITHMETIC 
+the problem. Frequently children lose the thread 
+of thought midway of the process because of the 
+necessity of dealing with the form side, and have 
+to begin anew. 
+“Labeling” the Steps of Calculation 
+A conservative protest against the old formal 
+expression of reasoned steps is found in omitting 
+for the most part the linguistic statements deal- 
+ing with the logic of the problem and merely 
+“labeling” the numbers that occur in the calcu- 
+lation. This is a more restricted form of state- 
+ment, much more used at the present time than 
+hitherto. But it is still open to psychological 
+objections that make the more scientific critics 
+protest. There are many stages in a calculation 
+where there is no association whatever with the 
+concrete problem in hand. The concrete problem 
+is studied, the decision is made that all the fac- 
+tors named are to be added. They are added, 
+purely abstractly, and a number is given as the 
+total. The result is then thought of in terms 
+of the concrete problem in hand. A disposition 
+to label each item in the addition may be ne- 
+92
+-P-A-G-E-105
+  
+USE OF SPECIAL FORMS 
+cessary in the rendering of a bill, but it is a 
+false and obstructing activity in the actual solv- 
+ing of the problem. The same situation exists 
+where there are two or three processes to be 
+utilized in series. Once the child has grasped his 
+concrete situation and reasoned what to do — he 
+may proceed to mechanical manipulation, never 
+thinking of the concrete applications till he has 
+finished. 
+So-called Accuracies of Statement 
+The protest mentioned above even goes so far 
+as to attack the teacher’s insistence upon certain 
+so-called accuracies of statement. The case of 3 
+pencils at 5 cents would be expressed 3 times 5 
+cents = 15 cents. 3x 5 =15 would be demanded, 
+and 5 x 3 not allowed at all. The protest is not 
+against insistence on a proper order where “ la- 
+beled” statements are used. The objection is 
+made against the demand for the so-called proper 
+order when abstract figures are related merely 
+by signs. Where the child calculates symbol- 
+ically, he sees the situation as one to be worked 
+out by a purely conventional relation between 
+93  
+-P-A-G-E-106
+TEACHING PRIMARY ARITHMETIC 
+  two numbers. For all practical purposes 5 x3 
+will solve the situation quite as accurately as 
+3x5. The insistence on one, as opposed to the 
+other, is a useless effort that cannot affect the 
+result. 
+Increased Use of Mathematical Symbols 
+The same tendency which is making for a re- 
+duction of verbal forms is increasing the use of 
+mathematical symbols. As logical relations are 
+less frequently written out, a simple sign such 
+as + or + is used. The algebraic x is supplied 
+in place of a whole roundabout series of awkward 
+preliminary statements or assumptions. With it, 
+of course, come changed methods of manipula- 
+tion, as in the use of the algebraic equation. 
+It is doubtless true that the rigidity of full 
+logical forms is giving way to a more flexible and 
+natural mode of expressing the child’s thoughts. 
+Fixed oral and written forms of exposition may 
+assist the child, much as the acquisition of a 
+definite symbol fixes an abstract meaning, which 
+remains unwieldy till it attaches itself to a word 
+by which it is to be recalled. But increasing care 
+94
+-P-A-G-E-107
+USE OF SPECIAL FORMS 
+is manifested that children shall use only those 
+forms that will conform to practical need upon 
+the one hand, and to natural, efficient, and eco- 
+nomical mastery on the other. 
+ 
+-P-A-G-E-108
+XI 
+EXAMPLES AND PROBLEMS 
+Formal and Applied Arithmetic 
+Tue teaching of arithmetic is usually classified 
+under two aspects, formal work and applied work. 
+The formal work deals mainly with the memori- 
+zation of fundamental facts, processes, and other 
+details of manipulation. The applied work, as 
+the name implies, is the formal work utilized in 
+the setting of a concrete situation demanding a 
+solution. These two aspects of arithmetical in- 
+struction are very frequently sharply separated, 
+the child working alternately with one or the 
+other. The characteristic practice is to deal with 
+them without relating them as closely as the 
+highest efficiency would demand: 
+The Example and the Problem 
+Formal exercises in arithmetic are usually pre- 
+sented through the “example” ; the exercises in 
+application through the “ problem ”’; the distinc. 
+96 
+ 
+-P-A-G-E-109
+  
+  EXAMPLES AND PROBLEMS 
+tion being that one isan abstract and symbolical 
+statement of numerical facts and the other a con- 
+crete and descriptive statement.t In the first 
+case the mathematical sign tells the child what 
+to do, whether to add, subtract, multiply, or di- 
+vide; the example being a kind of pre-reasoned 
+problem, the child has only to manipulate ac- 
+cording to the sign, his whole attention through- 
+out being focused on the formal calculation. In 
+the second case the child has two distinct func- 
+tions; he must, from the description of the sit- 
+uation presented, decide, through the process of 
+reasoning, what he is to do (add, subtract, divide, 
+or multiply), and having rendered his judgment, 
+he must proceed through the formal calculation. 
+The Traditional Precedence of Formal Work 
+As the problem involves two types of mental 
+processes in a single exercise, and the example 
+1 While this distinction is not general, it has sufficient cur- 
+rency to warrant its use here for the convenience of discus- 
+‘sion, The expression “clothed problem” (from the German) 
+is occasionally used to mean what is here designated as 
+“problem,” and “ abstract problem” is used to mean what is 
+here designated as “example.” 
+97 
+ 
+-P-A-G-E-110
+  TEACHING PRIMARY ARITHMETIC 
+but one, the usual procedure in arithmetic is to 
+take up the formal side through examples first 
+and, later on, the applied side through the use of 
+problems. This means that the first emphasis is 
+on formal and abstract work rather than on a 
+treatment of natural, concrete situations,an em- 
+phasis not wholly sanctioned by modern psy- 
+chology and the better teaching procedure of 
+other subjects. 
+Objective and Narrative Presentation as a 
+Reform Tendency 
+The reform tendency is found mainly in the 
+primary grades where the beginnings of new 
+processes are made through objective presenta- 
+tions of the problem. But the transition from 
+objectified problems to formal work is not imme- 
+diate. The children pass from objectified situa- 
+tions to “number stories,” which are only de- 
+scriptions or narratives of a situation. This is 
+the interesting primary-school equivalent of that 
+more businesslike language description found in 
+the higher grades, the arithmetical problem. But 
+it precedes formal work and succeeds it, — the 
+98
+-P-A-G-E-111
+EXAMPLES AND PROBLEMS 
+formal drill being a mere intermediate drill. 
+Here concrete presentations and formal work are 
+more closely related and more naturally ordered. 
+This reform tendency, which began in the pri- 
+mary school, is extending to the higher grades, 
+where it is no longer rare to find the attack upona 
+process preceded by careful studies of the con- 
+crete circumstances in which the process is util- 
+ized. In the case of interest, several days might 
+be utilized in studying the institution of banking 
+in all its more important facts and relations. 
+Such an approach not only provides motive for 
+the formal and mechanical work, but gives a 
+necessary logical basis in fact. Hence the un- 
+derstanding of practical business life makes ac- 
+curate reasoning possible for the child when he 
+is called upon to solve actual problems in appli- 
+cation of the formal work. 
+The Over-Emphasis of Formal Work 
+It is perfectly natural under the general tradi- 
+tional practice of putting the first emphasis on 
+mastery of formal work that the largest amount 
+of attention should be given to the mechanical 
+99 
+LIBRARY 
+MIDDLE TENNESSEE STATE COLLEGE MURFREESBORO, TENNFSSEF
+-P-A-G-E-112
+  TEACHING PRIMARY ARITHMETIC 
+and technical side of arithmetic, and that the 
+concrete uses and applications should be slighted, 
+and this is generally true of the practice of 
+American teachers. Much more ingenuity has 
+been used in the careful training of the child on 
+the formal side than in teaching him to think out 
+his problems. There is no such careful arrang- 
+ing and ordering of types in teaching a child 
+to reason, as there is in teaching him to cal- 
+culate. 
+The Need for More Systematic Teaching of 
+Reasoning 
+Here and there a few thoroughly systematic 
+attempts are made to carry the pupil through 
+the simple types of one-step reasoning, to two- 
+step and three-step problems with their possible 
+variations. Just as the example isolates the diffi- 
+culties of calculation, by letting the sign + or — 
+‘Stand for the logic of the situation, there is a 
+tendency to give problems without requiring the 
+calculations. This affords a means of isolating 
+and treating the special difficulties of reasoning. 
+The child is merely required to tell what he 
+100
+-P-A-G-E-113
+  EXAMPLES AND PROBLEMS 
+would do, without doing it; the answer being 
+checked by the gross facts. A little later, as a 
+transition, he is permitted to give a rapid, rough 
+approximation of what the answer is likely to be. 
+With further command he tells what he would 
+do and does it accurately, But such a program 
+of teaching is still rare among teachers. 
+Existing Devices for Testing Reasoning 
+The care of the child’s reasoning is largely 
+restricted to testing his comprehension of the 
+problem, (1) by having him restate the problem 
+to be sure he understands it, or (2) by having 
+him give a formal oral or written analysis of the 
+way in which he solved the problem. The first 
+requirement may not be thoroughgoing, as the 
+child may give a verbal repetition of the problem 
+without really knowing its meaning. The second 
+is a formal analysis of the finished result and 
+does not represent the genetic method of the 
+child’s thinking. Consequently its formulas do 
+not, in any considerable degree, assist him in his 
+actual struggle with the complex of facts. 
+Ior
+-P-A-G-E-114
+  TEACHING PRIMARY ARITHMETIC 
+Sources of Failure in the Solution of Problems 
+This lack of a systematic teaching of the tech- 
+nique of reasoning is manifest in the unrelia- 
+bility of children’s thinking. When a child fails 
+in a problem assigned from the text-book, the 
+source of the error may be in one or more of 
+three phases: (1) In failing to get the meaning 
+of the language used to describe the details of 
+the situation ; (2) in failing to reason out what 
+needs to be done to solve the situation; (3) in 
+failing to make an-accurate calculation. The 
+first is a matter of language ; the second, one of 
+reasoning ; the third, one of memorization. The 
+elimination of errors, due to the first and third 
+sources, leaves a considerable proportion to be 
+accounted for by the second, Such informal in- 
+vestigations as have been made seem.to show 
+that the children who fail in reasoning do not 
+make any real effort to penetrate into the essen- 
+tial relations of the situation. They depend on 
+their association of processes with specific words 
+of relation used in the description of the prob- 
+lem, an association determined of course by their 
+102
+-P-A-G-E-115
+  
+- 
+EXAMPLES AND PROBLEMS 
+past experiences, As long as these familar “cue” 
+words are used, they succeed. Let unfamiliar 
+words or phrases be utilized in their stead or let 
+the relation be implied, and, like as not, the 
+children will fail to do the right thing. Practical 
+school people are familiar with the fact that 
+children solve the problems given in the lan- 
+guage of their own teachers and fail when the 
+problems are set by principals or superintend- 
+ents, whose language is strange to them. 
+The Need of Varied Presentations of Problems 
+A varied use of materials in the objective 
+presentation of problems, and a more constantly 
+varied use of language in the descriptive pre- 
+sentation of problems would prevent the child 
+from making such superficial and unthought- 
+ful associations, and force him to think out 
+connections between what is essential in a | 
+typical problem and the appropriate process of 
+manipulating it. But such a deliberate applica- 
+tion of modern psychology is far from being a 
+conspicuous minority movement. The subject- 
+matter of the problems given to children has, 
+103. 
+   
+-P-A-G-E-116
+TEACHING PRIMARY ARITHMETIC 
+however, improved greatly. Obsolete, puzzling, 
+and unreal situations, which only hinder the 
+child’s attempt to reason, are less and less used 
+in problem work. 
+Improvement in the Subject-Matter of Problems 
+Daily it becomes recognized with greater clear- 
+ness that right reasoning depends upon a com- 
+prehension of the facts of the case, and the 
+facts of the case in point must be within the 
+experience of the child. This is the only way 
+in which a problem can be real and concrete 
+to him, 
+Real and Concrete Problems Taken from the 
+Larger Social World 
+The recent effort on the part of text-book 
+writers and teachers to make arithmetical prob- 
+lems “real” and “concrete” has not always 
+recognized the above-mentioned psychological 
+principle. The terms “real” and “concrete” 
+have been interpreted in many ways besides in 
+terms of the child’s consciousness. With some, 
+“real” has meant “ material” ; and the problems, 
+104 
+ 
+-P-A-G-E-117
+  EXAMPLES AND PROBLEMS 
+more particularly with primary children, have, 
+in increasing degree, been presented by objects 
+or words connoting very vivid images. Others 
+have defined this quality in terms of actual exist- 
+ence or use in the larger social world. If these 
+problems actually occur at the grocer’s, the 
+banker’s, or the wholesaler’s, it is said that they 
+“are indeed concrete.” And much effort has 
+been expended in carrying these current prob- 
+lems into the classroom, in spite of the fact that 
+they may be neither comprehensible nor interest- 
+ing to the pupil. 
+Real and Concrete Problems Taken from the 
+Child's Own Life 
+There is another social world, nearer home to 
+the child, from which a more vital borrowing can 
+be made. There is an opportunity to use the 
+child’s life in its quantitative aspects, to take his 
+plays, games, and occupations, and introduce 
+their situations into his mathematical teaching. 
+As his world expands from year to year, he will 
+be carried by degrees from personal and local 
+situations to those of general interest. The 
+105
+-P-A-G-E-118
+TEACHING PRIMARY ARITHMETIC 
+teacher can provide this progression without de- 
+vitalizing the facts presented. 
+The Imaginative or Hypothetical Problem 
+There is another error into which both the 
+socially-minded radical and the specialist in child 
+study fall. In. their eagerness to improve the 
+arithmetical problem, they assume that problems 
+taken from the larger social world or from the 
+child’s experience are necessarily superior to hy- 
+pothetical, imaginative, or “ made-up” problems. 
+The psychological fact that needs to be forced 
+upon the attention of the reformers is that, with 
+proper artfulness, an imagined problem may be 
+even more vital and real to the child than one 
+taken from life —as a situation in a drama may 
+be more appealing and real to a child than one on 
+the street. This has some recognition, but not 
+enough. Those who stand upon the side of the 
+“made-up” problems are more likely to be re- 
+actionaries who tolerate the traditional type of 
+problem even though its stupid artificiality is ob- 
+vious to both the teacher and the child. They 
+might better be dealing with dull problems bor- 
+106 
+ 
+-P-A-G-E-119
+  
+EXAMPLES AND PROBLEMS 
+rowed from real life than with specially invented 
+dullness. 
+Valid Arguments for Actual Problems 
+Of course there is another argument for the 
+use of actual social materials. The child must 
+ultimately come into command of precisely these 
+facts, since their mastery will be demanded by 
+the business world. But must a primary school 
+child study his arithmetic through problems 
+taken from the dreary statistics of imports and 
+exports merely because tariff reform is a polit- 
+ical issue which every citizen ought finally to 
+comprehend? There is a time for this, and, as 
+is the case with most of such borrowed busi- 
+ness problems, the time is later. In so far as 
+these are current situations within the con- 
+tacts of child life, let them enter. A quan- 
+titative revelation of life is important; and it 
+is good teaching economy to gain knowledge 
+by the way, provided it does not distract 
+attention from whatever main business is at 
+hand. 
+107 
+ 
+-P-A-G-E-120
+    TEACHING PRIMARY ARITHMETIC 
+Unity in the Subject-Matter of Problems 
+The socializing of arithmetical problems has 
+one other additional good effect. It has tended 
+to bring some topical unity into the problems 
+constituting the assignment for a given lesson, 
+or group of lessons. Hitherto, a series of prob- 
+lems was almost always composed of a hetero- 
+geneous lot of situations. There was no unity 
+save that some one process was involved in each. 
+The movement is now in the direction of attain- 
+ing a more approximate unity within the subject- 
+matter of the problems themselves, The difficul- 
+ties of attainment have restricted this movement 
+to more progressive circles. 
+The Eclectic Source of Problems 
+The eclectic source of arithmetic problems is 
+apparent from the foregoing discussion. It would 
+seem that some better texts would naturally be 
+evolved through the implied criticism of each 
+movement upon the other. Such is the case. 
+Problems from child life emphasize the begin- 
+ning condition to which adjustment must be 
+108
+-P-A-G-E-121
+EXAMPLES AND PROBLEMS 
+made in all good teaching. Those from the 
+greater world suggest the final goals of instruc- 
+tion. Those “made up” by the teacher call 
+attention to what is too often forgotten, that the 
+educative process in school may be artful with- 
+out becoming artificial. Teaching is art, and 
+when well done is not less effective for the fact.
+-P-A-G-E-122
+XII 
+CHARACTERISTIC MODES OF PROGRESS IN 
+TEACHING METHOD 
+Variation in Method, and its Causes 
+Tue existing methods of teaching arithmetic in 
+the American elementary schools are exceed- 
+ingly varied. This is due to many causes. The 
+democratic system of local control, as opposed 
+to a centralized supervision of schools, has in- 
+creased both the possibility and the probability of 
+variation. Even within the units of supervision 
+(state, county, and municipal) the opportunity 
+for reducing variation in the direction of a more 
+efficient uniformity is lost. This is partly due to 
+the lack of a thoroughly trained staff of super- 
+visors of the teaching process. Uniformity be- 
+yond the legal units of supervision has been 
+restricted by the lack of organized professional 
+means for investigation of and experimentation 
+in controversial matters. Even such crude ex- 
+110
+-P-A-G-E-123
+PROGRESS IN TEACHING METHOD 
+periments as are being tried in more than one 
+class room, school, or system are unknown, un- 
+reported, unestimated, because no competent 
+professional body gathers, evaluates, and diffuses 
+such knowledge. In this respect the teaching 
+profession is far below the efficient organization 
+of the legal and medical professions. 
+Characteristic Traditions and Reforms 
+It is exceedingly difficult therefore to analyze 
+the characteristic aspects of teaching method 
+except as these are interpreted in movements of 
+general significance. These may be actual or 
+potential, traditional or reformatory, general or 
+local in present acceptance. The situation is one 
+wherein tradition is mixed with radicalism, and 
+radicalism modified by reaction. In this medley 
+of movements there are dominant tendencies 
+both traditional and progressive. 
+Forces for Progress in Method 
+It is quite impossible to indicate the progres- 
+sive tendencies with clearness save in connection 
+with the discussions of concrete difficulties in . 
+Ir
+-P-A-G-E-124
+TEACHING PRIMARY ARITHMETIC 
+mathematical teaching. The forces that are be- 
+hind these tendencies may, however, be summa- 
+rized here. For convenience, they may be classi- 
+fied into eight types of influence, extending from 
+more or less vague and general movements to 
+very particular, scientific contributions. No at- 
+tempt is made to indicate the achievement of 
+each ; the form of each influence is only roughly 
+defined, and illustrative movements or studies 
+are suggested :— 
+General Pedagogical Movements 
+(1) It is obvious that any general pedagogical 
+movement that influences the professional atti- 
+tude of teachers will influence the special meth- 
+ods of mathematical teaching. The appearance 
+of the doctrine of interest made mathematical 
+instruction less formal. The growing enthusi- | 
+asm for objective work enlarged the use of ob- 
+jects in the arithmetic period. The child study 
+movement laid emphasis upon the child’s own 
+plays and games as a source of problems and ex- 
+amples. 
+  112
+-P-A-G-E-125
+  PROGRESS IN TEACHING METHOD 
+Special Pedagogical Movements 
+(2) Certain special movements in methods of 
+teaching, local to the subject of mathematics, 
+have also been effective. Here one has only to 
+recall the “Grube” method, with its influence 
+on the order and thoroughness with which the 
+elements of arithmetic are taught. 
+Daily Trial and Error 
+(3) The tendency of every teacher, who is at 
+all sensitive to the defects of his methods, is to 
+vary his daily practice. Constant trial, with error 
+eliminating and success justifying a departure, is 
+thus a source of progress. The new devices of 
+one teacher are taken up by the eager profes- 
+sional witness, and innovation is thus diffused, 
+We have no ability to measure how much pro- 
+fessional progress is due to individual variation 
+in teaching and its conscious and unconscious 
+imitation. The disposition of school systems to 
+send their teachers on tours of visitation without 
+loss of salary is a recognition of the value of 
+this method of advance. 
+113  
+-P-A-G-E-126
+  TEACHING PRIMARY ARITHMETIC 
+Experimentation of Progressive Teachers 
+(4) A far more efficient and radical source of 
+change than that just mentioned is the delib- 
+erate, conscious, experimental teaching of pro- 
+gressive individuals. Some new idea or device 
+occurs to the teacher of original mind, and it is 
+tried out with a fair proportion of resulting suc- 
+cesses, An illustration of such a contribution is 
+found in one conspicuous effort to get more rapid 
+column addition. The first columns to be added 
+were allowed to determine the selection and 
+order of addition combinations learned. Thus if 
+6+7+9+6+7=35 is the first column to be used, 
+then the first combinations mastered will be 
+6+7=13, 3+9=12, 2+6=8, 8+7=15. Arising 
+as a fruitful idea and seeming to give a measure 
+of success, it has been carried, in the particular 
+locality in mind, from school to school, and from 
+system to system. 
+Reconstruction through Psychological Criticism 
+(5) A prolific source of radical change is found 
+in the critical application of modern psychology 
+114 
+ 
+-P-A-G-E-127
+  
+. PROGRESS IN TEACHING METHOD 
+to teaching methods. Algorisms, types of diffi- 
+culty, the order and gradation of these, as well 
+as many other factors in method have been rad- 
+ically reorganized on psychological grounds. Ex- 
+amples of such psychological modifications of 
+method are found in the “Courses of Study for 
+the Day Elementary Schools of the City of San 
+Francisco.” Still more extensive critical applica- 
+tions are found in the “ Exercises in Arithmetic” 
+devised by Dr. E. L. Thorndike, Professor of 
+Educational Psychology in Teachers College, 
+Columbia University. 
+Studies in the Special Psychology of 
+Mathematics 
+(6) Attempts have been made to inquire into 
+the special psychology of arithmetical processes 
+through careful experimentation and control. 
+They have not been numerous, nor have’ they 
+been influential on current practice. Such a field 
+needs development. A typical attempt to investi- 
+gate and formulate the special psychology of 
+number is found in a Clark University study of 
+115 
+ 
+-P-A-G-E-128
+TEACHING PRIMARY ARITHMETIC 
+“Number and its Application Psychologically 
+Considered,” 
+  Investigations of Existing Methods 
+(7) Educational investigations as to the effi- 
+ciency of existing arithmetical teaching among 
+school systems, sufficiently varied to be repre- 
+sentative of American practice, have also been 
+conducted. These have usually gone beyond the 
+field of the special methods of presentation em- 
+ployed in the classroom, and have inquired into 
+the conditions of administration and supervision, 
+the arrangement of the courses of study, and 
+other similar factors. Dr. J. M. Rice’s studies into 
+“The Causes of Success and Failure in Arith- 
+metic”? investigated such specific factors as: 
+The environment from which children come, their 
+age, time allotment of the subject, period of school 
+day given to arithmetic, arrangement of home 
+work, standards, examinations, etc. A subsequent 
+1 Phillips, D. E., “ Number and its Application Psycholog- 
+ically Considered,” Pedagogical Seminary, 1897-8, vol. 5, 
+pp. 221-281. 
+2 Rice, J. M., Educational Research: Causes of Success 
+and Failure in Schools,” Forum, 1902-03, vol. 34, pp. 281-97, 
+437-52. . 
+116
+-P-A-G-E-129
+  PROGRESS IN TEACHING METHOD 
+study of similar type, but employing more refined 
+methods, is that of Dr. C. W. Stone on “Arith- 
+metical Abilities and some Factors determining 
+them.” The main problem of this study was to 
+find the correlation between types of arithmet- 
+ical ability and different time expenditures and 
+courses of study. These two studies have prob- 
+ably attracted more general notice than any other 
+studies of arithmetical instruction. While they 
+have largely dealt with administrative conditions 
+that limit teaching method, rather than with the 
+details of teaching method itself, they have stim- 
+ulated the impulse to investigate conditions and 
+practices of every type. 
+Special Experiments in Controlled Comparative 
+Teaching 
+(8) The latest source of progress in teaching 
+method is found in the movement for compara- 
+tive experimental teaching under normal but care- 
+fully controlled conditions. Several such exper- 
+iments are being conducted in the Horace Mann 
+1Stone, C. W., “ Arithmetical Abilities and Some Factors 
+determining them,” Columbia University Contributions to Ed- 
+ucation, Teachers College, N. Y. City, 1909, p. 101. 
+117
+-P-A-G-E-130
+TEACHING PRIMARY ARITHMETIC 
+Elementary School of Teachers College, Colum. 
+bia University, under the direction of Principal 
+Henry C. Pearson, with the co-operation of the 
+staff of Teachers College. This experimental 
+work is designed to determine primarily the 
+relative value of competing methods in actual 
+use throughout the country, the assumption being 
+that every substantial difference in practice im- 
+plies a difference of theory and consequently a 
+controversy that can be resolved only on the 
+basis of careful comparative tests. Two parallel 
+series of classes of about the same age, ability, 
+teacher equipment, etc., are selected for this 
+work. One series is taught by one method ; the 
+other series by the other method. The abilities 
+of these children are measured both before and 
+after the teaching, and the growth compared. 
+The standards and methods of this type of com- 
+parative experimentation, together with a list of 
+current competitive methods requiring investiga- 
+tion, are given in Dr. David Eugene Smith’s 
+monograph on “ The Teaching of Arithmetic.” ! 
+1Smith, D. E.,.“ The Teaching of Arithmetic,” chap. XvI, 
+Teachers College, January, 1909. 
+ 
+-P-A-G-E-131
+  
+i x OUTLINE 
+I. THE SCOPE OF THE STUDY 
+Function of the isi to Trace General Tenden- 
+CIC Rigs oe oases Velie k eae eis aaeak 
+Teaching Method is a Mode of Presentation. . 2 
+Distinct Uniformities Exist among its Variations 
+. The Methods of Public Elementary Schools are 
+Representative. . . . een oes Wee 
+Elementary Mathematics is Mainly Arithmetic . 5 
+Elementary Arithmetic Emphasizes the Four 
+Fundamental Processes. . . . . . eG 
+. The Need for Studying Exceptional ‘iaiates 
+Tendencies 4s hte a ek s ee ee 
+THE INFLUENCE OF AIMS ON TEACHING 
+Factors Influencing Teaching Methods. . . . 9 
+The Influence of a Scientific Aim. . . . . . 9 
+The Influence of the Aim of Formal Discipline . 12 
+The Shift in Emphasis from Academic to Social 
+PASONS 6 op oe) Sela age wa Mae ole a 
+; Business Utility ascan Bnd). 6.3. se aS 
+Broad Social Utilitarianism as a Standard . . . 17 
+Some Concrete Effects of the Change in Aim . 19 
+11g 
+ 
+-P-A-G-E-132
+OUTLINE 
+Ill. THE EFFECT OF THE CHANGING STATUS 
+OF TEACHING METHOD 
+1. Method as Psychological Adjustment to the Child 21 
+. The Effect of an Increased Reverence for Child- 
+OOM his as: ie «22 
+. The Reconstruction of Method shige Pips! 
+ogy. - 23 
+. The eed Piateaserel Respecitality of Con: 
+scious Method. . . . + 25 
+. The Prevalence of Methods Emphasing a Single 
+Tdegiin. 3. % - 26 
+6. The Tendency suds i Uniformity i in 1 Method 28 
+» Method as a Series of Varied, Particular Adjust- 
+MINGLING: 7 ep cttces “oy ap toeeet ib el ier che tengo: 
+Iv. METHOD AS AFFECTED BY THE DIS- 
+TRIBUTION AND ARRANGEMENT OF 
+ARITHMETICAL WORK 
+. The Tendency toward Shortening the Time Dis- 
+tribution. . . Pe Cree Pha 
+. The Attempt to Eliminate Waste Bite oie + 33 
+. Delay in Beginning Formal Arithmetic Teaching 34 
+. The Incidental Method of Teaching . . . . . 35 
+. Reactions against the Plan of Incidental Teaching 36 
+. Logical and Psychological Types of Arrangement 38 
+. Estimates of Worth. . . . . sige ao 
+. The Present Mixed Method of Prdigiduen Ss ee 
+120 
+ 
+-P-A-G-E-133
+OUTLINE 
+‘THE DISTRIBUTION OF OBJECTIVE WORK 
+I. 
+2. 
+3. oe oe 
+Vil. 
+WEY Dn Objective Teaching is Generally Current . . . 42 
+Its Distribution is Crudely Gauged . . . . . 43 
+Tendency toward a More Refined Correlation 
+of Object-Teaching with Particular Immatu- 
+MLC erie ae ous ee eee ee es ace 
+. The Movement Supported by both Scientific and 
+Common-Sense Criticism . . . . . . » . 46 
+THE MATERIALS OF OBJECTIVE TEACHING 
+The Indiscriminate Use of Objects . . . . . 47 
+The Artificiality of Materials Utilized . . . . 47 
+Narrowness in the Range of Materials . . . . 48 
+Inadequate Variation of Traditional Materials . 49 
+The Restricted Use of Diagrams and Pictures . 50 
+Plays and Games in Object Teaching . . . . 51 
+The Lack of Unity in the Use of Objects . . . 52 
+SOME RECENT INFLUENCES ON OBJEC- 
+TIVE TEACHING 
+The Influence of Inductive Teaching. . . . . 53 
+The Movement for Active Modes of Learning . 55 
+The Abbreviated Use of Objects . . . . . . 57 
+The Method of Parallel Correspondence . . . 57 
+The Method of Final Correspondence . . . . 58 
+121
+-P-A-G-E-134
+  OUTLINE 
+Vill. THE USE OF METHODS OF RATIONALI- 
+ZATION 
+1. The Tendency toward Rational Methods. . . 60 
+2, The Era of Direct Instruction and Drill . . . 60 
+3. Indirect Teaching as a Rational Method . . . 62 
+4. Interest as a Factor in Methods of Rationalization 63 
+5. The Reaction against Rationalization . . . . 64 
+6. Four Principles for the Use of Rationalization . 65 
+7. The Substantiating Psychology. . .. . - 67 
+8. Rationalization as a Substitute for Object Teach- 
+AND eae Weel lous SEL e Fo! wl ental gc ole ey 
+IX. SPECIAL METHODS FOR OBTAINING AC- 
+CURACY, INDEPENDENCE, AND SPEED 
+1, Supervision of Learning after First Development 69 
+2. The Use of Steps, or Stages, in Teaching. . . 70 
+3. Stages in the Presentation of Problems. . . . 71 
+4. An Opposite Method in Presenting Examples . 73 
+5. Better Transitions from Concrete to Abstract 
+Work (05 3: Aer re ey. 
+6. The Child’s Four Modes bf Work. ae ie tee ae 
+7. The Worth of these Modes . . . . ... . 76 
+8. The Traditional Quarrel between “ Mental” and 
+“Written” Arithmetic . . . ate 2 ee 
+g. The Transition from Development ee Siechiot to 
+Independent Work by Pupil. . . . . . «79 
+io. Four Characteristic Stages of the Transition . . 79 
+122
+-P-A-G-E-135
+  Il, 
+12. 
+X. OUTLINE 
+Special Methods of Attaining Speed. . . . . 81 
+The Relation of Accuracy to Speed . . . . . 82 
+THE USE OF SPECIAL ALGORISMS, ORAL 
+FORMS, AND WRITTEN ARRANGEMENTS 
+1. The Traditional Nature of Algorisms and Forms 83 
+2. The Number of Algorisms Used . . . . . . 84 
+3. Reform in the Use of Algorisms . . . . . . 85 
+4. The Standard of Social Usage. . . . . . . 86 
+5. The Extended Use of Acquired Forms. . . . 86 
+6. The Use of “Crutches” or Temporary Algorisms 87 
+7. Full and Short Forms of Calculation. . . . . 88 
+8. Forms of Analysis or Reasoning . . . . - 89 
+9. The Traditional Requirement of Full Renal 
+Analysis. . . . 5 . gees ee OO. 
+to, The Limitations of Full Fonnal ai ote eis OI 
+11. “Labeling” the Steps of Calculation. . . . . 92 
+12. So-called Accuracies of Statement . . . . . 93 
+13. Increased Use of Mathematical Symbols . . . 94 
+XI. EXAMPLES AND PROBLEMS 
+1. Formal and Applied Arithmetic . . . . . . 96 
+2. The Example and the Problem. . . . . . . 96 
+3. The Traditional Precedence of Formal Work. . 97 
+4. Objective and Narrative Presentation as a Re- 
+. form Tendency . . . sean 6 
+5. The Over-Emphasis of F' cana Work ahaa itor Oo 
+6. The Need for More Systematic Teaching of Rea- 
+SONI she War a. cee cok oes eas nteahoo
+-P-A-G-E-136
+OUTLINE 
+. Existing Devices for Testing Reasoning . . . ror 
+. Sources of Failure in the Solution of Problems . 102 
+. The Need of Varied Presentations of Problem . 103 
+. Improvement in the Subject-Matter of Problems 104 
+. Real and Concrete Problems Taken from the 
+Larger Social World . 2. 1 4 4 1% «104 
+. Real and Concrete Problems Taken from the 
+13: 
+14. 
+15: 
+16. Child's Ownrlifes e745. oO. steph a + OS 
+The Imaginative or Hypothetical Problem . . 106 
+Valid Arguments for Actual Problems. . . « 107 
+Unity in the Subject-Matter of Problems . 108 
+The Eclectic Source of Problems . . . + 108 
+XII. CHARACTERISTIC MODES OF PROGRESS 
+1; 
+2. 
+3 
+4 
+i 
+6. 
+7. 
+8. 
+9. IN TEACHING METHOD 
+Variation in Method and its Causes. . IIo 
+Characteristic Traditions and Reforms . 11 
+Forces for Progress in Method . . . 112 
+General Pedagogical Movements. . . 112 
+Special Pedagogical Movements. . . . . . 113 
+Dajly Trialand Errom . . . - 2s . 2 113 
+Experimentation of Progressive Teachers . . 114 
+Reconstruction through Psychological Criticism 114 
+Studies in the Special Psychology of Mathe- 
+matics. . . . Siar sigietig Geel hale. ie 0) ae 
+. Investigations of Existing Methods. . . . . 116 
+. Special Experiments in Controlled Comparative 
+PCCM Gi, eee okies ee al coo 
+ 

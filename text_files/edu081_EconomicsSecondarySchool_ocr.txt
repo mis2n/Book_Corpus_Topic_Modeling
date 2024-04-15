@@ -1,0 +1,3324 @@
+-P-A-G-E-1
+  
+  
+  
+  
+  
+  
+  
+    Riverside Educational Monographs 
+EDITED BY HENRY SUZZALLO 
+PROFESSOR OF THE PHILOSOPHY OF EDUCATION 
+TEACHERS COLLEGE, COLUMBIA UNIVERSITY 
+ECONOMICS IN THE 
+SECONDARY SCHOOL 
+BY 
+JOHN HAYNES, Pu.D. 
+HYDE PARK HIGH SCHOOL, BOSTON, MASS. 
+HOUGHTON MIFFLIN COMPANY 
+BOSTON, NEW YORK AND CHICAGO 
+Che Vivergide Press Cambridge 
+  
+        
+  
+  
+  
+      
+             
+-P-A-G-E-2
+  COPYRIGHT, 1914, BY JOHN HAYNES 
+ALL RIGHTS RESERVED 
+‘The Riversibe Press 
+CAMBRIDGE . MASSACHUSETTS 
+tC... a 
+ 
+-P-A-G-E-3
+  PREFACE 
+Tus little book has grown out of the author’s 
+interest in economics, his conviction that igno- 
+rance of its elementary principles is at the bot- 
+tom of much of the faulty legislation and adminis- 
+tration in our country, and finally, out of his own 
+experience in teaching the subject to secondary- 
+school pupils. To test his own beliefs on the mat- 
+ter he has read widely on the subject and made 
+extensive inquiries, with the result that his own 
+convictions, based on experience, have been con- 
+firmed. In 1912 he sent out a questionnaire to 
+secondary-school teachers of economics in all 
+parts of the country and received seventy-five 
+replies, which furnished him with a large amount 
+of information which has been of use in the prep- 
+aration of this study. The author desires to take 
+this opportunity to thank his correspondents, 
+among whom are many of the leading teachers 
+of economics in the secondary schools, for the 
+invaluable help they have given him in the in- 
+vestigation of his topic. The questionnaire was 
+as follows: — 
+iii 
+3665 
+ 
+-P-A-G-E-4
+& a 
+Se 
+oh 
+See 
+To. 
+II. 
+12. 
+13. 
+14. PREFACE 
+. Name and location of school. 
+. Name of the teacher of economics. 
+. Teacher’s general education; graduate of what 
+college or normal school? 
+. Teacher’s special training in economics. (A full 
+answer specifying each course taken and the 
+time devoted to it will be appreciated.) Has 
+the preparation for teaching economics been equal 
+to that enjoyed by the teacher in other subjects 
+taught by him or her? 
+. What is the line of the teacher’s chief interest? 
+What other subjects does he or she teach? 
+. What textbook-is used? 
+. In what year is economics taught and what is its 
+time allotment? 
+. In what courses is it (a) required, (0) optional, 
+(c) not permitted? 
+. What work in the school leads up to or prepares 
+for economics? 
+How is it correlated with other subjects? 
+When was economics introduced into the school? 
+Number of pupils in this year’s graduating class 
+and the number who have studied economics. 
+How does the teacher feel that the results ob- 
+tained in the teaching of economics compare, in 
+proportion to the time given to the subject, with 
+the results obtained by him or her in other sub- 
+jects (a) as to quality of classroom work and (6) 
+as to application to the pupil’s life out of school? 
+Arguments for or against having economics as 
+a secondary-school subject. 
+iv
+-P-A-G-E-5
+  PREFACE 
+1s. What methods are used in teaching economics? 
+(A full answer is desired. Please state what use 
+is made of notebooks, of other authorities than 
+the textbook, of newspapers or magazines, of 
+visits to industrial establishments, or any other 
+means of making the work effective.) 
+In 1899, Professor Frederick R. Clow, of the 
+Oshkosh, Wisconsin, Normal School, published, 
+in the Economic Studies of the American Eco- 
+nomic Association, a very valuable monograph on 
+“Economics as a School Study,” which traversed 
+very much of the same ground covered by this 
+essay. The present monograph is, however, an 
+independent piece of work. On every point cov- 
+ered in the essay the author has sought all avail- 
+able material, much of which was not in existence 
+when Professor Clow wrote, and has reached a 
+conclusion which is entirely his own. In some 
+cases his conclusions differ from those of the mono- 
+graph’ in question. Only in a few minor ways is 
+the present work different from what it would 
+have been had Professor Clow’s essay never 
+been published. 
+It is the hope of the writer that this study 
+will have some influence in hastening the spread 
+of the study of economics, which is in any event 
+sure to come. At the same time he hopes that it 
+v
+-P-A-G-E-6
+  PREFACE 
+will be of assistance to teachers of economics in 
+the secondary schools, especially to the inexpe- 
+rienced and those with but a limited knowledge 
+of the subject, to whom the great privilege of 
+teaching it may come. 
+Joun Haynes. 
+Boston, June 19, 1914.
+-P-A-G-E-7
+Eprror’s INTRODUCTION . . . 1 1 ee 
+I, Tue Neep or Economic KNOWLEDGE . . 
+Il. Tae Surrasrity or Economics as A SECOND- 
+ary ScHoot SUBJECT ... 
+III. THe Present Status oF ECONOMICS IN THE 
+SECONDARY SCHOOL . . 9. 4). « 6. 
+IV. Tue Prace or Economics IN THE CURRICULUM 
+AND ITs RELATION TO OTHER SUBJECTS . 
+V. Metnops or TEACHING EcoNoMICS .. . 
+VI. Tae ConTENT OF THE CouRSE IN ECONOMICS . 
+VAT: BIBEIOGRAPHINS! <5) 505 5 fee se It 
+20 
+33 
+47 
+72 
+86 
+gr 
+ 
+-P-A-G-E-8
+
+-P-A-G-E-9
+EDITOR’S INTRODUCTION 
+Tue American citizen needs information on eco- 
+nomic subjects. Every day, as a maker of public 
+opinion, he is called upon to lend the weight of 
+his personal judgment to one or another side of a 
+controversy which at bottom rests on economic 
+fact and law. Less often, but with more deci- 
+sive influence, he is asked to go to the polls and 
+solve problems of political and social welfare which 
+involve some interference with the means of pro- 
+ducing, exchanging, and distributing wealth. 
+In the face of such a persistent need for eco- 
+nomic intelligence, men and women must be edu- 
+cated into familiarity with the fundamental laws 
+and essential facts of economic science. The col- 
+leges have trained a few people, for the study of 
+economic problems is a well-established univer- 
+sity study. But we cannot be content with this 
+slight diffusion of knowledge. Discerning leaders 
+in political economy are less than half efficient 
+when the majority of men are undiscerning. The 
+level of constructive leadership is largely estab- 
+lished by the levels of popular understanding. 
+ix
+-P-A-G-E-10
+  EDITOR’S INTRODUCTION 
+The elements of economics must be taught in 
+some form in both high and elementary schools. 
+It is useless to urge that economics is a univer- 
+sity subject and not a high-school study. Such a 
+statement is not an argument against the teaching 
+of economics in the lower schools; it is merely an 
+expression of the present educational status of the 
+science. It is this status which we must change. 
+The fact is that all men imply or assume eco- 
+nomic knowledge when they participate in present- 
+day affairs. What they get is usually obtained in 
+a haphazard way, — from newspapers, maga- 
+zines, and conversation. It would be ridiculous 
+to assume that the schools can do no better by 
+the average man than these incidental agencies 
+of economic teaching. The high school cannot 
+do as well as the college, and the elementary 
+school cannot hope to approximate the service 
+of the high school; but each can do more for its 
+clientage than it now does. It is all a matter of 
+making schoolmasters feel with sufficient force 
+the urgency of the task; when this is accomplished, 
+well-trained teachers, the proper selection of 
+topics, and effective modes of teaching will follow 
+in due course. If doing something to give men eco- 
+nomic intelligence is felt to be worth while, we 
+shall get whatever experimentation is necessary 
+x
+-P-A-G-E-11
+  EDITOR’S INTRODUCTION 
+to indicate the causes of failure and to suggest 
+the ways and means that will bring success. 
+In the course of any such enthusiastic experi- 
+mentation it will soon be made clear to us that 
+high-school students are not interested in the 
+same range of problems, the same minute details, 
+or the same wide generalizations as are univer- 
+sity students. They require a different selection 
+of topics. The interests of high-school students 
+are determined by the psychological facts of 
+adolescence and the special contacts with the out- 
+side world usual to youth. Problems belonging 
+more or less exclusively to business and finance 
+will therefore not appeal to them at first. 
+The high-school students will be interested in 
+problems of social welfare. They will be eager to 
+understand the issues of current political debate. 
+In so far as these call for a knowledge of economic 
+fact and law they are strategic opportunities for 
+economic teaching, and can be made the points 
+of entrance into investigations of economic fact. 
+Thus topics for economic study in the high school 
+are more likely to represent units of human in- 
+terest than abstract economic concepts. The 
+more abstruse economic notions, relations, and 
+generalizations will come to them indirectly, 
+as certain concrete and tangible economic facts 
+xi
+-P-A-G-E-12
+EDITOR’S INTRODUCTION 
+are directly pursued. Even the latter will be more 
+effectively acquired and organized for the lay- 
+man’s uses if they are acquired as the means to 
+interesting practical ends. 
+Making knowledge practical merely involves 
+making knowledge personal. The best way to 
+head the high-school youth toward the economic 
+interpretation of social and political life is to be- 
+gin with the economic interpretation of his own 
+life, just where the instructor finds it. Whatever 
+aspects of his own experience afford illustrations 
+for economic fact should be utilized from the 
+start. But his life is lived with more than his 
+own young kind. Group life with his fellows. 
+may be central to him; but his life has expand- 
+ing margins which more and more touch the 
+institutional life of adults. What his own so- 
+cial class or immediate neighborhood is discuss- 
+ing will be of some concern to him. What is 
+mentioned in daily newspaper and weekly maga- 
+zine will widen the teacher’s chance to vitalize 
+economic teaching. Thus the teaching of eco- 
+nomics in the high school will aim more at con- 
+trolling the child’s belief with fact than at making 
+him memorize a text of abstractions. 
+It is obvious that before economics can be 
+transmuted into a high-school subject, we must 
+xii  
+-P-A-G-E-13
+  EDITOR’S INTRODUCTION 
+have better-trained teachers, specially devised 
+texts, and a method of approach which will make 
+the high-school student feel that he is studying 
+realities. How these and other less important 
+pedagogical ends are to be attained more fully 
+is told in the volume here presented.
+-P-A-G-E-14
+
+-P-A-G-E-15
+ECONOMICS IN THE 
+SECONDARY SCHOOL 
+I 
+THE NEED OF ECONOMIC KNOWLEDGE 
+What the science of economics is 
+Economics is among the most important of sub- 
+jects. Its nature is, however, often misunder- 
+stood even among educators. It is the science 
+which deals with the social system of wealth, or, in 
+other words, it is the science which explains those 
+social phenomena which are due to the wealth- 
+getting and wealth-using activities of man. The 
+economist has to do with valuable things or goods 
+in their relation to the individual and to society 
+as a whole. He inquires into human wants and 
+the means of satisfying these wants so far as this 
+can be done by concrete goods or the hired serv- 
+ices of one’s fellows. He answers the questions 
+how society produces goods, how these goods are 
+divided among the different classes of producers, 
+and how the use of the goods reacts upon individ- 
+I
+-P-A-G-E-16
+  ECONOMICS IN THE 
+uals and the social organism. He looks at every- 
+thing from the social viewpoint and discovers 
+what is for the general welfare on the material 
+side. He makes a scientific explanation of the 
+phenomena of the industrial world. As human 
+beings put forth the greatest part of their activi- - 
+ties in industrial pursuits, —'that is, in getting a 
+living, — it is evident that economics deals with 
+one of the major aspects of human life. How im- 
+portant it is that the elementary principles which 
+govern economic activities in modern society 
+be understood will appear as our discussion ad- 
+vances. 
+The value of economics for intelligent citizenship 
+in the twentieth century 
+James Bryce has shown, in the American 
+Commonwealth, that the dominating force in the 
+American government is public opinion. Practi- 
+cally all the great questions which public opinion 
+is called upon to settle fall within the domain of 
+economics or political science. It is therefore es- 
+sential, in order that one should be a good citi- 
+zen, that he should be intelligent upon these 
+questions. This, of course, is not the only thing 
+which is necessary to good citizenship, but it 
+would take us too far afield to discuss all its ele- 
+2
+-P-A-G-E-17
+  ‘SECONDARY SCHOOL 
+ments. The point here is simply that intelligence 
+— not merely “general intelligence,” but specific 
+intelligence on public questions —is an essen- 
+tial. 
+There is special need of such intelligence in our 
+country in the years which are directly before us. 
+Up to the present time, even in our country, the 
+government has been in the hands, to a large 
+extent, of a ruling class. We are now, however, 
+in the midst of a great movement toward mak- 
+ing our institutions extremely democratic. For 
+good or ill, the initiative and referendum are 
+destined to play a great part in the decision of 
+our most perplexing questions. Whether any na- 
+tional form of direct legislation will be evolved we 
+cannot now tell, but while our Federal Constitu- 
+tion remains essentially as it now is, the States 
+will continue to deal in their legislation with by 
+far the more numerous, if not the more impor- 
+tant, questions. On these questions the voter will 
+have to declare himself affirmatively or negatively 
+with great frequency. In this country public ques- 
+tions are not left to savants to settle. In the State 
+of Missouri, for instance, there was submitted 
+to the voters in 1912 a constitutional amendment 
+with reference to taxation, the intelligent deci- 
+sion of which involved an understanding of eco- 
+3
+-P-A-G-E-18
+ECONOMICS IN THE 
+nomic rent and something of the incidence of taxa- 
+tion. In speaking of the educational value of 
+civics (simplified political science), Ruediger well 
+says, “The primary value of civics is the socially 
+practical value. Intelligent citizenship depends 
+upon it quite as much as upon history. When 
+rightly taught, it should lead to intelligent voting 
+and the upright discharge of all social-political 
+duties.” What is true of civics is true in greater 
+degree of economics. In the first place, the 
+principles of economics are far less well known 
+among the intelligent public than the main facts 
+about our government, and are far more difficult 
+to pick up from miscellaneous reading. Says 
+Professor Macvane, ‘‘ The motions of the earth 
+and its true relations to the heavenly bodies are 
+not more effectually disguised to the careless ob- 
+server than are the real facts of economic life.” 
+Economic fallacies and misconceptions are com- 
+mon in the minds of otherwise intelligent people. 
+For example, the opinion that foreign nations can- 
+not honestly be in favor of any trade with us that 
+is not to our disadvantage is tacitly held by mul- 
+titudes and makes its appearance even in the 
+speeches of alleged statesmen and in official docu- 
+ments. Much false knowledge is constantly dis- 
+seminated by political orators and the press. 
+4 
+ 
+-P-A-G-E-19
+  
+SECONDARY SCHOOL 
+People think themselves competent to reason 
+about economic problems, however complex, with- 
+out any preparatory training. The general tend- 
+ency of popular economics is toward rash gener- 
+alizations. The fallacy of post hoc ergo propter 
+hoc is the typical popular formula of argument. 
+Again, the burning questions of our day are 
+economic. We have practically reached the end 
+of our supply of free land, which has hitherto 
+furnished an outlet for those who wished to better 
+their condition. We have come upon an era of 
+rising cost of living. Discontent is rife among the 
+more poorly paid workers. There is, therefore, 
+great danger that in our discontent we shall fly 
+in the face of economic law and do great damage 
+to the social organism. Economics is at once an 
+antidote to the resistance by interested classes to 
+beneficent reforms and to the ideas of visionaries 
+who are always making chimerical proposals. 
+We are confronted with questions relating to 
+the tariff, the cost of living, the trusts, various 
+proposals for changing national and state taxa- 
+tion, transportation, banking, currency, conser- 
+vation, the merchant marine, child labor, occupa- 
+tional diseases, the minimum wage, the eight-hour 
+day, immigration, and a multitude of other and 
+subsidiary economic problems. In the words 
+S)
+-P-A-G-E-20
+  ECONOMICS IN THE 
+of Dr. Burch, “Just as the world has passed 
+through its struggles for intellectual, religious, 
+and political freedom, so it is now on the threshold 
+of the great struggle for economic freedom and 
+social justice.” This is well illustrated by the plat- 
+forms of the great parties adopted in 1912. All 
+of the economic questions enumerated above, and 
+others, are discussed in one or more of these plat- 
+forms and the majority are discussed in all of 
+them. If we omit the parts which appeal to the 
+record of the parties, or denounce other parties, 
+we shall find that more than half of what is left 
+of the Democratic and Republican platforms 
+deals with questions of a distinctly economic 
+nature, while the platform of the new Progressive 
+party devotes more than two thirds of its space 
+to the same sort of problems. The legislative 
+mills of 1913 ground out a grist of laws that have 
+an economic side which is without parallel. The 
+purpose of this legislation is almost without ex- 
+ception good, but there has been voiced an em- 
+phatic protest against the unwisdom of much of it 
+by some of the nation’s wisest leaders in reform, 
+who can by no means be classed as conservatives. 
+Economics, then, even more than civics, is needed 
+by every voter or prospective voter as a part of 
+his equipment. No person without a considerable 
+6
+-P-A-G-E-21
+  SECONDARY SCHOOL 
+knowledge of economic principles and some train- 
+ing in economic reasoning can form an opinion 
+of any value on many of the subjects which are 
+at issue to-day. We are safe in saying that a good 
+knowledge of economics is among the best assets 
+one can have who wishes to use his vote for the 
+public good. Besides helping the voter to form 
+an opinion on questions at issue, it will be a great 
+help to him in recognizing intelligent leadership 
+and will incline him to follow such leadership. 
+Men of affairs with a secondary-school training 
+in economics will be more likely than others to 
+give ear to the expert in the subject. 
+The ethical value of economics 
+Besides its contribution to the intelligence of 
+the citizen, economics has a decided value for his 
+ethical training. It inculcates self-help, it teaches 
+economy in expenditure, a lesson sorely needed 
+by the average American. The value of industry 
+and trustworthiness receives emphasis through 
+economic study. Like other social sciences, it 
+constantly inquires what is for the good of all. 
+It shows that the interests of humanity are one. 
+It takes a social point of view, and one who has 
+become habituated to taking this view has made 
+a great step toward understanding what right 
+7
+-P-A-G-E-22
+  ECONOMICS IN THE 
+conduct is in any given case. It naturally leads 
+to public spirit, putting the good of the whole 
+before purely selfish ends, and this is the essence 
+of the purest patriotism. It teaches every man 
+to estimate his labors by the tendency to promote 
+the general good. Then a great many of the ques- 
+tions of right and wrong which confront us daily 
+have an economic side. It gives a proper esti- 
+mate of the place of wealth and the right use of it. 
+The individual is taught the effects which his own 
+private acts have upon society. No one can be 
+truly moral who does not consider the social re- 
+sults of his deeds. Many an act in which people 
+take pride appears in its true deleterious charac- 
+ter in the light of economic science. For example, 
+economics teaches men and women that extrava- 
+gant expenditure cannot be excused on the plea 
+that it gives employment to labor. It develops 
+breadth of thought, it cultivates the power to 
+judge fairly of many questions in everyday life. 
+In the study of economics, many supposed facts 
+will be found to be erroneous. In the future the 
+student will be more careful. This tends to en- 
+courage the love of truth. An insight into in- 
+dustrial conditions broadens the sympathy for 
+all sorts and conditions of men. It is certainly 
+‘conducive to a love of justice and leads the stu- 
+8
+-P-A-G-E-23
+SECONDARY SCHOOL 
+dent to see something outside the economic class 
+to which he belongs. 
+The vocational value of economics 
+There are also vocational values of economics. 
+The business man learns in economics many facts 
+which are of direct value in his vocation. As will 
+appear later, it is in commercial schools and 
+courses that economics is most frequently a re- 
+quired subject. The journalist, even if he is only 
+a reporter, finds it a constant help in his work. 
+The need of such knowledge is painfully evident 
+to an economist as he reads the newspapers. The 
+clergyman needs economics for the light it throws 
+upon many questions commonly discussed in the 
+pulpit. The lawyer should have it for its bearing 
+upon many of the economic-legal questions which 
+are often arising. A greater knowledge of eco- 
+nomics on the part of judges would have been of 
+great value to the country in the last few years. 
+All those who are called upon to administer pub- 
+lic offices are in constant need of the guidance 
+of economics. Those who devote themselves to 
+charitable work need its light on their problems. 
+The legislator, like the voter, but to a larger ex- 
+tent, should be equipped with the power of eco- 
+nomic reasoning. The capitalist needs it to guide 
+9 
+ 
+-P-A-G-E-24
+ECONOMICS IN THE SCHOOL 
+him in his broad policies. The laborer needs it to 
+give him the right conception of his relation to 
+production, and laborers, as organized into unions, 
+need it constantly as a guide in deciding the pol- 
+icy of the organizations. The larger part of the 
+failures of labor organizations can be traced to 
+ignorance of economic laws. The contribution 
+of economics to vocational education is, then, a 
+large one. 
+The cultural value of economics 
+Just a word may be said about the cultural 
+value of economics, or its value as enlarging the 
+capacity for the enjoyment of life. Much of the 
+satisfaction of life comes from “‘an understanding 
+of all the elements of one’s environment that rest 
+upon law and system.” To understand our trade 
+relations or our monetary system is as truly a 
+part of cultural education as to understand chem- 
+istry or Latin. ‘Such knowledge puts one in touch 
+and harmony with large and influential elements 
+of modern life. To be ignorant of them compels 
+one to just that extent to live as a stranger in a 
+strange land.”
+-P-A-G-E-25
+  II 
+THE SUITABILITY OF ECONOMICS AS A 
+SECONDARY SCHOOL SUBJECT 
+The secondary school furnishes the last chance to 
+teach the subject to any considerable number of 
+young people 
+Since, then, the knowledge of economics is of 
+such great importance that the topics of which 
+it treats are “fundamental for intelligent and 
+responsible citizenship,” to say nothing of its 
+other values, it ought to have an honored place 
+in the program of every secondary school sup- 
+ported by the public funds unless it can be shown 
+that it is unsuitable for pupils in this grade. It 
+is the secondary school which furnishes the last 
+chance for systematic education in any subject. 
+It holds the strategic position and gives all the 
+preparation which many persons have who after- 
+ward come to important places of leadership in 
+their own communities and often in much wider 
+fields. 
+The opinions of educational authorities 
+The turning-point of the whole question is 
+the claim made by some, though a decided minor- 
+IZ 
+ 
+-P-A-G-E-26
+ECONOMICS IN THE 
+ity of those who have really studied the question, 
+that the subject is beyond the grasp of secondary- 
+school pupils. This is not the opinion, however, 
+of many of the leading educational experts. Pro- 
+fessor Hanus says, ‘‘We justly expect a modern 
+school to do its share in awakening interest in 
+and insight into our institutional life. . . . Accord- 
+ingly, we think that history, civics and econom- 
+ics, the social studies, should receive much fuller 
+recognition in secondary-school programs of 
+study than has been accorded to them hitherto.”’ 
+Nicholas Murray Butler says, “In society as it 
+exists to-day, the dominant note running through- 
+out our struggles and problems is economic. . . . 
+Yet it is a constant struggle to get any proper 
+teaching from the economic and social point of 
+view put before high-school and college students. 
+They are considered too young and immature 
+to study such recondite subjects, though the nice 
+distinctions between the Greek modes and tenses 
+and the principles of conic sections with their 
+appeal to the highly trained intellectual imagina- 
+tion are their daily food.” In a recent article 
+in the School Review, Commissioner Snedden 
+of Massachusetts has advocated the introduc- 
+tion of a two years’ course “‘constituted of suit- 
+able units from civics, economics, ethics, and other 
+12
+-P-A-G-E-27
+SECONDARY SCHOOL 
+constituents of social science enriched with vital 
+and pertinent contributions from history.” This 
+indicates that he does not consider economics, 
+properly treated, beyond the power of high-school 
+pupils. The famous Committee of Ten, though 
+they did not advocate economics as a separate 
+study, distinctly said that its fundamental prin- 
+ciples were not beyond the grasp of the sec- 
+ondary-school pupil. The Committee of Five 
+of the Department of Business Education of 
+the National Educational Association in its model 
+program included economics. Such leading col- 
+lege professors of economics as Daggett, of the 
+University of California, Laughlin, of the Univer- 
+sity of Chicago, Clark, of Columbia, Taussig and 
+Bullock, of Harvard, Patten, of the University 
+of Pennsylvania, and Ely and Commons, of the 
+University of Wisconsin, have written articles 
+in which the teaching of the fundamental prin- 
+ciples of economics below the college grade was 
+advocated. 
+The practice of leading schools 
+Economics is taught in such schools as the 
+New York High School of Commerce, the Boston 
+High School of Commerce, and the Central High 
+School of Philadelphia. Among other cities in 
+13
+-P-A-G-E-28
+ECONOMICS IN THE 
+which there are high schools having courses in 
+economics are Buffalo, Chicago, Dallas, Denver, 
+Louisville, Los Angeles, Newark, New Orleans, 
+Seattle, and Washington. Courses which are es- 
+sentially courses in economics are found in such 
+European schools of secondary grade as the Com- 
+mercial Academy of Vienna, the Commercial 
+Academy of Prague, the School of Higher Com- 
+mercial Studies at Paris, and the Public Commer- 
+cial Institute at Leipzig. 
+The evidence of those who are teaching the subject 
+The testimony of experience supports the au- 
+thorities who have been quoted. One of the ques- 
+tions in the questionnaire given in the preface was, 
+“How does the teacher feel that the results ob- 
+tained in the teaching of economics compare, in 
+proportion to the time given to the subject, with 
+the results obtained by him or her in other sub- 
+jects (a) as to quality of classroom work and (d) 
+as to the application to the pupil’s life out of 
+school?” 
+Among the teachers replying were those who 
+also taught history, civics, ancient and modern 
+languages, mathematics, science, and commer- 
+cial subjects. There were sixty-three direct re- 
+plies to the first part of the question; of these 
+14
+-P-A-G-E-29
+  SECONDARY SCHOOL 
+eighteen reported better results, thirty-seven re- 
+sults equally good, and only eight poorer results. 
+To the second part there were fifty-five answers, 
+twenty-four reporting better results, twenty- 
+seven equally good results, and four poorer re- 
+sults. Even if we count all failures to give a direct 
+answer as equivalent to saying that the results 
+were poorer, it still remains true that, in their 
+own opinion, about two thirds of the teachers 
+were getting results from economics, in both re- 
+spects equal or superior to the results in other 
+subjects. 
+This is a very remarkable showing when we 
+consider that only twenty of those replying con- 
+sidered their preliminary preparation for teaching 
+economics equal to their preparation for teach- 
+ing their other subjects. The replies as a whole 
+showed surprising enthusiasm for the subject 
+and belief in its value. Several teachers referred 
+to the testimony of their pupils to its value. One 
+boy said, “I can understand and enjoy the 
+heavier articles in magazines that I never would 
+have read if I had not taken economics.” An- 
+other teacher wrote, ‘Some boys say, ‘It is the 
+best subject I have ever taken except Commercial 
+Law.’” When we consider that a course in eco- 
+nomics is usually given only half as much time as 
+15  
+-P-A-G-E-30
+  ECONOMICS IN THE 
+a course in plane geometry, and often taught by 
+a teacher with little or no special training, the 
+answers are very encouraging. 
+The evidence of examination results 
+The reports of the New York state examina- 
+tions for 1912 confirm our other evidence. In 
+economics 27.3 per cent of the examinations 
+were rated below 60 per cent. Of all the papers 
+written by secondary-school pupils, 28.9 per cent 
+were below the grade of 60 per cent. Some in- 
+dividual subjects showed the following percent- 
+ages of failures: American history and civics, 
+25.6; ancient history (three periods), 30.4; 
+elementary botany, 30.3; civics, 30.4; commercial 
+law, 22.4; elementary drawing, 24; all English 
+subjects, 19.5; English grammar, 38.1; commer- 
+cial English and correspondence, 68; French, 
+28.6; German, 30.1; history of commerce, 60.6; 
+shorthand (2), 37.1; Latin, 36.1; physics, 25.7; 
+plane geometry, 27.3; all mathematics, 34.9. 
+The content of the course in economics on which 
+the New York Regents’ examinations are based 
+is large for the time allotment and the examina- 
+tions are thorough and exacting. Similar sta- 
+tistics from New Hampshire and North Dakota 
+are of the same purport. 
+16
+-P-A-G-E-31
+  
+SECONDARY SCHOOL 
+Economics as a college entrance subject 
+The fact that economics is widely accepted as 
+a college entrance subject is an evidence that it 
+is considered by many higher institutions a proper 
+study for the secondary school. The investiga- 
+tions of Clarence D. Kingsley into the question of 
+college requirements show that in 1912, out of two 
+hundred and three colleges reported, fifty-seven 
+allowed economics to count one or more units 
+for admission to the A.B. course and thirty-five 
+allowed it to count one half a unit. Of eighty- 
+five engineering schools, fifty accepted the sub- 
+ject for entrance; of thirty-one agricultural col- 
+leges, twenty-four. Among the institutions which 
+allow economics to count one or more units for 
+admission to the A.B. course are Leland Stan- 
+ford Jr. University, the University of Chicago, 
+the University of Michigan, Syracuse University, 
+and the University of Vermont. The study has 
+been recently added to the options which may be 
+offered at several institutions. 
+The failure to permit economics as an entrance 
+subject does not, however, indicate that the col- 
+lege authorities disapprove of economics for those 
+who are not to enter college. The recent omission 
+of economics from the options permitted in 
+17  
+-P-A-G-E-32
+  ECONOMICS IN THE 
+the old method of admission to Harvard was 
+prompted by the opinion that it is better for a 
+pupil who is to pursue economic courses in col- 
+lege to take his elementary course in college also. 
+The professor who brought about the change is 
+on record as approving the study of economics in 
+the secondary school. 
+What our evidence proves 
+From all the evidence we may be entirely satis- 
+fied that whenever the importance of economics 
+receives recognition and there is as much insist- 
+ence on having an adequate time allotment and 
+qualified teachers as in mathematics, language, or 
+science, the objection that the secondary-school 
+pupils cannot master its fundamental principles 
+will vanish. Of course a few weeks with the sub- 
+ject will not make an accomplished economist, 
+but it will come as near to it as the same number 
+of weeks will to making an accomplished physi- 
+cist or mathematician. 
+Why not sociology instead of economics in the 
+secondary schools ? 
+The question might be asked, ‘‘Why not have 
+sociology instead of economics in the secondary 
+school?” It has been advocated by some, and 
+18
+-P-A-G-E-33
+  SECONDARY SCHOOL 
+there are a few secondary schools in which courses 
+are given with such texts as Dealey and Ellwood. 
+Admitting that secondary-school pupils are ca- 
+pable of doing profitable work in sociology, it is 
+still true that economics has far more to give 
+which bears directly upon the questions which 
+public opinion is called upon to decide than does 
+sociology. It also contains much more which 
+has direct connection with the probable future 
+vocations of the pupils. A cursory comparison 
+of the tables of contents of an elementary book 
+on sociology and a similar book on economics 
+would be sufficient to show this. Moreover, 
+sociology is still in a formative stage. The study 
+of sociology should follow and not precede the 
+much more definite subject of economics. There 
+may ultimately be found in the secondary school 
+a place for some of the principles of sociology, but, 
+if so, they should come in addition to and not in 
+place of economics.
+-P-A-G-E-34
+III 
+THE PRESENT STATUS OF ECONOMICS IN 
+THE SECONDARY SCHOOL 
+The extent to which it is now taught 
+Tuerz is not sufficient evidence to enable one to 
+give a definite statement as to what extent eco- 
+nomics is now taught in the secondary schools of 
+the United States. In 1912 the writer had access 
+to the records of two publishing houses which 
+covered all subjects taught in about eighteen hun- 
+dred secondary schools. These records were made 
+for business purposes and were entirely free from 
+bias. There were, of course, many small schools 
+and some good-sized ones which were not listed. 
+About one fifth of the schools reporting had 
+courses in economics. As to the proportion of the 
+pupils who take economics in the schools where 
+it is offered, information is also regrettably in- 
+complete. The writer has statistics from sixty- 
+three schools which in 1912 graduated about 
+fifty-three hundred pupils in all courses, of whom 
+thirty-six per cent had taken economics. Pro- 
+fessor Stewart Daggett, of the University of Cali- 
+20
+-P-A-G-E-35
+  ECONOMICS IN THE SCHOOL 
+fornia, in 1912 sent out letters to the large high 
+schools in all parts of the country. Of one hun- 
+dred and thirty-three such schools, fifty-six 
+taught the subject of economics. These figures 
+appear much more favorable than those before 
+cited, but it is to be remembered that his letters 
+went to the larger schools only. 
+The study of economics in the secondary schools is 
+increasing 
+In 1893 about one twentieth of the schools 
+replying to the circular of the Committee of Ten 
+reported courses in economics. The evidence 
+already given shows a large increase since then. 
+At present economics is usually found in commer- 
+cial schools and in the commercial courses of 
+large high schools, where it is often a required 
+study. Of the fifty-four schools reporting the 
+date of the introduction of the subject in answer 
+to the writer’s questionnaire, twenty-four had in- 
+troduced it within five years, and thirty-six within 
+ten years. The state superintendents of Iowa, 
+New Hampshire, and Ohio report a decided in- 
+crease of late. From 1894 to 1910 the number of 
+schools in Minnesota giving economics increased 
+from twelve to forty-six. In New York there has 
+been a decrease due to the increased severity of 
+21 
+ 
+-P-A-G-E-36
+  ECONOMICS IN THE 
+the examinations, which are now rather hard, 
+considering the time allotment. Formerly they 
+were very easy. Wisconsin also reports some fall- 
+ing-off, though forty-seven per cent of the schools 
+reported still teach the subject. Professor Dag- 
+gett reports that answers to his inquiries indi- 
+cate that ‘not only is the teaching of economics 
+common, but there is a marked belief that the 
+demand for it will increase. .. . The conviction 
+that the demand will increase is not confined to 
+the schools which are giving economics.” The 
+facts that economics is generally considered a 
+proper study for the commercial course, and that 
+this course is meeting with increasing favor in the 
+entire country, point unmistakably to a large in- 
+crease in the numbers of pupils taking the study. 
+As its suitability to the secondary-school pupil 
+is demonstrated by its success in the commercial 
+course, its introduction into other courses will 
+become easy. It is nevertheless true that on the 
+whole the increase in the teaching of economics 
+has been slower than it ought to have been. There 
+are several reasons for this, one of which, the be- 
+lief that the subject is beyond the ability of the 
+secondary-school pupil, has been discussed at 
+length in chapter 1. We shall now examine some 
+of the other reasons. 
+22
+-P-A-G-E-37
+  SECONDARY SCHOOL 
+The belief that proper teachers cannot be had 
+It has been argued that we should not have the 
+subject in secondary schools because proper 
+teachers cannot be had. It is true that the ideal 
+teacher of the subject is a person of rare qualifica- 
+tions. He should be a person with a good special 
+preparation and of a judicial mind. Few schools 
+have enough economics to take all the time of one 
+teacher. However, economics is very largely 
+studied in colleges. During the year 1909-10, no 
+less than fifteen thousand students were begin- 
+ning the subject in higher institutions. If edu- 
+cational authorities would insist that every new 
+teacher of history, or at least every head of a his- 
+tory department, should possess an adequate 
+training in economics as well as history and civics, 
+the difficulty would pass away. In Iowa, which is 
+the banner State in the teaching of economics, 
+the subject is by law required for the first-grade 
+certificate. The writer would not wait for an ade- 
+quate supply of competent teachers, but would let 
+the demand create the supply as has been done 
+in practically all of the newer subjects. He would, 
+however, insist on having the subject taught by 
+a person interested in it,in order that it may 
+not be discredited. Teachers should be encour- 
+23 
+ 
+-P-A-G-E-38
+ECONOMICS IN THE 
+aged to study the subject in university extension 
+courses, in summer schools, or, where these op- 
+portunities are not open, by correspondence. 
+The returns quoted above show that many teach- 
+ers with comparatively small preparation feel 
+that they are doing profitable work. 
+The objection that economics deals with 
+controverted questions 
+Another objection is that economics deals 
+with matters which are controverted questions 
+and economists themselves differ on many points. 
+In the first place there is a sufficient body of 
+accepted doctrine for an elementary course. 
+Many of the propositions of economics are as 
+well established as any in geometry. When ques- 
+tions which are political issues come up, they may 
+be freed from the false popular arguments which 
+are common and the real grounds for belief in 
+each side presented. The teacher should maintain 
+a position of absolute fairness on controverted 
+questions. He should establish by example the 
+habit of open-minded consideration of disputed 
+questions. He should also make it plain that other 
+than economic considerations may properly 
+enter into the decision of many practical ques- 
+tions. Economics does not furnish a set of rules 
+24
+-P-A-G-E-39
+  SECONDARY SCHOOL 
+for the settlement of all social questions. He may 
+raise the whole discussion above the ordinary 
+level and leave the pupil to decide for himself. 
+Professor Daggett well says, “I think that the 
+boy and girl [he lives in California] who are to 
+pass on economic questions as voters should be 
+trained in economic reasoning by disinterested 
+teachers before they are called upon to vote. . . . 
+I want to see every voter accustomed to the analy- 
+sis of economic problems and to the criticism of 
+economic arguments before his decisions have to 
+count.” 
+The too scientific treatment of the subject 
+It is probable that the teaching of economics 
+in the secondary school has often failed on account 
+of the too scientific treatment of the subject. It is 
+a common fault of college-trained teachers to try 
+to teach secondary-school subjects in the way 
+in which their own professors taught the subjects 
+to them. This is less likely to happen in studies 
+which the teacher himself began in the secondary 
+school than in studies which the teacher has taken 
+only in college. Textbooks not adapted to the 
+secondary-school pupil are in frequent use in 
+classes in economics and it is surprising that such 
+good results are often attained with these books. 
+25 
+   
+-P-A-G-E-40
+  ECONOMICS IN THE 
+The teacher should be sure to select a textbook 
+which is not too hard and in all the teaching to 
+temember that he is not dealing with college 
+students. 
+The objection that proper textbooks do not exist 
+The fact that economics is being successfully 
+taught by a large number of teachers is in itself 
+a refutation of this objection. In chapter v will 
+be found a discussion of several textbooks in 
+actual use. 
+The objection that the curriculum is already 
+overcrowded 
+Again, it is said that the curriculum is already 
+overcrowded. Without doubt this has been one 
+of the chief reasons for the comparatively slow 
+progress of economics in gaining a place in the 
+secondary school. This raises the question of the 
+relative educational value of the different sub- 
+jects, a question which cannot be discussed here 
+at length. If economics has the importance 
+which the writer has tried to set forth, there are 
+few subjects which ought to be allowed to take 
+precedence of it. It may be suggested that the 
+time allotment of some subjects could be cut down 
+and others could be made optional where they 
+26
+-P-A-G-E-41
+  SECONDARY SCHOOL 
+are now required. Many pupils, especially in the 
+general courses, give a disproportionate amount 
+of time to foreign language study for a well- 
+rounded course. In many schools this study could 
+be diminished with advantage. One foreign lan- 
+guage is all that a pupil who is not fitting for a 
+higher institution should study. Professor Man- 
+chester, of the Illinois State Normal School, 
+would give one fourth of the time in a secondary- 
+school course to language and literature, one 
+fourth to science and mathematics, one fourth to 
+history, civics, commercial geography, and eco- 
+nomics, and the other fourth to electives. In the 
+best commercial schools and courses, time is al- 
+ready found for economics as a required study. 
+Economics is commonly and properly considered 
+as belonging to the same group as history and 
+civics. At the present time economics and civics 
+are both treated as the poor relatives of the differ- 
+ent blocks of history, whereas, by reason of their 
+importance, they ought to be the most honored 
+members of the group. The whole object of the 
+teaching in this group of studies ought to be prep- 
+aration for intelligent citizenship. History it- 
+self should be taught to show how the present 
+has grown out of the past. It is the present that 
+is important. Commissioner Snedden, in the 
+27
+-P-A-G-E-42
+ECONOMICS IN THE 
+article already mentioned, questions whether 
+history really functions socially. It certainly 
+would be more likely to do so if taught with the 
+conscious aim of citizenship and the course 
+crowned by a thorough study of civics and eco- 
+nomics. The writer, who has had about equal 
+training in history and economics, but has taught 
+chiefly history, believes a good course in either 
+civics or economics of much greater practical 
+social value than a course in any one of the his- 
+torical fields commonly studied. He would not 
+omit history, but he would unhesitatingly dimin- 
+ish its amount if that is the only way to get time 
+for civics and economics. There are various ways 
+of compressing the secondary-school history 
+course into three years and at the same time cov- 
+ering practically the entire field. Where only a 
+small amount of history is required for a diploma, 
+there is really no difficulty about finding time for 
+civics and economics, without interfering with 
+the necessary history. In view of their impor- 
+tance, these two studies should together be given 
+at least five hours per week for a year. As they 
+both deal with citizenship and overlap in many 
+places, they should be closely correlated and the 
+best method of securing this correlation is to have 
+them both taught by the same person, naturally 
+28
+-P-A-G-E-43
+SECONDARY SCHOOL 
+the head of the department or the best teacher in 
+the department. How the necessary time for civ- 
+ics and economics may be found will receive 
+further discussion in the next chapter. 
+The proposed teaching of economics through some 
+other subject or subjects 
+In this connection may properly be considered 
+the proposal, favored in the Report of the Com- 
+mittee of Ten, that economics be taught through 
+other subjects. They recommend that the essen- 
+tial facts of economics be taught in connection 
+with history, civics, and commercial geography, 
+and that no separate course in economics be given. 
+When they come to particulars, however, it ap- 
+pears that the subject will really become a part 
+of the course in American history. For example, 
+the theory of value is to come with the study of 
+the tariff; in connection with Jackson’s adminis- 
+tration, crises, banks, money, paper currency, and 
+bimetallism are to be taken up. The topics thus 
+enumerated in various historical connections in- 
+clude most of those which would be taken up in 
+a secondary-school course. A trained teacher of 
+economics could undoubtedly do the work in 
+the way indicated if he were allowed to subor- 
+dinate many things usually taught in history or 
+29
+-P-A-G-E-44
+  ECONOMICS IN THE 
+to have about twice the usual time allotment, 
+but it is pretty sure that the trained economist 
+would prefer to teach economics by itself and that 
+the inexperienced teacher would get far inferior 
+results to those which would be secured with the 
+use of a good textbook. As Professor Manches- 
+ter, of the Illinois State Normal School, shows, 
+experience proves that when economics is left to 
+be taught in this way it simply is not taught. It 
+is safe to say that this proposal has never been 
+carried out. Certainly no books have ever been 
+written on this theory. The report of the Com- 
+mittee of Five of the American Political Science 
+Association on the teaching of civics in the sec- 
+ondary school is significant in this connection. 
+They take up the question of the teaching of 
+civics, as is commonly done, in connection with 
+American history and devote much space to its 
+discussion, coming to the unanimous and em- 
+phatic conclusion that the subject should be 
+taught as a separate study. If civics requires a 
+separate course to secure adequate treatment (as 
+is doubtless true), it seems evident that econom- 
+ics requires it more. 
+Closely akin to the proposal to teach economics 
+through American history is the proposal advo- 
+cated by Professor F. H. Dixon, set forth in an 
+30
+-P-A-G-E-45
+  SECONDARY SCHOOL ° 
+article in the School Review for January, 1898, to 
+teach economics through industrial history. He 
+claims that the use of a textbook on economics 
+has proved a failure. The writer of this paper 
+believes the evidence he has already given dis- 
+proves this, for practically all of those who an- 
+swered his questionnaire based their work upon a 
+textbook. Professor Dixon says that a textbook 
+of convenient size for high-school use can contain 
+nothing but the barest statement of definitions 
+and principles, and, unless life is infused into these 
+principles by the teacher, the work is without 
+result. He also thinks that the pupil fails to get a 
+due idea of the development of the present form 
+of economic society. Now, textbooks do contain 
+a considerable amount of illustrative material 
+and the good teacher will supply more. If the 
+pupil has had good historical courses he knows 
+that the present grows out of the past, and be- 
+sides, he can understand the present working of 
+most economic laws without reference to history. 
+For instance, it is not at all necessary for a pupil 
+to wade through a history of land tenure in order 
+to understand the law of diminishing returns or 
+the law of rent. Though Professor Dixon believes 
+that the secondary-school pupil cannot learn eco- 
+nomics with a textbook as a basis, he does not 
+3t
+-P-A-G-E-46
+| | 
+  ECONOMICS IN THE SCHOOL 
+hesitate to recommend a great deal of reading in 
+a long list of books of which Gross’s Gild Merchant 
+and Fowle’s Poor Law are samples. We may 
+safely, it seems, dismiss the idea that a pupil can 
+somehow come to a real understanding of eco- 
+nomic principles by taking them up piecemeal in 
+connection with industrial or other history when 
+he is unable to grasp them if presented with a 
+textbook on economics as a basis.
+-P-A-G-E-47
+IV 
+PLACE OF ECONOMICS IN THE CURRICULUM 
+AND ITS RELATION TO OTHER SUBJECTS 
+Economics belongs among the “‘social studies” 
+with history and civics 
+In what has just been said, it has been taken for 
+granted that economics belongs to the same group 
+or department of studies with history and civics. 
+The only other department which would have any 
+claim on it would be the commercial department. 
+But the aim of the commercial department is 
+primarily vocational, while the aim of the de- 
+partment of history and social science should be 
+primarily preparation for citizenship. Teachers 
+of history and civics are, on the whole, more likely 
+to be qualified to teach the subject than the teach- 
+ers of commercial branches. They are, in fact, the 
+only teachers in the secondary school who are 
+specifically trained to think in terms of the social 
+organism. The replies to the writer’s question- 
+naire show that economics is taught by about 
+twice as many teachers whose chief work is his- 
+tory and civics as by those whose work is prin- 
+33 
+ 
+-P-A-G-E-48
+  ECONOMICS IN THE 
+cipally in commercial subjects. The fact that 
+economics is almost uniformly classified with 
+history and civics in educational books and official 
+documents renders extended argument on this 
+matter superfluous. The existing committee of 
+the National Education Association on the Articu- 
+lation of High School and College, in subdividing 
+its work established a committee on “social 
+studies” which include civics, economics, and 
+history. To the writer the expression “social 
+studies” seems a very happy one. It will be for- 
+tunate if the nomenclature becomes general, for 
+it will focus attention upon the true function of 
+the department which has hitherto been called the 
+history department. In the opening sentence of 
+the preliminary report upon “Social Studies” 
+made at the meeting of 1913 are these significant 
+words, “It is probable that the high-school 
+teachers of the social studies have the best oppor- 
+tunity ever offered to any social group to improve 
+the citizenship of the land.” 
+Economics, with civics, should be a required 
+subject 
+If our reasoning up to this point has been 
+sound, it follows that civics and economics should 
+be required subjects for all pupils who are not 
+34
+-P-A-G-E-49
+  SECONDARY SCHOOL 
+definitely fitting for higher institutions of learn- 
+ing, where they will have opportunity later to 
+pursue the subject. To require these studies is in 
+accord with the best modern educational theory 
+which favors the teaching, not of those subjects 
+which are supposed to train the faculties, but of 
+those subjects with which the mature mind will 
+have to deal. At present, few schools require 
+economics. There are more which require civics. 
+Of the schools replying to the writer’s question- 
+naire, about one third require the subject in the 
+commercial course. About one eighth require it 
+in one or more courses aside from the commercial 
+course. In Quincy (Illinois), Arvada (Colorado), 
+and the Central Manual Training School of Phil- 
+adelphia, it is required of all pupils. At Dean 
+Academy, Franklin, Massachusetts, all pupils, 
+except the college preparatory, are required to 
+take the same subjects in the senior year, about 
+two fifths of the time being given to civics, and 
+three fifths to economics. The two subjects con- 
+stitute a single course under the same teacher. 
+This is the ideal arrangement unless even more 
+time can be given to these very important 
+subjects. 
+35  
+-P-A-G-E-50
+  ECONOMICS IN THE 
+Girls should not be excused from studying economics 
+In this connection, the question might be 
+raised whether the “citizenship course” should 
+be required of girls as well as boys. It was the 
+experience of Professor Clow, in his classes of 
+normal-school pupils, that the young women did 
+not do as good work as the young men. The num- 
+ber of young women who failed to pass was, how- 
+ever, only 4.7 per cent, while 2.6 per cent of the 
+young men failed. The great majority of the 
+young women had creditable records. Most girls 
+in the last years of their secondary-school course 
+are certainly capable of profiting by the study 
+of economics. In the States where women possess 
+the same voting privileges with men there would 
+seem to be no foundation whatever for making 
+any distinction. Though not an advocate of 
+woman suffrage, the writer would favor requiring 
+economics and civics of girls as well as boys in all 
+States. The influence of women in public affairs 
+is constantly increasing and woman suffrage may 
+be extended to other States. At any rate, it is 
+important that woman’s influence, whether great 
+or small, should be based upon knowledge rather 
+than upon ignorant sentiment. The broadening 
+influence of economics is especially valuable for 
+36  
+-P-A-G-E-51
+  
+SECONDARY SCHOOL 
+girls, as it takes them into a field in which they 
+would otherwise probably not become interested. 
+Women as a class are brought into contact less 
+with the world than men and therefore have even 
+more need to study economics. Women, too, 
+have a great influence in the very important mat- 
+ter of expenditure. The training of American 
+women in the wise and harmonious expenditure 
+of money would be of incalculable benefit to our 
+nation. The charitable work of the community 
+tends to fall largely into the hands of women and 
+without the power to think clearly on social 
+subjects they are likely to do more harm than 
+good in many cases by so-called charitable work. 
+Economics should be studied in the last year of the 
+course 
+It is desirable that the subject of economics be 
+approached with considerable maturity of mind. 
+There is no danger that the secondary-school 
+pupil will have passed the plastic stage. It is, 
+therefore, advisable to give him economics in the 
+last year of his course. In seventy-three per cent 
+of the schools of which the writer has information, 
+the study comes in the fourth year; in fourteen 
+per cent, in the third year; and in eleven per 
+cent, in either the third or fourth year. It is evi- 
+37
+-P-A-G-E-52
+  ECONOMICS IN THE 
+dent that the overwhelming opinion favors the 
+fourth year. 
+The minimum length of the course 
+The available statistics show that by far the 
+commonest time allotment is a daily recitation 
+for one half-year. Some schools give three periods 
+for a year and a few still more. It seems to the 
+writer that the minimum time allotment should 
+be five periods per week for a half-year. One 
+semester is a short time allotment in compari- 
+son to the importance of the subject. When we 
+compare a half-year with the year usually given to 
+such subjects as algebra and geometry and three 
+or four years given to a language, which will, in 
+the case of three fourths of the pupils who study 
+it, have no point of contact with their life after 
+they leave school, this is self-evident. Twice the 
+time would produce more than twice the results, 
+but one semester is certainly worth having. 
+Where a year can be given to the subject civics 
+should come in the third year or run parallel with 
+economics in the fourth. _ 
+The relation of economics to civics 
+Our previous discussion has brought out the 
+fact that the writer considers civics as next in 
+38
+-P-A-G-E-53
+  SECONDARY SCHOOL 
+importance to economics in the formation of in- 
+telligence on public questions. Civics and eco- 
+nomics may well form one unit, that is, a five-hour 
+course for a year. For this arrangement we have 
+the distinguished support of the Committee on 
+“Social Studies” of the National Education As- 
+sociation to which reference has already been 
+made, who give this unit the title “Economics 
+and Civic Theory and Practice.” 
+The relation of economics to history 
+What shall we do, then, with the four famous 
+blocks of history of the Committee of Seven of 
+the American Historical Association? There is 
+one very simple solution, namely, to teach only 
+three of the blocks and use the place of the other 
+for civics and economics. Ancient history might 
+come the first year, medieval and modern, the 
+second year, and American history the third year. 
+In this case the English part of the European 
+history should be emphasized. Another way is to 
+do as above except that the second-year course 
+might consist of English history with a setting 
+of the most important parts of Continental his- 
+tory. The way the writer would personally ad- 
+vocate is to divide European history into two 
+parts, the first to cover both ancient and medieval 
+39
+-P-A-G-E-54
+    ECONOMICS IN THE 
+history and the second to cover modern history, 
+each part to have one year. In this way recent 
+European history receives due emphasis. The last 
+two years of the course are then left for American 
+history and a course in civics and economics. 
+Textbooks intended to cover European history 
+in two years are already appearing. The Commit- 
+tee of Five of the American Historical Association 
+significantly say, ‘‘We are . . . not ready to assert 
+that the course of the world’s history can in no 
+case be covered intelligently and effectively in 
+three years.” Another way is to offer all of the 
+four blocks of history as electives, simply pre- 
+scribing that a minimum amount of history be re- 
+quired. If a pupil has time for it, the author sees 
+no objection, but on the contrary great advan- 
+tage, in a pupil’s pursuing United States history 
+at the same time that he is taking civics and 
+economics. 
+The Committee of Seven and the Committee of 
+Five of the American Historical Association may 
+be justly criticized for giving no attention to the 
+need of finding a place for economics in connec- 
+tion with history and civics. The Committee of 
+the National Education Association on Social 
+Studies have not made this mistake. They have 
+proposed the following five units: (1) Community 
+40
+-P-A-G-E-55
+SECONDARY SCHOOL 
+civics and survey of vocations; (2) European his- 
+tory to 1600 or 1700; (3) European history to the 
+present time (including contemporary civiliza- 
+tion;) (4) United States history since 1760 (in- 
+cluding current events); (5) economics and civic 
+theory and practice. They contemplate a scheme 
+for reducing the history to two units, where 
+necessary, but how this is to be done is an open 
+question. Without indorsing all the details, the 
+writer feels that this committee’s ideas as to the 
+function of the social studies and the content of 
+the course are essentially sound. 
+In the teaching of history the economic and 
+civic phases should be emphasized. History fur- 
+nishes many illustrations of economics laws. 
+For example, the Black Death can be used to 
+teach the pupil about wages and the assignats 
+of the French Revolution to teach him about in- 
+flation. It is well that the pupil should receive 
+considerable incidental teaching in economics 
+before he takes up its systematic study. The 
+teacher ought always to have the conscious aim 
+of fitting for citizenship and in particular of 
+preparing the pupil for the systematic study of 
+civics and economics. Every course in history, 
+and American history in particular, can be made 
+to minister to these ends. 
+4 
+ 
+-P-A-G-E-56
+  ECONOMICS IN THE 
+The relation of economics to subjects other than 
+those already discussed 
+In general, there is little attempt to correlate 
+other subjects with economics. In commercial 
+schools and the commercial departments of large 
+schools, it is usually preceded by commercial 
+geography, commercial law, and often by com- 
+mercial or industrial history. The usual content of 
+commercial geography is probably the best of all 
+preparations for the study of economics. If the 
+pupil knows the principal facts of commerce and 
+industry, of climate and the geographical factors 
+affecting production, and of agriculture, manu- 
+facturing, and transportation, he has a decided 
+advantage over a pupil who has not had such a 
+course. 
+Certain parts of commercial law are of great 
+value as a preparation for the profitable study 
+of economics. Commercial and industrial history 
+also furnish an excellent apperceptive basis for 
+economics. In all these subjects there should be 
+a definite effort to prepare the pupil for the later 
+study of economics. Bookkeeping is a decided 
+help in understanding certain phases of the sub- 
+ject of corporations. In the New York High 
+School of Commerce the study of mathematics 
+42
+-P-A-G-E-57
+  
+SECONDARY SCHOOL 
+is definitely correlated with economics through 
+the instruction on graphs. 
+The same school has a required two-period 
+course for the first half-year in local industries. 
+It is designed to be of immediate value to the boys 
+who must leave school early in the course to go to 
+work and to bea preparation for the later course 
+in economics. It is so managed as to give not 
+only much descriptive economics, but to bring 
+out a number of important economic principles. 
+A detailed description of this course is given by 
+A.L. Pugh in the History Teacher’s Magazine for 
+December, 1909. 
+Economics and closely related subjects in the 
+commercial course 
+So far we have not specifically discussed the 
+commercial course. In actual practice it is in 
+this course that economics is most frequently 
+found. Here also we find the best preparation 
+in the earlier years for the study of economics in 
+later years. In the curriculum for High Schools 
+of Commerce recommended by the Committee 
+of Nine, Department of Business Education of 
+the National Education Association, we find the 
+following arrangement of studies which have 
+close relations with economics: — 
+43 
+ 
+-P-A-G-E-58
+  ECONOMICS IN THE 
+  
+  
+    First Harr Seconp Har 
+First General history to 
+year 800 A.D., 
+5 periods. 
+Second | Commercial products | Commercial geography, 
+year or local history 5 periods. 
+and industry, English and European 
+5 periods. history, 
+5 periods. 
+Third | United States Economics, 
+year history, 4 periods. 
+5 periods. Commercial law, 
+4 periods. 
+Fourth | History of commerce, | Civil government, 
+year 5 periods. 5 periods. 
+  
+This is an excellent arrangement of studies, 
+which provides an unusually fine training for 
+intelligent citizenship. It would be better if the 
+history of commerce had the place of economics 
+(including the time allotment), civics the place 
+of history of commerce, and economics the place 
+of civics. The makers of actual commercial 
+courses have usually put economics in the fourth 
+year. This is where the study comes in the courses 
+of such schools as the Boston High School of 
+Commerce, the Los Angeles Polytechnic High 
+44
+-P-A-G-E-59
+SECONDARY SCHOOL 
+School, and the New York High School of Com- 
+merce. 
+The proper content of a secondary-school course in 
+economics 
+Avery important question is what should be the 
+content of a secondary-school course in economics. 
+This depends primarily on two factors, the time 
+allotment and the purpose of the course. The 
+purpose of the course is to make the pupil inter- 
+ested in and intelligent about the economic ques- 
+tions which will confront him after leaving school. 
+The thing to be striven for is ability to observe 
+economic phenomena and to think accurately 
+about economic questions, to appreciate valid 
+arguments which he will read, or hear, and to 
+detect invalid arguments. The quality of the 
+work is of greater importance than the ground 
+covered. The North Dakota Manual for High 
+Schools well says, ‘The larger part of the time 
+should be devoted to a mastery of underlying 
+principles which are now accepted as axiomatic. 
+. .. The greater portion of the work on the course 
+should be put on: Consumption of wealth, pro- 
+duction of wealth, definition, factors; exchange, 
+money, banking and credit, international trade, 
+tariff; distribution, interest, rent, profit, wages; 
+45  
+-P-A-G-E-60
+  ECONOMICS IN THE SCHOOL 
+review of elementary concepts, wealth, capital, 
+value, utility; and study of economic problems, 
+public finance, socialism.” The New York sylla- 
+bus goes into great detail. It errs, in the opinion 
+of the writer, in being too extensive for a time 
+allotment of two periods per week for a year. It 
+contains a good deal of material about New York 
+State which would be better omitted in a short 
+course. It brings in such problems as socialism, 
+government control of industry, transportation, 
+taxation, etc., under some one of its three main 
+divisions: consumption, production, and distribu- 
+tion. It would seem better to take the fundamen- 
+tals first and then give such time as is available 
+to the study of special problems. It is, however, 
+a careful and logical piece of work which will 
+repay study by any teacher of economics. Chap- 
+ter vit of this monograph contains a detailed 
+discussion of the question of the proper content 
+of the secondary-school course in economics.
+-P-A-G-E-61
+Vv 
+METHODS OF TEACHING ECONOMICS 
+The work should be based upon a good textbook 
+WHERE economics is given as a separate subject 
+the use of a textbook as the basis of the work ap- 
+pears to be well-nigh universal. But the textbook 
+in economics must not be expected to teach the 
+subject by itself any more than a text in physics 
+or geometry would be expected to do so. Some 
+of the textbooks contain a preliminary survey of 
+economic history, but none of them make any 
+particular use of this material in the later parts 
+of the book. There is some value, perhaps, in 
+this, but, if the time is short, the writer would 
+advise entering at once upon economics proper. 
+The best textbook available should be selected 
+and all work should center around that one book. 
+The definitions in economics are very important 
+and should be very carefully explained. The 
+teacher should take great pains to see that the 
+pupils fully grasp the principal economic con- 
+cepts. Socialism, monopolies, and trusts cannot 
+47  
+-P-A-G-E-62
+  ECONOMICS IN THE 
+be discussed intelligently unless we know the 
+ideas for which they stand. One cannot follow 
+the argument for or against the single tax unless 
+he has thoroughly grasped the concept of rent. 
+Every definition and law must be abundantly 
+illustrated from actual life, and the more familiar 
+and simple the life, the better. Illustrations fur- 
+nished by the pupils and from the life with which 
+they are familiar should be sought. For instance, 
+the law of normal value can be made plain by 
+reference to the articles which members of the 
+class are in the habit of buying. The pupil must 
+be constantly made to realize that the subject has 
+to do with the actual life of men. When an ab- 
+stract principle is stated it should always be illus- 
+trated by something within the knowledge of the 
+pupils in the class. In the words of Professor Clow, 
+“Tf John cannot grasp the proposition that a 
+change in prices causes an inverse change in de- 
+mand, he will see the point quickly when asked 
+what effect the rise and fall in the price of books, 
+clothing, or railroad travel would have in his 
+demand for them.” 
+The recitation in economics 
+The recitation in economics should conform to 
+what is generally recognized as good practice 
+48
+-P-A-G-E-63
+{SECONDARY SCHOOL 
+in other subjects.1 A few suggestions may, how- 
+ever, properly be made. If there was written 
+work at the preceding recitation it may be briefly 
+criticized. Examples of good work and of poor 
+work may be read, excellences and faults being 
+indicated. The writer would advise brief written 
+exercises at frequent intervals. The fact that a 
+pupil may have a written exercise at any time is 
+a great help in securing careful preparation. Writ- 
+ing leads to accuracy and precision of thought. 
+Definitions, economic laws, and answers to eco- 
+nomic problems are excellent things to have writ- 
+ten. Sometimes the question or questions should 
+be on the lesson of the preceding day and some- 
+times on the new lesson, or sometimes on both. 
+While writing is very valuable it should not oc- 
+cupy a very large part of any ordinary recitation 
+period. Five minutes will usually suffice for such 
+written work as the writer has in mind. The class 
+should always be quizzed orally to discover 
+gaps in knowledge and fill them in. There should 
+be great freedom for pupils to ask questions. Dis- 
+cussion, not too prolonged, and germane to the 
+subject, should be encouraged. The Socratic 
+method is well adapted to economics, but the 
+1 See the Recitation, by G.H. Betts (Riverside Educational 
+Monographs). 
+49
+-P-A-G-E-64
+    ECONOMICS IN THE 
+teacher must exercise vigilance to prevent the 
+waste of time. The pupil should be encouraged 
+to challenge the opinion of the author and the 
+teacher, provided he does it intelligently. Pupils 
+get great pleasure from the discovery of the errors 
+of others. The assignment of the next lesson 
+should be done with deliberation. In making it, 
+the teacher should point out the difficulties to be 
+encountered and give sufficient help so that the 
+pupil can surmount them. He should prepare 
+himself as carefully to make the assignment of 
+the next lesson as to conduct the recitation on the 
+lesson of the day and should be sure to reserve 
+adequate time for this important task. 
+How to fix concepts and principles in the mind 
+A great danger in economics is that the stu- 
+dent will readily assent to the statement of prin- 
+ciples, which in many cases seem self-evident, but 
+will not apply the principles in his own thinking. 
+He is also likely to fail to use the concepts which 
+he has acquired. Problems and more problems is 
+the remedy for this fault. Every problem should 
+be strictly relevant to the matter in hand, should, 
+as a general rule, sharply isolate the point to be 
+made, but should not be too simple. A problem 
+may have more than one possible answer because 
+5°
+-P-A-G-E-65
+  SECONDARY SCHOOL 
+it may be that good authorities differ. Or it may 
+have different answers according to different 
+conditions. For example, the question might be 
+asked, “‘What is the incidence of a tax on dwell- 
+ing-houses?”’ Under normal circumstances the 
+answer would be that the tax falls upon the ten- 
+ant, but this would not necessarily be true in 
+a community which is diminishing in numbers. 
+Economic laws of the greatest significance and 
+true in general, or in the long run, often do not 
+work out in some exceptional case. This does not 
+disprove their general validity, but the pupil 
+should learn that there are exceptions to many 
+economic laws. There is sometimes a chance to 
+use arithmetical problems which will illustrate 
+such topics as the law of rent or monopoly price. 
+There may well be a few problems to illustrate 
+the complexity of real life. Several of the short 
+textbooks on economics contain questions and 
+problems, some of which are very good. A book 
+called Outlines of Economics developed in a Series 
+of Problems by Members of the Department of 
+Political Economy of the University of Chicago 
+contains many problems which are not beyond 
+the ability of the secondary-school pupil and de- 
+serves high commendation. 
+The following are examples of good problems:— 
+5r
+-P-A-G-E-66
+    ECONOMICS IN THE 
+. Is a share of stock in the Cunard Steamship 
+Company wealth from the standpoint of eco- 
+nomics? 
+. A newspaper reports that King Haakon of Nor- 
+way made this statement, “I could black my 
+own boots if I wished to. I have done it and 
+therefore know how, but if I did, what would 
+become of the people who make their living by 
+blacking boots?” What does the economist say 
+about this? 
+. Is a railroad an instrument of production, of ex- 
+change, or of distribution, in the economic sense? 
+. Why does any farmer cultivate more than one 
+acre at any one time? 
+(University of Chicago Outlines.) 
+. If the supply of all commodities were suddenly 
+doubled, would any change in their relative values 
+ensue? 
+. We pay one hundred and ten million dollars per 
+annum for the carrying of products between this 
+and foreign countries. Think of it! One hundred 
+and ten million dollars in gold coin has gone out 
+of the commerce of this country into the com- 
+merce of other countries. Can New York stand 
+this? (Speech of James G. Blaine in 1881.) 
+(a) Is it likely that we lost one hundred and ten 
+million dollars in gold from our circulation be- 
+cause we hired foreigners to carry our goods? 
+(b) Is it likely that we even temporarily parted 
+with that much gold on that account? 
+(c) Is it likely that as a nation we should have 
+52
+-P-A-G-E-67
+  
+SECONDARY SCHOOL 
+been that much richer if we had done this carry- 
+ing of products for ourselves? 
+(University of Michigan.) 
+7. A Boston daily paper, July 21, 1913, contained 
+the following squib, anent the salary of Secre- 
+tary of State Bryan: “Still, $12,000 a year is 
+$12,000 and not $6,000, as it would have been if 
+the country had gone on the silver basis in ’96.” 
+What erroneous impression might this convey? 
+8. Examine the opinion of Locke that an increased 
+supply of gold tends to lower the rate of interest. 
+9. What would be the effect on real wages of a great 
+increase in the ability of those who are managing 
+industries of all kinds? 
+to. When is a tax on carriages and horses a direct 
+and when an indirect tax? 
+Reviews and examinations 
+Whenever in the progress of the course a matter 
+arises that requires knowledge of something which 
+has been previously studied, there should be ques- 
+tions to make sure that the pupils possess the 
+necessary background. Whenever any large 
+topic is finished, there should be a lesson upon the 
+entire topic. There should also be a general re- 
+view at the end of the course in order that the 
+pupil may get a comprehensive view of the entire 
+subject. To a large extent problems should be 
+used in conducting this review. They will tend 
+53
+-P-A-G-E-68
+  
+  ECONOMICS IN THE 
+to bring out sharply the important concepts and 
+principles. They will also be more interesting than 
+a mere repetition of the ground previously cov- 
+ered. In planning the course the teacher should 
+allow at least one tenth of the time to be used at 
+the end for purposes of general review and ex- 
+amination. The final examination should require 
+the pupil to apply the knowledge which he has 
+acquired. Great care should be taken not to have 
+the examinations too long. There should be time 
+enough to allow all who have really mastered 
+the subject to think out their answers carefully. 
+No pupil should be regarded as having done first- 
+class work who cannot write an excellent paper 
+at the end of the course. It is not recommended, 
+however, that failure to pass the final examination 
+should in itself deprive the pupil of the credit for 
+his course. 
+The following are examples of the sort of ques- 
+tions which pupils should be able to answer at 
+the close of the course in economics: — 
+1. Mention a business undertaking that is based 
+upon the creation of (a) time value, (6) place 
+value, (c) form value. Explain in each case how 
+value is created. (New York State Educational 
+Department.) 
+2. How is the value of any natural agent meas- 
+54
+-P-A-G-E-69
+SECONDARY SCHOOL 
+ured? (State High School Board of North Da- 
+kota.) 
+. The various amounts invested on four different 
+grades of land yield returns as follows: — 
+$5 $10 $15 $20 
+Grade A 4obu. zobu. gobu. 100 bu. 
+Grade B 30 5° 60 
+Grade C 20 30 
+Grade D 10 
+If the price of the product is $.50 a bushel, what 
+will be the rental value of each grade of land? 
+Explain fully the theory underlying each step in 
+your calculation. (Dartmouth College.) 
+. What is the relation between the market price 
+of a commodity and its cost of production (1) 
+under conditions of competition; (2) under con- 
+ditions of monopoly? (Harvard University, 
+entrance examination.) 
+. State and explain the probable effects of each of 
+four of the following on the cost of living: (a) 
+tendency of population toward cities, (b) increase 
+of schooling, (¢) increased production of gold, 
+(d) multiplication of banks and credit exchanges, 
+(e) use of farm machinery, (f) increase of trans- 
+portation facilities. (New York State Education 
+Department.) 
+. Explain four of the following: bimetallism; 
+sterling exchange; central reserve city; clearing 
+house; depreciated paper money. (Harvard 
+University, entrance examination.) 
+. Show that in most cases improvements in meth- 
+55
+-P-A-G-E-70
+Io. 
+II. 
+12. 
+TS. 
+14. 
+  ECONOMICS IN THE 
+ods of production improve the lot of the laborer 
+and increase employment. Illustrate with some 
+article, as pins or typewriters. (New York State 
+Education Department.) 
+. Define labor union, justify the existence of such 
+an organization and point out two abuses into 
+which it sometimes falls. (New York State 
+Education Department.) 
+. Why is it that capital commands interest when 
+people save for a rainy day without any thought 
+of interest? (High School of Commerce, New 
+York.) 
+What constitutes just taxation? What taxes are 
+being substituted for general property taxes? 
+(State High School Board of North Dakota.) 
+Tell what you know of the Sherman anti-trust 
+law and give some account of its operation, 
+noting two cases. (New York State Education 
+Department.) 
+What effect would socialism, if successful, have 
+on production, distribution, exchange, consump- 
+tion? (State High School Board of North Da- 
+kota.) 
+Define natural monopoly. Show the advantages 
+and the disadvantages resulting from govern- 
+ment ownership of natural monopolies. (New 
+York State Education Department.) 
+Define and explain, with some detail: bank re- 
+serves, capital, division of labor, Gresham’s Law, 
+Malthus’s Law, marginal utility, normal value, 
+price and tax. 
+56
+-P-A-G-E-71
+  SECONDARY SCHOOL 
+The notebook 
+The pupil should keep a notebook, chiefly for 
+the purpose of recording supplementary material 
+given by the teacher. The amount of material 
+of this kind will naturally be rather limited in a 
+short course. It will consist largely of such facts 
+as are necessary to bring a subject up to date. 
+For example, if a class were studying the chap- 
+ter on monopolies in Bullock’s Elements of Eco- 
+nomics, where there is a brief historical sketch 
+of the question in the United States, it would 
+clearly be the business of the teacher to give the 
+class essential facts in reference to the recent 
+decisions of the United States Supreme Court 
+in the Oil and Tobacco cases. A number of good 
+teachers have the pupils make an outline of the 
+text as they proceed. The notebook would nat- 
+urally contain directions for work given by the 
+teacher; outlines of collateral reading, and other 
+material. The notebook should never be an end 
+in itself. It must always be remembered that it 
+is a means only. 
+Essays 
+During his course, each pupil should write at 
+least one carefully prepared essay. If this is based 
+57  
+-P-A-G-E-72
+  ECONOMICS IN THE 
+on reading, there should be a bibliography with 
+accurate citations and a carefully prepared out- 
+line. This essay may be on some economic ques- 
+tion or may be descriptive of some industry 
+personally investigated from the economic stand- 
+point by the pupil. The latter is to be strongly 
+recommended. Ely and Wicker’s Elementary 
+Principles of Economics contains an excellent list 
+of subjects. The industries and natural resources 
+of the locality will suggest many subjects to the 
+thoughtful teacher. The pupil himself will often 
+suggest a subject which the teacher will be glad to 
+approve. The following are typical examples of 
+good subjects: (x) Our National Ash Heap; (2) 
+How our City is Fed; (3) Child Labor; (4) Postal 
+Savings Banks. 
+The use of newspaper clippings 
+The writer of this monograph has made a good 
+deal of use of short newspaper clippings, which are 
+kept in a book separate from the notebook. The 
+clippings must be upon an economic topic. The 
+selection of the articles is in itself an exercise 
+in discriminating between what is economic and 
+what is not. This part of the work is not started 
+until the class has been studying the subject 
+several weeks. The pupil is required to write a 
+58
+-P-A-G-E-73
+  SECONDARY SCHOOL 
+brief comment on each clipping. The comment 
+may consist of an explanation of an economic 
+term which appears in the article. For example, 
+the term “preferred stock” furnishes a starting- 
+point for a brief statement about the organiza- 
+tion of a corporation. The comment may consist 
+of the explanation of an economic phenomenon 
+like the price of sterling exchange on a certain 
+day. It may consist of the reasons for approving 
+or disapproving some legislative project of an 
+economic nature. Especially to be encouraged 
+are comments which point out economic fallacies 
+which appear in print. This is hard for a pupil to 
+do, though such fallacies are not infrequent even 
+in the editorial columns of metropolitan journals. 
+Other collateral reading 
+A large part of the schools report the use of col- 
+lateral reading of some kind. Some schools use 
+several textbooks, having the pupils pursue the 
+topical method of study. To the writer of this 
+study, it seems far better for the pupil to begin 
+by mastering one book, but other texts may prof- 
+itably be used to obtain information which does 
+not happen to be contained in the regular text- 
+book. Much better for collateral study than other 
+books, covering essentially the same ground as 
+59 
+ 
+-P-A-G-E-74
+ECONOMICS IN THE 
+the text, is illustrative material like bank reports, 
+political platforms, messages of the President, 
+the Governor, and the Mayor (if the pupil lives 
+in a city). The writer has used presidential and 
+gubernatorial messages in some of his classes with 
+much satisfaction. The lesson for a certain day 
+consisted of selecting the economic proposals 
+contained in not too large a part of the message 
+and a free discussion of these proposals. Pupils 
+were held responsible for the principal points 
+brought out in these discussions. Magazine ar- 
+ticles dealing with current economic problems 
+may be assigned to individual pupils for reading 
+and report. Some schools require the review of an 
+entire book of considerable size. Other schools 
+have a report on current economic topics at stated 
+intervals. Outside readings which illustrate or 
+prove economic principles are of particular value. 
+Several books designed for collateral reading for 
+college classes have been prepared. These contain 
+selections from the writings of economists both 
+past and present, accounts of economic occur- 
+rences, selections from the reports of various com- 
+missions and government departments, and 
+extracts from important laws having an eco- 
+nomic bearing. Parts of these can be profitably 
+used by secondary-school pupils. All of these uses 
+60
+-P-A-G-E-75
+  
+SECONDARY SCHOOL 
+of material outside the text are good if rightly 
+used. The essential thing to be obtained, how- 
+ever, is not the mere reading by the pupil of cer- 
+tain material, but some sort of reaction by him 
+on the material. If, for instance, current topics 
+are used, the pupil reporting should be required 
+to show the significance of what is reported. It 
+is desirable that the school library be well 
+supplied with material for collateral reading. 
+Some of this should be used chiefly by the teacher 
+and the results of his reading interpreted to the 
+pupils. Other parts, which should be carefully 
+selected by the teacher, should be used by the pu- 
+pils. Teachers can gain much help in their teach- 
+ing by becoming familiar with the methods of 
+presentation used in other elementary texts than 
+those in the hands of the class. In another part 
+of this monograph will be found a suggestive list 
+of books, and other material for supplementary 
+uses. The writer is convinced, however, that there 
+is no better kind of supplementary work than 
+such use of short newspaper clippings as has 
+been already described. 
+The use of graphs and charts 
+A number of schools have pupils make graphs 
+and prepare statistical charts. Where there is 
+61  
+-P-A-G-E-76
+  ECONOMICS IN THE 
+time enough, this is an excellent thing to do. 
+Some textbooks, especially Laughlin’s Elements 
+of Political Economy, contain charts and graphic 
+illustrations of economic facts and principles 
+which are distinctly helpful. In some cases it is 
+possible by means of a single diagram to make in- 
+telligible at a glance what would otherwise require 
+amore or less elaborate explanation. The teacher 
+may very properly draw figures on the board for 
+pupils to copy in their notebooks. But only those 
+which arereally significant and which thepupilsare 
+expected to be able to reproduce should be given, 
+Debates on economic subjects 
+Debates on those questions where there are two 
+fairly balanced sides are excellent. There may be 
+some debates in class, but it is better still if the 
+work in economics can be closely connected with 
+the work of a regularly organized debating soci- 
+ety. The teacher should guide the preparation of 
+the debate and should always point out after 
+the debate any economic fallacies which have 
+appeared in the discussion. 
+The bulletin board 
+Another device which is largely used is the 
+bulletin board. On this are posted significant 
+62
+-P-A-G-E-77
+SECONDARY SCHOOL 
+current articles from the newspapers, the price 
+of silver, cotton, and other staples, the quotations 
+for sterling exchange, the current rate of interest, 
+bank clearings, etc. 
+Observation of economic institutions 
+Visits to institutions of economic interest such 
+as business establishments, stock exchanges, im- 
+migrant stations, etc., are used in several schools. 
+A visit to a public market is an excellent thing 
+when price is being studied. The physical diffi- 
+culty of managing them and their time-consum- 
+ing nature are hindrances to this sort of work. 
+It is well to do as much of it as circumstances 
+permit. Sometimes a whole class will make the 
+visit and sometimes a pupil alone who is inves- 
+tigating a particular topic. In either case, the 
+teacher should point out what to look for. 
+Without guidance investigation of this sort will 
+prove of little value. 
+Information obtained from individuals 
+Another help which is sometimes used is talks 
+by persons qualified to speak on some economic 
+problem. This is an excellent way to arouse in- 
+terest. Pupils should be encouraged to attend 
+lectures and hear speeches in which economic 
+63 
+   
+-P-A-G-E-78
+  ECONOMICS IN THE 
+topics are to be discussed and to have private 
+interviews with capitalists, laborers, labor-union 
+leaders, and public officials. A danger to be 
+guarded against is that such talks will not get 
+at the vital points. Certain fundamentals may be 
+so familiar to the business man that he takes for 
+granted that the pupil knows the very thing he 
+does not know and needs to be told.   
+Economics and vocational guidance 
+An interesting and excellent combination is 
+reported from Saginaw, Michigan. This is theas- 
+sociation of economics with vocational guidance. 
+In the Boston High School of Commerce the head 
+of the department of economics is director of 
+the employment bureau. A good course in eco- 
+nomics might be of much value to young men and 
+women by assisting in the choice of a vocation. 
+-It is very certain that a knowledge of economics 
+is a necessity for the best work in vocational 
+guidance. The increased prominence which voca- 
+tional guidance is rightly obtaining ought to help 
+to a wider knowledge of economics among teach- 
+ers, and to a more extensive study of the subject 
+in secondary schools. 
+64
+-P-A-G-E-79
+  SECONDARY SCHOOL 
+The danger of trying to do too much 
+It must not be thought, because the writer 
+has enumerated and discussed so many ways of 
+doing work outside the regular routine of text- 
+book recitation, that he is oblivious of the limi- 
+tations of time and strength which must affect 
+both pupil and teacher. The wise teacher will 
+select those methods which seem best adapted to 
+the conditions in which he finds himself, which 
+include the time allotment, the size of the class, 
+the ability and preparation of the pupils, and the 
+other work which the teacher has to do. Where 
+only one semester is allowed to do the work, the 
+teacher must take care that too many things, each 
+good in itself, are not attempted, for there is 
+danger that the main purpose of the course may 
+fail to be attained. © 
+The sort of textbook needed 
+The question of textbooks has been left for con- 
+sideration at the end of this chapter in order that 
+it might be discussed in the light of what has 
+previously been said. The secondary-school text 
+in economics should treat the fundamentals of 
+the subject as already set forth in not over ninety 
+65 
+ 
+-P-A-G-E-80
+    
+ECONOMICS IN THE 
+thousand words, so that it can be covered in one 
+semester and some time remain for collateral 
+work. Besides the more fundamental parts, the 
+same book might well contain chapters on the 
+leading economic questions of the day for the use 
+of those classes which have time for them. Ma- 
+terial of aless important or more difficult charac- 
+ter than the fundamental parts should be printed 
+in different type and so arranged that it may be 
+omitted by classes whose time is limited. In other 
+words, the book should be so made up that it can 
+be conveniently used for courses of somewhat 
+differing lengths. The language should be simple 
+and clear. Every technical word should be clearly 
+defined. The sections should be numbered and 
+each one should have a well-worded heading 
+printed in heavy type. Definitions, economic 
+laws, and important words and phrases should be 
+printed in italics or otherwise made prominent. 
+The principles set forth should be carefully ex- 
+plained and abundantly illustrated. Numbering 
+and lettering should be freely used to bring out 
+the relation of one part of the text to another. 
+This is a decided help to the pupil toward grasp-. 
+ing the subject. At the end of each chapter there 
+should be a good set of questions and economic 
+problems such as have been described. All these 
+66
+-P-A-G-E-81
+  
+SECONDARY SCHOOL 
+excellences have appeared in different texts, but 
+have been only partly combined in any one book. 
+Some of the books which are in use 
+Several textbooks of considerable merit have 
+been written on elementary economics, but we will . 
+simply notice briefly the five books which now 
+practically occupy the field. The replies to the 
+writer’s questionnaire indicate that the following 
+books were the only ones which were used to 
+any considerable extent: Ely and Wicker’s 
+Elementary Principles of Economics, Bullock’s 
+Elements of Economics, Bullock’s Introduction to 
+the Study of Economics, and Laughlin’s Ele- 
+ments of Political Economy. The last, which is the 
+oldest of the above-mentioned texts, and is some- 
+what old-fashioned, is now the least used. It has 
+exercises at theend of eachchapter,many of which 
+are excellent. The book is somewhat too volumi- 
+nous for a half-year course in the subject, but is 
+so arranged that Part 1 makes a complete course 
+byitself. Professor Bullock is an excellent econo- 
+mist and the general soundness of hispresentation 
+of the subject doubtless accounts for the wide use 
+of his two books. The Elements is not, however, 
+well arranged for teaching purposes, and the au- 
+thor has not succeeded very well in making its 
+67
+-P-A-G-E-82
+  ECONOMICS IN THE 
+language suitable to the secondary-school pupil. 
+Some of the descriptive and historical material 
+could be abbreviated without serious loss. The 
+Introduction is an excellent college book, but was 
+never intended for the secondary school. Burch 
+and Nearing’s Elements of Economics is a new 
+book issued in 1912. It has already met with a 
+good dealof favor. Dr. Burch, one of the authors, 
+isa secondary-school teacher in Philadelphia. The 
+book is of reasonable compass, and its language 
+is usually clear. It seems to the writer to have too 
+much purely descriptive material and to omit 
+some topics which ought to be treated ‘even in 
+an elementary book. It also appears not to rep- 
+resent so well as Bullock’s Elements, and Ely 
+and Wicker, the general consensus of economic 
+thought. The Ely and Wicker has many ex- 
+cellent features. It is of reasonable compass, 
+impartial, logically arranged, and on the whole 
+easily understood. Its make-up is such as to 
+assist the pupil in studying it. Important words, 
+phrases, and sentences are italicized. It has a 
+summary and questions at the end of each 
+chapter. Some of the material is printed in 
+smaller type than the rest to indicate its lesser 
+importance. The chapters on economic history 
+add little to the real value of the book, but 
+68
+-P-A-G-E-83
+SECONDARY SCHOOL 
+they may easily be omitted in a short course. 
+The secondary-school teacher of economics ought 
+to possess a copy of each of the above-mentioned 
+books. They all contain valuable suggestions for 
+him. It would certainly be desirable also that 
+several copies of each should be available for the 
+use of pupils. 
+Our conclusion with reference to textbooks 
+In chapter m1 reference was made to the objec- 
+tion that there are not suitable textbooks in 
+economics for the secondary school. No one of the 
+books which we have just discussed seems to the 
+writer exactly ideal, but each has its peculiar 
+excellences and good work is being done with 
+every one of them. There are innumerable books 
+in constant use on other subjects which are cer- 
+tainly no better adapted to their purpose. When 
+due allowance for faults has been made, we still 
+conclude that the objection to the study of eco- 
+nomics in the secondary school based on the want 
+of suitable textbooks is untenable. 
+A textbook for the inductive method 
+It seems proper before leaving the subject of 
+textbooks to speak of Professor H. W. Thurston’s 
+Economics and Industrial History for Secondary 
+69 
+ 
+-P-A-G-E-84
+  ECONOMICS IN THE 
+Schools, which differs widely in its plan from other 
+texts. It is intended as a guide to the inductive 
+study of the subject. The pupil begins by making 
+a list of all the occupations by which people of 
+his acquaintance make a living. Next he divides 
+these occupations into classes. In the textbook 
+similar work continues through twenty lessons, 
+having twenty-nine pages of questions and direc- 
+tions as a guide; then follow one hundred and 
+forty-four pages of economic history; and last 
+of all, eighty-seven pages given to an elementary 
+discussion of the fundamental economic princi- 
+ples. Even in the last part, the treatment of the 
+subject is very largely by questions, to which the 
+pupils are to find the answers. This book ap- 
+pears to exaggerate a good feature of economic 
+teaching, namely, observation of economic phe- 
+nomena. This should be used to a considerable 
+extent, — do as large an extent as time permits, — 
+but the pupil cannot “make his own economics” 
+any more than he could make his own physics. 
+Moreover, it must be remembered that experi- 
+ment by the pupil is impossible in economics. It 
+is true that there is a kind of experimentation in 
+economics furnished by history and by legislation, 
+and that economic hypotheses like other scien- 
+tific hypotheses must be verified, but the pupil 
+7O
+-P-A-G-E-85
+  SECONDARY SCHOOL 
+cannot do this in the laboratory even to the 
+limited extent to which he can do it in the phys- 
+ical sciences. The verification of economic laws 
+usually requires very wide observation both as 
+to time and as to space. Some of the simplest 
+economic principles, which are now regarded as 
+axiomatic, were not understood by such a great 
+man as Turgot, though he was a diligent student 
+of economic science. In economics the principles 
+are often simple, while the facts are very com- 
+plicated; for example, Gresham’s Law and the 
+fact that international trade is essentially the 
+exchange of commodities. Then, there is danger 
+of wasting time on the “investigation” of things 
+the pupils already know. The aggregate experi- 
+ence of a class will be found to be large and it can 
+constantly be drawn upon as needed. However, 
+Professor Thurston’s book contains much that 
+can be profitably used by a teacher of economics. 
+Many of its questions are very good.
+-P-A-G-E-86
+  VI 
+THE CONTENT OF THE COURSE IN ECONOMICS 
+A suggestive outline 
+Tue outline which is here given is for a course 
+in economics for five periods per week for one 
+semester. It is believed that well prepared fourth- 
+year pupils can cover it all and that there will 
+still remain some time for the introduction of work 
+of the teacher’s own selection and for a proper 
+final review and examination. Doutbless many 
+teachers will find that there are omissions of 
+things they would deem more important than 
+some things which are included. The outline is 
+intended to be suggestive to the teacher who has 
+to plan a course. Such a teacher will naturally 
+modify it somewhat to suit his own views and to 
+meet his own problems. 
+OUTLINE 
+Part I 
+I. Inrropvucrion. 
+Economics defined: its nature as a social study 
+simply explained; its content briefly indicated; the 
+nature of economic laws elucidated. 
+72
+-P-A-G-E-87
+  ECONOMICS IN THE SCHOOL 
+II. Consumption. 
+A. Human wants: the diversification of wants: the 
+creation of new wants and its relation to busi- 
+ness. 
+B. Utility and goods: definitions of utility and kinds 
+of utility; goods defined; things which are legal 
+property but not economic goods, e.g., a cer- 
+tificate of stock in a corporation; the law of di- 
+minishing utility; marginal utility; relation of 
+marginal utility to cost. 
+C. Demand: definition; the laws of demand; the 
+function of advertising; Engel’s Law. 
+D. Wise and unwise consumption; final and pro- 
+ductive consumption of goods; harmonious ex- 
+penditure of resources; saving; luxurious expen- 
+diture; injurious expenditure; consideration of 
+family budgets; codperative consumption. 
+II. Propucrion. 
+A. Definition, explanation and illustration; the four 
+factors of production, nature, labor, capital and 
+management. 
+B. Nature: the word land as an economic term; the 
+law of diminishing returns; causes which set 
+back the point of diminishing returns, such as 
+improved machines, methods and varieties of 
+animals and plants; the filling up of our terri- 
+tory as an element in the increased cost of 
+living. 
+C. Labor: definition, explanation, and illustration; 
+conditions on which efficiency depends; the re- 
+lation of scientific management to the efficiency 
+of labor; relation of population to land; the Mal- 
+thusian theory and present conditions; immigra- 
+tion; division of occupations with illustrations; 
+73 
+ 
+-P-A-G-E-88
+  ECONOMICS IN THE 
+division of labor, with illustrations; advantages 
+and disadvantages of the division of labor. 
+. Capital: definition and illustration by concrete 
+forms; distinction between capital and non-capi- 
+tal goods; distinction between capital and per- 
+sonal qualities; circulating and fixed capital with 
+concrete illustrations; the creation of capital; 
+free and specialized capital, with concrete illus- 
+trations; how capital funds are converted into 
+capital goods; necessity for constant replace- 
+ment; advantages and disadvantages of large 
+and small scale production respectively ; the point 
+beyond which large scale production ceases to 
+have superior advantages. 
+Business management: 
+1. The nature of the entrepreneur function ex- 
+plained and illustrated. 
+2. Forms of business management: 
+a. The single entrepreneur, who takes the 
+personal responsibility and risk of coérdi- 
+nating the three other factors. 
+6. The partnership where the entrepreneur 
+function is shared; its advantages and 
+disadvantages. 
+c. The corporation, where the entrepreneur 
+function is diffused and delegated; capital 
+stock, common and preferred stock; wa- 
+tered stock and overcapitalization; real 
+nature of corporation bonds as representing 
+part of the capital invested; proper pro- 
+portion between stock and bonds; hold- 
+ing companies. 
+d. Coéperative business where the laborers 
+are partners or stockholders. 
+74
+-P-A-G-E-89
+  SECONDARY SCHOOL 
+e. Government industry, where the whole 
+people are, as it were, stockholders in a 
+corporation; kinds of business commonly 
+so conducted in our own and other coun- 
+tries. 
+3. The great importance to society of good busi- 
+ness management. 
+IV. ExcHance. 
+ne 
+B. Definition, explanation, and illustration; the 
+advantages of exchange. 
+Value: definition and illustrations of value; 
+demand and supply; the law of value under con- 
+ditions of free and fair competition; market 
+value; normal value and the law of normal value; 
+influences modifying the working of the law, like 
+large fixed capitals and by-products; different 
+costs of different portions of the supply; impor- 
+tance of marginal cost; the law of monopoly 
+value; natural and legal limitations on the power 
+of monopolies to fix prices. 
+. Money: 
+1. Definition of money; the functions of money; 
+qualities desirable in the money material; 
+coinage, seignorage, and legal tender. 
+2. The value of money: how measured; cost of 
+production and value of money; the effect of 
+credit on the value of money (with such ex- 
+planation of the different forms of credit as 
+is necessary); rapidity of circulation and the 
+value of money; the law of value as applied 
+to money; Gresham’s Law; the evils of a fall- 
+ing and of a rising value of money, contrac- 
+tions and inflation; proposed remedies for 
+these evils; the recent fall in the value of 
+75
+-P-A-G-E-90
+5. 
+6. 
+  ECONOMICS IN THE 
+money, its cause and how far it explains the 
+increased cost of living. 
+. Paper money: the fiat theory; advantages of 
+paper money; paper money and Gresham’s 
+Law; the great dangers of paper money; 
+historical examples. 
+. Bimetallism: the bimetallic theory; inter- 
+national bimetallism; the Latin Union; 
+international conferences; the demonetiza- 
+tion of silver by the leading nations; the sil- 
+ver question in the United States. 
+The existing monetary laws of the United 
+States; the good and bad in them. 
+The advantages and practicability of an in- 
+ternational monetary unit. 
+. Banks and banking: 
+I. 
+2. 
+4. 
+5. Banking institutions as the instrumentalities 
+of credit; deposits; discounts; reserves; the 
+clearing-house. 
+Bank-notes; the profit in their issue; their 
+value in giving elasticity to the currency un- 
+der proper legislation such as, for instance, 
+the Canadian banking law. 
+. The national banks and the laws of the 
+United States on banking; excellences and 
+defects of our system. 
+Banking institutions which operate under 
+state laws. 
+The banking laws of the pupil’s own State; 
+their excellences and defects. 
+International trade: 
+I. 
+2. Advantages the same as of domestic trade; 
+governed by the same principles. 
+The nature of international trade: proof that 
+76 
+ 
+-P-A-G-E-91
+  SECONDARY SCHOOL 
+it is barter; the automatic movement of 
+money; how much money a country needs; 
+pills of exchange and the rate of exchange; 
+the balance of trade and the fallacy in the 
+expressions “favorable” and “unfavorable” 
+balance; the invisible elements in the inter- 
+national trade balance. 
+. Restrictions on international trade: export 
+and import duties; the wisdom or unwisdom 
+of forbidding the former, as the United States 
+Constitution does; import or customs duties; 
+specific and ad valorem duties; tariff for rev- 
+enue and tariff for protection; the general 
+effect of a protective tariff to divert capital 
+and labor from other industries into indus- 
+tries favored by law; industries which cannot 
+be protected; the burden of protection; the 
+tariff and the general rate of wages; protec- 
+tion and monopoly; how tariff laws are 
+actually framed; economic and political ar- 
+guments for a protective tariff; the present 
+tariff law of the United States with brief 
+review of recent tariff history. 
+V. DisTRiBution. 
+A. Definition and illustration: annual product and 
+annual income limited by natural resources, 
+labor power and capital; bearing of this fact 
+on “living wage”; real and money incomes; 
+the four kinds of income. 
+. Rent: meaning of term as used by economists; 
+distinction between rent and interest; differences 
+in land in regard to quality and location; the gen- 
+eral law of rent; application to agricultural 
+mining, forest, and urban land; relation of rent 
+77
+-P-A-G-E-92
+  ECONOMICS IN THE 
+to the value of the land; relation of rent to the 
+value. of the product; rent and the law of dimin- 
+ishing returns; the unearned increment and rent 
+as an unearned income. 
+C. Wages and the labor question. 
+1. Definition of wages; distinction between 
+2. wages and profits. 
+The law of supply and demand as deter- 
+mining wages; the peculiarities of labor as 
+a commodity; the supply of labor and the 
+standard of living; wages and the productiv- 
+ity of labor; the efficiency of the worker as 
+tested by the unit cost; time wages and piece 
+wages; high wages and low labor cost; the im- 
+portance of capital to keep up the demand for 
+labor; money wages and real wages; the wages 
+of particular classes of laborers; why the wages 
+of women are less than those of men; the 
+proper period of labor and the question of the 
+eight-hour day; the employments which offer 
+to young people the best chances of good 
+wages in the long run. 
+Labor organizations: need for and advan- 
+tages of collective bargaining; the two types 
+of organization as typified by the American 
+Federation of Labor and Industrial Workers 
+of the World; syndicalism; strikes, lockouts 
+and boycotts; arbitration and conciliation; 
+the amended Erdman Act; the Canadian 
+Disputes Act; compulsory arbitration; the 
+good and bad features in the policy of labor 
+organizations. 
+. The laborer and his product: coéperation, 
+its advantages and the reasons for its limited 
+78
+-P-A-G-E-93
+  
+SECONDARY SCHOOL 
+success; profit-sharing; the sliding scale of 
+wages. 
+5. Labor legislation; the regulation of conditions 
+and hours of labor; of the labor of women and 
+children; compulsory insurance of employees; 
+old-age pensions. 
+6. The relation of the activities of labor organi- 
+zations and of labor legislation to the high 
+cost of living. 
+7. The labor legislation of the pupil’s own 
+State. 
+8. Ways of raising the general rate of wages: 
+education, general and technical; higher 
+moral standards; restriction of immigration; 
+increase of labor saving machinery; scientific 
+management. 
+D. Interest: 
+x. Definition of interest; not to be thought of 
+as a payment for money. 
+2. Reasons why interest is paid: 
+a. Productivity of capital. 
+b. Sacrifices of saving. 
+c. Greater subjective value of present than 
+of future goods. 
+E. Profits: 
+1. Definition of profits; pure profit distinguished 
+from gross profit; distinguished from monop- 
+oly gains; the no profit employer and why he 
+stays in business; the analogy between profit 
+and the rent of land; profit not an unearned 
+income; the effect of an increase in ability 
+of managers of industry on profits, wages 
+and prices, 
+79 
+ 
+-P-A-G-E-94
+  ECONOMICS IN THE 
+VI. Pusiic FINANce. 
+A. Sources of revenue. 
+1. Taxation. 
+  a. Definition; theories as to justice in taxa- 
+tion; measures of ability or “faculty”; 
+taxes as proportional, progressive and 
+regressive, with examples. 
+b. Customs duties; incidence of these taxes; 
+advantages and disadvantages purely as 
+a form of taxation (see p. 77 for protec- 
+tive tariffs). 
+c. Excises: definition; incidence; advantages 
+and disadvantages. 
+d. Income tax: theoretical arguments for 
+it; its practical working where it has had 
+a fair trial; the Sixteenth Amendment to 
+the Federal Constitution and our new 
+income tax. 
+General property tax: incidence when 
+applied to various kinds of property; 
+methods of assessment; unfair valuations; 
+boards of equalization; the working of the 
+tax when applied to so called intangible 
+property; double taxation. Ss 
+f. Taxes on the unearned increment (see 
+p. 84). 
+g. Corporation taxes: incidence; advantages. 
+h. Inheritance taxes: kinds; incidence. 
+z. Franchise taxes: incidence. 
+j. Licenses: incidence; disadvantages when 
+used simply as revenue measure. 
+k. The proper distribution of the various 
+forms of taxation among the Nation, 
+States, and local units of government. 
+80
+-P-A-G-E-95
+SECONDARY SCHOOL 
+1. The tax laws of the pupil’s own State; 
+the good and the bad in the system. 
+2. Borrowing: when justified; dangerous growth 
+of public debts; the advisability of the speedy 
+payment of public debts. 
+3. Various other sources of revenue, very 
+briefly treated. 
+B. Public Expenditure: 
+1. Great advantages which spring from. wise 
+public expenditure. 
+2. The waste of public money; the unwisdom 
+of it; its causes and possible remedies. 
+3- Great increase in public expenditures; rea- 
+sons and how far justified. 
+Part II 
+I. Tae ConsERVATION OF NATURAL RESOURCES. 
+A. Brief consideration of natural resources of 
+United States; how these resources have been 
+wasted; the squandering of the national do- 
+main; the vast importance of conservation, or 
+making the use which will be wisest in the long 
+run. 
+B. Conservation of resources in private hands: 
+diffusion of knowledge of necessity for and 
+methods of soil preservation, irrigation, drain- 
+age, etc.; national and state laws to encourage 
+private owners to preserve forests, etc.; taking 
+private lands for public reservations. 
+C. Conservation of public domain: 
+1. Extent and value of what remains; folly of 
+virtually giving away any part of it; neces- 
+sity of using it for good of all. 
+8r 
+    
+ 
+-P-A-G-E-96
+  ECONOMICS IN THE 
+2. Agricultural land should be either sold for 
+full value or leased for long terms. 
+3- Forests: great economic importance of for- 
+ests; necessity of keeping them as public 
+reservations. 
+4. Mining-land: title never to be alienated; 
+either leased for fair rental under conditions 
+to prevent waste or worked by the United 
+States Government itself. 
+5. Water-power: vast importance for the future; 
+the extent of national jurisdiction as de- 
+fined by the Supreme Court; national power 
+to be exercised to fullest extent; rights to use 
+water power should be granted only for lim- 
+ited periods, for adequate rental and under 
+conditions which will insure greatest useful- 
+ness for all. 
+6. The conservation of life and health: great 
+economic importance; means for accomplish- 
+ing it. 
+II. Tse Prosrem oF Monoportes. 
+A. Monopoly defined and monopolies classified. 
+B. Legal monopolies. 
+¢. Natural monopolies: definition, explanation, 
+and illustration; the folly of attempting to main- 
+tain competition in these industries; the piracy 
+of franchises; the alternatives of strict govern- 
+mental regulation or public ownership and 
+operation; arguments for and against each 
+policy. 
+. The trusts; term defined; different forms of 
+capitalistic monopoly; growth of trusts in the 
+United States; state incorporation of monopo- 
+lies; possession of the advantages which go with 
+82 
+ 
+-P-A-G-E-97
+  I. 
+Iv. SECONDARY SCHOOL 
+production on a large scale (see p. 74); overcap- 
+italization; relation of special privileges to capi- 
+talistic monopolies; relation of the tariff to 
+trusts; trust prices and how far the increased 
+cost of living is due to trusts; dangerous polit- 
+ical power of trusts; remedies for the evils of 
+trusts, suggested or tried; advisability of federal 
+incorporation of great corporations; the Sher- 
+man Anti-Trust Act; the Northern Security, 
+Standard Oil and Tobacco cases. 
+Tur Rattway PROBLEM IN THE UNITED STATES. 
+A phase of the general problem of natural monopo- 
+lies; the methods, reasons for, advantages of and 
+evils of railway consolidation; the prime importance 
+of freight rates; the problem of fixing rates; the evils 
+of discriminations among localities, shippers and 
+classes of goods; attempts at regulation by States; 
+two types of state commissions; railway regulation 
+by the pupil’s own State; utter inadequacy of state 
+regulation; the original Interstate Commerce Act; 
+its comparative failure through judicial interpreta- 
+tion; the laws governing interstate commerce as 
+they now are; recent judicial decisions; recent ac- 
+tivities of the Interstate Commerce Commission; 
+express companies and express rates; the advisa- 
+bility of permitting pooling under national super- 
+vision; the question of national ownership of the 
+railways. 
+SocrALIsM. 
+A. Definition of socialism; its four elements; dis- 
+tinction between socialism and communism and 
+anarchy; basis in dissatisfaction with present 
+distributive process; socialist criticism of this 
+process; the socialist conception of value. 
+83
+-P-A-G-E-98
+  ECONOMICS IN THE 
+B. The advantages which socialists anticipate from 
+the adoption of their program. 
+C. The weaknesses of socialism. 
+D. Possible improvements in the present distribu- 
+tive process without abandoning its essential 
+features. 
+V. THe Sincte Tax. 
+Defined and explained; Henry George’s proposals 
+and claims; rent not the only unearned income; 
+on whom the burden ought to fall if the single tax 
+is adopted; difficulties of applying it in agricultural 
+communities; other objections; the taxation of the 
+unearned increment in England and German cities; 
+the advisability of taxing the unearned increment. 
+Additional work 
+In making the foregoing outline it has been 
+assumed that the pupil will write an original 
+essay and do some of the kinds of work mentioned 
+in chapter v in addition to covering the topics. 
+Where there is sufficient time the outline may 
+easily be expanded by giving some of the topics 
+in a good deal of detail or by introducing other 
+topics in the proper connection. If the course 
+is completed before the time is all used, other 
+topics may be taken up at that time. Such books 
+as the general treatises of Hadley, Seligman, and 
+Taussig will furnish a great deal of material 
+which the teacher may profitably use. The fol- 
+84
+-P-A-G-E-99
+  SECONDARY SCHOOL 
+lowing short list of topics, from which selections 
+might be made, is given simply by way of sug- 
+gestion: advertising, commercial crises, income 
+and expenditures of the National Government, 
+the merchant marine and the proposal for sub- 
+sidies, the economic function of the middleman, 
+postal savings banks, good roads, reciprocity, 
+speculation, water transportation. The course 
+may properly be extended by the detailed con- 
+sideration of some subjects from the historical 
+point of view as, for example, the monetary or 
+tariff history of the United States. Concrete 
+studies, like the study of the resources of the state 
+or region where the pupils live, will employ the 
+time to good advantage and give the pupils an 
+opportunity to apply what they have learned 
+earlier in the course.
+-P-A-G-E-100
+    VII 
+BIBLIOGRAPHIES 
+Elementary books 
+Tue following list contains the names of some 
+useful elementary books on economics. They 
+are valuable both for use by pupils and for the 
+suggestions to be obtained from them by the 
+secondary-school teacher of economics. 
+Blackmar, F. W.: Economics for High Schools, pp. 
+434, Macmillan as ~ + $E20 
+Bullock, C. J.: Elements of Economics, pp. 378, 
+RELVEr@. 03 i. I.00 
+Burch, F. R. and Nearing, Si: Elements of Eco- 
+nomics, pp. 388, Macmillan . . 1.00 
+Davenport, H. J.: Outlines of fiietentary Heanor 
+ics, pp. 280, Macmillan. . . 80 
+Ely, R. T., and Wicker, G. R.: iecentery ee 
+ciples of Hcbnonnics, pp. 388, Macmillan. . 1.00 
+Macvane, S. M.: Working Principles of Political 
+Economy, pp. 392, Merrill . . 1.05 
+Laughlin, J. L.: Elements of Political Economy, pp. 
+386, American Book Co. . . 1.20 
+Thurston, H. W.: Economics and educa His 
+tory for Secondary School, pp. 300, Scott. . . 1.00 
+86
+-P-A-G-E-101
+  ECONOMICS IN THE SCHOOL 
+Some useful books of a more advanced character 
+The following list of books of a more advanced 
+character should be familiar to the teacher and 
+many parts of them can be advantageously used 
+by pupils: — 
+Adams, T. S. and Sumner, H. L.: Labor Problems, 
+pp. 579, Macmillan. . . Lies 
+American Academy (Annals, July, roma): Cost of 
+Living, pp. 301, Am. Acad., paper, $1.00, cloth 
+Brooks, J. G.: American Syndicalism, pp. 264, 
+Macmillan . : 
+Bullock, C. J.: Introduction to uke Study of Eco- 
+nomics, pp. 581, Silver. . . 
+Carver, T. N.: Distribution of Wealth, pp. 200; 
+Macmillan ante 
+Clark, J. B.: Essentials of earn Theory, } pp. 
+566, Macmillan . . 
+Clark, J. B.: Social Justice without Socialism, 
+pp. 49, Houghton eS 
+Commons, J. R.: Trade- Unionism and Labor: Prob- 
+lems, pp. 678, Ginn . 
+Davenport, H. J.: Outlines of Economic Theory, 
+pp. 381, Macmillan . 5 
+Ely, R. T.: Outlines of Economics, pp. oo Mac- 
+millan +. 
+Fetter, R. A.: omen of epromicsil rot 6r0, 
+Century Co. 5 
+Fisher, I.: Elementary Principles, of Economies, pp. 
+521, Macmillan . . 
+Gide, C.: oe of Political Beonomy, pp. 502, 
+Heath 5 oiee 
+87 . $1.60 
+1.50 
+1.50 
+1.28 
+1.50 
+2.00 
+-50 
+2.00 
+2.00 
+2.00 
+2.00 
+2.00 
+2.00
+-P-A-G-E-102
+ECONOMICS IN THE 
+Hadley, A. T.: Economics, pp. 496, Putnam 
+Jenks, J. W.: The Trust Problem, pp. 361, Double- 
+dayed sib. 
+Johnson, A. S.: ‘Introduction to Economics, pp. 404, 
+Heath - 
+Johnson, E. R.: Iataeriean Raivay (ranepdrtae 
+tion, pp. 434, Appleton . : 
+Plehn, C. C.: Public Finance, pp. S08 Macmillan 
+Seager, H. R.: Introduction to Economics, pp. 565, 
+MONG) ih. 
+Seager, H. R.: Social Tisivance) Ep 175, Macmil- 
+lan. 
+Seligman, E. R. As ‘Principles of Economics, pp. 
+710,Longmans . . 3 
+Skelton, O. D.: Socialism, nl Ba aadashton 3 
+Smart, W.: Introduction to the Theory of Value, 
+pp. 88, Macmillan . . 
+Spargo, J.: Elements of Socialism, SPD. 257, Macmil- 
+lan. 
+Taussig, F. Wa: Principles of Economics vol, 4 
+PP. 547; vol. m1, pp. 573, Macmillan . . . 
+Taussig, F. W.: Tariff History of the United States, 
+pp. 422, Putnam . . 
+Taylor, F. W.: Principles of Scientific Management, 
+pp. 144, Harpers . . 
+Van Hise, C. R.: Conservation of Natural Re- 
+sources, pp. 413, Macmillan . 
+Warne, F. J.: The eet Tyas Be #36, 
+Dodd. 3 ays . 
+  « $2.50 
+1.00 
+1.50 
+1.50 
+1.75 
+2.25 
+1.00 
+2.50 
+1.50 
+60 
+1.50 
+4.00 
+1.50 
+1.50 
+2.00 
+2.50 
+1 This is the best general work on the subject and should be in the hands 
+of all secondary-school teachers of economics.
+-P-A-G-E-103
+SECONDARY SCHOOL 
+Supplementary reference material 
+  The following are some of the more useful ma- 
+terials for supplementary use: — 
+The American Year-Book, annual, pp. about goo, 
+Appleton . 
+Bullock, C. J.: Gelected Readings i in eeonorics 
+pp. 705, Ginn . . 
+Chicago, University of: ‘Outlines off [eect ide 
+veloped in a Series of Problems, pp. 160, Univer- 
+sity of Chicago Press . . 
+Chicago, University of: Materials for the. Study of 
+Elementary Economics, pp. 940, University of 
+Chicago Press . . 
+Commissioner of Corporations, Regular and Special 
+Reports. 
+Commissioner of Immigration, Reports. 
+Fetter, R. A.: Source Book in Economics, pp. Bs, 85 
+Century Co. Siu 
+Interstate Commerce Commission, Reports. 
+Statesman’s Year-Book, annual, pp. about 1450, 
+Macmillan . 
+United States, Department of Commerce, Reports. 
+United States, Department of Labor, Bulletins. 
+United States, Department of Labor, Reports. 
+United States, Statistical Abstract. 
+United States, Treasury Department, Circulation 
+Statement (monthly). 
+United States, Treasury Department, Reports. 
+World Almanac, pp. about 800, Press Pub. Co. 
+89 - $3.00 
+2.25 
+1.00 
+2.75 
+1.30 
+3.00 
+25
+-P-A-G-E-104
+  ECONOMICS IN THE SCHOOL 
+A few books and articles helpful to the secondary- 
+school teacher of economics 
+Bullock, C. J.: Political Economy in the Secondary 
+School, Education, 11: 539. 
+Clow, F. R.: Economics as a School Study, American 
+Economic Association, Economic Studies, vol. 11, no. 1. 
+Daggett, S.: Method and Scope of High School Econom- 
+ics, History Teacher’s Magazine, 3: 172. 
+Ely, R. T.: Economics in Secondary Education, Educa- 
+tional Review, 20: 152. 
+Ely, R. T.: Methods of Teaching Political Economy; in 
+G. Stanley Hall’s Methods of Teaching History, pp. 385, 
+Heath, $1.20. 
+Gunton, G.: Economics in the Public Schools, Proceed- 
+ings of National Education Association, 1901: 131. 
+Manchester, A. L.: The High-School Course in Econom- 
+ics, Journal of Political Economy, 19: 750. 
+New York, State of; Syllabus for Secondary Schools 
+(z910). 
+Spiers, F. W.: Ideals and Methods of Economic Teaching, 
+Proceedings of National Education Association, 1901: 
+137. 
+Taussig, F. W.: The Problem of Secondary Education 
+as regards Training for Citizenship, Educational Re- 
+view, 17: 431. 
+Taylor, F. M.: Methods of Teaching Elementary Eco- 
+nomics in the University of Michigan, Journal of 
+Political Economy, 17: 688. 
+Wolfe, A. B.: Aim and Content of a College Course in 
+Elementary Economics, Journal of Political Econ- 
+omy, 17: 673- 
+go 
+ 
+-P-A-G-E-105
+OUTLINE 
+I. THE NEED OF ECONOMIC KNOWLEDGE 
+1. What the science of economics is 3 
+2. The value of economics for intelligent citizen: 
+ship in the twentieth century 
+3. The ethical value of economics 
+4. The vocational value of economics . 
+5. The cultural value of economics 
+II. THE SUITABILITY OF ECONOMICS AS 
+SECONDARY SCHOOL SUBJECT 
+1. The secondary school furnishes the last chance 
+to teach the subject to any considerable number 
+of young People eee 
+2. The opinions of educational authorities 
+. The practice of leading schools . 
+. The evidence of those who are teaching the sub- 
+Hectin ts. F 
+. The evidence of examination results 
+. Economics as a college entrance yea 3 
+. What our evidence proves 
+. Why not sociology instead of economics in the 
+secondary schools? 
+Pw OI An 
+Ul. THE PRESENT STATUS OF ECONOMICS 
+THE SECONDARY SCHOOL 
+1. The extent to which it is now taught . td 
+2. The study of economics in the secondary schools 
+isincreasing . 
+3- The belief that proper teachers cannot ‘be had 
+gr Ir 
+Ir 
+13 
+14 
+16 
+17 
+18 
+18 
+IN 
+20 
+ar
+-P-A-G-E-106
+  OUTLINE 
+4. The objection that economics deals with contro- 
+verted questions . . . bea Sa 
+5. The too scientific receeeene of the adieet phat nae 
+6. The objection that proper textbooks do not exist 26 
+7. The objection that. the curriculum is already 
+overcrowded . . 26 
+8. The proposed teaching of economics through 
+some other subject or subjects . . . 29 
+IV. THE PLACE OF ECONOMICS IN THE 
+CURRICULUM AND ITS RELATION TO 
+OTHER SUBJECTS 
+1. Economics belongs among the “social studies” 
+with history and civics . . 33 
+2. Economics, with civics, should ibe a requined sab 
+igot||. 34 
+3. Girls should! not be excused from studying e eco- 
+nomics . . 36 
+4. Economics should be ‘studied i in the last year of 
+the course . . s ache on 
+5. The minimum iagth’ of ‘the COURSE 8 01-0 ee 
+6. The relation of economics to civics. . . . . 38 
+7. The relation of economics to history . . 39 
+8. The relation of economics to subjects other than 
+those already discussed. . . 42 
+9. Economics and closely related subjects i in the 
+commercial course . . 43 
+to. The proper content of a secondary school ¢ course 
+PPCCODORECS ¢ 2°!) eid bo eo | + el «45 
+V. METHODS OF TEACHING ECONOMICS 
+1. The work should be based upon a me textbook 47 
+2. The recitation in economics . . . 48 
+g2
+-P-A-G-E-107
+ern me 
+OUTLINE 
+3- How to fix concepts and principles in the mind . 50 
+4. Reviews and examinations. . . . . . . - 53 
+ISEARDC ROLE HOOKS at eye Che's | el deel ee fee yen Io 
+6. Essays . . CCS Se ein 
+7. The use of newspaper clippings oN Takase Rae 
+8. Other collateral reading . 3 CUE ee ee) 
+9. The use of graphs and charts . oF eek Rts oe OF 
+to. Debates on economic subjects . . . . . . 62 
+11. {The bulletin board . . . . op se ate oO 
+12. Observation of economic fristitutions ET ee Gg 
+13. Information obtained from individuals . . . 63 
+14. Economics and vocational guidance . . . . 64 
+15. The danger of trying todotoomuch . . . . 65 
+16. The sort of textbook needed . . . . . . . 65 
+17. Some of the books which areinuse . .. . 67 
+18. Our conclusion with reference to textbooks . . 69 
+1g. A textbook for the inductive method . . . . 69 
+VI. THE CONTENT OF THE COURSE IN 
+ECONOMICS 
+mvAcsupgestive oiling. 66.) 60. 6 pie eg 
+Be ACGitional WORKIN. 3). 2. iafire allt cca Fg bisa BO! 
+VII. BIBLIOGRAPHIES 
+. Elementary books. . . . 86 
+. Some useful books of a more ageamcest charities 87 
+. Supplementary reference material . . 89 
+. A few books and articles helpful to the secondary- 
+school teacher of economics . . . 90 
+PwWHH 
+ 
+-P-A-G-E-108
+
+-P-A-G-E-109
+RIVERSIDE EDUCATIONAL 
+MONOGRAPHS 
+GENERAL EDUCATIONAL THEORY 
+Dzwer's MORAL PRINCIPLES IN EDUCATION. 
+E1ior’s EDUCATION FOR EFFICIENCY. ts 
+Evior's TENDENCY TO THE CONCRETE AND PRACTICAL IN MOD- 
+ERN EDUCATION... 
+Emurson’s EDUCATION. 
+Fiske’s THE MEANING OF INFANCY. 
+Hror's THE TEACHER'S PHILOSOPHY. 
+PatmERr’s THE IDEAL TEACHER. 
+Prosser's THE TEACHER AND OLD AGE. 
+TeRMan’s THE TEACHER'S HEALTH. 
+Tuornvrxe’s INDIVIDUALITY. 
+ADMINISTRATION AND SUPERVISION OF SCHOOLS 
+Burrs's NEW IDEALS IN RURAL SCHOOLS. toe 
+Bioomrietp’s VOCATIONAL GUIDANCE OF YOUTEH.. 
+Cazor's VOLUNTEER HELP TO THE SCHOOLS. ee 
+Cork’s INDUSTRIAL EDUCATION IN ELEMENTARY SCHOOLS. 
+CupBERiey’s CHANGING CONCEPTIONS OF EDUCATION.. 
+CuppeRtey’s THE IMPROVEMENT OF RURAL SCHOOLS. 
+Lewis's DEMOCRACY'S HIGH SCHOOL. 
+Perry's STATUS OF THE TEACHER. 
+SwEDDEN’s THE PROBLEM OF VOCATIONAL EDUCATION. 
+TrowsRinex’s THE HOME SCHOOL, 
+Wenuxs's THE PEOPLE'S SCHOOL.. 
+METHODS OF TEACHING 
+Barey’s ART EDUCATION. 
+Berrs's THE RECITATION. 
+CamPacnac’s THE TEACHING OF COMPOSITION. 
+Coouer's LANGUAGE TEACHING IN THE GRADES. 
+Dewey's INTEREST AND EFFORT IN EDUCATION... 
+Earuart’s TEACHING CHILDREN TO STUDY. 
+Evans's TEACHING OF HIGH SCHOOL MATHEMATICS. 4 
+Farrcuiiy’s THE TEACHING OF POETRY IN THE HIGH SCHOOL.....   
+            
+      
+                   
+    
+  
+      
+  
+HaLtsurTon AND SsurH’s TEACHING POETRY IN THE GRADES...... .| 
+Hartwewi's THE TEACHING OF HISTORY 
+Haynes's ECONOMICS IN THE SECONDARY SCHOOL. 
+Kivpatrick’s THE MONTESSORI SYSTEM EXAMINED. 
+Pamer’s ETHICAL AND MORAL INSTRUCTION IN THE SCHOOLS.. 
+PaLwer’s SELF-CULTIVATION IN ENGLISH. 
+SuzzaLto’s THE TEACHING OF PRIMARY ARITHMETI( 
+Suzza.1o's THE TEACHING OF SPELLING. 
+1716 
+    
+    
+    35   
+36 
+35 
+35 
+35 
+35 
+-60 
+60 
+35 
+60 
+-60 
+60 
+35 
+35 
+35 
+- 60 
++ 60 
+60 
+60 
+35 
+36 
+60 
+60 
+35 
+ 
+-P-A-G-E-110
+  A CONVENIENT PLAN FOR SECUR- 
+ING THE MONOGRAPHS 
+Every progressive superintendent and every 
+wide-awake teacher will wish to read and study 
+the volumes in this Series, as they appear. To 
+avoid the necessity of teachers’ sending an order 
+for each number of the Series, as issued, the pub- 
+lishers will place the names of those who desire 
+it on a Subscription List, and the volumes, as 
+they appear, will be sent automatically to each oi 
+these persons. In this way, one of the best and 
+most convenient professional libraries may be 
+built up. Those desiring to place their names on 
+this Subscription List will please indicate it below, 
+in the blank provided for this purpose. 
+This page may be detached and returned to the 
+publishers at the address given. 
+ORDER BLANK 
+Date. J... 6005s sone sete 
+MESSRS. HOUGHTON MIFFLIN CO., 
+Inclosed find $............ for which please send me the quan- 
+tities indicated of the volumes marked in the list of RIVERSIDE 
+EpucATIONAL Monocrapus on the preceding page. 
+(Volumes will be charged to customers having regular accounts.) 
+  FOR THE SUBSCRIPTION LIST 
+I desire to have my name placed on the regular Subscription 
+List to receive all future volumes in the Series, as they appear, 
+until further notice, 
+  Signature......... See cecccecesevececececs tosccece 
+1117
+-P-A-G-E-111
+  The HOUGHTON MIFFLIN 
+PROFESSIONAL LIBRARY 
+For Teachers and Students of Education 
+  
+THEORY AND PRINCIPLES OF EDUCATION 
+AMERICAN EDUCATION 
+By ANDREWS. DRaPER, Commissioner of Education 
+of the State of New York. With an Introduction by 
+NICHOLAS MuRRAY BUTLER, President of Columbia 
+University. $2.00, vet. Postpaid. 
+GROWTH AND EDUCATION 
+By Joun M. TYLER, Professor of Biology in Amherst 
+College. $1.50, zet. Postpaid. 
+SOCIAL DEVELOPMENT AND EDUCATION 
+By M. Vincent O’SHEA, Professor of Education in 
+the University of Wisconsin. $2.00, wet. Postpaid. 
+THE PRINCIPLES OF EDUCATION 
+By WILLIAM C. RUEDIGER, Ph.D., Assistant Pro- 
+fessor of Educational Psychology in the Teachers 
+College of the George Washington University, 
+$1.25, zet. Postpaid. 
+THE INDIVIDUAL IN THE MAKING 
+By Epwin A. KirKPATRICK, Teacher of Psychology, 
+Child Study and School Laws, State Normal School, 
+Fitchburg, Mass. $1.25, ze¢. Postpaid. 
+A_ THEORY OF MOTIVES, IDEALS, AND 
+VALUES IN EDUCATION 
+By WittiAM E. CHANCELLOR, Superintendent of 
+Schools, Norwalk, Conn. $1.75, zet. Postpaid. 
+EDUCATION AND THE LARGER LIFE 
+By C. HANFoRD HENDERSON. $1.30, ez. Post- 
+age 13 cents. 
+HOW TO STUDY AND TEACHING HOW TO 
+STUDY 
+By Frank McMurry, Professor of Elementary 
+Education in Teachers College, Columbia Univer- 
+sity. $1.25, met. Postpaid. 
+rr18a,
+-P-A-G-E-112
+  The HOUGHTON MIFFLIN 
+PROFESSIONAL LIBRARY 
+For Teachers and Students of Education 
+  
+BEGINNINGS IN INDUSTRIAL EDUCATION 
+By Pau H. Hanus, Professor of the History and 
+Art of Teachingin Harvard University. $1.00, zet. 
+Postpaid. 
+PRACTICAL ASPECTS AND PROBLEMS 
+ETHICS FORCHILDREN. A Guide for Teachers 
+and Parents 
+By ELLA LyMAn Casot, Member of the Massachu- 
+setts Board of Education. $1.25, ze¢. Postpaid. 
+CHARACTER BUILDING IN SCHOOL 
+By JANE BROWNLEE, formerly Principal of Lagrange 
+School, Toledo, Ohio. 16mo. $1.00, ze¢. Postpaid. 
+HOW TO TELL STORIES TO CHILDREN 
+By Sara Cone BRYANT. $1.00, net. Postpaid. 
+TALKS ON TEACHING LITERATURE 
+By Arto BatEs, Professor of English Literature in 
+the Massachusetts Institute of Technology. Profes- 
+sor Bates is also the author of “ Talks on the Study 
+of Literature,” “Talks on Writing English,” etc. 
+$1.30, ze¢. Postpaid. 
+LITERATURE AND LIFE IN SCHOOL 
+By J. RosE Cosy, Professor of Literature in the Il- 
+linois State Normal University. $1.25, me. Post- 
+paid. 
+THE KINDERGARTEN 
+By Susan Biow, Patty Hitt, and ELizaBETH 
+Harrison, assisted by other members of the Com- 
+mittee of Nineteen of the International Kindergarten 
+Union. With a Preface by Lucy WHEELOCK and 
+an Introduction by ANNIE Laws, Chairman of the 
+Committee. 16mo. $1.25 met. Postpaid. 
+HOUGHTON MIFFLIN COMPANY 
+BOSTON NEW YORK CHICAGO 
+1118b

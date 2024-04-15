@@ -1,0 +1,602 @@
+-P-A-G-E-1
+  Heath's Pedagogical Library — 24 
+THE EDUCATIONAL IDEAL 
+AN OUTLINE OF ITS GROWTH IN 
+MODERN TIMES 
+BY 
+JAMES PHINNEY MUNROE 
+FORMERLY OF THE MASSACHUSETTS INSTITUTE OF TECHNOLOGY 
+LIBRARY 
+MIDDLE TENNESSEE STATE COLLEGE 
+MURFREESBORO, TENNESSEE 
+BOSTON, U.S.A. | 
+D. C. HEATH & CO., PUBLISHERS 
+1911 
+ 
+-P-A-G-E-2
+  Coprnriant, 1895, 
+By JAMES PHINNEY MUNROE.
+-P-A-G-E-3
+TO 
+THE MEMORY OF 
+A. B. M. anp A. L. M. 
+lbh]
+-P-A-G-E-4
+
+-P-A-G-E-5
+  PREFACE. 
+———_+Oo——— 
+Tue following outline of a special phase of development 
+in the history of education is not only incomplete, but also, 
+in a measure, fragmentary. Inadequate as it is, however, 
+the author issues it in the belief that it enters a territory 
+in educational literature not yet fully explored. It seems 
+to him that this territory must be thoroughly known before 
+the present questions in education can be wholly understood, 
+and he hopes that his sketch may lead to an abler study 
+and treatment of this field of human growth. 
+He begs to acknowledge the valuable assistance and 
+advice given by President Walker of the Massachusetts 
+Institute of Technology, by Dr. Dickinson, late Secretary of 
+the Massachusetts State Board of Education, and especially 
+by Professor Hinsdale of the University of Michigan, who 
+has reviewed and criticised the manuscript and proof of 
+the entire book.
+-P-A-G-E-6
+
+-P-A-G-E-7
+CONTENTS. 
+CHAPTER I. 
+PAGE 
+INTRODUCTION. : ; ; : ; ‘ ‘ ° ; 1 
+CHAPTER ILI. 
+RaBELAIs. — The Revolt against Medievalism . : ‘ ° 8 
+CHAPTER III. 
+Francis Bacon. — The Revolt against Classicism ‘ ° . as 
+CHAPTER IV. 
+Comenius. — The Revolt against Feudalism ‘ ‘ ° - 68 
+CHAPTER V. 
+MonTAIGNE AnD Locxe.— The Child has Senses to be trained . 95 
+CHAPTER VI. 
+THE JANSENISTS AND FENELON.— The Child has a Heart to be 
+developed . ; . : ‘ ‘ . ° : . 124 
+CHAPTER VII. 
+Rovussgavu. — The Child has a Soul to be kept pure . ° . 158 
+vii
+-P-A-G-E-8
+Vili CONTENTS. 
+CHAPTER VIII. 
+PESTALOZZI AND FROEBEL. — Senses, Heart, and Soul must be 
+educated together . 
+CHAPTER IX. 
+Women in Epvucation. — Education leads to and from the 
+Family ; the Home is its Unit .. ‘ . ° 
+CHAPTER X. 
+SuMMARY . , ; ; : : ; ; ‘ ‘ 
+BIBLIOGRAPHY . ; ‘ . : ‘ ‘ > . 
+InDEX . : eae ° ; > ‘ e . , PAGE 
+179 
+207 
+224 
+233 
+249 
+ 
+-P-A-G-E-9
+THE EDUCATIONAL IDEAL. 
+CHAPTER I. 
+INTRODUCTION. 
+“HUMAN LIMITATIONS; A ‘‘NATURAL’’ EDUCATION; GROWTH OF THE 
+EDUCATIONAL IDEAL; ITS OBSCURITY ; ITS ‘‘HEROES’’; ITS ENE- 
+MIES: MEDIZVALISM ; CLASSICISM ; FEUDALISM; ECCLESIASTICISM ; 
+MATERIALISM, 
+In few things are human limitations more evident than 
+in our judgments of human progress. Our every step is 
+accepted as one in a new direction; our every idea is 
+advanced as one of a new growth. With us, we incline to 
+think, all real reform has begun. Especially is this true, 
+‘to-day, of educational questions, to whose solving we be- 
+lieve ourselves peculiarly anointed. We feel that to us, for 
+the first time in history, true.pedagogic inspiration has come, 
+and that from our hands, after centuries of neglect and 
+misunderstanding, the child is, at last, to receive right 
+education. 
+It is to remind ourselves of the falseness and narrowness 
+of this attitude that I have ventured to sketch the growth 
+of the educational ideal, and to trace the steps through 
+which it expanded from the narrow pedantry of the School- 
+men into an ever broader understanding of the true function 
+1
+-P-A-G-E-10
+2 THE EDUCATIONAL IDEAL. 
+of teaching. In so doing, I hope to show that the perma- 
+nent influences upon the growth of this educational ideal 
+have been those alone which paid some heed to the natural 
+development of man, that gave some study to the normal 
+growth of the child, that tended, in short, towards what I 
+must call, for want of a better term, a “natural” education. 
+A natural education is not one, as is too often supposed, 
+in which the child is left to grow up as he may, subject to 
+the chances of his environment, a prey to his own inclina- 
+tions. It is not one in which he is kept aloof from man, in 
+a forced communion with non-human things. Neither is it 
+one unwisely trusted to the instincts of a natural, but un- 
+trained affection. Still less is it one in which the old ped- 
+agogic drill in formal studies is thrown aside to give place 
+to a pseudo-scientific playing, a vague and formless potter- 
+ing with objective phenomena. The real “natural” educa- 
+tion is that aimed at in the best endeavor of to-day, in 
+which the child, from the moment of his birth, is steadily, 
+rationally, and intelligently developed, by trained and sym- 
+pathetic minds, towards the best manhood possible to him. 
+Such an education is not simply mental; it is physical; 
+above all, it is moral. In it, the child’s individuality is 
+preserved, but is pruned and guided; he himself furnishes 
+the impulse towards his own development, but the channels 
+in which this force acts, the ends towards which it directs 
+itself, are determined for him. A natural education is one 
+in which the subject taught is secondary to the manner of 
+teaching; in which the task done is subsidiary to the effect 
+of doing it; in which the question to be asked at the com- 
+pletion of an educational step is not, What has the child 
+learned? but, What has the child become? 
+Far from presuming to outline, in so short a space, the 
+history of modern education, I do not aim at a full analysis 
+of even this one phase of it. Indeed, the history of educa- 
+ 
+-P-A-G-E-11
+  INTRODUCTION. 8 
+tion, as of all social forces, is not to be grasped by any one 
+man or group of men. It has been a balancing of hidden 
+tendencies rather than a chronicle of observed attainments. 
+The educational standard is at once a motive and a measure 
+of social change. While the evolution of matter’is marked 
+by milestones of transitional types, in the evolution of mind 
+there are no fixed records of progress. A fossil bone may 
+unfold the life-history of a large body of mammalia, but not 
+all the memoirs and letters of the eighteenth century, not 
+all its state papers and secret archives, can show us when 
+and how its bad standards of civilization began to grow into 
+the still imperfect, but better, standards of to-day. While 
+it is true that mankind, not men, make history, it is no less 
+true that the only beacons in the onward sweep of the 
+human flood are men. Without the “hero,” as Carlyle calls 
+him, to mark history, we should be swirled on in the torrent 
+of events, ignorant of the vaguest outlines of a channel, 
+powerless even to conjecture whence we came or whither we 
+are going. 
+But “heroes” are more than historical landmarks. 
+They are important agents in the universal plan.’ As con- 
+1‘¢Tn all epochs of the world’s history, we shall find the Great 
+Man to have been the indispensable saviour of his epoch ; — the light- 
+ning, without which the fuel never would have burnt. The History 
+of the World, I said already, was the Biography of Great Men.’’? — 
+Car.tyLz, Heroes and Hero-Worship (Chicago, 1891), Lect. I. 21. 
+‘¢ Historians are very right in attending solely to great men; they 
+should only be careful not to represent them as anything that they are 
+not; they should represent them, not as the masters, but as the repre- 
+sentatives of those who do not appear. ... Under this reservation it 
+is certain, that as every people resolves itself into its great men of all 
+kinds, the history of a people ought to consist, as it does consist, in 
+the history of its great men.’ — Victor Cousin, Introduction to the 
+History of Philosophy (Linberg’s translation ; Boston, 1832), Lect. 
+X. 302.
+-P-A-G-E-12
+4 THE EDUCATIONAL IDEAL. 
+ceived by our limited faculties, all sciences —or history in. 
+its broadest sense — are but fragments of a universal science. 
+to which man may or may not ultimately attain. Research 
+and speculation, the farther they go, tend to strengthen more 
+fully the belief that man’s feeble mind, able now to examine 
+life only in detail, disconnectedly, may gain, in future ages, 
+the power of looking at the world as a whole, of taking 
+such a bird’s-eye view, so to speak, of creation, that its plan 
+shall be comprehensible. Only then can there be devised a 
+perfect method of education, in conformity with nature. To 
+bring forward this condition, to assemble the results of the 
+patient toil of specialists, master minds are sent into the 
+world. Without them to generalize and to show us to what 
+point man has come, progress in knowledge would be well- 
+nigh impossible. Each scholar, having explored his little 
+patch, having mapped its topography, would then rest con- 
+tent, oblivious to its relations to other patches explored by 
+other men. The master mind, however, is gifted with the 
+power to extract the essentials of other men’s labor, and, 
+grouping them together, to show, in one broad, luminous 
+plan, so large an area, so perfect a section, that the rotun- 
+dity of the sphere of knowledge is at once made plain. 
+Then it is that men begin to dream of a sight of the eternal 
+. cosmos, and, with new light and strength, to work for its: 
+attainment. 
+Treating, then, for the sake of concreteness, the progress” 
+of “natural” education as a series of revolutions led by 
+men, rather than as a noiseless expansion of mankind, we 
+‘taay say that the first revolt of education, in modern days, 
+was against medievalism. This, in its broader aspect, was 
+that social change which we call the Renaissance. From 
+the many great leaders crowding this period, Rabelais stands 
+out as the champion of the new education, not because he 
+laid greater stress upon education than did many others, not
+-P-A-G-E-13
+  INTRODUCTION. 5. 
+because.his educational ideas were more formal or more orig- 
+inal; but because his vision was broader, his weapons were 
+keener, his warfare was more effective. Not content with 
+attacking local abuses and temporary wrongs, he levelled 
+his satire at the sins which had begotten them. He battled, 
+not with the imps of darkness and the brood of hell, but: 
+with darkness and hell themselves. In his warfare against 
+medizevalism, the time-spirit was with him; but in his 
+visions of reconstruction, he looked far beyond his age. 
+Upon the ruins that he and his had made, there was built: 
+up a new educational temple, a classic one; but it was dedi-. 
+cated to gods as false as those of the. Middle Ages, though: 
+infinitely less. cruel than they. The classicism of the Re- 
+naissance, upon which the schooling of that period rested, 
+was as foreign to the real science and art of education as 
+was scholasticism, 
+In turn, the monopoly over education which, through the 
+Renaissance, the classicists secured, was shattered, —in 
+England by Bacon, in France by Descartes. As the elder 
+—and as the better — leader in this second revolt, I have 
+chosen Bacon.’ 
+1 Descartes was, without doubt, the greater thinker, and from him, 
+more than from Bacon, came that impulse towards pure and ordered 
+thought which was to be so beneficial to civilization. But. Bacon, it 
+seems to me, exerted a wider influence upon social progress, for the 
+very reason that he was not altogether ahead of his time. He was 
+tinged with current superstition, his experimentation was desultory 
+and often puerile, his genius was diffusive and, therefore, not always 
+effective. Nevertheless, as, similarly, in the case of Franklin, — 
+whose scientific attainments were far inferior to those of many of his 
+contemporaries, and whose philosophy was certainly not of a high 
+order, — the union in him of homeliness and genius made just that 
+bridge which was needed between the rank superstition of the Eliza- 
+bethan age and the truly scientific spirit, misdirected as it often was,. 
+of the materialistic generations which followed. 
+The obvious objection to Descartes which might be made in this
+-P-A-G-E-14
+  6 THE EDUCATIONAL IDEAL. 
+Medizvalism and classicism weakened, there remained 
+feudalism to be cleared away before the light could reach 
+mankind. This work, begun by Luther, was taken up, on 
+the educational side, by Comenius, the founder of real pub- 
+lic education. His theories, adorned and refined by Mon- 
+taigne, co-ordinated and made scientific by Locke, spread 
+slowly, through these men, from Germany and Scandinavia, 
+where Comenius had planted them, into France and England. 
+Beaten in the open, medizvalism and classicisin took 
+refuge in the Church, and, in a bad alliance, were re- 
+enthroned by the Jesuits. From this new power, Jansenism 
+deposed them, never again to reign. 
+These successive shocks to the old order of things had 
+practically destroyed the educational city, leaving its inhabi- 
+tants, the children, naked upon a desert of materialism. 
+To this point, the process had been chiefly one of destruc- 
+tion. From this point, it was to be one mainly of construc- 
+tion. The first architect of the new city which is rising 
+upon the dust of the old, was Rousseau. He laid the foun- 
+connection, that he was a founder of idealism, not of realism, would 
+not bea valid one. Whatever the ultimate effect of his teachings, their 
+immediate influence was not greatly different from that of Bacon's. 
+Both these leaders of thought freed men from tradition by making 
+them self-active ; in so doing they accomplished all that, at this stage 
+of progress, was necessary. 
+It is interesting to observe that most, if not all, of the French 
+biographers of Descartes are special pleaders. Premising the un- 
+doubted superiority of Descartes as an investigator and organizer of 
+scientific thought, they try to prove his superiority to Bacon in every- 
+thing. His latest biographer, M. Alfred Fouillée, would even persuade 
+us that Descartes anticipated the distinctive researches, among lesser 
+men, of Newton, of Kant, and of Darwin. 
+See, in this connection, the very vivid, though somewhat forced, 
+characterization of Bacon, Descartes, and Leibnitz in De Gérando’s 
+Histoire comparée des systémes de philosophie (Paris, 1804), T. I. 284.
+-P-A-G-E-15
+INTRODUCTION. 7 
+dations and shaped the plan upon which later builders 
+wrought. His errors were rectified by Pestalozzi, by Froe- 
+bel, by the philosophers and psychologists, by the legion of 
+schoolmasters, and, not least, by the myriad women who, 
+after Rousseau, took their part in educational work, —a 
+part essential to sound and rapid progress.’ 
+Dealing, therefore, with these successive educational 
+“heroes,” I shall consider, as types and leaders in edu- 
+cational progress, Rabelais, Francis Bacon, Comenius, 
+Montaigne, Locke, the Jansenists, Fénelon, Rousseau, Pes- 
+talozzi, Froebel, and, collectively, women. 
+10f these forces I must, to my regret, wholly neglect one. The 
+influence upon education of the philosophers and psychologists of our 
+century is too wide and too abstruse a problem to be considered here.
+-P-A-G-E-16
+  CHAPTER II. 
+RABELAIS. 
+Tue REVOLT AGAINST MEDLEVALISM. 
+THE MIDDLE AGES; THEIR EDUCATIONAL STANDARDS; THE RENAIS~- 
+SANCE ; RABELAIS; HIS CHARACTER; HIS CAREER; HIS WRITINGS; 
+HIS AIMS; GARGANTUA; OLD AND NEW EDUCATION CONTRASTED; 
+RABELAIS’S IDEAL EDUCATION; ITS DETAILS; ITS VALUE; PAN- 
+TAGRUEL ; GARGANTUA’S LETTER; MILTON’S ‘‘TRACTATE’’; RAB- 
+ELAIS’S FUNDAMENTAL TEACHINGS ; THELEME ; PANURGE } VOYAGE 
+IN QUEST OF THE ORACLE; ITS REAL MEANING ; WHAT RABELAIS 
+ACCOMPLISHED ; HIS STYLE. 
+To understand fully the growth from ancient to modern 
+ideals, one ought to be able to elucidate the Middle Ages; 
+for in them, as well as in the elder civilizations, lie the roots 
+of modern knowledge. Were these, the so-called Dark Ages, 
+a necessary stage in human progress, a sort of interregnum 
+pending the birth of new forces? Was it essential to progress 
+that humanity should, on the intellectual side, lie fallow for 
+centuries in order to produce, in the after years, a richer 
+harvest? Or were the Middle Ages a mere grouping of 
+circumstances, a logical result of themselves, a successive 
+rebirth from their own spawning? However these ques- 
+tions may be answered, it is plain that there existed a long 
+period of outward intellectual darkness following the time 
+of the Fathers of the Church, that it continued till the 
+period of Charlemagne, when there was a faint, spasmodic 
+1 Much is made of the so-called ‘*‘ Palace School’’ and ‘‘ Academy ”’ 
+of Charlemagne’s court, and the monk Alcuin is not seldom dubbed
+-P-A-G-E-17
+  RABELAIS. 9 
+resurrection of learning, that it dragged on till Abélard? 
+and the scholastics proclaimed a false dawning, and that it 
+extended well into the fifteenth century, when, at last, the 
+sun of the new day rose. 
+During this long period, such Christian education as 
+existed was mainly of the Church. To prepare men for the 
+religious life, not in the purer spirit of the Fathers, but in 
+the bigotry of doctrine, was the main object of teaching. 
+Learning and priesthood were almost synonymous, but the 
+priest was cramped by instruction, not freed by study. The 
+dry formalism and dead conning of words which the stand- 
+ard of the Church entailed, led, inevitably, to the dreary 
+hootings of scholasticism. This owlish learning, growing 
+more outrageous as its metaphysics became more absurdly 
+deep, soon lost all point of contact with humanity. Its 
+husks of syllogism drove all appetite for real learning from 
+the mind of the student, and he contented himself, ignorant 
+of better intellectual food, with a smattering of Latin, a 
+jargon of philosophy. In his sloven lips the Latin grew to 
+be as false as the philosophy. Whatever the remote cause 
+of the degradation preceding the Renaissance, its immediate 
+source was, plainly, the low standard of education; for, 
+when the sun of real learning dawned upon this intellectual 
+his Minister of Public Instruction. While Charles, undoubtedly, 
+made honest and serious endeavor to improve the condition of his 
+household and his loosely federated subjects, it is easy to exaggerate 
+both the extent and the success of his efforts. Where the mists of 
+ignorance are as heavy as they were in the ninth century, even so 
+small a rush-light as that burned at Aix-la-Chapelle casts gigantic 
+reflections and is easily mistaken for an educational lighthouse. 
+1For Abélard and the University of Paris, of which, virtually, he 
+was the founder, consult Compayré, Abélard ; and Laurie, Rise and 
+Early Const. of Univ. 
+[ Nore. — Whenever the titles of books are not given in full, they will 
+be found, extended, in the Bibliography on p. 2338. ]
+-P-A-G-E-18
+10 THE EDUCATIONAL IDEAL. 
+morass, what seemed dead and corrupt was quickened, the 
+means of growth — the printing-press, the compass, and a 
+thousand other material aids — arose, and, in an instant, 
+historically speaking, Europe was transformed, reformation 
+came, naturalism gained place, and modern civilization 
+began. - 
+To resolve the myriad forces of the Renaissance, tracing 
+each to its source and measuring its results, would be 
+impossible. Every nation of Europe did its part in the 
+work of promoting true learning, but from France, modern 
+“ Mother of arts and eloquence,” came the first great prophet, 
+the leader of revolt, the seer of real education, Francois 
+Rabelais. He was the first modern pleader for the copart- 
+nership of Nature in the bringing up of youth. No veil of 
+tradition could blind him to the path which education should 
+take. His words, true then, are no less true to-day. His 
+plans, Utopian then, are far from their fulfilment now. 
+Some one! compares Rabelais’s writings to a Gothic 
+cathedral of the florid type. Viewed point by point, the 
+building is cumbered with petty and curious detail; fancy, 
+in its adornment, runs mad and grows obscene; incongruity 
+is everywhere. But contemplate this mass from a distance, 
+merge details in the outline of the whole, and there appears 
+the perfection of architecture, the flower of the art. One 
+must look at Rabelais in this way, seeing the beauty, the 
+majesty, of his thought, forgetting the flippancy, the gro- 
+tesqueness, the indecency, of its detailed form. 
+The man was, in a measure, an outgrowth of his time. 
+His character, individual as it was, received its mould from 
+the forces of the hour. Moreover, he was a native of 
+1 Lenient, La satire en France au XVI? siécle. ‘‘ Rabelais n’est 
+point encore un disciple de l’architecture mathématique inaugurée par 
+la Renaissance: il a tous les caprices, l’exubérante confusion et la 
+riche prolixité de l’architecture gothique.”’
+-P-A-G-E-19
+  
+  RABELAIS. 11 
+Touraine, that fantastic garden of France, where extraordi- 
+nary physical vitality is linked with wonderful imagination, 
+astonishing fertility of resource, an inexhaustible fund of 
+Gallic bonhommie. In these traits are all the elements of 
+such a character as that of Rabelais: courage that could 
+withstand the force of long-accepted doctrines, imagination 
+that could set up and make real a world other than that 
+known of tradition, laughing sunniness of temper that could 
+carry reforms impossible to gravity and dulness. We fancy 
+discerning in Rabelais some of the tavern-keeping spirit of 
+his father, of the raillery and joviality, that, real or assumed, 
+have always an eye to the business of the inn. 
+Rabelais’s existence was no better—it was certainly 
+no worse—than that of his contemporaries. He was a 
+hanger-on of the Papal court while protesting against its 
+abuses. He was, in youth, a scandal to a monastery itself 
+scandalous. He enjoyed benefices won by cringing and 
+kept by favor. He was unchaste in an age when chastity 
+was unmanly. He was drunken in a time when sobriety 
+was a reproach. He was slavish and sycophantic in an 
+era and kingdom where these qualities were the surest 
+means of success. His life was a continual denial of his 
+teachings, or, better, his teachings were a stinging protest 
+against the life that he and his fellows led. In the tumult 
+of the breaking up of the old and the rearing of the new, 
+he stands, a ribald prophet, preaching the new faith in the 
+old tongue. 
+That he knew himself a genius superior to his age, is 
+undoubted. Such satire as his sprang from a.mind that 
+must have gauged its power and despised its surroundings. 
+Such blows as his came from a hand that felt itself gigantic. 
+The spurious death scene, in which he exclaims, “ Drop the 
+curtain; the farce is played,” expresses his attitude. He 
+had lived a farce. Knowing such great things, he had done 
+ 
+-P-A-G-E-20
+  12 THE EDUCATIONAL IDEAL. 
+such mean ones. ‘To such vision as his, the sixteenth cen- 
+tury was a vulgar masque, a carnival of beastly appetites 
+and low aims, played by men of god-like possibilities. 
+Born the son of an inn-keeper?! in Chinon, that obscure 
+cradle of the Plantagenets,? he dies the friend of popes and 
+kings, the idol of all save those whom he had scourged. 
+Vowed in early life to St. Francis, he becomes, in middle 
+age, a Benedictine with large benefices. Arrayed with the 
+Reformers, he escapes their usual fate, and expires in the 
+full material enjoyment, if not in the full odor, of sanctity. 
+Attacking the Church as few others in France had dared to 
+do, he remains to the last a protégé of Rome. His patron, 
+Du Bellay,* falls at the accession of Henry II., but Rabelais 
+1 Rabelais’s early history is very vague. It is generally believed 
+that his father was an inn-keeper, although some authorities maintain 
+that Rabelais was the son of an apothecary, while it is not impossible 
+that the two vocations were united. Nothing is known of his mother, 
+and even the date of his birth is in dispute. If in 1483, then many 
+years of his life cannot be accounted for, and his books must have 
+been finished in extreme old age. If, on the other hand, the date 1495 
+is accepted, there is difficulty in reconciling it with trustworthy 
+tradition. 
+2 Geoffrey, son of Fulk the Black, was the first of the Counts of 
+Anjou to receive the nickname “Plantagenet.’? He it was who 
+married Matilda, the widowed empress, and wecaine, by her, the father 
+of the future Henry II. of England. 
+For an interesting account of Chinon and of the Counts of 
+Anjou, see Old Towraine, by Theodore A. Cook. (New York, 1893, 
+2 vols.) 
+8 «« Le troisiéme des fréres du Bellay, Jean. . .. Ce bon et pieux 
+personnage, le parrain de Gargantua, fut plus tard ministre du roi 
+pour ses petites affaires secrétes du c6té des Turcs, le bon ami de Bar- 
+berousse et le correspondant de Soliman. Evéque de Paris, cardinal, 
+il ne fut pas loin, dit-on, d’étre pape. La chose efit été piquante. 
+Rabelais était son Evangile. Il a travaillé plus que personne 4 créer 
+le Collége de France.’? — Micuetet, Hist. de France, T. 8 (‘' Ré- 
+forme’’), 383.
+-P-A-G-E-21
+  RABELAIS. 13 
+gains rather than loses by Francis’s death.1_ Hated alike 
+by good Catholic and rigid Calvinist, he withstands their 
+clashing wrath. The storm that he aroused seemed power- 
+less to reach him, falling on lesser figures, not on his. He 
+was too worldly to sacrifice himself, too keen to commit 
+himself, too powerful to be suppressed. He passed through 
+the tempest of the Reformation, one of its foremost figures, 
+one of its hardest fighters, with no hurt to himself. He 
+was bold as Luther, but he possessed nothing of Luther’s 
+martyr-spirit. He exposed the Church with his right 
+hand while clutching her favors with his left. He was 
+first a man of the world, only incidentally a reformer. 
+Both he and Luther were strong because they reached 
+the people, but their channels of influence ran in opposite 
+ways. 
+His medical career, wherein, in middle life, he studied at 
+Montpellier? and practised at Lyons, was characteristic, 
+not only proving the marvellous facility of his mind, but 
+showing how adroitly he could shift the frock for the gown 
+and the gown for the frock, as better served his immediate 
+ends. ‘To the close of his life he practised medicine, while 
+remaining a priest, and, passing his declining years in the 
+cure of Meudon, he was still Doctor Rabelais. To this 
+chameleon grasp of opportunity his safety in those ticklish 
+times was due. His work as a physician, moreover, turned 
+his mind to writing. His vast erudition, enriched by medi- 
+1 Largely through the favor of Diane de Poitiers. See Notice his- 
+torique sur la vie et les ouvrages de F. Rabelais, par L. Jacob, biblio- 
+phile (pseudonym of P. Lacroix), Paris, 1868. (Prefaced to Guvres 
+de F. Rabelais.) 
+2*¢The records of the Faculty of Montpellier bear the name of 
+Rabelais, as candidate, under the date of Sept. 17, 1530, and, as bach- 
+elor, under that of Nov. 1 of the same year.’’ — FLtrury, Rab. et ses 
+euv., Ch. XIII. He was not made Doctor of Medicine, however, 
+until May 22, 1537, after a sojourn at Rome. 
+   
+-P-A-G-E-22
+  14 THE EDUCATIONAL IDEAL. 
+cal research, the freedom of study and analysis permitted 
+in the schools of healing, his work in editing old texts, _— 
+combined to lead him to authorship. Well after the middle 
+point of life, he composed, in the intervals of a busy exist- 
+ence, “while eating and drinking,” as he expresses it, the 
+five books which have made him immortal. 
+The Pantagrveline books are of the type of the second 
+part of Faust. There is a like, though lesser, intellectual 
+sweep, a similar lack of continuity, a like evidence of 
+growth out of a different and smaller scheme. There is, in 
+both, a strange mingling of the human and superhuman, 
+adding to the strength while taking from the unity of the 
+design. As in Goethe’s masterpiece, one’s interest is not 
+so much in the theme or in the characters as in the 
+summing-up of humanity, the propounding of the hardest 
+questions of existence. Each is a growth, not a creation. 
+Each is a philosophy rather than a romance. 
+The manner of their composition is interesting, and is 
+plainly to be traced. First appeared,’ in satire of the 
+extravagant romances of the day, the Chronique Gargantuine. 
+A year or two later,? was published the first book of 
+Pantagruel, still extravagant, still monstrous, but dealing 
+with eternal problems. Both meeting with extraordinary 
+success, the Chronique was rewritten to serve as an intro- 
+duction to Pantagruel, which became, thereafter, the second 
+book. This enlarged Gargantua,* Rabelais’s greatest pro- 
+duction from the standpoint of education, is, therefore, a 
+thing of patches. A bit of profound truth, a rare prophecy, 
+alternate with chapters of grossest foolery, relics of the old 
+extravagance. 
+The way now being plain, the mental drift determined, 
+1 In 1531 or 1582. 2 1533. 
+8 Published in 15365.
+-P-A-G-E-23
+RABELAIS. 15 
+there appeared, in 1546, under shelter of royal sanction,} 
+the second book of Pantagruel, the third of the series. 
+This, intellectually, is his masterpiece; it is satire at the 
+highest. The fourth and fifth books, devoted to the voyage 
+of Pantagruel in search of the Oracle, while more homo- 
+geneous than the earlier ones, are, for our present purpose, 
+far inferior, and possess no vital interest. To a study of 
+Rabelais as a whole, however, they are the key. 
+Here it seems proper to identify and defend my position 
+as to the ever-mooted question of Rabelais’s purpose in 
+these books.?, Either he was a gross panderer to vulgar, 
+1 Privilege of Francis Ist, dated Sept. 19, 1545. 
+2 Two quotations will serve to exemplify the antipodal position of 
+the critics of Rabelais. Michelet says of him (Hist. de France, VIII. 
+428): ‘*What was he? Ask, rather, what he was not. A man 
+versed in every study, every art, every tongue, the true Pan-ourgos, 
+universal agent in things scientific and political, who was everything 
+and was fitted for everything, who contained the genius of the cen- 
+tury and lavished it without stint. ... A bold navigator upon the 
+deep sea that had engulfed the old gods, he sets out to seek the great 
+Perhaps; . . . already America and the new isles, already the chem- 
+ical substances extracted from plants, already the motion of the blood, 
+the circulation of life, the interdependence of the bodily functions, 
+press forward in the Pantagruel in sublime pages which, under a 
+light and ironical form, are, none the less, the religious hymns of the 
+Renaissance.’’ Contrast with this outburst, the judgment of Sir 
+James Stephen (Lectures on the History of France, London, 1857): 
+‘¢ A genuine epicurean gifted with gigantic powers, but of cold affec- 
+tions and debased appetites; ever worshipping and obeying his one 
+idol, Pleasure, though at one time she bids him soar to the empyrean 
+and at another commands him to wallow in the sty. ... Deep and 
+fatal are the traces of his example and of his fame in the literary 
+history of his native land. With him commences the lineage of those 
+eminent spirits who have waged war in France against the moral and 
+religious convictions and even against the social decencies of the 
+Christian world; a war productive of some of the sorest troubles, or 
+rather, let us say, of some of the heaviest chastisements, which have 
+rebuked the offences of the nations of modern Europe.’ — 
+   

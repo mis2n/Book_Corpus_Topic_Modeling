@@ -1,0 +1,6017 @@
+-P-A-G-E-1
+  EXPERIMENTS IN 
+EDUCATIONAL PSYCHOLOGY 
+ 
+-P-A-G-E-2
+  THE MACMILLAN COMPANY 
+NEW YORK - BOSTON - CHICAGO 
+SAN FRANCISCO 
+MACMILLAN & CO., Limitep 
+LONDON + BOMBAY + CALCUTTA MELBOURNE 
+THE MACMILLAN CO. OF CANADA, Lp, 
+TORONTO
+-P-A-G-E-3
+  EXPERIMENTS 
+IN 
+EDUCATIONAL PSYCHOLOGY 
+BY 
+DANIEL STARCH, Pu.D. 
+UNIVERSITY OF WISCONSIN 
+REVISED 
+New Pork 
+THE MACMILLAN COMPANY 
+1919
+-P-A-G-E-4
+COPYRIGHT, 1911 AND 1917; 
+By THE MACMILLAN COMPANY. 
+Set up and electrotyped. Published September, rgzz. 
+Revised May, 1917.
+-P-A-G-E-5
+    PREFACE 
+Tuts book is designed to serve as a guide for laboratory 
+experiments in educational psychology. Only those ex- 
+periments have been selected which: have a more or less 
+direct bearing upon educational problems. It is intended 
+to be a laboratory manual for experimental work done 
+parallel with an introductory course in educational psy- 
+chology, or in other introductory educational courses in 
+which the psychological aspect is emphasized. 
+No previous training in experimental work is necessary. 
+The directions are so given that in most experiments 
+relatively simple apparatus is used. For many experi- 
+ments the material is contained in the book, for others it 
+may easily be constructed, and for the rest it must be 
+obtained from the sources indicated in each case. 
+In pursuing the laboratory work the order of the chap- 
+ters permits of considerable flexibility. All chapters 
+except V and VI are independent of one another and any 
+desired order may be adopted. The work is intended to 
+occupy two hours weekly through one semester. It is 
+best to divide the class into groups of not more than eight 
+or ten, in charge of an instructor who shall see that the 
+experiments are done accurately and the notes written up 
+carefully. BA \ 
+v Syev \ 
+38/0  
+-P-A-G-E-6
+  vi PREFACE 
+In order to emphasize the practical aspects of the prin- 
+ciples brought out in the various experiments, a brief set 
+of exercises is placed at the end of each chapter which 
+should be worked out and handed in as a part of the 
+laboratory notes. Additional references are given to 
+excellent practical problems which may best be assigned 
+for discussion during the recitation hour. 
+I wish to express my obligations to Professor V. A. C. 
+Henmon, who suggested numerous changes in the manu- 
+script, to Dr. B. Q. Morgan, who read the manuscript, 
+and to Professor W. F. Dearborn, with whose coéperation 
+several experiments, particularly those in Chapters V, 
+VII, and VIII, were planned 
+D. S. 
+UNIVERSITY OF WISCONSIN, 
+June, 1911. 
+ 
+-P-A-G-E-7
+PREFACE TO SECOND EDITION 
+  Tue chief changes in this revision consist in the addition 
+of three short chapters (II, III, and IV), several tables of 
+results for various tests, and a number of questions on the 
+results of experiments. Verbal changes have been intro- 
+duced here and there, with a view to making the directions 
+for experiments or the interpretation of the results more 
+definite. The writer has found it profitable to introduce 
+into the work of his own classes the use of educational 
+scales and tests for school subjects. In that case it is 
+necessary to omit certain experiments in this book in order 
+to make room for such additional tests within a semester’s 
+time. Such omissions will depend necessarily upon the 
+plan of the course and upon the facilities available. The 
+writer has omitted the following experiments in the order 
+named: d, page 140; and c, page 142, in Chapter XIII; 
+Nos. 2 and 3 in Chapter XV; Chapters XVI, XII, and 
+XIV. The number of these experiments to be omitted 
+depends necessarily upon the amount of other work 
+introduced. 
+February 1, 1917. 
+vii  
+-P-A-G-E-8
+ 
+-P-A-G-E-9
+CHAPTER 
+I 
+TE: 
+ii. 
+IV. 
+. VisuaL Tests AND DeEFEcts. 
+VI. 
+Vil, 
+VI. 
+IX. 
+XI. 
+XII. 
+XII. 
+XIV. 
+XV. 
+XVI. CONTENTS 
+InpivipuaL DIFFERENCES . SSAC ore 
+InpivipvaL DIFFERENCES IN ABILITIES IN 
+ScHoor SuBjects . ia 
+THE DistRIBUTION OF Marks . 
+THE COEFFICIENT OF CORRELATION 
+Aupitory Tests AND ‘DzFEcTS 
+MeEnTAL ImacEs-. 
+THE TRIAL AND Error Metuop or LEARNING - 
+THE PRoGRESS OF LEARNING 
+THE ProGREss oF LEARNING (Continued) 
+THE TRANSFERENCE or TRAINING. 
+ASSOCIATION 
+APPERCEPTION . 
+ATTENTION . 
+Mewmory . Bis 
+WiGRKCANDSFATIGUR:. 5 2 S95, a4 PAGE 
+13 
+22 
+ae 
+31 
+37 
+43 
+51 
+58 
+64 
+88 
+106 
+135 
+154 
+182 
+193  
+-P-A-G-E-10
+
+-P-A-G-E-11
+  
+  EXPERIMENTS IN 
+EDUCATIONAL PSYCHOLOGY 
+CHAPTER I 
+INDIVIDUAL DIFFERENCES 
+Problem. The experiments in this chapter are intro- 
+duced with a threefold purpose: first, to show the nature 
+and amounts of differences in mental abilities between in- 
+dividuals; second, to determine to what extent mental 
+ability in one direction is accompanied by ability in other 
+directions; and third, to demonstrate some simple and 
+accurate means of measuring mental functions. In order 
+to gain scientific insight into these problems, four types 
+of mental functions or abilities will be selected for measure- 
+ment, namely: memory, perception, controlled associa- 
+tion, and arithmetical ability. 
+Procedure. 1. Memory. a. Auditory Memory Span. 
+The purpose of this test is to determine the largest number 
+of unrelated words that can be recalled immediately after 
+one hearing. This test should be conducted by the in- 
+structor in charge and performed simultaneously by the en- 
+I
+-P-A-G-E-12
+2 EXPERIMENTS. IN EDUCATIONAL PSYCHOLOGY 
+tire class, as follows: Be prepared with pencil and paper. 
+The person conducting the experiment will read the follow- 
+ing groups of words at the rate of one word per second. 
+Immediately after each group is read, write in correct 
+order all the words remembered. Then the next group 
+will be read, and soon. Do not read the test words given 
+below until the experiment is finished. 
+Tree, box, chair, ice. 
+Floor, book, house, pipe, lake. 
+Fence, card, pin, lamp, coal, horse. 
+Wood, dog, stone, nest, ink, nail, leaf. 
+Wall, fork, glass, board, hat, cup, lead, cat. 
+Bench, snow, watch, man, rose, heart, gold, king, nose. 
+Girl, plant, bread, skate, roof, corn, boy, door, face, key. 
+Compare your results with the lists as read and find the 
+largest number of words remembered in correct order from 
+any one group. This is your memory span in the auditory 
+field. The use to be made of this measurement will be 
+pointed out below. 
+b. Memorizing. Learn the following stanza by esailti 
+it through entirely, not by parts, and record the exact 
+time in minutes and seconds. Consider it memorized as 
+soon as you can repeat it without consulting the text. 
+A wanderer is man from his birth. ; 
+He was born in a ship 3 
+On the breast of the river of Time; 
+Brimming with wonder and joy, ¢ 
+He spreads out his arms to the light, 
+Rivets his gaze on the banks of the stream, . 
+ 
+-P-A-G-E-13
+  
+INDIVIDUAL DIFFERENCES 3 
+2. Perception of letters and words. 
+a. The ETest. Cross out with a short horizontal stroke 
+all the E’s in the table below. Work as quickly as you can 
+without omitting any. Record the time. 
+FLESMRETHGAUDRETT 
+BENUTROFABRBSESOTD 
+MIALCXEREBTAFEELBA 
+ERIGEEEBHRELWOB#}CIT 
+NNEVEDESHDEWOLLEYE 
+HEENYLERITNEREVETA 
+WTOPEEFOCESRUOCRET 
+EELATEMTESTAEELPOE 
+NETFOSEHISFDEKOYRE 
+NEEBBDAEDYETTERPDE 
+FLSEMDERAORBHTAFEM 
+CEBNEHWZEVGEZOXKE 
+THO % - 
+G0 B45 4 
+b. The e-r Test. Strike out with a horizontal line each 
+word that contains both e and r in the following text. 
+Record the time. 
+ . j
+-P-A-G-E-14
+    4 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+Sed quoniam, patres conscripti, gloriae munus optimis 
+et fortissimis civibus monumenti honore persolvitur, con- 
+solemur eorum proximos, quibus optima est haec quidem 
+consolatio: parentibus, quod tanta rei publicae praesidia 
+genuerunt; liberis, quod habebunt domestica exempla 
+virtutis; coniugibus, quod iis viris carebunt quos laudare 
+quam lugere praestabit; fratribus, quod in se ut corporum, 
+sic virtutis similitudinem esse confident. Atque utinam 
+his omnibus abstergere fletum sententiis nostris consultis- 
+que possemus, vel aliqua talis iis adhiberi publice posset 
+oratio qua deponerent maerorem atque luctum gauderent— 
+que potius, cum multa et varia impenderent hominibus 
+genera mortis, id genus quod esset pulcherrimum suis 
+obtigisse, eosque nec inhumatos esse nec desertos, quod 
+tamen ipsum pro patria non miserandum putatur, nec 
+dispersis bustis humili sepultura creatos, sed ‘contectos 
+publicis operibus atque muneribus eaque exstructione 
+quae sit ad memoriam aeternitatis ara virtutis. 
+Quam ob rem maximum quidem solacium erit propin- 
+quorum eodem monumento declarari et virtutem suorum 
+et populi Romani pietatem et senatus fidem et crudel- 
+issimi memoriam belli, in quo nisi tanta militum virtus 
+exstitisset, parricidio M. Antoni nomen populi Romani 
+occidisset. Atque etiam censeo, patres conscripti, quae 
+praemia militibus promisimus nos re publica recuperata 
+tributuros, ea viris victoribusque cumulate, cum tempus 
+venerit, persolvenda; qui autem ex iis quibus illa promissa 
+sunt pro patria occiderunt, eorum parentibus, liberis, 
+coniugibus, fratribus eadem tribuenda censeo.
+-P-A-G-E-15
+INDIVIDUAL DIFFERENCES ¥ 5 
+3. Controlled Association. a. Opposites Test.. Write as 
+quickly as possible the opposite to each word in the 
+following list. Record the time. 
+Strong tu Dark 
+Deep Rough 
+Lazy Pretty 
+Seldom J High 
+Thin poe Foolish 
+Soft Present 
+Many Glad 
+Valuable ? Strange 
+Late Wrong 
+Rude Quickly 
+b. Genus-Species Test. Write the name of some par- 
+ticular object for each of the class names in the following 
+list, as for example, tree-oak. Work as quickly as possible 
+and record the time. 
+ 
+-P-A-G-E-16
+6 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+  Book State 
+City Poet 
+Writer Building 
+Scientist U.S. president 
+River Fruit 
+Wood Battle 
+Flower Musician 
+Animal Lake 
+King Street 
+Grain Nation   4. Arithmetical Ability. a. Addition. Add as rapidly 
+as you can the following sets of numbers. Record the 
+time. 
+364 692 756 637 743 
+479 423 945 482 274 
+334 498 247 926 762 
+6s. 97938988
+-P-A-G-E-17
+984 724 982 768 835 
+845 328 476 372 657 
+862 987 597 984 942 
+465 348 435 756 453   
+Results. In order to show the bearing of these experi- 
+ments upon the question of individual differences, it is 
+necessary to obtain the data of the tests from a consider- 
+able number of persons and to compare them with one 
+another. For this purpose the results in Table I are to be 
+used. This table gives the actual measurements of fifty 
+adult students in the eight tests here used. 
+Draw a curve of distribution for the results of each test 
+showing how ‘many individuals belong to each grade of 
+ability. For example, in the memory span test, let the 
+abscisse represent the different numbers of words recalled 
+and the ordinates the number of persons possessing these 
+different spans. See. the curves in Figs. 1 and 2. In the 
+other tests, the intervals of time should be graded by ten- 
+second steps. Thus, for the E test, find how many persons 
+finished in from 20-29 seconds, 30-39 seconds, etc. Use 
+the data in Table I plus your own personal measurements. 
+1 If the instructor is pressed for time, it may be sufficient to have 
+the class construct distribution curves for only a part of the tests, say 
+four instead of eight, in order to acquire familiarity with the mean- 
+ing and use of the principle of these curves. é 
+INDIVIDUAL DIFFERENCES Jf 
+b. Subtraction. Perform the subtractions indicated in 
+the following numbers. Record the time.
+-P-A-G-E-18
+  8 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+  
+  
+                TABLE I 
+@ g 
+2 rl (See olor ae ga|-3 
+rlklileleldlalali 31: & . & | 6k | 3 3 & aa | & fa a 6 | da] 2 a 
+i 6 |3/40”| 4o"l2’05”| 45/1" 25”"11" 48” 
+y 5 13’35”| sx’l2t50”| 1’ 05”I 1715” 57”) 30” 
+4 7 13% a7"(1° , y V' 10" 1’ 05" 1’ 20” 
+i 6. | 2’ 55” 40" 2! 55!" 1! 02" 1 48"| 43” 
+5 5 |3/20"| 402 20”| 55”\1’20" 55””| 40” 
+. eo [7 less] sea |visivaey alse 230" 8.2025") 1! Tot 357 8” o’ ef Pe lieeaee ee eneer,| weeei| eee oom ee | 2 I Geno! 48") 1’ 19) 32 | 9 3 |3’40"| 46”l2’ 33”’| 1" 30” 1’ 40” 1’ 20" 1’ 20” 
+| Ee 6. |2’05”| 5113’ 50”| 50” 1” 20" ror” 
+ee 5 |3/ 1s’ 402! 30" 11" D v 50” 
+| ee 7 |2%08"|  4o%2"15””| 45” 1" iv 1’ 05” 
+| 13 6. |3/06"| 35"I1 30” |» 45”| 1’ 05” 1” 15” 1” 10” 
+} 14 5 3! 30” 50” 2! 1’ 30 1 25” iv 30” Te 
+ts 7 |3 452! 30”"| 1’ 45”| 45” 30” 
+| 16 6~|1"45”| 55”) 2! 17”| 1! 08” 1” 48”| 21” 
+17 6. |1"30”| 40" 2’ 05”|  36”1756”|  50”| 43” 
+; 18 TEs \ at 40”| 2’ 20" 1’ 1 20/16 20” a 5 ts? 26"! aol aak'| eod|o eats 
+9 7 t 35, 2 a Fh. oP 5 , 2 a 3 a 
+20 613 Soa eda: |) tao e 11s | 45 ss 8 13%39") 517 2! 28” 1" 0971 1! 14] 1 17”) 47” 
+: a 6 13/30" 1’ 2! 10"| 1’ 20" 1" 30” 1’ 40” 
+a 7 |x" 4o"| 28/1 38"| 58/1715" 40” as!” 
+mf 7 ileal ae | a0 Wee |e ana ie 25 6 |2'30"| 25/2’ 4s” 1! v 32" 
+56 7 |r"57"|x" 10" 1’ 45”|—47”l 1" 4o"| 1" 10”| 50” 
+27 7 2! Sei 45” y’ 450 ra TAs iv ie 
+28 6b! 45” 1" 451 1’ 30] 1" 1'10"| 40” 
+a 72" 16") 55"3/20"| 5611710") 50” 27" 
+* 6 3’ 18"\1? 2! 40"| 1" 15”|2' 05”| 451 45” 
+a 6 |r’ 50”| 301" 30"| 30" 1” 11s" 15" 
+AS 644" 45” 2’ 30""| 1" 151 1” 30” 1” v 
+es » 8 {130% 4a"l 1 451 10" 1’ 50”| 55" 
+ 
+-P-A-G-E-19
+INDIVIDUAL DIFFERENCES 9 
+TABLE I (Continvep) 
+  
+  
+                E} 
+|i]: Bo leel a | o | ae) 2 | oe) Se 
+a ot a ee eee ee ety eT | Ae ey Be ee A ar et Se io egal ale eee Sy ol ote De a Se) | EO ae ee Sele BS a AS oe eee Be here ee eet ee ae ee ae ee oe ae ee ee ern eee ee ee ede ee eee OR p>: wpeipieeiatbemrlee ! Bo) ae eles eee a) ee BS 1G Sha ee Bh, No cl egos A cea Oe | eelesalecr stl lta 
+    o 
+Sumber of Persons, 
+o - @ 
+Fig. 1, Distribution Curve for Memory Span Test. 
+ 
+-P-A-G-E-20
+I0 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+Discuss the following questions : 
+1. To what extent are these curves similar in form? 
+2 8 
+s 3 ss a 
+Fig.2. Distribution Curve for Memorizing Test. 
+  Make a free-hand drawing of a curve to show what you 
+think would be its shape if all the curves that you have 
+drawn were superposed so as to make a smooth composite 
+curve. 
+2. To which grade of ability do the majority of individ- 
+uals in these tests belong: superior, medium, or inferior? 
+If you divide the entire range of abilities indicated on the 
+base line of the distribution curve into three equal parts 
+and designate these thirds as superior, medium, and inferior 
+respectively, what proportion of individuals belong to 
+each part? For example, what percentage of persons have 
+a memorizing ability, Fig. 2, of from 40 seconds tor: 59, 
+from 2:00 to 3:19, and from 3:20 to 4:39? In this 
+manner make a composite table of all the curves to show 
+the percentage of persons in each third.
+-P-A-G-E-21
+INDIVIDUAL DIFFERENCES It 
+  The normal distribution curve is a symmetrical, bell- 
+shaped curve, like the one in Fig. 1, and is considered 
+for most mental traits to conform fairly closely to the 
+mathematical probability or chance curve. If the base 
+line of the symmetrical curve is divided into three equal 
+distances, approximately 2 or 66% of individuals belong 
+to the middle or medium group, 4 or 17% of persons belong 
+to the upper or superior group, and } or 17% belong to 
+the lower or inferior group. The purpose of the present 
+problem is to determine what percentage of persons in 
+these tests belongs to each group. 
+3. On the basis of these distribution curves, would it 
+be fair to divide a group of persons into, for example, two 
+distinct groups, bright and dull? Why? 
+4. How much better are the superior individuals 
+than the inferior ones? For example, in the E test 
+in Table I, the best record is 25 seconds, while the 
+lowest is 1 minute and 30 seconds. That is, the best 
+one is 3.6 times as fast as the slowest one. Construct 
+a table to show a comparison for all the tests. This 
+table will have 4 columns. In the first column put the 
+name of the test, in the second column put the poorest 
+record of the 50 in Table I for that test, in the third 
+column put the best record, and in the fourth put the 
+ratio of the poorest’to the best. This ratio for the E 
+test would be 1:3.6. Place at the bottom of the fourth 
+column the average ratio which will indicate how much 
+better on the average the best individual in any test is 
+than the poorest. C
+-P-A-G-E-22
+12 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+5. What is the use and value of the distribution curve? 
+What does it show with regard to the nature, range, and 
+distribution of differences in ability among individuals? 
+6. Would you expect the abilities of pupils in a given 
+class in a school subject to differ as much as they do in the 
+present tests? Why? 
+ 
+-P-A-G-E-23
+CHAPTER II- 
+  INDIVIDUAL DIFFERENCES IN ABILITIES IN SCHOOL 
+SUBJECTS 
+Problem. One of the most significant facts discovered 
+by the recent tests and measurements of the abilities of 
+pupils is the enormously wide range of ability shown by 
+the pupils in the same class or grade. The purpose of the 
+experiment in this chapter is to show how wide this range 
+is in one school subject, namely, reading. The immediate 
+purpose of the experiment is to measure three elements 
+in reading ability, speed, comprehension, and size of 
+vocabulary. 
+Procedure. The speed and comprehension of reading 
+will be measured by the test passages printed on. the 
+next two pages. Do not read them or examine them until 
+you are ready to do the test. At a signal from the in- 
+structor you will be asked to turn to the first passage, 
+known as number 7, and asked to read as rapidly as you 
+can, consistent with grasping the thought content as fully 
+as possible. Do not read over anything a second time, but 
+read on continuously. At the end of the 30 seconds, the 
+instructor will give the, signal to stop. Stop immediately 
+and draw a line around the last word read. Then imme- 
+diately write out in your own words, as fully as you can, 
+the thought content of the amount that you read. 
+After this has been finished the test will be repeated in 
+exactly the same manner with passage number 9. The 
+purpose of two tests is merely to obtain a more correct 
+13, 
+ 
+-P-A-G-E-24
+I4 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+. determination of the speed and comprehension of reading 
+than is possible by means of a single test. 
+The range of vocabulary is determined by a test designed 
+for that purpose on later pages. Follow the directions 
+given at the head of the test. 
+No. 7. 
+Captain John Hull was the mint-master of Massachusetts, and 
+coined all the money that was made there. This was a new line 
+of business, for in the earlier days of the colony the current 
+coinage consisted of gold and silver money of England, Portu- 
+gal, and Spain. These coins being scarce, the people were often 
+forced to barter their commodities instead of selling them. 
+For instance, if a man wanted to buy a coat, he perhaps ex- 
+changed a bearskin for it. If he wished for a barrel of molasses, 
+he might purchase it with a pile of pine boards. Musket-bullets 
+were used instead of ,farthings. The Indians had a sort of 
+money called wampum, which was made of clam-shells, and this 
+strange sort of specie was likewise taken in payment of debts by 
+the English settlers. Bank-bills had never been heard of. 
+There was not money enough of any kind, in many parts of the 
+country, to pay the salaries of the ministers, so that they some- 
+times had to take quintals of fish, bushels of corn, or cords of 
+wood instead of silver or gold. 
+As the people grew more numerous and their trade one with 
+another increased, the want of current money was still more 
+sensibly felt. To supply the demand the general court passed 
+a law for establishing a coinage of shillings, sixpences, and 
+threepences. Captain John Hull was appointed to manufac- 
+ture this money, and was to have about one shilling out of every 
+twenty to pay him for the trouble of making them. 
+    Reading Test, Series A Prepared by D. Starch 
+1 These tests are discussed at greater length in the writer’s book 
+“Educational Measurements.”
+-P-A-G-E-25
+INDIVIDUAL DIFFERENCES 15 
+No. 9. 
+To an American visiting Europe, the long voyage he has to 
+make is an excellent preparative. The temporary absence of 
+worldly scenes and employments produces a state of mind pe- 
+culiarly fitted to receive new and vivid impressions. The vast 
+space of waters that separates the hemispheres is like a blank 
+page in existence. There is no gradual transition, by which, 
+as in Europe, the features and population of one country blend 
+almost imperceptibly with those of another. From the mo- 
+ment you lose sight of the land you have left, all is vacancy 
+until you step on the opposite shore, and are launched at once 
+into the bustle and novelties of another world. 
+In traveling by land there is a continuity of scene and a con- 
+nected succession of persons and incidents, that carry on the 
+story: of life, and lessen the effect of absence and separation. 
+We drag, it is true, “a lengthening chain,” at each remove. of 
+our pilgrimage; but the chain is unbroken: we can trace it 
+back link by link; and we feel that the last still grapples us to 
+home but a wide sea voyage severs us at once. It makes us 
+conscious of being cast loose. from the secure anchorage of 
+settled life, and sent adrift upon a doubtful world. It inter- 
+poses a gulf, not merely imaginary, but real, between us and” 
+our homes — a gulf subject to tempest, and fear, and uncer- 
+tainty, rendering distance palpable, and return precarious. 
+Such, at least, was the case with myself. As I saw the last 
+blue line of my native land fade away like a cloud in the hori- 
+zon, it seemed as if I had closed one volume of the world and its 
+concerns, and had time for meditation, before I opened another. 
+  BROS Me TR eee Reading Test, Series A 
+Dace Prepared by D. Starch 
+Results. Determine your speed of reading by counting 
+the number of words read in each passage, and by dividing 
+by thirty so as to obtain the number of words read per 
+second, 
+   
+-P-A-G-E-26
+Oe 
+  
+EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 16 youd 03 *zZ ayeusln “Zz suyreaoid -zl yeos109 *zz 
+aatyisod *1L Surpuodsaisoo *1z yeryiod ‘12 SSOUIATJONISUOD *1Z 
+wistunojg ‘ol aayydumsuoo ‘oz eulojomeg ‘ol ayeqoidutoo 03 ‘oz 
+Ayoid 69 yeuoryeuoo “61 aoatd 03 *69 Teyjoo “61 
+snonordsiod *g9 AYATOTJOO “QI giqvuosiod “gg SsouIeajO *gI 
+feared ‘Lg : avpeyodiioyg “LI qeod 03 *L9 doyo 03 *Z1 
+siyuydoueied ‘99 osueyo “91 pqrered -99 proroueyo ‘oI 
+ajqeziptxo “Sg yoyeo 03 “SI qeymo “SQ eyouvuueyeg *S1 
+A310 “bg sisreyqueo ‘b1 otpuesio ‘bo uourd ‘bi 
+filo ‘€9 ssorygnq “fr eroys-yo “£9 dno-3044nq " 
+a[qeeoyjou *z9 uaqysiiq -*z1 9ye}0U 0} “ZO aypuq “ZI 
+ounydeN ‘19 yooq ‘II OTmeOTOAOSU “19 joumuoq ‘II 
+qn ‘09 yoryq “Or ysnur ‘09 “ elseziq ‘OI 
+puryzoom “6S sursuojeq *6 uoou ‘6S oneyeq *6 
+aargstur “gS qayoworeq “g onostur “gS , qoyreq °*g 
+stseqeyout *Z¢ Aime °L sisejosour “LS qyeme °L 
+49oMs-mopeout “9S quosse “9 asreuuoxeu *9S : Tedesse “9 
+qsoptueur *SS aaysnqre “S$ asueur “S$ epruery “S 
+ewoydmAy “bS wstuoseyue “by uopredoohy “¥S yeuiouqe “by 
+yeooy “€S eryyuoue *f wero] “eS umioenquie *€ 
+Azeypqy *zS qyoisie *z ci stmoy +zS omnynowse “Zz 
+ouruepney “1S uoryoe “I uryey “1S eqoe 1 
+II LSIT I LSIT -oqo 
+‘Aoavad 
+‘yny 
+‘90J0 
+07 
+‘uouvo 
+‘olJoTJoq 
+se 
+Yons 
+‘10J 
+poTyeo 
+oq 
+Ajyetoedse 
+[[IM 
+ssuruveU 
+yUSIEyIP Ajer1yUe 
+SAVY 
+YOTYA 
+4Nq 
+SPIOM 
+VOUTUIOD 
+0} 
+IUPIUNIS 
+ov 
+YOIYM 
+SPIOMA 
+“Po 
+HreUI 
+yoyo 
+oy} 
+ssoso 
+‘Suruvour 
+v oars youues 
+nok 
+JT 
+‘“Mouy 
+4oU 
+pip 
+nod 
+yey} 
+Aue 
+yooyo 
+you 
+prp 
+Nod 
+7ey} 
+oIMs 
+oYeUl 
+07 
+Se 
+OS 
+poxDayo 
+oavy 
+ABUT no& 
+yey} 
+spiom 
+ynougip 
+oy 
+jo 
+Aue 
+so4ye 
+Suravour 
+ot} 
+071M 
+07 
+JouTUTexa 
+oy} 
+Aq 
+poyse 
+oq 
+[]IM 
+Nos 
+voy, - 
+‘ams 
+oqmnb 
+you are 
+nof 
+Zurueewl 
+asoyM 
+jo 
+ynq 
+YM 
+IJeyIUTey 
+ae 
+NOA 
+Se 
+SpIOM 
+Joyo 
+YONs 
+Joye 
+Suruvew 
+oy} 
+oy 
+= *“ApOOI -109 
+9sn 
+pyhoo 
+noX 
+yorym 
+pue 
+jo 
+ins 
+ore 
+NOX 
+Suruvou 
+osoyM 
+pom 
+yore 
+Joye 
+(/\) 
+YreU 
+YOoyo 
+v 
+oFeIA[ 
+LSaL AUVINAVOOA HSITONG 
+ 
+-P-A-G-E-27
+  tee ereeee es cageroayt ttt tts s+ © “pT sry soz 109g set en cece oo se ees astTezOTezCgs 
+42qIZ ‘OO1 tsnf{ ‘oS erdAj0Joz “OOT a1qeaspoymouy ‘oS 
+yeoym °66 eal ‘6b preym *66 soyidnf -6b 
+poem “36 SAIssTuLojUT “gh oavisprem_ *g6 oyeueryey] “gh 
+n eiqoyoa *L6 Aqyyppyur “Ly soruron °L6 ~ eproyut 0, “Lb 
+8 mosyydn “96 aimysodut -9b daraysjoydn +96 oyenyzejur 0} “ob 
+a posreyoun $6 AdesayjoudAy “Sb ureesoqun *S6 eiojdun 0} “Sb 
+fa uorauns “+6 youloy “bh dum 0) “+6 stsoyeroysodéy “bb 
+a orsuely “£6 wisidoyorayoy “EF Joysuesy 07 “£6 snosovepioy “fb é 
+BE onsst} *26 yey ‘cb uinqd +26 fuosoiszoy “zh 
+q way} ‘16 eyeusqey “IP uryeoyy, “16 Aoqyney “1 
+a 9488} 0} ‘06 sseis ‘ov snsie} ‘06 : ye1k3 ‘ob 
+4 SAIOMS 0} “68 yeosudieydossojs *6¢ qeoms “6g urouocys *6E 
+5 oypedsqns “gg snumsepey “gf uordgerqns “gg 9340z83 03 “gf 
+a yooys 07 “4g snomsnj “LE Joyendys “2g Aqqny -Le 
+5 orenbs ‘9g royyes-10J 03 “of ands ‘9g qsoloy “of 
+a ystredg “Sg meg “SE uooipeds “Sg yep oz “Se 
+q yews “bg qestoy “be somyjs 03 “bg uonory “be 
+Apusis 03 “fg Appey *f¢ piowsis -€g astyerodeaa “fe 
+OpPpeys 0} “zg useidI0Ao “ze XOS ‘ZB aueoida ‘ze 
+TeHejeros “1g umpyseside “1¢ ystuorssooas “1g souenboje “1f 
+peqqeos ‘og ~ qstuoyedioueuis ‘of Ttwumes ‘og optposAp “of 
+wustyeqqes “62 qo[sea *6z qoqyni 62 MOP 0} *6z. 
+qseor 0} “gl qysUMOp “gz woatt “gl poferdsip “gz 
+qsor “LL aiqeyndstp -Lz Tnyoedsor *LL sousleyip “Lz 
+asnjer 0} “of souenyyIp ‘9z douojar “gL Jequowyredep -9z 
+yetoser “SL aiojdap 0} “Sz qder SL yyeop “Sz 
+goyyenb “bL poimyueqep “bz ajdnipenb “vL Aouotms “be 
+ayosoid 03 “EL ureyno “fz doypesoid eZ 9010 07 “€z 
+ 
+-P-A-G-E-28
+18 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+The comprehension of reading is determined by compar- 
+ing your written reproduction of thought with the original 
+passage to see if you have expressed any ideas incorrectly 
+or ideas not in the test passage. If you have, cross off all 
+such words or sentences or parts of sentences. Then count 
+the number of words that you wrote which represent a 
+correct statement of thought. The emphasis is not on the 
+verbatim reproduction. In the case of adults, usually 
+very little needs to be discarded. In the case of children, 
+not more than 7% of the words written need on the 
+average to be discarded. 
+Present your results in the form of a table having three 
+columns, one each for speed, comprehension, and vocabu- 
+lary respectively. Place under each heading the score 
+made in the first and second test, and the average at the 
+bottom. Compare these averages, which represent your 
+own reading ability, with the following standard scores: 
+  
+  
+  
+  
+  GRADE UnI- 
+VERSITY 
+dn lesa] <$ | 4 |-5 | 6 | 7 | 8 | Junrors 
+Speed (words read 
+per second).... 1.5} 1.8} 2.1] 2.4] 2.8] 3.2! 3.6] 4.0] 4.7 
+Comprehension | 
+(words written) | 15 ;20 | 24 28 133 |38 |45 |50 | 57 
+Vocabulary ...... | 30 133 /36 |39 |42 | 61 
+    
+  
+Make distribution curves for the measurements given 
+in Table II. 
+1 These data were obtained from the same persons as those in 
+Table I. The numbers in the column for persons are the same in- 
+dividuals, number for number. 
+ 
+-P-A-G-E-29
+INDIVIDUAL DIFFERENCES 
+  TABLE II 
+Speed Comprehension Vocabulary 
+I.. 7.0 95 67 
+2 4.8 59 60 
+3-- 44 73 64 4.. 6.1 68 66 
+5-- 6.5 63 67 
+Cr 4.1 54 53 
+7-- 3.8 57 58 Ba: 6.2 69 56 
+9: 3.0 38 55 10.. 6.1 60 62 
+Tiny 4.6 60 55 
+12: 5:5 63 61 
+Ign. 4-7 58 59 14.. 6.1 58 62 
+15.. 5-4 57 70 16.. 5.2 62 68 
+Tye. 3.6 77 60 
+18 4.6 31 7O 
+19 6.0 24 57 20.. 5.3 66 58 
+ZI 6.6 65 68 
+22. 4.8 57 60 
+23.. 2.7 47 54 24.. 4.9 69 64 
+25s 6.3 82 70 
+26.. 5.6 54 58 
+27 5.1 67 58 
+28%. 4.3 84 72 
+20. 4-7 57 7o 30.. 4-4 48 60 
+gli 6.6 62 62 
+32.. 54 4 57 70 
+33-- 5-4 53 60 34.- 4.6 75 63 ans 7 81 68 
+36. 6.5 68 67 
+uae 6.2 59 50 
+38 6.1 78 68 
+39 4.0 47 57 
+40.. 3.6 43 54 41 5-5 83, 52 
+2 5.1 37 52 
+43 2.4 43 49 44 5-3 73 63 45 5.1 65 52 
+46 4.6 62 55 
+47.- 45 53 5° 48.. 4.0 47 48 
+49.. 4d 62 64 50 7.0 39 .87  
+-P-A-G-E-30
+  20 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+In plotting the curves for speed of reading, use on the base 
+line the following steps of words read per second: 2.0-2.4, 
+2.5-2.9, 3.0-3.4, etc. In the curve for comprehension, 
+use the following intervals: 20-24, 25-29, 30-34, etc. In 
+the curve for vocabulary, use the following intervals: 4o- 
+44, 45-49, 50-54, etc. 
+Discuss the following questions : 
+1. How does the range of individual differences in 
+reading ability compare with the range of ability in 
+the tests of the preceding chapter? What percentage 
+of the persons in Table II fall below the eighth grade 
+standard in speed, comprehension, or both? In vocab- 
+ulary? This may be determined from your distribution 
+curves. 
+2. Similar wide ranges of differences in ability of the 
+pupils in a given class exist in all school subjects. What 
+should schools do in order to take account of these differ- 
+ences? Suggest as many different possible plans as you 
+can. What would be the most feasible plan? 
+3. On the basis of the data in Table II, formulate as 
+definite an answer as you can to the question as to whether 
+the rapid reader grasps, relatively or absolutely, as much 
+of what he reads as the slow reader. To make a definite 
+comparison, select the five most rapid readers and the five 
+slowest readers and compute the average speed of reading 
+and the average score for comprehension of each group. 
+What does your comparison show? Suppose that two 
+pupils, a rapid reader and a slow reader, have one hour 
+in which to prepare a history lesson involving a consider-
+-P-A-G-E-31
+  INDIVIDUAL DIFFERENCES 21 
+able amount of reading, which of the two pupils will have 
+the advantage? Why? 
+4. Would it be advisable to encourage, either in pupils 
+or in yourself, an effort to increase the rate of reading? 
+Why? How might it be accomplished ?
+-P-A-G-E-32
+  CHAPTER III 
+THE DISTRIBUTION OF MARKS 
+  Problem. One of the useful applications of the principle 
+of the distribution curve is to the assignment of marks. 
+The purpose of the work in this chapter is to determine 
+how different teachers in a given school actually assign 
+marks to their classes, how much they differ from one 
+another and from the normal distribution curve.., 
+Procedure and Results. a. The Distribution of Marks 
+in a Single Large Class. The following are the grades of a 
+class in psychology. The passing grade in this institution 
+is7o: 5 
+\ ’ we ~ i a 
+86} 80, 86, 83, 78) 805 88, 85} 82, 83,84, 88, 84, 84, 88, 83, 
+26, 88; 86, 83, 00,86, 86, 86, 84, 80, 86, 80, 84, 78, 82, 88 
+86,89, 86) 84, 03, S6KOB, 85, 84, 86, 84, 90, 88, 88, 86, 80, 
+86, 93, 82, 88, 86, go, 83 785 97; ~ 73, 48; 86, 86, 82, $6, 
+i 38, 78, 80, $6, 82; go, 70; 80, 90, 84, 82, 765 86, 78, 84, 84, 
+88, 83, 70; 86, 84, 82, 90, 82, 88, 78, 88) od, 86, 86, 03, 78, 
+86, 86, 90, #5, 86, 84, 76; 84, 76, 84, 75, 84).86, "78, 00, 95, 
+90,84, 80, 93, bo, 82) 80, 84, 83, 86, 83; 86, 86, 86, 84, 34, 
+82, 86, 83. f Mi 
+Construct a distribution curve for these marks, using 
+along the base line from left to right the successive grades 
+as follows: 68, 69, 70, 71, etc. 
+bg 22 ’ ‘
+-P-A-G-E-33
+  THE DISTRIBUTION OF MARKS 23 
+x. Should this curve be similar in form to the curves 
+obtained from the experiments of the preceding chapters? 
+Why? 
+2. What criticisms of this set of grades can you suggest ? 
+Were enough marks below 70 given? Above 93? What 
+explanation can you give of the fact that certain marks 
+are used far more frequently than ‘others, for example, 86, 
+88, go, etc. ? 
+3-- How small differences or steps do you think a teacher 
+can distinguish on the marking scale? 
+b. Distribution of Marks by Different Teachers in the 
+Same School. The following marks were assigned by six 
+teachers to their respective classes in the first year in a 
+certain high school :
+-P-A-G-E-34
+EDUCATIONAL PSYCHOLOGY EXPERIMENTS IN 24 
+TABLE III 
+Grapes 1N FRESHMAN CLAsses 1n A HicH ScHoor 
+= Failure Passable, N Fair, P = “eae G= Sood Fe E= 
+  
+     
+  
+  
+  
+a + flee he TE Saeed ib eyeieal 
+BUA ZHOOROAZRA AMM AOAZORMOOOOZ OFA Fei iA Fe Fes OA A ZARA Ay Fe FOO FOO 
+a pcb Rpt ee Pb eae PT 
+BR OOO RAO ROO Fa fe fy Oy Fe tay fy OK OODDOMOUOOO 
+a is is 1 ap aT Astacio 
+SO ZA BORA RA ZOCOR MmCZAZOZ ALAORAAAOOOKOO 
+a gt teal beef aticty ae Lak ate a Et 
+Bee Om me ZH ORMONROROOZ OZ fm Ae 
+5 EAI AZAUZ RH AOOMHOAZOANKOROZAALO REAR HOOM ZA mA 
+oO 4 fades Le ie ol ot | [laid stzal | 
+BORZHOO SU GOKOAAZROGARAMAL Ze HOMAO AR HOOKDDUUZUA 7 
+& 
+ 
+-P-A-G-E-35
+  THE DISTRIBUTION OF MARKS 25 
+Plot a distribution curve for each set of grades, using along 
+the base line from left to right the individual marks as 
+follows ¢ NSP P, P+, F—, F, F+, etc. 
+1. Criticise each set of marks and point out whether 
+you think the marks are too high or too low, or approxi- 
+mately correct.. 
+2A theory, held by many investigators of marks and 
+supported by good reasons, is that marks of large groups 
+of pupils should be ‘digeributed according to the normal 
+distribution or probability curve, similar to the curve in 
+. Fig. 1. According to this assumption, when five divi- 
+sions on the marking scale aré used, the marks should be 
+distributed approximately to the following percentages 
+of pupils: 
+‘ A, gr excellent, 93-100, to 7% 
+B, or good, 85= 92, to 24% 
+C, or fair, 77- 84, to 38% 
+D, or passable, 70- 76, to 24% 
+E, or failure, below 70, to .7% 
+Prepare a table to show to what percentage of pupils 
+each teacher assigned each of the 5 steps. For example, 
+what percentage of pupils in the English class received 
+the gfade of N, P, F, etc.? Compare each teacher’s dis- 
+tribution with the above theoretical distribution. 
+3. Discuss now the general proposition that marks 
+should be assigned in conformity with the normal distri- 
+bution or.probability curve. What reasons in ;support 
+of this theory can you give? Would you expect abilities 
+in school subjects to be distributed in the same manner 
+ 
+-P-A-G-E-36
+26 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+as mental traits generally are, such, for example, as are 
+measured in the tests in Chapter I. What objections to 
+the proposition can you mention? 
+4. If you grant that marks on the whole should be dis- 
+tributed in approximate conformity with the probability 
+curve, in how small classes would you expect reasonably 
+close conformity ? 
+5. What value would there be in having the teachers in 
+a school try to bear in mind an approximate or reasonably 
+close conformity to the normal distribution curve in mak- 
+ing out their grades? 
+ 
+-P-A-G-E-37
+  
+CHAPTER IV 
+  THE COEFFICIENT OF CORRELATION 
+Problem. The coefficient of correlation is an expression 
+used so widely in educational and psychological work that 
+the student ought to have some definite conception of its 
+meaning and application. The problem of the present 
+exercise is to learn how this coefficient is computed and 
+how it is used. Suppose we wish fo discover to what 
+extent pupils in general have similar amounts of ability 
+in different school subjects, the-exact amount of this simi- 
+larity or correlation is expressed by means of the coeffi- 
+cient of correlation. Specifically, the question involved 
+would be this: *To what extent are the good pupils in one 
+subject also good in other subjects, to what extent are the 
+poor pupils in one subject also poor in other subjects, and 
+to what extent are the average pupils in one subject also 
+average in other subjects? Or, suppose we wish to dis- 
+cover to what extent speed of reading is accompanied by 
+complete comprehension, whether the fast reader compre- 
+hends less than the slow reader, and vice versa, we can 
+express this relationship by means of the coefficient of 
+correlation between these two elements in reading ability. 
+The value of the coefficient of correlation ranges from 
++ 1.00 through o to — 1,00. A coefficient of correlation of 
++ 1.00 means a complete agreement. If the coefficient of 
+27
+-P-A-G-E-38
+  28 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+correlation between ability in Latin and ability in German 
+were + 1.00, it would mean that the best pupil in Latin 
+is also the best pupil in German, the second best in Latin 
+is also the second best in German, etc., down to the poorest 
+pupil in Latin, who would also be the poorest in German. 
+As the correlation drops farther and farther below + 1.00 
+toward o, the closeness of this agreement becomes cor- 
+respondingly less until o is reached. If the coefficient 
+of correlation between ability in Latin and ability in 
+German were — 1.00, it would mean that the best pupil in 
+Latin would be the poorest pupil in German, the second 
+best pupil in Latin would be the second poorest in German, 
+etc. As the correlation rises above — 1.00 toward o the 
+reversal becomes less and less until o is reached. A 
+coefficient of o would mean that no relation exists. A 
+pupil might have any amount of ability in one subject and 
+any other amount of ability in the other subject. 
+Procedure and Results. The coefficient of correlation 
+may be computed by several methods. For the present 
+exercise the formula known as the Pearson rank method, 
+_ 6 Sum (a) 
+: n (n2 — 1)’ 
+will be used. In this formula 7 stands for the coefficient, 
+d stands for the numerical difference in rank between the 
+corresponding measurements, and n stands for the number 
+of cases considered. A more concrete conception of the =e 
+method may be obtained from a sample computation. 
+The following numbers are the actual grades of ten pupils 
+in Latin and Algebra:
+-P-A-G-E-39
+( 
+  
+  «THE COEFFICIENT OF CORRELATION 29 
+ALGEBRA Lari 
+Marks Ranks Marks Ranks a a 
+96 J 93 3 2 4- 95 2 +88 6 Zs 4 16_— ; 
+93 3% 95 Hoag, 2 4- ‘ “90 44 80 10 52 30.2, 
+> 90 44 +88 6% 1y 2.25 
+8 6 94 2 4 16 , 
+87 7 go 4) 3 9% 4 q.2 v 85 8 288 6 2 eS wv 83 9 84 9 ° o + 
+80 10 85 8 E2 ae yY 
+95.51; = Sum pe | 
+ES Se ae en oi a ee 578 : noe £9 a1 Tee . . * . . me é¢ 
+In assigning ranks, it will be noticed that whenever “Z;o5 
+29VO several numbers are tied for the same position, they are 
+all given the middle rank. For example, in the Algebra 
+grades there are two 90’s. Instead of giving them either 
+4 or 5, they are given 4,5. In the Latin series there are 
+three 88’s which are all given the rank of 6. 
+Table IV gives the actual marks received by 22 eighth 
+grade pupils in the subjects mentioned at the head of the 
+table. Each mark is the average of all the marks received 
+in these subjects in grades 5-8. These 22 pupils are all 
+the pupils in a certain school from whom complete records 
+for the upper four grades could be obtained. 
+Compute the coefficient of correlation between as many 
+of these subjects as may be designated by the instructor. 
+The coefficients derived from these data will represent the 
+actual amounts of correlation among school subjects so 
+far as these can be determined from the limited number of 
+pupils. Since the marks are averages covering four suc- 
+cessive years, the results ought to have a rather high de- 
+gree of reliability.
+-P-A-G-E-40
+30 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+Arithmetic Language Geography History Reading TABLE IV 
+ae 883, 85.3 80.5 
+ke. 81.3 88.7 85.0 
+3 85.3 86.0 83.0 
+4 79.7' 84.0 79-5 
+5.) TE 7289 2 LS Cnc: 81.7 80.7 175 
+7-: 77.9 80.7 75-5 aa 77.0 84.0 81.5 
+Ot: 89.7 88.0 84.0 
+10.. 80.7 79:3 79-0 Td, 74.7 82.0 76.5 
+12. 80.7 81.0 75.0 
+13... 76.7 74.0 71-5 
+14.. 75-7 74-7 70.5 I5.. 81.7 84.7 81.5 
+16.. 88.3 90.0 91.0 
+bye: 82.0 77-7 77-0 
+18a. 77.0 78.0 74.5 
+oe. 82.3 7es7. 78.0 
+20.. 73:3 72.0 73-5 2r 81.3 79:3 78.0 
+22. 93-5 ]+ 91.0 94.0 
+  84.5 
+93-5 90.0 
+78.0 
+78.0 
+81.5, 
+81.5 
+82.0 
+90.3 86.5 
+83.0 
+86.0 
+74.0 
+75-0 88.5 
+95-5 87.0 
+79.0 
+85.5 
+78.5 
+915 
+95-5 82.0 
+89.7 
+87.0 
+88.0 
+83.0 
+78.0 
+81.3 
+88.7 
+87.7 
+84.7 
+87.5 
+86.3 
+73-3 76.0 
+  Spelling 
+88.0 
+89.3 88.3 
+90.3 
+73.0 
+88.3 
+87.7 
+91.0 
+86.3 
+83.3 
+84.0 
+80.3 
+80.3 
+80.0 
+92.0 
+90.0 
+68.5 
+76.7 80.3 
+75-3 81.7 
+89.3 
+1. On the basis of these coefficients, what is your impres- 
+sion as to the extent to which a pupil has similar ability 
+in all school subjects? A general inspection of the marks r¢ 
+in Table IV will give an approximate conception of the ex- 
+tent of this similarity. The coefficient of correlation sim- 
+ply expresses this similarity in exact terms. 
+2. Is it true for a great majority of pupils that they 
+may be good in one subject and rather poor or mediocre 
+in other subjects and vice versa? What do the figures 
+in Table IV actually show with regard to this point? 
+ 
+-P-A-G-E-41
+  CHAPTER V 
+VISUAL TESTS AND DEFECTS 
+  THE eye is the most important avenue of information. 
+The need of care in preventing abuse and in correcting 
+defects is patent to everyone. Every teacher should know 
+something of the common types of visual defects, and how 
+to detect them. 
+1. Far- and Near-Sightedness. In order to see an 
+object distinctly the rays of light from that object must 
+come to a sharp focus upon the retina. If not, the object 
+appears blurred. 
+a. The Function of Accommodation. Accommodation 
+is the change in the shape of the crystalline lens in order 
+to focus the image upon the retina. \ For a distant point 
+the lens flattens and for a near point it bulges. 
+Set the end of a ruler against the cheek below the right 
+eye so that it points in the direction of sight. Close the 
+left eye. Hold a pin (point upward) at a distance of 
+about thirty centimetres so that the point can be seen 
+distinctly. Then gradually slide it along the edge of the 
+ruler toward the eye until it comes to the place where the 
+point begins to blur. Slide it outward until the point 
+again appears distinct. This is the near point of vision. 
+Care should be taken not to strain the eye by trying to 
+see the point distinctly at a closer range than is natural for 
+31
+-P-A-G-E-42
+  32 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+  the eye. Measure and record the distance from the eye. 
+Make five measurements for the right and five for the left 
+eye. Put your results into a table to show the separate 
+readings and the average for each eye. For the normal 
+eye, at the age of twenty, this distance is about twelve 
+to fifteen centimetres. For the near-sighted eye it is less, 
+and for the far-sighted eye it is more. 
+~ Hold the pin at the distance just determined and set 
+a page of print about twenty centimetres beyond the pin. 
+Notice that as you focus on the pin the print appears 
+blurred. As you focus on the print the pin appears 
+blurred. Notice also the feeling of effort or strain in the 
+eye as you shift from the print to the pin. 
+In myopia, or near-sightedness, the eyeball usually is too 
+long. The image is formed at a point in front of the retina. 
+In hyperopia, or far-sightedness, the eyeball is ordinarily 
+too short and the image would be formed at a point back 
+of the retina. In the latter case it requires constant 
+strain of the ciliary muscles to see near objects distinctly. 
+Defects of accommodation are accentuated in large part 
+by the effort and strain in the ciliary muscles which con- 
+trol the lenses when looking at objects near by, as, for 
+example, in reading. They may also be due to loss of 
+elasticity in the lens or lack of responsiveness in the ciliary 
+muscles. When the eyes are at rest they are focussed for 
+distant points. Demonstrate this by closing your eyes 
+for a few seconds, and then opening them. Notice that 
+they are adjusted for distant objects and that it requires 
+special effort to focus them upon the page in front of you.
+-P-A-G-E-43
+VISUAL TESTS AND DEFECTS 33 
+b. Snellen’s Test.1_ Hang the chart on the wall in good 
+light, but not in direct sunlight. Be seated directly in 
+front of it at a distance of twenty feet. Test each eye 
+separately. Hold a card in front of one eye while the other 
+eye is being examined. Do not press against the eyeball. 
+Begin at the top of the chart and read aloud down as far 
+as you can. The experimenter stands near the chart 
+and takes note of the errors. Record the results of each 
+eye separately in terms of a fraction in which the num- 
+erator is twenty and the denominator is the number at 
+the right of the last line read correctly. Thus, if the 
+fraction is #$, it means that the last line read correctly 
+is the one marked twenty feet, the distance at which the 
+normal eye should be able to read it. If the fraction is 
+4, or less, the eye is probably near-sighted. If the 10 
+or 15 feet lines can be read the eye is probably far-sighted. 
+In either case, it should receive the attention of a phy- 
+sician. 
+It is well to use several different vision charts so that 
+the letters may not be memorized. If only one chart is 
+at hand the results should be verified by covering with two 
+cards all the letters in a given line, except the one to be 
+read. Expose the letters in irregular order. 
+2. Astigmatism. Use the chart which has the radiating 
+lines. These are numbered like the figures on a clock. 
+Hang the chart in good light and sit at a distance of twenty 
+  Snellen’s Vision Charts, Cogan’s Prism Chart, and Holmgren’s 
+worsteds can be obtained from F. A. Hardy & Co., 131 Wabash 
+Ave., Chicago.
+-P-A-G-E-44
+34 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+  feet. Cover one eye with a card, while the other eye is 
+being tested. Look at the chart and notice whether any 
+of the radii appear darker. Record these by their num- 
+bers. To the normal eye the radii should appear equally 
+distinct. If they appear considerably different the eye is 
+astigmatic. 
+3. Strabismus, or Heterophoria. This includes all those 
+defects which are due to the lack of proper coérdination 
+of the two eyeballs so that the two eyes do not converge 
+simultaneously upon the same point. This condition is 
+due to the fact that the external muscles of the eyes are 
+not properly counterbalanced. The extreme form is 
+commonly called cross-eyes. There are, however, many 
+slight degrees of strabismus which can scarcely be noticed 
+and yet have a very detrimental effect upon vision. The 
+unbalanced eye receives a distorted image and the bur- 
+den of sight falls upon the other eye. Demonstrate this 
+by looking at some object, say a book, and pressing your 
+finger against the lower side of one eyeball. Notice the 
+distortion of vision. 
+To detect the presence of strabismus, make the follow- 
+ing test: Hang the Cogan Prism chart about six inches 
+away from the wall. Place a lighted candle or lamp just 
+back of the small opening at the centre of the chart. 
+Take a position twenty feet from the chart so that the 
+eyes are on a level with the aperture. The light must be 
+seen directly through the opening. 
+Close one eye and hold the red glass close before the 
+other eye, so that the red image can be seen. Then look 
+ 
+-P-A-G-E-45
+  VISUAL TESTS AND DEFECTS 35 
+  with both eyes at the flame and notice the location of the 
+red image. Does it coincide with the yellow flame? If 
+not, record its position in terms of the circles and radii of 
+the chart. Shift the glass to the other eye and again 
+record the position of the red image. If the eyes are in 
+perfect balance the two images should coincide. If not, 
+the degree and nature of the deviation will be indicated by 
+the distance and direction of the red image from the 
+yellow flame. 
+4. Color-blindness. Take the three standard colors, 
+labelled A, B, and C, of Holmgren’s worsteds and place 
+them on the table a foot or more apart. Select from the 
+other worsteds all those which are like or similar to each 
+of the three standards. Arrange the colors in each group 
+in the order of their brightness. Do this as quickly as 
+you can. Record the time required and the order of the 
+worsteds by writing down their numbers in the order in. 
+which you arranged them. 
+Defective color vision will be indicated by the long time 
+required to arrange the worsteds and by the confusion 
+of the colors.: The grouping of the worsteds is correct if 
+they are arranged in the order in which they are num- 
+bered. Red-green blindness, the most common form, 
+will be revealed by the confusion of the red and the green 
+yarns. 
+Discuss the following questions: 
+1. What use may a teacher make of the knowledge of 
+the visual defects of individual pupils? 
+2. How may she assist such pupils? 
+ 
+-P-A-G-E-46
+36 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+3. How would color-blindness be a drawback in school 
+work? 
+For further practical exercises see Thorndike, Princi- 
+ples of Teaching, 17-20. O’Shea, Dynamic Factors in 
+Education, Ch. 17.
+-P-A-G-E-47
+  CHAPTER VI 
+AUDITORY TESTS AND DEFECTS 
+TuE school is concerned with two auditory problems, 
+acuity of hearing and discrimination of pitch. The former 
+is of interest to every teacher, the latter is of importance 
+primarily to the teacher of music. ; ; 
+1. Acuity of Hearing. The problem is to determine 
+whether an individual’s hearing is normal or whether 
+there is any degree of deafness present in either or 
+both ears. Several forms of tests will be used. 
+a. The Watch Test. Perform the experiment in a quiet 
+room. The subject is seated on a chair. Fasten the zero 
+end of a tape measure to the back of the chair just behind 
+the ear to be tested. The other ear should be closed with 
+cotton. Hold the watch so that it can be heard readily. 
+Then gradually move it outward along the aural axis 
+(the line passing through the two ears) until it can no 
+longer be heard. Hold the tape with the other hand and 
+measure the distance of the watch from the ear. Then 
+begin from a position where it can not be heard and move 
+it toward the ear. As soon as it can be heard, stop and 
+measure the distance. Always hold the watch in the same 
+37
+-P-A-G-E-48
+  38 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+way with the same side toward the ear. Move it at the 
+rate of about one inch per second. Make five “in” and 
+five “out” measurements for each ear in the double fatigue 
+order, that is, three on the first ear, five on the second, 
+and two more on the first. Average the results for each 
+ear separately. 
+The advantages of this test are that it is simple, con- 
+venient, and sufficiently accurate for crude measurements. 
+Its disadvantages are that watches differ and that the 
+sound is rhythmic, which is apt to deceive the listener 
+into hearing the ticking when he actually does not. In 
+order to make the records of different persons compara- 
+ble, the same watch should be used.! 
+b. Seashore’s Audiometer. This is an accurate, con- 
+venient instrument, and on the whole the best for measur- 
+ing acuity of hearing? 
+Adjust the strength of the electric current by means of 
+the resistance plugs and the galvanometer until the needle 
+of the latter rests on the central cross bar. Connect the 
+receiver with the audiometer and mount it on a tripod 
+in another room. The subject is seated so that the ear 
+*The Politzer acoumeter may be used in exactly the same 
+manner as the watch. The sound in this instrument is produced by 
+a small metallic hammer. It is superior to the watch in that the 
+stimuli are uniform and can be produced at will. 
+* A description of this apparatus may be found in the Univ. of 
+Iowa Studies in Psych., 1898, II., 158-163. It consists essentially 
+of a series of induction coils by which the stimulus can be varied 
+from very weak to moderately strong intensities. The instrument 
+can be obtained from C. H. Stoelting Co., 3037 Carroll Avenue, 
+Chicago.
+-P-A-G-E-49
+  AUDITORY TESTS AND DEFECTS 39 
+can be held as close as possible to. the receiver without 
+touching it. A key and telegraph sounder should be 
+set up, the former being placed in the hands of the subject 
+and the latter in the room with the audiometer. The 
+subject responds on this key whenever he hears the stim- 
+ulus from the receiver. 
+The sliding key on the audiometer is for the purpose 
+of changing the intensity of the stimulus. To make the 
+measurements, begin with a sound which can easily be 
+heard. Diminish the intensity of the stimulus step by 
+step until the subject no longer responds. Give the stimuli 
+at irregular intervals of from three to six seconds, so that 
+the subject may not tend to respond rhythmically. 
+Record the last sound heard. Begin several units below 
+this point and increase the intensity of the stimuli until 
+the subject again responds. Record the first one heard. 
+In this manner make five measurements on each ear in 
+the double fatigue order. Average the results. Compare 
+them with the watch test. Is the acuity of the two ears 
+the same? 
+c. The Whisper Test. This test may be omitted, but it 
+is introduced here because it is often a serviceable method 
+in the school-room. The pupil is stationed at a distance 
+of fifteen or twenty feet from the examiner with one ear 
+.toward him. Then a series of twenty-five words, prefer- 
+ably numbers, are spoken in a whispered voice. After 
+each word the child writes down what he heard. Ten or 
+twelve pupils may easily be tested at one time. Then 
+the pupil turns so that the other ear is toward the exam-  
+-P-A-G-E-50
+  40 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+iner and the test is repeated. After the test, the pupil’s 
+list is compared with the examiner’s list, and the per- 
+centage of errors determined. It requires some practice 
+on the part of the examiner to whisper the words fairly 
+uniformly. The results are entirely relative, and different 
+pupils must be compared with one another. The pupil 
+who has considerably more than the average percentage 
+of errors should receive medical attention. The one great 
+advantage of the whisper experiment is that it tests 
+hearing of conversational speech, which is not the case 
+when mechanical stimuli are used. 
+2. Discrimination of Pitch. One of the essentials for 
+musical training is the capacity to make fine discrimina- 
+tions of pitch. A convenient and accurate method of 
+testing musical discrimination is afforded by a series of 
+eleven graded tuning-forks! which range in pitch from 
+435 vibrations (the standard) to 465 vibrations. The 
+forks between these limits are graded in the following 
+order, each being so many vibrations higher than the 
+standard: \, 1, 2, 3, 5, 8, 11, 17, 23, 30- 
+Mount a speaking-tube so that the subject may hold 
+one end of it to his ear. The experimenter holds the 
+1 This series can be prepared from a set of A forks whose prongs 
+are approximately three and a half inches long. They can be ob- 
+tained through any music dealer. One of the forks is selected as 
+standard and the others are tuned according to the required interval 
+above the standard by filing the ends of the prongs until they have 
+the desired pitch. They can be tuned accurately by comparing each 
+fork with the standard and with one another and counting the beats. 
+This method of testing was first devised by Seashore. See Univ. of 
+Iowa Studies in Psych., II., 55-64. Sets of these forks properly 
+tuned may be obtained from C. H. Stoelting Company, 3037 Carroll 
+Avenue, Chicago.
+-P-A-G-E-51
+   
+     41 
+  AUDITORY TESTS AND DEFECTS 
+vibrating forks at the other end of the tube. If no speak- 
+ing tube is at hand, the forks may be held close to the ear. 
+Or, better, roll a sheet of paper to make a tube an inch 
+in diameter and hold that to the ear. The stimuli can 
+thus be given more uniformly than by holding the forks 
+to the ear. 
+The experimenter strikes the standard and the highest 
+fork and holds them in rapid succession before the tube. 
+They should be struck as uniformly as possible and held to 
+the tube not longer than two or three seconds, with as 
+short an interval between the two forks to be compared 
+as possible. The subject indicates whether the second is 
+higher or lower than the first. If the answer is correct the 
+standard and the twenty-three fork are compared in the 
+same manner. If that judgment is correct, the standard 
+and the seventeen fork are taken, and so on until the 
+subject makes a mistake. Then, with these two forks, 
+make twenty trials and record each judgment as right or 
+wrong. If less than seventy per cent. of the answers are 
+correct, make twenty trials with the standard and the 
+fork next above the one just used. If more than eighty 
+per cent. are correct, make twenty trials with the standard 
+and the fork next below the one used. The two forks 
+with which approximately seventy-five per cent. of the 
+answers are correct may then be regarded as the measure 
+of the threshold of pitch discrimination. An average is 
+difficult to give because individuals differ greatly in this 
+respect. For university students the average is between 
+five and eight vibrations.      
+    
+-P-A-G-E-52
+       
+    
+    
+   42 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+Discuss the following questions : 3 
+1. In what ways may the teacher assist a partially 
+deaf pupil? A pupil deaf in one ear only? 
+2. What changes would you suggest to be made in the 
+musical instruction of a pupil who has poor discrimina- 
+tion of pitch? ! 
+1Cf. Seashore, Educational Review, Vol. 22, p. 75.
+-P-A-G-E-53
+  CHAPTER VII 
+MENTAL IMAGES 
+TuE problem is to determine the relative predomi- 
+nance of the different types of mental images.1 
+1. The Frequency of Different Classes of Mental 
+Images. Determine this by the association method in the 
+following manner. The material to be used consists of 
+the columns of words printed below. Cover with a piece. 
+of paper all the words except the first column. With 
+another piece of paper cover this column also. Slide it 
+down far enough to expose the first word. Then in a 
+short sentence write in your notebook an answer to this 
+question, ‘‘ What do you think of as soon as you see that 
+word?” For example, if the word is “ grass,” it might 
+suggest at once imagery of this kind, “I think at once of 
+the green appearance of a meadow.” Or, if the word is 
+“shoe,” it might suggest such an answer as this, “I 
+think of the pinching of my new shoe.’”’ Do not try to 
+make a selection, but write down whatever comes to your 
+mind first. Write your answer quickly and proceed to 
+1 The student should be familiar with the meaning and nature of 
+mental images. Some standard text on psychology may be consulted, 
+e. g. James, Psychology, Chap. 19; or Angell, Psychology, Chap. 8. 
+43
+-P-A-G-E-54
+44 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+  the next word by sliding the paper down to expose it. 
+Answer the same question with regard to this word. 
+Similarly, work through the entire list of words. Num- 
+ber your answers. Keep all the columns covered except 
+the one you are using. The purpose of this is to avoid 
+as far as possible the associations with other words except 
+the one before you. 
+I Il III IV 
+Nouns Verbs Nouns Verbs 
+1. bell 1. whistle 1. iron I. couch 
+2. piano 2. sing 2. stove 2. walk 
+3. railroad 3. knock 3. knife 3. burn 
+r 4. music 4. cry 4. cap 4. Tun 
+5. storm 5. laugh 5. needle 5. sting 
+6. clock 6. hiss 6. snow 6. write 
+7. hammer 7. rattle 7. soap 7. bite 
+8. drum 8. bark 8. brush 8. pull 
+9. wagon 9. march 9. wool g. lift 
+to. dog to. whisper 10. apple to. fall 
+Put the results in the form of a table showing how many 
+of the forty words aroused visual images, auditory, motor, 
+tactile, etc. In the illustrations given above, “ grass” 
+brought out visual images, “shoe” at once suggested 
+tactile images, etc. Calculate the percentage of each 
+class.1_ Compare your results with the averages in Table 
+V. What is your predominating type of images? 
+1 Pfeiffer, L., Ueber Vortstellungstypen, Padagogische Mono- 
+graphien, 1907, Leipzig.
+-P-A-G-E-55
+  MENTAL IMAGES 45 
+TABLE V 
+FREQUENCY OF THE DIFFERENT CLASSES OF IMAGES OF 
+TWENTY-SIX PERSONS 
+  Visual” Auditory Motor Tactile Miscellaneous 
+25 9 6 
+37: 2 rr ys 
+18 10 a 5 
+26 8 4 I he 
+25 9 3 I 2 
+15, 12 4 9 
+16 13 6 5 
+19 14 5 2 a5 
+19 9 7 I 4 
+24 7, 6 oe aie 
+15 13 2 10 
+36 4 a oa 
+15 10 5 10 
+20 10 8 2 
+28 9 a2 rE ee ® 
+31 6 I I I 
+16 8 a a 6 
+15 8 8 8 I 
+16 10 10 4 
+19 5 Io 5 
+15 10 8 6 ir 
+23 Ir I 5 
+12 IL Il 6 
+16 10 10 4 os 
+12 12 9 5 2 
+17 Il 8 3 I 
+Averages. . 20.4 9.3 5.8 3.8 a7 
+Percentages 51. 23:3 14.5 9-5 1.7 ‘ 
+2. The Vividness of Mental Images. This is to be 
+determined by an introspective questionnaire. Use the 
+following list of questions.! 
+1¥From Seashore, Elementary Experiments in Psychology, 106- 
+111, by permission of Henry Holt & Co. and the author.
+-P-A-G-E-56
+40 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+“ This is a distinct exercise in introspection. It is best 
+to keep the eyes closed as you introspect. If the observer 
+does not have strong imagery he may be lost in the effort 
+to create an image out of the retinal light. To avoid this, 
+it is best to think of the object as in a distant place; for 
+example, the rose on the bush. 
+“Sometimes the image comes in the most realistic way 
+when it comes without effort as a sort of a reverie image 
+which passes the mental horizon. As a rule, it is best not 
+to direct the attention primarily to the detail of the image, 
+but rather to the effort to recall the fact; when the fact 
+comes into consciousness the character of the image may 
+be observed. 
+“ Fix clearly in mind and use as consistently as possible 
+the following scale of degrees of vividness: 
+. No image at all. 
+. Very faint. 
+. Faint. 
+. Fairly vivid. 
+. Vivid. 
+. Very vivid. 
+. As vivid as in perception. 
+“ Answer the following questions by writing after the 
+number of the question the number which denotes the 
+degree of vividness characteristic of your image. Instead 
+of taking the questions in the order given, follow the order: 
+J-1, II-1, III-1, IV-1, V-z, VI-1, VII-1, VIII-r1, I-2, II-2, 
+III-2, IV-2, etc., I-3, II-3, III-3, IV-3, etc. Introspective 
+ 
+-P-A-G-E-57
+MENTAL IMAGES 47 
+notes to supplement the numerical answers are very 
+desirable. 
+I. Visual.—r. Can you image the color of—(a) A red 
+rose? (b) A green leaf? (c) A yellow ribbon? (d) A 
+blue sky? 
+2. Can you image the brightness of—(a) A white tea- 
+cup? (b) A black crow? (c) A gray stone? (d) The 
+blade of a knife? 
+3. Can you image the form of—(a) The rose? (b) The 
+leaf? (c) The teacup? (d) The knife? 
+4. Can you form a visual image of—(a) A moving ex- 
+press train? (b) Your sharpening of a pencil? (c) An 
+up-and-down movement of your tongue? 
+5. Can you image simultaneously—(a) A group of col- 
+ors in a bunch of sweet peas? (b) Colors, forms, bright- 
+nesses, and movements in a lansdcape view? 
+6. Can you compare in a visual image—(a) The color 
+of cream and the color of milk? (b) The tint of one of 
+your finger-nails with that of the palm of your hand? 
+7. Can you hold fairly constant for ten seconds—(a) 
+The color of the rose? (b) The form of the rose? 
+II. Auditory.—1:. Can you image the sound of—(a) 
+The report of a gun? (b) The clinking of glasses? (c) 
+The ringing of church bells? (d) The hum of bees? 
+2. Can you image the characteristic tone quality of 
+(a) A violin? (b) A cello? (c) A flute? (d) A cornet? 
+3. Can you repeat in auditory imagery the air of—(a) 
+Yankee Doodle? (b) America? 
+4. Can you form auditory images of the intensity of a
+-P-A-G-E-58
+    48 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+violin tone—(a) very strong; (b) strong; (c) weak; (d) 
+very weak? 
+5. Can you form auditory imagery of the rhythm of— 
+(a) The snare-drum? (b) The bass-drum? (c) ‘ Dixie,’ 
+or other air heard played? (d) ‘Tell me not in mourn- 
+ful numbers’ spoken by yourself? 
+III. Motor.—1. Can you image, in motor terms, your- 
+self—(a) Rocking in a chair? (b) Walking down a stair- 
+way? (c) Biting a lump of sugar? (d) Clenching your 
+fist? 
+2. Does motor imagery arise in your mind when you 
+recall—(a) A waterfall? (b) A facial expression of fear? 
+(c) The bleating of sheep? (d) Two boys on a teeter- 
+board? 
+3. Aside from the actual inceptive movements, do you 
+get motor imagery when recalling—(a) A very high tone? 
+(b) A very low tone? (c) Words like ‘Paderewski,’ 
+‘bubble,’ ‘ tete-a-tete,’ ‘ Hurrah!’? 
+4. Can you form motor images of—(a) Aninch? (b) 
+A yard? (c) A mile? 
+5. Can you form a motor image of—(a) The weight of 
+a pound of butter? (b) Your speed in running a race? 
+(c) The speed of an arrow? 
+IV. Tactual.—z. Can you form a tactual image of the 
+pressure of—(a) Velvet? (b) Smooth glass? (c) Sand- 
+paper? (d) Mud? 
+2. Can you form tactual imagery of the following im- 
+pressions made in the palm of your hand—(a) The size 
+of a certain coin? (b) The form of the same coin? (c)
+-P-A-G-E-59
+MENTAL IMAGES 49 
+The direction of a line traced by a pencil point? (d) The 
+intermittent touch of a vibrating body? 
+3. Can you form tactual imagery of—(a) The flow of 
+water against the finger? (b) The sensation from a pres- 
+sure spot? (c) The weight of a particular coin in the 
+hand? 
+V. Olfactory—1. Can you image the odor of—(a) Cof- 
+fee? (b) Camphor? (c) Anonion? (d) Apple-blossoms? 
+2. Can you image odors from—(a) A meadow? (b) 
+A confectioner’s shop? 
+VI. Gustatory.—1. Can you image the taste of—(a) 
+Sugar? (b) Salt? (c) Vinegar? (d) Quinine? 
+2. Can you image the taste of—(a) An apple? (b) A 
+chocolate cake? (c) Beefsteak? 
+VII. Thermal.—1. Can you image the coldness of—(a) 
+Ice cream? (b) A draught of cold air? (c) The sensa- 
+tion from the stimulation of a cold spot? 
+2. Can you image the warmth of—(a) Hot tea? (b) A 
+warm poker? (c) A warm bath? (d) The sensation from 
+the stimulation of a warm spot? 
+VIII. Pain.—1. Can you secure a sensory image of the 
+pain of—(a) The prick of a pin? (b) Running your finger —- 4 
+along the edge of a sharp knife? (c) A toothache or head- 
+ache? (d) The stimulation of a pain spot?” 
+Find the average for each of the eight classes of images 
+and plot a curve as in Fig. 3, in which the horizontal line 
+represents the types of images and the vertical line the 
+averages of their vividness. 
+ 
+-P-A-G-E-60
+50 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+Irmvryuwww 
+Fic. 3.—Records of Two Persons 
+  Discuss these questions : 
+1. In which school studies and exercises would strong 
+visual imagery be a distinct advantage? Motor imagery? 
+2. What advantage might there be for a teacher to 
+know what her dominant class of imagery is? If a 
+person is strongly of one type, illustrations and explana- 
+tions in teaching are apt to be taken from that field of 
+imagery. How would these affect pupils of a distinctly 
+different type? 
+3. Would it be advisable to separate pupils into differ- 
+ent classes according to their prevailing imagery? See 
+Thorndike, Principles of Teaching, 89. 
+4. Is it advisable to appeal to only one type of imagery 
+in teaching?
+-P-A-G-E-61
+CHAPTER VIII 
+THE TRIAL AND ERROR METHOD OF LEARNING 
+  Types of Methods. There are three methods by which 
+the doing of a definite act may be learned. 
+a. By trial and error, that is, by making random 
+attempts until by chance some attempts are successful. 
+b. By imitation, that is, by observing the performance 
+of the act and then attempting to copy it. 
+c. By reasoning, that is, by attempting to think it out 
+and then proceeding accordingly. 
+The most fundamental of these is the trial and error 
+method. The acquisition of all motor control is accom- 
+plished primarily by this method. The others serve only 
+as supplementary aids. For example, in learning to strike 
+a ball with a bat the boy begins by attempting to strike it. 
+He will probably not even succeed in touching it until 
+after several attempts, when the ball and bat happen to 
+meet. As he continues, the successful trials become more 
+and more frequent, while the failures gradually diminish. 
+Learning to strike the ball may possibly be facilitated 
+by observing and imitating an expert batter, but the 
+attempt to reason as to how to strike would probably be 
+of little or no assistance in this particular case. 
+The Problem of the Experiment is to demonstrate the 
+trial and error method of learning, its nature and sig- 
+nificance in learning to codérdinate perceptual and motor 
+factors. To show this satisfactorily it is necessary to 
+51
+-P-A-G-E-62
+52 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+  test the process of learning a relatively new and undevel- 
+oped act. For this purpose we shall use mirror writing. 
+This consists essentially in the establishment of a new 
+connection between hand movements and the visual per- 
+ception of these movements as seen in a mirror. 
+Material and Apparatus. Prepare the following material 
+for the experiment: Lay a piece of cardboard back of 
+Fig. 4. Prick through the page with a pin at the apexes 
+of the twelve angles of the star outline. Connect these 
+points with straight lines and then trim the card to pro- 
+duce a six-pointed star pattern. Lay the pattern on a 
+sheet of paper and trace a line around it, making an out- 
+line like Fig. 4. Insert the arrow and cross line in their 
+appropriate places. Draw eleven such outlines, each on 
+a separate sheet of paper.! 
+Set a mirror on the table about eighteen inches ir 
+you and facing toward you. Set it in a vertical position 
+and at right angles to your median plane. The mirror 
+must be at least six by six inches. It may be held in 
+position by means of books or other convenient objects 
+placed against it. The face of the mirror, however, must 
+be left free. 
+Procedure. Lay one of the star outlines on the table 
+1In order to economize time, it is well to have a rubber stamp 
+made by means of which the patterns may be prepared quickly. A 
+simple and convenient apparatus for holding the mirror and for 
+shielding the hand in tracing from direct view has been devised by 
+Professor W. F. Dearborn and described in the Journal of Educa- 
+tional Psychology, I, 374. The use of this apparatus is of distinct 
+advantage in carrying out the experiment.
+-P-A-G-E-63
+  
+THE TRIAL AND ERROR METHOD OF LEARNING 53 
+  just in front of the mirror so that the arrow is nearest 
+the mirror. Fasten the sheet to the table with two pins. 
+By means of a pencil trace with the left hand just one-half 
+  Fic. 4. 
+of this outline. Begin at the crossbar and go in the 
+direction in which the arrow points. Record on this 
+outline the exact time in seconds which it took to trace 
+this half. Also label it properly as being the first half 
+done with the left hand. Lay this sheet aside. Then trace 
+with the right hand the remaining ten outlines, doing each 
+one completely. Number them in the order in which 
+ 
+-P-A-G-E-64
+54 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+you do them. Record on each the time required to do 
+the tracing of that particular outline. 
+Observe your hand only in the mirror. Never observe 
+it directly. To guard against this a piece of cardboard 
+can easily be clamped to a tripod to intercept the direct 
+view. Follow the line as closely as possible. As soon as 
+you notice that the pencil is beside the line, attempt to 
+get back. In doing this, do not lift the pencil from the 
+paper. The first tracing will usually be difficult. It is 
+therefore important to persist. 
+Results. Construct a table to show (a) the time in 
+seconds required for each tracing, and (b) the number of 
+errors made in each tracing. By an error is meant a 
+correcting movement as shown in Fig. 5. Each attempt 
+to return to the line, whether successful or not, is counted 
+as an error. Plot the results in two curves, placing the 
+ 
+-P-A-G-E-65
+    
+            
+      
+    
+          THE TRIAL AND ERROR METHOD OF LEARNING 55 
+number of trials on the horizontal line and the time and 
+errors on the vertical line. See Fig. 6. 
+Discuss the following points: 
+1. Examine the two or three places in your first tracing 
+      which were especially difficul 
+where a large number of random movements were made in 
+all directions. Did you find in these difficult places that 
+the determination to move in a certain desired direction 
+resulted in movement in that direction? Or, did you find , such as are shown in Fig. 5, 
+that you were about as apt to go in some other direction ? 
+The experiment shows that you learn to trace the line 
+by the “try, try again” method. Thinking, or making 
+up your mind to move here or there gives little or no 
+assistance.
+-P-A-G-E-66
+56 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+2. Did you notice any feeling of pleasure or satisfaction 
+wher you were successful in returning to the line? If so, 
+in what way would that help in the later records? 
+3- In what respect is your process of learning in this 
+experiment similar to a child’s learning to write? 
+4. Is the latter more difficult for the child than the 
+former is for you? If so, why? 
+The importance of the method of trial and error in the 
+development of the motor life of the child is exceedingly 
+great. We can realize its significance only when we 
+remember that all of the activities which involve muscular 
+coérdination are acquired by this method. It is in this 
+manner, for example, that the child learns to reach suc- 
+cessfully for an object before him. Many random attempts 
+to reach are made until the hand grasps the object. 
+He learns to walk, to control his head, to move the arms 
+and fingers in desired ways largely by trial and error. Of 
+course, for many of these activities there are instinctive 
+tendencies, but these are for the most part indefinite and 
+often consist of little more than a great abundance of 
+impulses to act. 
+It seems, therefore, important that the teacher should 
+know the nature and meaning of the trial and error method, 
+that she should realize its fundamental importance in the 
+development of child life, that she should understand what 
+school exercises are learned wholly or largely by this 
+method and which can be acquired more quickly by stim- 
+ulating other modes of learning, and that she should 
+appreciate something of the difficulty in acquiring accu-
+-P-A-G-E-67
+  
+THE TRIAL AND ERROR METHOD OF LEARNING 57 
+rate muscular control such as is involved in, for example, 
+learning to write. 
+For more complete discussion of the practical and 
+theoretical bearings of this mode of learning the following 
+references may be consulted: Kirkpatrick, Fundamentals 
+of Child Study, pp. 81-86. O’Shea, Dynamic Factors 
+in Education, pp. 110-121. Bagley, The Educative 
+Process, pp. 242-243. 
+ 
+-P-A-G-E-68
+CHAPTER IX 
+THE PROGRESS OF LEARNING 
+1. Rate of Improvement 
+The Problem is to determine (a) the general rate of 
+improvement, (b) whether improvement progresses at a 
+uniform rate from beginning to end, and if not, when it 
+is most rapid and when least rapid, (c) whether there 
+are periods of improvement and retardation, and (d) the 
+effect of a long interval of rest. 
+For the investigation of these problems the type of 
+learning begun in the last experiment will be continued. 
+It is well adapted to this purpose for the reason that a 
+considerable amount of improvement can be accomplished 
+in a relatively short period of time and for the reason that 
+considerable practice has already been attained in it. 
+Material. Prepare twenty-five star outlines as directed 
+in the last chapter. 
+Procedure. Continue the mirror tracing exactly as 
+directed before. Try to improve as rapidly as you can, 
+both in the time and accuracy of tracing. In order to 
+avoid the disturbing effect of fatigue it is well to alternate 
+the preparation of the outlines with the tracing. For 
+example, prepare five outlines, then trace five, etc. Num- 
+ber the tracings in the order in which you do them. 
+Record on each the exact time required to trace it. After 
+all the tracings are done return to the one begun with the 
+left hand and finish the remaining half. 
+58
+-P-A-G-E-69
+THE PROGRESS OF LEARNING 59 
+  Results. Construct a table showing the time and errors 
+of each record. Plot curves from these data, making them 
+continuous with the curves drawn of the ten records made 
+in the preceding chapter. Indicate the points of junction 
+by short cross lines. Calculate the percentage of improve- 
+ment, comparing the last right-hand tracing with the first. 
+This may be done by taking the difference in seconds be- 
+tween the first and the last tracing and by computing the 
+percentage of this difference on the time of the first tracing 
+asa base. The improvement in errors is computed in the 
+same manner. Make the same computations for the 
+two left-hand tracings. 
+State your conclusions, and in connection with these 
+discuss the following points : 
+1. Which part of the curve shows the most rapid im- 
+provement? Would you expect, to find the same fact in 
+all forms of learning ? 
+2. Is there any indication of periods of more rapid 
+improvement followed by periods of little or no improve- 
+ment, or possibly even loss? What explanation can you 
+suggest ? 
+If no distinct periods or 
+it is probably due to the fact that the practice has not “plateaus ”’ are recognizable, 
+been continued long enough. These “ plateaus ” can 
+be seen in Fig. 6, which represents one hundred tracings 
+made at the rate of one a day for one hundred consec- 
+utive days. 
+3. Does the time curve show improvement at the same 
+or at different periods from the error curve? For example,
+-P-A-G-E-70
+60 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+in Fig. 6 the two curves show parallel improvement during 
+the first rapid period of learning. After that the error 
+curve continues to improve, while the time curve actually 
+shows a loss until the former has reached its “‘ dead level,” 
+after which the time curve begins to drop again. This 
+would indicate that a plateau shows lack of improvement 
+only in the particular phase of the learning process repre- 
+sented by that particular curve, and that there is more 
+rapid development in some other phase of the process. 
+4. Examine the individual records to see whether im- 
+provement in time is more frequently accompanied by 
+little or no improvement in errors than by distinct reduc- 
+tion of errors. 
+5. What is the effect of the long interval between the 
+tenth and eleventh records, that is, the last record of the 
+preceding chapter and the first of this one? 
+6. Compare the improvement of the left hand with the 
+right hand. How do you explain it? What significance 
+might this have for the spread of practice? 
+  2. Factors Affecting the Rate of Learning. Selecting 
+the Successful Trials 
+Problem. The progress of learning depends largely 
+upon the selection of the successful acts and the corre- 
+sponding diminution of the random and unsuccessful acts. 
+Whatever factors condition the emphasis and selection of 
+the successful trials promote the rapidity of learning. 
+The problem of this experiment is to determine the 
+effect of selecting the successful acts. For this purpose
+-P-A-G-E-71
+  THE PROGRESS OF LEARNING 61 
+we shall compare a process of practice in which such selec- 
+tion is present, with practice from which it is abseut. 
+Material. Several sheets of paper and a pencil. 
+Procedure. Close your eyes and draw with the right 
+hand twenty-five circles approximately two centimetres 
+in diameter. The arm should not rest upon the table, 
+but should be supported entirely from the shoulder. The 
+aim in drawing is to make complete circles. Attempt to 
+stop as nearly as possible at the point from which you 
+started. The distance between these two points will be 
+considered the error. Draw slowly and carefully, taking 
+from five to ten seconds for each circle. Make the circles 
+in rows either across the page or down the page, in order 
+that you may know later the exact order in which they 
+were drawn. It is important to keep the eyes closed during 
+the entire task. After you have drawn the last circle 
+turn over your sheet and lay it aside, before you open 
+your eyes. 
+On the next sheet draw another series of twenty-five 
+circles. In this series open your eyes between the con- 
+secutive drawings, to see the circle just drawn, but keep 
+the eyes closed while the circles are being drawn. It is 
+important to draw slowly and carefully. 
+Results. Measure the error in each circle by measuring 
+in millimetres the distance between the beginning point 
+and the ending point. Construct separate tables for the 
+two series. Average the errors by groups of fives as shown 
+in Table III. From these averages plot curves as shown 
+in Fig. 7 and designate them as series I and II, 
+ 
+-P-A-G-E-72
+62 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+TABLE VI 
+EYES CLOSED 
+3rd 5 
+4 5 
+5 9 
+5 6 
+4 5 
+5 5 > 
+a 
+a 
+° 
+EYES OPEN BETWEEN TRIALS Popitceae 
+Pesos 
+oe IX} 
+v 
+v 
+00 
+™ 
+00 
+| alae 
+Ser/es I   ~h% 
+& 
+Ea 
+J 10 15 20 25 
+Fic. 7. 
+1. How do these series compare? What inference would 
+you make with regard to learning with the knowledge of
+-P-A-G-E-73
+THE PROGRESS OF LEARNING 63 
+one’s progress as compared with learning without the 
+knowledge of one’s progress? 
+2. Should written work and examination papers be 
+returned to the pupils? Should the degree of success be 
+indicated? What reason can you give for pointing out 
+the commendable as well as the erroneous points? 
+ 
+-P-A-G-E-74
+CHAPTER X 
+THE PROGRESS OF LEARNING (ContinvED) 
+  Problem. In the experiments performed thus far the 
+learning process consisted mainly in the formation of 
+motor and perceptual coérdinations. In the following 
+experiment the learning will consist in the establishment 
+of associations between two classes of visual symbols, 
+both of which are perfectly familiar in themselves. The 
+motor codérdinations to express these symbols are also 
+well established. 
+The specific problems are (a) to study the progress of 
+learning in this new field and to compare it with the pre- 
+ceding type, (b) to find further factors which influence 
+the rapidity of learning, such as the length of different 
+periods of work and of different periods of rest, mental 
+and physical conditions, etc. Incidentally we shall also 
+obtain data on the transference of training, which will 
+be used later. 
+The Material is supplied in the following pages. It 
+consists of sets of pages headed with an imitation type- 
+64
+-P-A-G-E-75
+THE PROGRESS OF LEARNING 65 
+  writer key-board.! Each letter of the alphabet is enclosed 
+with a number in a circle. Below this “ key-board ” is 
+the reading matter which is to be transcribed. This read- 
+ing matter is different on the various pages. 
+Procedure. The task of the experiment consists in 
+substituting the numbers for the letters in the spaces 
+below. In order to obtain data in regard to the influence 
+of intervals and lengths of work periods, it is necessary 
+to divide the class into three equal groups.? One group 
+should work for ten minutes at a time twice a day with an 
+interval of at least five hours between the two periods. 
+The second group should work for twenty minutes once 
+a day, and the third group should work for forty minutes 
+every other day. Each person should continue the work 
+for six days. The group working every other day should 
+work on the first, third, and fifth day. The total time 
+in each group will be 120 minutes. The periods of work 
+should be as nearly as possible at the same time of the 
+day. Record in the proper places in the margin the date 
+and time of day. No effort should be made during the 
+intervening intervals to memorize the numbers and their 
+letters. Do not leave blank spaces between the words 
+in making the substitutions. Begin a new line for each 
+line of print, always using the line of spaces opposite the 
+line of print. In case of those letters for which two digits 
+must be written, for example 18, both digits should be 
+' This type of substitution test was originally devised several years 
+ago by Jastrow. 
+? Each group should contain at least ten persons. If the class is 
+small it had better be divided into two groups only.
+-P-A-G-E-76
+66 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+placed in one square. Work as rapidly as you can with- 
+out making errors. Do not stop to correct errors if you 
+make any. Have a watch on the table before you and 
+make a check mark at the end of every five minutes. In 
+order that this may be done with as little disturbance as 
+possible, begin work when the minute hand is on a num- 
+ber. After each period of work record any observations 
+that may bear upon the experiment. Note your general 
+mental and physical condition. Note in particular during 
+the course of the learning (a) the time when you know 
+the first numbers without consulting the key-board, (b) 
+the time when the first complete words can be written 
+without consulting the key-board, and (c) the time when 
+you know all or practically all substitutions. 
+ 
+-P-A-G-E-77
+THE PROGRESS OF LEARNING 
+@ 
+DiGIiGis 
+84,976   
+79,821   
+63,442   
+21,629   
+57,183   
+32,761   
+95,146   
+28,349   
+73,862   
+          91,563 
+   
+-P-A-G-E-78
+68 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+In order to obtain data on the transference of practice, 
+perform the following test before undertaking the above 
+learning. Substitute as quickly as you can the symbols 
+for the numbers on page 50. Record the exact length 
+of time required to do this. After completing the reg- 
+ular substitution experiment repeat the same test using 
+the material on page 68. Record the time. Preserve 
+these “before” and “after” tests for use in a later 
+chapter. 
+ 
+-P-A-G-E-79
+  Jo Spuyur 9y3 0} eul0y seut0 
+  
+Worqa Surqjouros Aes Aeur 
+  
+oy 
+384} 
+edoy 
+04} 
+UT 
+‘ZeyjOuB 
+  
+    0} 
+o1do} 
+euo 
+Wioxy 
+sopueAR 
+  
+0} 
+doqouerd 
+O43 
+Jo 
+osopANG 
+  
+          
+ou? 
+Sf 91) 
+AyisxeaTan 
+      
+ous 
+38 
+somnjrey 
+Auwur 
+  
+08 
+exe 
+a10q} 
+AYM 
+YS 
+[LM 
+T 
+        
+‘or0y} 
+[189 
+Avua 
+J se 
+    “sOIn|Tey 
+  
+py 
+os0q} 
+Buyave] 
+Mou 
+puy ©©OOOOOOO® ®OOAOOD®O@O 
+OO ®™ 
+© 
+OOOO®O 
+    
+    THE PROGRESS OF LEARNING 
+         
+-P-A-G-E-80
+           EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+          7°   
+Soynd 
+uoUTUIOD 
+O43 
+‘ay 
+osvIyd 
+  
+Ou 8 ‘FOAjOSUIOy) oBeueUT 
+    
+0} 
+AOY 
+pUBysIepuN 
+you 
+Op   
+    
+   AOUL 
+    “SIY} WEY? YST]Oo} o10ur 
+  
+  ‘eq eo Fuyy}OU pu “yoyo 
+  
+   04} 
+osvoi0Ur 
+A[uo 
+Aoy} 
+[rey 
+  
+  0} 
+uideq 
+Aoyy 
+UoyA—ouny 
+cures     
+  ays 
+7 
+Apog 
+oy3 
+pus 
+purer 
+oyy     
+  yxom 
+Koy} 
+Sop 
+810430 
+BY 
+OP 
+     
+uo 
+Aoyy 
+yUIy) 
+OF 
+9dv 
+o1W 
+FOND 
+    
+  Tsjenpratpur 
+Aueur 
+ur 
+sf 
+wvsIO 
+    
+   SI} 
+OAT}ISUES 
+PUL 
+OpCOT[op 
+  
+  oy 
+‘poyseqeao 
+oq 
+Avur 
+ureIq       
+  dy} 
+A[iseo 
+MOY 
+OIBAB 
+WOPlos     
+   aie 
+wour 
+Bun 
+K 
+  ec THBOY JO 
+    
+  oodou,, 
+“ould 
+0} 
+pouyjouy 
+    
+   oq 
+pmmoys 
+T “Apsx0ATay   
+  Oy} 
+78 
+OINITBy 
+JO 
+SosNe 
+Oy} 
+     
+   Buowe 
+qeiq 
+“(,, 
+Ajouroy 
+    
+    08 
+JOAO 
+Ff 
+0q,, 
+SIOIVOY 
+STY                                        
+-P-A-G-E-81
+Arourour 043 puy Aoqy, “qr]eoy 71   
+0} ShOLMfut eq JAS weO UIDG} 
+  
+0} guBseEl Bt YOIYM ooNowId 
+  
+Ou 
+4By} 
+pomnssy 
+oq 
+0} 
+4du 
+  
+ore Ay} puv !s0yex}su0NIOT 
+  
+OYA pudTy rpjo so uepoTEAy 
+  
+04} 0} Ajdor yuBySU00 04} ST   
+« FqSTU 48 10430q YonuT os YOK 
+  
+weoT,, 
+“wey? 
+Aq 
+Jo 
+yBNOYR   
+Alprey ow osyox0xe pus yorp Jo 
+©0©OOOOOOO ®OODOO®O@O® OO 
+®™ © OOOOWVO THE PROGRESS OF LEARNING 
+ 
+-P-A-G-E-82
+           EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 72 
+    
+  SHY JO 01 OUT, ,, POH Jo A103 
+    
+           OY? OF [18 OP BN 49] “UTP 10   
+       780 OM JOYIOYA o10JaI0q MA ,, 
+  
+   “Wed “3g JO sprom Oy   
+       0} WoysT] Woy} 40] UTEBy -oouo 
+  
+   78 pura pus Apoq suoyjauex9s 
+  
+  pue soyeinder yorya Supa   
+  
+  @ ‘SOA[OSUIOY} OSTODIOXO   
+  
+   gener Aoyy yoryA ur “oz9/GIe   
+   9y} JO 984} ULY} SurUywaz Jo 
+  
+   PULy epqns row & st 41 40k 
+  
+   ,,S8UTq) []@ Ul oyeroduroy sy 
+  
+   SOL10}SVUI 10} YIOATIJS YVY} OF] ,, 
+  
+   YoHSOdy 
+oy} 
+JO 
+sprom 
+oy 
+    
+   qeoy 
+A0y} 
+[TIM 
+“Op 
+0} 
+Suryjou 
+      
+    oawy Aoyy YOTyA YITM esnEO 
+  
+   SHOWeySAur ouTOS OF SuIOZMUIAS 
+  
+   e804} oynguaye Seq} pue   
+    tsiug Apnys ur ysorequr 043 
+  
+                                        
+   “qwopo JesUS] OU poy oy} Tey
+-P-A-G-E-83
+  
+  ~Hl08 JO Fue SID GOTTA 
+    Uy SAGA JOU}O OI OIL 
+    “ur9y JO     qo9]80u Sty 04 ONp sf [oa90D 
+    -J[98 JO FUBM 94} ‘JOJOwIRYO 
+         jo Aowrouesop oy} “AyIqe 
+  
+   JO S80] 04} T9}j0 pure uozjo 
+  puw fusur unos w 07 poyqiur 
+    “WOO ST YOIPA 4sn.19 480;R0IT 
+    oq Bf sero put Ta[toy UNO 
+  THE PROGRESS OF LEARNING’ 
+  ODOOO@E® 
+OO ®™ 
+OOOO 
+OWO® 
+  
+-P-A-G-E-84
+  EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 74   30u [I oy {]IeAG ou Jo ore 
+  SIoyowo} JO SooUBIISUOMIOT 
+  
+oy} 
+‘purur 
+jo 
+yqey 
+AjUoAols 
+  SIq} SuEsMpuy uo soos oy Twos 
+  
+Joye 1a “WOT}WE}3e STY SOSO] 
+  
+‘ay osnuoog “sso00Id Oy} JO 
+  
+‘osejs ollos yu dys w Suryeur 
+  qOyTA OMoUTgIIE Jo wns 
+  ajduns  ysNoIyy 4o8 youuT oy 
+  
+*yeory 10 uNye'] JO SeoUEzUOS 
+  
+MO} G OFLIM JOUUVO JUEpNys 
+  
+Vy -Aowimoowur—yooyop yons 
+  
+uO o[duiexe Joy oye} OUI 307] 
+  
+“aBajjo0 10 [ooyos ye pulyoq 
+  Woy} SUIAwE] Jo pvozsut 
+  
+OR] OFUT Woy} ALIUO O15 
+  ~o10q} pus ‘oInd 07 4duI0}30 
+  
+ToAou Ady} YOR Byooyop 
+  yenqoo]jo} Ur snopes oABY UOUT 
+  
+                                      Aueyy Hos] SMOys oBpajMouR, 
+ 
+-P-A-G-E-85
+Bf ory} Ulese UOGL, uoTS ip   
+  7gun ‘Suyjeo yenzoo]joyuy 
+  ‘Aue 10F JUN of] OFUT Sood puw 
+  ‘dn SM0iH oY O8 puL “Moy v JO 
+  ospoyMouy oyenoow O47 WEED 
+  PUTUT STY 07 e[qQuIdo008 or0UT 
+  SI s#UTG} AUBUI Jo eSpo;mouy 
+  
+Ai0}Nsep ‘oyBINoowUT Oy 
+  | ‘pomo oq 09 sured oy} oye} 
+~soyoud zo ssoursng Aue 10 
+©OOOODOOOO® ©ODOOOD@O@OO® ®@@DO@OOOO THE PROGRESS OF LEARNING 
+ 
+-P-A-G-E-86
+        EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+  
+         
+sonBUEyIeY, Ul ‘espo;mouy 
+    
+JO quoujredep Aroae ur nq 
+    ‘JeerH puv upye7] Jo syuepnys     
+  Buoure Aju you ‘sxejoyos     
+   puq ere e104} puy “youorder 
+  
+  B eq 0} play ATsnl st eT] sty     
+   Jo B1¥OA O1OUL 10 UO} 10y 390TH 
+  
+  Pus UHET porpnyas sey om     
+   dud OF YOIyA ,, WBjOyOS peq &,, 
+  
+  Buyoq ueur v Aq guvour sf qey 
+  
+    
+    MOUY 
+Te 
+OA 
+“3SIG 
+pourwsy 
+      
+  Wood 
+OAwY 
+0} 
+FYTNO 
+FSYA 
+488]     
+  Purwve] 
+Ur 
+ssoUpIeAyAe 
+puL   
+     
+   seounjured 
+w SKEATE 
+ST O10q) 
+    
+  xoy 
+“AyNOWIp 
+oy 
+you     
+  yowq 
+oF 
+0} 
+sey 
+Juepnys 
+oy} 
+    
+   ToyM 
+issurq) 
+jo 
+sAuTuUTOq 
+  
+  io sojdioutsd 481g oy} JO     
+    ‘SOUBIOURT 
+UT 
+SySISUOD 
+OTA   
+    
+                                          76 Avemoowuy jo pury soyjouT 
+ 
+-P-A-G-E-87
+
+-P-A-G-E-88
+        EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 78 
+    
+3] {woRFwSIOATOO UT 048e) pEq   
+  
+  
+   SIY} JO OOINOS OY} WO}jO ST 4100 
+  
+   =u00 10 WISORy -0y8v7 puq Jo 
+  
+   AyyMs st oy wy} ‘wouIOM pus 
+  
+   WOU o[qisues pue posq-[[oa JO 
+  
+   SBuyjooy 
+Oy} 
+wodn 
+oyess 
+Eprom 
+  
+   siy Woy SuOTSonb Fuppse 
+  
+   SAGAS 
+Sf 
+oY 
+WOYA 
+“BIOplo 
+SY 
+  
+   0} 
+ApOATIUIIONING 
+SoSIN0d 
+  
+  “Sp oy Woy ‘UOTIs0d pus 
+  
+   aBe 
+SY 
+0} 
+10 
+“WTY 
+0} 
+poysun 
+  
+   eBeNsuy] JO o[A}s B SyooyT 
+  
+  oy 
+UOYA 
+‘JesuTY 
+JnOgE 
+syle 
+    
+   Wosied 
+© Woy 
+“BuHWA 
+pus 
+    
+   Bunjeods 
+ur 
+yj0q 
+suiz0y 
+Auour 
+  
+   Saye} YOTYA—,, 0988} PEq,,— 
+  
+   S10yI0 
+Jo 
+diay 
+oy} 
+Aq 
+oye 
+Aue 
+  
+  38 
+‘BoAjesmno 
+Aq 
+skumye 
+300 
+    
+    
+JE ojquino 
+osye 
+404 
+“yINOx 
+  
+                                        Uy 
+uouTM0a 
+AIBA 
+Josep 
+Ten 
+ 
+-P-A-G-E-89
+  
+              ‘ayeur 0} jhoqu Ss uosIed #uno. 
+  
+VY ‘wonuqoidde jo poou Sut 
+  
+~Kuvduroooe 04} SUOTjO8 TOY 
+  TI® 10; eAyeoor 0} Ox] Pmnom 
+  
+oy ‘sdy soy} wo Busueq 
+  
+             
+SeoUsIpNe JO ‘ser}weY} [[Ny 
+  
+Jo Sutmvorp sAvmye O18 OWA 
+  SoMyeu ov o1OYL, “Plo oyy 
+  Jo oouwioust puv Ayorduns 
+  
+   Wiosy Ajo ose SOUT OMIOS ABUT ®OOOOOOOO ODOOO@O® 
+OO ®@®™OOOWV® 
+   THE PROGRESS OF LEARNING 
+     
+-P-A-G-E-90
+        EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 80 
+    Oy? Ose af 4 “Sduqied Joq   {auyeyEMY exour oq uve   FGM AOy os[ey v UT Yooods ary 
+    poyorid ‘ojou Fuorm v yous 
+    
+    sey oy ‘BIOMOd UNO SITY UOIU 
+      Str SBy OF] “OAM ]rey o|quaosrur 
+     
+  @ Sf }[nsox Oy} [Oo] puv !pulu     
+        WMO SIq Jo SSu[s OY UT ING 
+“seu]s-TuTpooy 4} UI ApJOVXO 
+  
+  jou ‘BSupjeeds yjosury uses     
+     sey oy !qooods jo sonay pus 
+  
+  sIOyduyour YIM WORWIO SITY 
+      
+   gno pexory ‘Aes 0} Suro¥ st oy 
+    
+yey 
+poredoid 
+sey 
+oy 
+‘vos 
+ye 
+    
+  QO IUy IOUIUITMS Yeo ST OY     
+  PUv SspIOm SITY OF FuyTOysy ome 
+    
+  Suosied 
+Aueur 
+woya—(Sursy9     
+  SOU 04} JO uO put) of] UT Op 
+    
+    eo 
+oy 
+9eq} 
+SBUIG? 
+JuByrodUTT     
+                                          SOUr 
+OY} 
+JO 
+OUO 
+ST F—Yooods 
+&   
+            
+-P-A-G-E-91
+  [hyosn Jsour puw ysoywous 
+  
+2q} JO OU0 JO poatudep oq OF 
+  
+JusWEU yusooUUT O99] B Aq 
+  
+Fesury AO|e jou pue ‘urese 
+  Ay wy 39T 
+-ons Skeaye pey pus ssuryy                “(@Su] 8 papas 
+    
+  | Auvur 48 porzy poy oy 36y2 pres 
+  
+Oya 
+U0 
+SEAL 
+o1043)—uTEsE 
+  
+     Ax UY JOT “est UT py 9Ao Sey 
+OY 
+YOTyA 
+Wosse] 
+ySeq 
+AIOA ©OOOOOOOO ®O@DOOO@OOO ®™@®OOOO@O 
+     
+  PROGRESS OF LEARNING TH
+-P-A-G-E-92
+  Ty) Ul wed v oye) AW) UOT 
+  
+‘WoUT 4eseq 0} 4dv ore Yor 
+  syne; Auvur ore ory], “WOyy 
+  JO puoy mois Ayisue 007 OM 
+  “s1omuwaqs Aq pomora ore AOy 
+  
+WoryA Uy couUeUr peRedur   
+Sues 04} UT preBer 1OASU WED   quored © WOM “Wamp OT   
+ore S2UNL A “SUOT}soduI00 
+‘UMO STY JO Zuyspnt 
+Ur JO}IIA @ SUY OS ‘BIO}OBIIO   
+  
+  
+‘WMO I10q} ZurMouy ut 
+    
+‘Aynowip ¥ oAwy suosIed By   
+"BUNA UT 9Nq     
+“qooods uy Jou siouuwUr UT Jou 
+  
+pededsrp 
+st 
+yor 
+0488} 
+peq JO 
+pury 
+soy}OUN 
+sf 
+oIqT, “aousIpne 
+ue 
+Zusserppe 
+jo   EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY Tomod oy3 fssossod uvo ueUE   
+                                          ‘Aue Qonya sywouysTdurocow 82 
+   
+-P-A-G-E-93
+  83 THE PROGRESS OF LEARNING 
+            —aorsoduros 
+Jo 
+sojdjourd 
+  
+TI? 
+Jo 
+Fuvjzodury 
+sour ee 
+Lae 
+| | 
+BY} 
+OF 
+WOTUAzIE 
+OU 
+10 
+91397] eel 
+ame 
+ee 
+Poe 
+ces 
+|| 
+aes 
+oe 
+ee 
+| 
+| dL 
+ede 
+et 
+ie] 
+| 
+| 
+_ked 
+Soqy, 
+“‘paey 
+ut 
+yoofqne | 
+OY) 
+0} 
+UBAS[OI 
+MOU 
+07 
+woddey, | | 
+| | 
+F   
+     
+  
+  
+Koy 
+Woy 
+SuryyAue 
+woop Koy 
+‘woRiodoid 
+jo 
+esues 
+oy? 
+  
+D0] 
+AOU) 
+!4BI0K 
+OY} 
+St Buy AHA 
+JO 
+Spuny 
+[Te 
+JO 
+YON 
+“Bar 
+   
+     RE 
+ouy 
+jdu9j 
+48 
+AOL, 
+“spuTy 
+   ©©HO006 ®OODOOO® ® 
+O@OOO@O®O 
+oe © © ©) © 
+@ © 
+       
+-P-A-G-E-94
+  
+Q[O4A 
+Oy} 
+UTIOy 
+“ejoym 
+047 
+  
+JO worisodoid 043 sqinjstp 40 
+uoHoeuuOS 64} sureduTy yorya 
+  
+  
+  “qooods jo amnay jueNaq 
+10 ojrans Aue worrdens 
+  
+WA predor 09 [oa Op [Ts   
+sn jo ou0 Auw puv |, asunTa 
+  
+UNO 
+Sty 
+Jo 
+Sesussud 
+ysoug. 
+  
+Oy) 
+3014 
+0} 
+BAUATY,, 
+TORN 
+  
+BunoA 
+v 0} 
+woAls 
+oou0 
+sem 
+  
+JY} 
+OOLAPY 
+JUO]jOoXo 
+BVA 
+4] 
+  
+“poureysns 
+oq 
+jouuwo 
+Suppeur 
+  
+TWHom 
+orm 
+91 jf UOAS 
+yduIEqye 
+  
+OY} 
+PUv 
+‘SoApesuIEy? 
+oq 
+  
+0} 
+asueo 
+Ady? 
+OSNBOEG 
+“}]NSOI 
+  
+SHOWIpH] 
+© YA 
+pus 
+“OPAPED 
+  
+70 
+Aeneowyy 
+pio7y 
+se 
+YonS 
+  EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+‘gioqLM 
+SHOUTe; 
+Jo 
+oFENTUL] 
+  
+Ou} 
+oyeITUNT 
+souN;JouIOS 
+AoUT, 
+  
+                            84               { WoRDSUUOD 
+[eOTHOT,, 
+ 
+-P-A-G-E-95
+  THE PROGRESS OF LEARNING 
+QO @® 
+"27,516   
+33,821   
+97,473   
+62,978   
+31,542   
+17,143   
+26,981   
+35,724   
+16,315   
+  14,923          
+-P-A-G-E-96
+86 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+260 
+250 
+240 
+280 
+220 
+210 
+200 
+190 
+180° 
+170 
+160 
+    1234 5 6 7 8 910111213 14151617 18 19:20 21 222324 
+Fic. 8. 
+The baseline represents from left to right the successive 
+five-minute periods. The vertical distances represent the 
+number of substitutions made in each five-minute period. 
+The ten-minute curve is an average curve of twelve persons 
+working ten minutes at a time, twicea day. The twenty- 
+minute curve is an average of fourteen records, and the 
+forty-minute curve is an average of nine records working 
+according to their respective distributions of time. 
+Results. Count the number of substitutions made 
+during each five-minute period. Construct a table show- 
+ing in different columns the date and time of day, the 
+number of substitutions for each five-minute period, and 
+brief introspective comments. Plot a curve in which the 
+five-minute periods are represented on the horizontal line
+-P-A-G-E-97
+THE PROGRESS OF LEARNING 87 
+and the number of substitutions on the vertical line. See 
+Fig. 8. 
+State your conclusions and discuss the following points : 
+1. Compare your curve with the curve obtained on the 
+basis of the mirror tracings, particularly with regard to 
+the rate of learning, rapid improvement at first and slower 
+progress after that. 
+2. Does the present curve reveal any plateaus? How 
+many? 
+3. Can you trace any connection between these stages 
+and your introspective notes? For instance, between your 
+general physical and mental condition and retardation 
+or rapid learning. If your curve has distinct stages, notice 
+particularly whether these coincide with the times, for 
+example, when you first knew all the substitutions, or 
+when you were able to write complete words and phrases 
+without consulting the key-board. 
+4. What significance do the plateaus have in the learn- 
+ing process? ; 
+5. Compare your own curve in regard to rate of im- 
+provement, amount done, plateaus and the like, with the 
+curve in Fig. 8 which represents the same distribution of 
+time as yours. 
+See Swift, Mind in the Making, pp. 206-218. 
+ 
+-P-A-G-E-98
+CHAPTER XI 
+THE TRANSFERENCE OF TRAINING 
+Problem. The object of this experiment is to determine 
+(a) to what extent, if at all, special training in one mental 
+function improves other mental functions, and (b) to find 
+some of the factors in such transference. . 
+The Material for this experiment is supplied on the 
+following pages. Do not read or examine any of it until 
+you are ready to use it, and then concern yourself only 
+with that portion of it which you are about to use. In 
+order to insure this condition, cover with a sheet of paper 
+all material which is not used at the time. 
+Procedure. The usual method of determining by experi- 
+ment the transference of training is to test a variety of 
+mental functions, then to undertake a long course of train- 
+ing in one specific direction and finally to test again the 
+same functions as were tested before the training. The 
+  1The problems involved in the transference of training are 
+usually discussed in educational literature under the heading of 
+formal discipline, which is the doctrine that the mental discipline 
+gained in the pursuance of school studies improves one’s ability to 
+perform other activities. 
+88 
+ 
+-P-A-G-E-99
+THE TRANSFERENCE OF TRAINING 89 
+long practice course is called the training series, and the 
+short tests performed before and after the practice are 
+called the test series, or end tests. 
+In this experiment the test series consists of: 
+  a. A test of immediate auditory memory. 
+“bp. Learning French vocabulary. 
+c. Memorizing a group of ten syllables. 
+d. Memorizing a stanza of poetry. 
+The training series consists in learning Italian vocab- 
+ulary. 
+Proceed as follows: 
+a. The span of immediate auditory memory is to be 
+tested in the same manner as in Chapter I, except that 
+the following groups of letters are to be used instead of 
+words. These groups should be read to the class at the 
+rate of one letter per second, reading one group at a time 
+and presenting the groups in order of size, from the small- 
+est to the largest. After a group has been read the class 
+writes down immediately all the letters remembered of 
+that group and in the order in which they were presented. 
+pk 
+bsygn 
+kfcqmd 
+ep ftv x 
+Iprdmhck 
+qwfrbhpmt 
+diagngqjevrfi  
+-P-A-G-E-100
+90 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+b. Look through the list of French words below to 
+see if you already know any of the words. Strike out those 
+you know and enough others to leave only ten words. 
+If none are familiar strike out the last five words. Then 
+learn the English equivalents of these ten. Record the 
+exact time in minutes and seconds required for the learn- 
+ing. Consider them learned as soon as you are able to 
+give the English equivalents upon seeing the French words. 
+Have a piece of paper at hand to cover the English words 
+to find out whether you are able to do this. 
+  chainage survey 
+eveque bishop 
+verbeux verbose 
+rivage shore 
+delit offence 
+appui support 
+semelle foot 
+voiture vehicle 
+mordre bite 
+boutis rooting 
+gacher temper 
+galbe outline 
+reveur dreamer 
+trochet cluster 
+ressui lair 
+c. Memorize the following stanza of poetry. Record 
+the exact time required. Consider it memorized as soon 
+as you are able to repeat it without consulting the text. 
+ 
+-P-A-G-E-101
+       THE TRANSFERENCE OF TRAINING 
+From rocky cleft the torrent dashes; 
+Down, down he comes with thunder-shock; 
+The sturdy oak beneath him crashes, 
+And after rolls the loosened rock. 
+Amazed, o’erjoyed, with awe and wonder 
+The traveller stops and gazes round; 
+He hears the all-pervading thunder, 
+But cannot tell from whence the sound. 
+c. Memorize the ten syllables below so that you are 
+able to repeat them from memory in the correct order. 
+Record the time. 
+dut 
+nof 
+pez 
+The training series consists of 180 Italian words and 
+their English equivalents. They are divided into six 
+groups of thirty words each. You are to learn the English 
+equivalents in the same manner as the French vocabulary. 
+Memorize one group a day. Record the time. Do the 
+learning as nearly as possible at the same time of the 
+day on six successive days. After the completion of this 
+practice, repeat the tests performed before the training, 
+using, however, the new material provided on later pages. 
+  
+-P-A-G-E-102
+      g2 
+acca 
+cuoio 
+accio 
+costa 
+acqua 
+destro 
+alla 
+ne 
+ballo 
+ermo 
+bere 
+fetta 
+caffo 
+tuffo 
+gabbo 
+carda 
+quatto 
+cambo 
+acre 
+taja 
+tilevo 
+uria 
+ritrorso 
+everse 
+falda 
+elmo 
+dolo 
+fin 
+disfetto 
+citta EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+I     zeto 
+leather 
+that 
+rib 
+with 
+skilful 
+market 
+thence 
+dance 
+desert 
+drink 
+bit 
+add 
+ruin 
+jeer 
+town 
+still 
+truck 
+sour 
+turnip 
+crumbs 
+omen 
+stubborn 
+ruined 
+plait 
+helm 
+fraud 
+until 
+affronts 
+, town
+-P-A-G-E-103
+  THE TRANSFERENCE OF TRAINING 93 
+affare 
+battello 
+agio 
+lana 
+ala 
+legnoso 
+balia 
+majo 
+beffa 
+marra 
+botte 
+talpa 
+calco 
+otta 
+prezzo 
+conto 
+raggio 
+cardo 
+elce 
+scuro 
+tale 
+ritto 
+scalzo 
+mezzo 
+monco 
+lucco 
+lira 
+omo 
+libbra 
+conti I 
+business 
+vessel 
+comfort 
+wool 
+wing 
+woody 
+judge 
+tree 
+joke 
+spade 
+tub 
+mole 
+drawing 
+hour 
+prize 
+prudent 
+ray 
+thistle 
+oak 
+dark 
+like 
+upright 
+naked 
+half 
+maimed 
+gown 
+harp 
+man 
+pound 
+accounts
+-P-A-G-E-104
+94 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+Ill 
+fieno hay 
+  frutta dessert 
+mosca : fly 
+butima crowd 
+nano dwarf 
+fuoco fire 
+gamba leg 
+nece death 
+caccia hunt 
+gatta cat 
+netto clean 
+caldo hot 
+guida leader 
+ogni every 
+nuto sign
+-P-A-G-E-105
+THE TRANSFERENCE OF TRAINING 
+IV 
+nord north 
+prode bold 
+zana basket 
+lasso error 
+dazio tax 
+prova trial 
+degno worthy 
+tame copper 
+burla joke 
+desto brisk 
+tefe thread 
+lena breath 
+dicace glib 
+legna fuel 
+remo oar 
+dolce sweet 
+letto bed 
+saldo firm 
+doge captain 
+scolio note 
+arbusto shrub 
+lino flax 
+scorso error 
+dorato golden 
+lode praise 
+seno breast 
+dosso back 
+lucro gain 
+torvo grim 
+stufa stove  
+-P-A-G-E-106
+96 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+fune 
+imo 
+calze 
+orzo 
+incauto 
+uscio 
+carta 
+intacto 
+caso 
+carne 
+abbisso 
+pigro 
+pegno 
+manto 
+mastice 
+vinto 
+barba 
+foggia 
+gita 
+inno 
+canotto 
+zolla 
+corsa 
+lento 
+guerra 
+storta 
+nodo 
+sponda 
+bardo 
+sabbia Vv 
+rope 
+deep 
+stockings 
+barley 
+careless 
+door 
+paper 
+complete 
+accident 
+meat 
+gulf 
+idle 
+pledge 
+much 
+glue 
+vanquished 
+uncle 
+fashion 
+journey 
+hymn 
+ship 
+clod 
+run 
+slow 
+war 
+retort 
+knot 
+brink 
+poet 
+sand
+-P-A-G-E-107
+THE TRANSFERENCE OF TRAINING 97 
+VI 
+estro genius 
+lume light 
+esile thin 
+tutto all 
+lutto grief 
+vallo fence 
+mosca fly 
+gambo stock 
+ferita cut 
+eburnio ivory 
+smalto enamel | 
+vispo quick 
+zufta fight 
+manso tame 
+mastio hinge 
+torto wrong 
+bacio kiss 
+finche until 
+giorno day 
+lordo awkward 
+latte milk 
+vezzi charms 
+sugo sap 
+gioco trick 
+grido cry stima esteem 
+neve snow 
+sommo top 
+gia once 
+rotto broken
+-P-A-G-E-108
+  98 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+\ 
+Repeat the end tests using the following material: 
+a. Immediate auditory memory. 
+lkbh 
+gldsp 
+fbwknt 
+yon ord: hy 
+zqatndrkv 
+bey a xiqidei mb 
+emstvrbhpq 
+b. French vocabulary. Again cross out all the words 
+you know and enough others to leave only ten words. 
+tuyau tube 
+pourchas pursuit 
+liste band 
+paquis pasture 
+colon farmer 
+sparte broom 
+ecueil rock 
+houle surge 
+moellon sandstone 
+tamis sieve 
+roupille jacket 
+autan wind 
+calcet mast-head 
+curet skin 
+filon thief
+-P-A-G-E-109
+THE TRANSFERENCE OF TRAINING 
+c. Stanza of poetry. 
+And, as the boy, with hopeless longing— 
+When stolen freedom yields no rest, 
+But home-thoughts to his heart keep thronging— 
+Flies to his injured mother’s breast; 
+So Music has the power to charm us, 
+When turned from Nature’s simple truth; 
+From cold and foreign ways to warn us 
+With the old feelings of our youth. 
+d. Syllables. ws 
+tud 
+dal 
+Tos 
+mac 
+biz 
+fip 
+ruv 
+Results. Construct a table similar to Table VII, show- 
+ing the learning times of the different groups of the train- 
+ing series, and of the different test series. Calculate the 
+percentage of improvement in the training series by com- 
+paring the last day’s record with the first day’s record. 
+Find the difference between these two records and calculate . 
+‘the percentage of this difference on the basis of the first 
+record. Similarly, calculate the percentage of difference be- 
+tween the tests after the training and before the training. 
+ 
+-P-A-G-E-110
+I00 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+TABLE VII 
+RECORD OF ONE INDIVIDUAL 
+End Tests TrainingSeries End Tests Percentage 
+Time Time for Each Time Gain or 
+Before Group After Loss 
+4 min. I 20 min. 284 min. ar 
+7min. 2 20min. 5 min. +29 
+5min. 3 16min. 244 min. +50 
+6 letters 4 15min. 6 letters ° 
+5 12 min. 
+6 12 min. 
+The improvement in the second end tests is not entirely 
+due to transference from the training series, but is due 
+in a small measure to the benefit derived from the first 
+end tests. This is shown by performing the end tests 
+on a group of individuals with an interval of one week 
+oetween the two tests and without taking the training 
+tests. A test performed in this manner with eleven 
+individuals showed an average improvement of 5 per cent. 
+in learning French vocabulary and of 10 per cent. in 
+learning poetry, and with twenty-eight subjects the im- 
+provement in learning syllables was 2 per cent. These 
+percentages must be subtracted from the improvement 
+in the regular experiment in order to obtain the amount 
+of improvement due to transference. 
+Turn to the experiment in Chapter VII and compute 
+the percentage of improvement in the end tests, namely 
+in the substitution of symbols for numbers. Find also 
+the percentage of improvement in the training series itself 
+and compare it with the improvement in the end tests. 
+Twenty-nine persons doing the end tests without the train- 
+ing series showed a gain of 4 per cent., which must be 
+ 
+-P-A-G-E-111
+THE TRANSFERENCE OF TRAINING IOI 
+deducted from the percentage of improvement shown by 
+the subjects who took the training series. Compare the 
+average gain, Table VII, with the average gain in the train- 
+ing series, Fig. 8. How much greater is the gain in the 
+training series than in the end tests? 
+Turn to Chapter IX and calculate the percentage of 
+gain in time and errors in the two tracings made with 
+the left hand. Compare this with the improvement in the 
+practice of the right hand.!_ The records of twelve sub- 
+jects showed that the left hand made 90 per cent. as much 
+improvement as the right hand.* 
+Questions : 
+1. Which experiments in the end tests are most like 
+and which least like the training series? Which show the 
+largest amount of improvement? What general principle 
+would you formulate? 
+2. In general how much improvement is transferred ? 
+To answer this question definitely, compare the amount 
+of gain in the end tests as given in the averages, Table VIII, 
+with the average gain in the training series, Table IX. 
+Deduct from the averages in Table VIII the amounts due 
+to the practice in the end tests themselves as indicated 
+on the preceding page. How do these residual improve- 
+ments compare with the gain in the training series, Table 
+IX? What inference do you make with regard to the 
+amount of training that is transferred ? 
+1This type of transference of practice of one organ of the body 
+to its bilaterally symmetrical organ is called cross-education. Its 
+bearing upon the whole problem of transference among mental 
+functions is only indirect. 
+2 Starch, Psych. Bulletin, 7, 1910, 20-23. 
+ 
+-P-A-G-E-112
+102 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+3. In the light of your results discuss this statement : 
+“ A change in one function alters any other only in so far 
+as the two functions have as factors identical elements.” 
+(Thorndike, Educational Psychology, First Edition, p. 80.) 
+4. What bearing have these experimental results upon 
+the question of mental discipline of school studies? Would 
+training derived from one study help in the pursuit of 
+others? If so, to what extent? 
+For further practical exercises see Thorndike, Prin- 
+ciples of Teaching, 249-256; O’Shea, Education as Ad- 
+justment, Chapters 13 and 14. 
+   
+-P-A-G-E-113
+THE TRANSFERENCE OF TRAINING 103 
+TABLE VIII 
+PERCENTAGE OF GAIN IN END TESTS (30 OBSERVERS). TRAINING 
+SERIES CONTINUED ONE WEEK 
+French Poetry Syllables Memory Span 
+31 29 50 ° 
+20 17 53 ° 
+18 9 50 ° 
+ee 12 25 ° 
+Uh 17 7° ° 
+50 14 62 14 
+Ir Bs 44 o 
+10 29 75 -I2 
+22 38 ° ° 
+32 69 48 o 
+45 50 48 ° 
+20 28 18 ° 
+35 40 20 o 
+9 20 15 ° 
+6 12 14 ° 
+17 5 20 o 
+14 21 7 ° 
+8 4 3 ° 
+3 3 5 o 
+-26 25 20 ° 
+26 21 25 -14 
+21 -7 39 17 
+23 4 16 ° 
+-25 16 13 ° 
+-4 20 10 ° 
+30 23 = ° 
+-Ir -7 25 ° 
+27 3 16 ° 
+33 18 27 ° 
+724 8 55 
+  a 
+1S 
+13 wa 29
+-P-A-G-E-114
+TABLE IX 104. EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+TRAINING SeRres— Taian VocaBuLaRy — Six Lists 
+  
+  
+  
+              
+  Persons I 2 3 4 | 5 6 oe, 
+Lists 6 and x 
+fees |TO! 10’ O. 8’ 8’ 7ugOn 30.0 
+2 |24’ 30”|20' 5016’ 3013! 12! 11’ 30” 53.0 a 7’ 40"| 6’ 50" 5/40" 7 40”| 6/20" 5° 35”| 36.4 
+mee oat 27" Pie 20/ 18" 15 37-5 
+Bis 1230 15! 16 14’ 13! 11’ 52.2 6 |r0' 32/10" 8’ 51” 8" | 7’ 55" 7’40"] 26.6 
+7 15”| 15/14’ 5014’ 45”|r4’ 5014" 30” 33 
+8 4! 50"| 8” 7/20" 6! 40” nl at go!| 40.4 
+3 BG 2! 30| 1/40") 3/ 1’ 50"| 2! 50.0 
+10 20" 14”\18 10|16" s0”|17! 7” |x6" 5” ts’ 3x” 234° 
+me i255 + \eq*-<> lax! 19’ 16 15! 40.0 = 7! 30"| 7/25” 7’ 20" 6’ 45”| 6” 30” 6” 10 17-7 
+13 8! 10"| of 2” | 8! 14” 7" 37”) 7! tala age 
+14 6! 30” 6’ 10” 7” 5/58” 6! 6! 20” 2.4 
+i5¢ 2 .|10' 18 \15” 14’ 12’ 14’ 26.3 
+Pek lio’ 8! 15” 7! 20"| 6” 30" 5/ 45”| 545” 42.5 
+ty 3’ y | 8 3 6! 30" 5" 37.8 
+43 7/30" 6! 10" 6's” | 6! 5/30" 5 33.3 
+19 gf 1010" | 8/15""| 7" 15"| 75” | 645” 26.2 
+20 |10’ 10”| 9! 50”|11' 8’ 4o"|10' 15/1 7 45” 23.6 
+ar |ra! 15I13/ 5514’ 5” |13" 157113’ 30712" 30” 12.4 
+22 9’ 30”| 8! 20/11’ 9 10’ 20’) 8’ 40” 8.8 Ba \10° 9 8’ 30”| 3° 3 7'30"| 25.0 
+24 7 6! 30”| 6 20"| 6” 5/45”| 5/30"| 21.4 
+25° |15’ 14’ 30’/16" Se 14 13 13.3 
+6 3/30" 5/ 5° 4/30" 5! 3/30” oo 
+zie |e | tas EL. -2|20" 9 8 33-3 28 |t0’ 32"|z0" 8’ 51” 8'x” | 7/55” 7’40"| 27-1 
+29% -|t7/. 16’ 30/16’ 15’ 10”|15/ 14’ 30” 14.7 
+30. |12° 8'30"|12! a 5/30"| 8" 33.3 
+Bie 25 24" 24" 22! 20! 20° 20.0 
+32). 22" 20/ 20° 18" 16’ 15! 31.8 
+Average 27.1 
+  
+ 
+-P-A-G-E-115
+  
+    THE TRANSFERENCE OF TRAINING 105 
+TABLE X : 
+Enp Test—CuapTER X, Pp. 85 
+SuBsTITUTION OF SyMBOLS FOR NUMBERS 
+rst Test 2d Test % Gain 
+v 30” 50” 44-4 45” Y sf gal 
+12504 TE aR” 22.7 
+220" Te a50C 21.4 
+Tago x? §r0/ 22.2 
+24 a1 50", 8.3 
++15! 45” 40.0 
+1.40% at eo 20.0 
+EY esto) 4 Lys 30r 52.6 
+reiget x’. ag” 24.5 
+£21304 14 40% -IL.I Y 30” 1’ 25” ae 
+Y 4s” ar qee 28.5 
+1’ a0" 110% 30.0 
+2! Lise 37-5 tt sof? 4st 46 
+negole 1” 320 II.I 
+LOM 1 5 tE5e 16.6 
+2 v 50” 8.3 
+oF a” = 33:3 
+3 30 2 42.9 
+1 40” opto 30.0 
+Tito 40” 42.9 af 45” 12.5 
+2! isig0u 25.0 
+1/5 50% 1586 10.0 
+1.107 v 5” 7 , 3 2 33:3 
+1430" 1 gO 0.0 
+BORER isi, par AC at ah Te 0! 41.7 
+Average 
+ 
+-P-A-G-E-116
+  
+CHAPTER XII 
+ASSOCIATION 
+1. The General Law of Association 
+TuE law of association simply stated is this, Things! 
+experienced together tend to recur together. The appli- 
+cations of this law to teaching are very obvious and very 
+wide. Theymay besummed up under two principles, “ Put 
+together what you wish to have go together,” and “‘ Re- 
+ward good impulses.” ? 
+The force of the law of association may be demonstrated 
+very simply in this manner: Find the number of seconds 
+required to repeat the alphabet as quickly as possible. 
+Next find the time required to repeat the alphabet back- 
+wards. Explain the difference. 
+In the next experiment commit to memory the seven 
+Spanish words printed below in Group I. While doing 
+this keep the English equivalents covered with a piece of 
+paper. Always repeat the words in order from the top 
+of the column. Then cover the Spanish list and memorize 
+the English words in their order. After you have learned 
+both lists lay the book aside and find the time it will 
+1 That is, ideas, mental states or processes. 
+2 Thorndike, Principles of Teaching, p. 110. 
+106
+-P-A-G-E-117
+  ASSOCIATION 107 
+take you to recall from memory the Spanish words in 
+their order and the correct English equivalent of each. 
+While you are learning do not compare the two lists. 
+Memorize the words in the second group, but in this 
+case read the Spanish word and the English equivalent 
+together. As soon as you know them, lay the book aside 
+and find the time required to recall the foreign words and 
+their meanings. Explain the difference in time between 
+the recalling of the two groups. 
+GROUP I 
+lutea oriole 
+molleta biscuit 
+poder power 
+despensa pantry 
+elenco catalogue 
+conata effort 
+obra work 
+GROUP II 
+tenue thin 
+vera edge 
+hondon bottom 
+redro behind 
+desvan garret 
+dedo finger 
+lecho couch
+-P-A-G-E-118
+  108 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+TABLE XI 
+TABLE OF NINETEEN PERSONS, SHOWING THE TIME IN SECONDS OF 
+RECALLING THE TWO GROUPS 
+Group I 
+25” 
+7) 
+I ey iM 
+50” 
+56” 
+Sai Sie tink gaa qs Site 30” 
+      2. Specific Laws of Association Group II 
+10” 
+5” 
+9” 
+10” 
+6" 
+10" 
+10” 
+“ 
+aR, 6" 
+5” 
+12” 
+de 
+18” 
+18” 
+20” 
+3” 
+30” 
+6” 
+13” 
+Problem. The object is to demonstrate the laws accord- 
+ing to which ideas or mental states are associated. Why 
+does a given idéa bring to mind a certain idea rather than 
+some other? For example, why does “ December 25th ” 
+bring to mind “Christmas” rather than ‘“ President 
+Johnson’s proclamation of pardon”? What determines 
+which one of a score of possible connections shall be made? 
+ 
+-P-A-G-E-119
+ASSOCIATION 10g 
+The Material is supplied on the following ten pages. 
+It is imperative that you should not examine it except 
+under strict experimental conditions. Therefore, do not 
+turn to it until you are ready to do the experiment. The 
+material is composed of syllables and numbers. Each 
+series is composed of ten pairs of syllables and numbers 
+printed side by side. Take a sheet of paper, at least 
+twelve centimetres square, and cut crosswise in the centre 
+of it a rectangular aperture, 5 mm. by 4cm. This will 
+serve as a simple means of exposing the pairs of syllables 
+and numbers for uniform intervals of time. 
+Procedure. Turn to Series I and immediately lay the 
+sheet of paper over the page so that the aperture exposes 
+nothing but the words “‘ Series I.” Each pair in the series 
+is to be exposed for three seconds. The time is indicated 
+by your partner, who taps on the table every three sec- 
+onds. Take hold of the sheet of paper with the right hand 
+and at the first tap slide it down to expose the first pair, 
+at the next tap slide it down to expose the second pair, 
+and so on through the entire series. Give your entire 
+attention to the particular pair exposed. Pronounce to 
+yourself both the syllable and the number. As soon as 
+you have finished, slide the sheet of paper down and 
+expose the set of syllables (test series) on the lower 
+half of the page. Be sure, however, not to uncover any 
+part of the upper series (stimulus series). These syllables 
+are the same ones used in the stimulus series, but they 
+are arranged in different order. Your partner again taps 
+at intervals of three seconds. Begin at the top and write
+-P-A-G-E-120
+IIO0 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+opposite each syllable the number that comes to your 
+mind as the one seen with it in the stimulus series. Pass 
+to the next syllable at the next tap, and so on. If no 
+number is recalled leave the space blank. Work through 
+the other nine series in exactly the same manner. Allow 
+an interval of at least two minutes between the successive 
+series. Before working out the results your partner 
+should go through the experiment also. 
+ 
+-P-A-G-E-121
+
+-P-A-G-E-122
+II2 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+SERIES I 
+var 37 
+mup 95 
+tib 31 
+sov 57 
+Taz 89 
+mup 95 
+vej 63 
+zik Ty, 
+tev 40 
+kes 52 
+vej 
+sov 
+mup 
+var 
+tib 
+raz 
+tev 
+zik 
+kes 
+ 
+-P-A-G-E-123
+
+-P-A-G-E-124
+114 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+SERIES IT 
+   
+-P-A-G-E-125
+
+-P-A-G-E-126
+116 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+SERIES III 
+rol 
+kuf 
+jer 
+kus 
+pif 
+ 
+-P-A-G-E-127
+   
+-P-A-G-E-128
+  118 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+  SERIES IV 
+ren 67 
+sur 49 
+kep 85 
+luf 26 
+dar 92 
+kam 33 
+tuc 28 
+sor 51 
+LOD 68 
+zan 32 
+Ten 
+kep 
+tuc 
+sur 
+zan 
+lod 
+luf 
+kam 
+sor 
+dar 
+ 
+-P-A-G-E-129
+
+-P-A-G-E-130
+120 EXPERIMENTS IN EDUCATIONAL PSYCHO: 
+bal 
+hon 
+ker 
+liu 
+rad 
+hus 
+pex 
+liu 
+fos SERIES V 
+hon 
+rad 
+ker 
+liu 
+pex 
+hus 98 
+76 
+23 
+68 
+55 
+19 
+83 
+68 
+47 
+94 
+  LOGY 
+   
+-P-A-G-E-131
+
+-P-A-G-E-132
+122 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+  SERIES VI 
+mep 36 
+vib 78 
+lat 90 
+vul 18 
+zed 29 
+kas 54 
+REN 72 
+dov 88 
+cer 93 
+tis 60 
+cer 
+ren 
+zed 
+lat 
+mep 
+tis 
+dov 
+kas 
+vul 
+vib 
+ 
+-P-A-G-E-133
+
+-P-A-G-E-134
+I24 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+SERIES VII 
+mol 
+gir 
+lez 
+pof 
+teb 
+lem 
+zat 
+pof 
+ 
+-P-A-G-E-135
+
+-P-A-G-E-136
+126 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+SERIES VIII 
+cak 
+mun 
+KEX 
+gam 
+jik 
+hun 
+dut 
+seb 
+bic 
+tel 
+jik 
+kex 
+cak 
+hun 
+seb 
+tel 
+mun 
+gam 
+dut 81 
+56 
+13 
+96 
+30 
+59 
+74 
+33 
+42 
+IL
+-P-A-G-E-137
+
+-P-A-G-E-138
+128 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+  SERIES Ix 
+dak 
+zib 82 
+lis 44 
+med as 
+mib 62 
+vot 7° 
+sim 56 
+len 34 
+ner 27 
+mib 
+dak 
+ner 
+sim 
+vof 
+med 
+lis 
+zib 
+len
+-P-A-G-E-139
+
+-P-A-G-E-140
+  130 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+SERIES X 
+nof 
+rus 
+cem 
+fop 
+mig 
+lan 
+LOR 
+tal 
+bax 
+ges 
+nof 
+cem 
+mig 
+lor 
+bax 
+ges 
+tal 
+lan 
+fop 
+rus 45 
+80 
+64 
+37 
+29 
+87 
+53 
+16 
+42 
+61
+-P-A-G-E-141
+
+-P-A-G-E-142
+  132 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+Results. The purpose of the experiment is to demon- 
+strate the four laws of association. 
+a. Primacy. Other things being equal, the first asso- 
+ciation is most apt to be recalled. 
+b. Frequency. Other things being equal, the most fre- 
+quent association is most apt to be recalled. This is 
+illustrated in series 1, 3, 5, 7, 9, in which one syllable 
+occurs twice with the same number. 
+c. Intensity. Other things being equal, the most in- 
+tense or most vivid association is most apt to be recalled. 
+This is illustrated in series 2, 4, 6, 8, and 10, in which one 
+pair is printed in much larger type. 
+d. Recency. Other things being equal, the most recent 
+association is most apt to be recalled. Primacy and recency 
+are illustrated in each series by the first and last pairs. 
+Construct a table to show the number and percentage 
+of correct associations. Follow Table VII as model. 
+The results of Series I or any other series should not be 
+counted if they were vitiated by incorrect performance 
+of the experiment. 
+   
+    TABLE XII 
+imesemies: 1} ccorrect associa ions .1)./s0°...5% igs see dete ees 3 
+BVA DEUACYED cid < siokdo eck ss veld roses oa 
+WATECRNICY 5 fF chest l discs sie = aitnons sate ek 
+miscellaneous. . . eh 
+In series II, correct associations BAe 
+PoVATeCenICy. HS kcha rst bbc. os cid slo oe ke oR Bo I 
+IBVAIRtEDEILV). «oe csliniis oS ded haga anes I, ete. 
+Total possible associations by primacy. . -10 
+ie e ef “* frequency... 235 “ “ “ “ intensity... 5 
+“ ve od “ recency.... 
+a “ “a 
+  miscellaneous 405.5085 2. ei old 
+ 
+-P-A-G-E-143
+ASSOCIATION 
+Percentage of correct associations made in each case: 
+by primacy, 5 out of 10 possible ones. ... 
+by frequency, 3 out of 5 possible ones............. 
+by intensity, 4 out of 5 possible ones............. 
+by recency, 4 out of 10 possible ones. . 
+miscellaneous, 14 out of 65 possible ones............. 
+TABLE XIII 
+TABLE OF RESULTS OF TWENTY-EIGHT PERSONS    
+Primacy Frequency Intensity Recency Miscellaneous 
+Terres ,« 5 2 I 
+    LOSSES . 
+Bly raei sts 
+12: 
+mae. 
+TAR 
+Meta os 
+NGee cere ac 
+Wee 
+eee ce 
+TQ oes tases 
+2050: 
+alene 
+a2, 
+BBs ioe 
+BAe ESS cis 
+25h 
+26... 
+Brae. 
+            
+Jo mnaeen ar or anu auaus vane 
+DH OW HH HAW HONWHNR HOH HOR OW HR HW 
+CH HHO OWNOKHAUHOHNHA HON HHEENHNHDNDON 
+COM ANN ARNO AKHHH ANH HE DANN AKHHEN | 
+| 
+| Average. . 1.5 75 4.0 
+30% 35% 40% an ae x0 12 
+22 
+21 
+13 
+9 
+6 
+18 
+I 
+14 
+7 
+27 
+9 
+23 
+4 
+17 
+22 
+15 
+o 
+16 
+23 
+28 
+14 
+12 
+15 
+29 
+14 
+27 
+Ir 
+15 3 
+24%
+-P-A-G-E-144
+  134 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+Questions: 
+1. Give several illustrations from your own experience 
+in school in which the laws of association were applied 
+correctly. Several in which they were applied incorrectly. 
+2. How would the laws of association apply to the 
+learning of correct grammatical forms? Spelling? Para- 
+digms? Dates of history? 
+For a very excellent list of questions and specific exer- 
+cises, see Thorndike, Principles of Teaching, pp. 112-123.
+-P-A-G-E-145
+CHAPTER XIII 
+APPERCEPTION 
+  APPERCEPTION is the “ manner in which we receive a 
+thing into our minds ” (James). It includes all the pro- 
+cesses by which we read meaning into sense impressions. 
+One person calls an object a useless stone; another calls 
+it a fossil of the carboniferous age. The two persons re- 
+ceive the object differently, they give different meanings 
+to the same sense impressions. Each gives that particular 
+interpretation which is most in accord with his particular 
+mental make-up. 
+The General Problem of the experiments in this chapter 
+is to illustrate the facts of apperception, that the mind 
+always endeavors to give some meaning to every incoming 
+impression, whether new or old, and to find some factors 
+which determine what meaning shall be given to a par- 
+ticular impression. 
+1. To demonstrate the meaning tendency of the mind. 
+a. Turn to the ten ink blots and write into your note- 
+book the first thing that each one suggests or represents 
+to you, that is, the first meaning which naturally comes 
+to you as you see each one. Do not study them or try 
+to force a meaning into them. 
+135
+-P-A-G-E-146
+  136 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+  
+  3. 
+Fics. 9, 10, 11.
+-P-A-G-E-147
+nr emt ee ee ee 
+APPERCEPTION 137 
+  6 
+Fics. 12, 13, 14. 
+ 
+-P-A-G-E-148
+  138 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+¥ 
+4 sie » Fics. 15, 16, 17, 18. 
+ 
+-P-A-G-E-149
+  APPERCEPTION 139 
+The experiment clearly demonstrates that the mind 
+normally attempts to interpret every sensation. It tries 
+to give meaning even to those impressions which are 
+entirely without meaning and unlike anything previously 
+experienced. The ink blots are in themselves without 
+significance, and were not made with the intention of 
+representing anything. The meaning you give to each is 
+entirely imposed upon it. The mind is persistent in giving 
+meaning to its sensations because meaningless things have 
+no value or significance. The mental development of a 
+child is largely a development of apperception. 
+b. Turn to the ten syllables given below. Write in 
+your note-book what each one reminds you of or suggests 
+to you. 
+nof 
+cem 
+mig 
+lor 
+bax 
+ges 
+tal 
+lan 
+fip 
+rus 
+Here again the same fact is illustrated. The mind 
+gives meaning even to the meaningless. These three- 
+letter syllables do not constitute words or symbols, yet 
+each one almost without exception stirs up some associa- 
+tion or other and forthwith it has meaning.
+-P-A-G-E-150
+  140 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+  c. As soon as a meaning has been given to impressions 
+they at once become definite according to the particular 
+meaning imposed. Find the frogs in Fig. 19, and notice 
+  By permission of Century Company. 
+Fic. 19. 
+that as soon as you have found them the blur springs into 
+definite outline. The external stimulus is moulded accord- 
+ing to the meaning given. 
+d. In the developed adult mind the interpretative ten- 
+dency is so dominant that the attention is primarily upon 
+the meaning aspect, to the neglect of the actual sense 
+stimuli upon which the meaning is based. Only the slight- 
+est hint needs to be given to make the mind see this or 
+that particular object. The mind, as it were, supplies 
+the necessary material to fill out the picture. To demon- 
+strate this point, ask an assistant to set the book at a 
+distance of twenty or twenty-five feet from you to show 
+Fig. 21, on page 130.! Do not look it up yourself, as it is 
+‘The experiment can best be performed by the entire class 
+simultaneously, in which case the instructor in charge should place
+-P-A-G-E-151
+  APPERCEPTION I41t 
+important that you should not see the figure at close range 
+until after the experiment. Make a duplicate freehand 
+drawing of the figure thus shown. Put in all the lines and 
+details that you see. 
+Compare your drawing with the figure in the book. 
+Explain the difference. The mind reads meaning into 
+sense impressions, supplies details and makes the external 
+stimulus conform to the apperceived meaning. Fig. 26, 
+on page 183, is a typical sketch drawn under experimental 
+conditions. 
+2. The particular meaning given to a group of sensa- 
+tions is determined by the previous experiences of the 
+individual. 
+a. Compare your record of the ink-blot test with that of 
+one other person. For this purpose make a table num- 
+bering in the first column from 1 to 10, in the second col- 
+umn place opposite each number the meaning you gave 
+to each blot, and in the third the meanings given by the 
+other person. 
+b. Construct a similar table for the syllable test. In 
+addition, state so far as you can why each syllable re- 
+minds you of this or that word or object. Obtain similar 
+statements from the person whose record you have. 
+These introspective statements show, however super- 
+ficially, that the same impressions are apperceived differ- 
+ently by different persons because of different past 
+experiences. 
+the book at the required distance. No one in the class should be 
+nearer than twenty feet. 
+ 
+-P-A-G-E-152
+  142 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+c. The richness of the meaning or completeness of the 
+meaning which we give to a sense impression depends 
+upon the number and richness of the associations con- 
+nected with that sense impression. After each one of the 
+following words write the names, or simply a check mark, 
+of as many different actual situations or particular ex- 
+periences as you can recall, in which each was involved: 
+1. Midas; 2. Flatiron Building; 3. Railroad; 4. Tobog- 
+gan; 5. Poetry; 6. Psychic Medium; 7. Skeeing; 8. Tel- 
+escope; 9. The “L”; 10. Grain Binder. See for 
+illustration Table IX. If any word calls up many asso- 
+ciations, stop with ten. 
+TABLE XIV 
+. Midas 
+. Flatiron Building 
+- Railroad 
+. Toboggan 
+Poetry . . 
+. Psychic Mediu: 
+. Skeeing 
+. Telescope 
+. The “L”” 
+. Grain Binder SOMNANEHYOHH ao 
+Represent your results in a curve. Put on the hori- 
+zontal line the numbers of the words and on the vertical 
+lines the numbers of associations. See Fig. 20. 
+d. The nature of our past experiences and associations, 
+then, determines how we shall interpret and react to 
+10£ course very familiar concepts are bound up with such a 
+wealth of associations that many are beyond recall and yet con- 
+tribute to the significance of the concept. The words chosen for the 
+text include some very familiar concepts and some very unfamiliar.
+-P-A-G-E-153
+  APPERCEPTION 143 
+present stimuli. This entire system or range of acquired 
+experiences is in general equivalent to the range of in- 
+formation which a given individual possesses. The total 
+bulk of one’s information or experience is sometimes called 
+the “ apperceptive mass.” The Australian bushmen call 
+a book “ mussel ” because it opens and shuts like a shell- 
+fish. Their range of information did not include expe- 
+riences with books. 
+  LOS F258 6. 1.5 96, 
+Fic. 20. 
+The following is designed as an information test.! 
+“Below are 1oo words, phrases, or abbreviations, 
+largely technical, which are designed to test the range of 
+your information. Consider each one carefully, and place 
+after it one of these four marks: 
+“(z) the mark D if you could define it as exactly as 
+words are ordinarily defined in the dictionary. 
+“(2) the mark E if you could explain it well enough to 
+give some idea of its meaning to one who is not familiar 
+with it, though you could not give an exact definition 
+that would satisfy an expert. 
+1From Whipple, Psych. Rev. 16, 1900, 347-351. 
+ 
+-P-A-G-E-154
+  144 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+“ (3) the mark F if the word is merely roughly familiar, 
+so that you have only an indefinite idea of its meaning 
+and could not use it intelligently. 
+“(4) the mark N if the word is entirely new and 
+unknown to you. 
+ageratum 
+amphioxus 
+amphora 
+annealed 
+Anthony Wayne 
+apocalypse 
+architrave 
+aujourdhui 
+Babcock test 
+base-hit 
+Bernard Shaw 
+Bokhara 
+Braille 
+call-loan 
+calorie 
+cantilever 
+Caedmon 
+catalepsy 
+cephalic index 
+ceramics 
+chamfer 
+Chartism 
+chlorine 
+chromosome 
+clearing-house cleistogamous 
+cosmogony 
+cotangent 
+dibble 
+dietetics 
+dryad 
+electrolysis 
+Elohim 
+entrée 
+Eocene 
+Euclid 
+£-64. 
+f. 0. b. 
+gambit 
+gasket 
+glycogen 
+gneiss 
+golden section 
+guimpe 
+hedonism 
+hemiptera 
+homiletics 
+hydraulic press 
+impetigo 
+impressionism infusoria 
+intaglio 
+Kepler’s law 
+kilogram 
+kinesthetic 
+kinetic 
+Les Misérables 
+linotype 
+logos 
+luff 
+Malthus’ law 
+etacarpal 
+midiron 
+Millet 
+mitosis 
+morgen 
+nada 
+natural selection 
+noi 
+ohm 
+parallax 
+peneplain 
+Pestalozzi 
+Polonius 
+pomology puer 
+pyramidal tract 
+quadratics 
+rococo 
+RS. Vee: 
+scherzo 
+semaphore 
+simony 
+spoils system 
+Stoicism 
+synecdoche 
+testudo 
+tort 
+trephine 
+triangulation 
+trilobite 
+triple-expansion 
+undistributed 
+Utopia [middle 
+vantage-in 
+way-bill 
+Weismannism 
+wigwag 
+X-Ray 
+Zionism 
+Results. a. Count the number of each class. 
+b. State the meaning briefly of all the words you 
+marked F which are also marked F by one other person 
+in the class. Make a comparative table.
+-P-A-G-E-155
+  
+  APPERCEPTION 
+TABLE XV 
+INFORMATION TEST 145 
+  
+  
+  
+  
+      Persons N F E D 
+I 35 24 21 20 
+2 41 6 24 29 
+3) 47 8 20 25 
+4 50 16 18 16 
+5 65 13 II Ir 
+6 50 9 8 33 
+a 67 2 5 26 
+8 58 21 12 9 
+9 56 9 13 22 
+10 58 < 22 17 
+II 58 15 6 21 
+12 36 19 22 23 
+13 62 9 16 73 
+14 34 22 32 12 
+15 32 24 Ir 33 
+16 39 7 37 17 
+7 47 15 29 10 
+18 54 9 7 31 
+19 30 25 22 23 
+20 56 5 27: 12 
+21 52 22 5 zn 
+22 45 17 21 17 
+23 48 4 14 34 
+24 58 17 22 3 
+25 30 17 15 38 
+26 45 4 18 33 
+27 50 II 16 23 
+28 43 17 26 14 
+29 34 17 32 15 
+30 39 13 25 23 
+Averages 47-3 13.3 18.6 20.8 
+    
+  
+ 
+-P-A-G-E-156
+  146 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+3. The particular meaning given to a group of sensa- 
+tions is determined not only by the general mass of 
+previous experiences but also by the particular system 
+of past associations dominant in the mind at the time, 
+that is, the meaning is determined by the present setting 
+of the mind. 
+a. Turn to the following ten lists of skeleton words. 
+Fill in the missing letters to make words. The number 
+and the position of the letters to be supplied are indicated 
+by the dashes. Take the groups in the order in which they 
+are numbered. Work as rapidly as possible, and record 
+the time required for each group. If a skeleton does not 
+suggest the missing letters within a reasonably short time, 
+say twenty to thirty seconds, leave it blank. 
+I I 
+The following are miscel- 
+laneous nouns. The following are names 
+of articles of dress. 
+1, P--er 1. Ghve 
+2. Nan-e 2. Bat 
+3. Habst 3. Tre 
+4. S-c- 1 4. Pin ‘ 
+5. Value 5. C@at 
+6. Pen 6. 4oHlar 
+7. B--k 7. BY *ten 
+8. Street 8. -e-ch- -f 
+9. Soese 9. Shee 
+to. Glass 10. Bs
+-P-A-G-E-157
+APPERCEPTION 
+Til 
+The following are names of 
+household furnishings. 
+1. C-a-r 
+L-m- 
+B-d 
+R--k-+r 
+Tb = 
+C- -+t-in 
+D--ss-+r 
+. P-ct-re 
+D--k 
+. St-v- PETAR ERE» 4 ° 
+Vv 
+The following are names of 
+well-known American 
+authors. 
+1. E--rs-n 
+2. L-we-— 
+3. H--m-s 
+4. R-l-y 
+5. B- at 
+6. W--i-r 
+9. C--p-+ 
+8. P-- 
+9. I-v-n- 
+to. V- -D-k- 
+° 147 
+IV 
+The following are names of 
+familiar fruits, 
+1. A-—le 
+C-e--y 
+O-a-g- 
+Pi- - 
+Een 
+B- -a-a 
+iaegDt = Ob 
+P-a-h 
+. Gr-p- 
+Bidicies SPI AREY dD 
+VI 
+The following are miscel- 
+laneous nouns. ee 
+T 
+8 4 3 
+i
+-P-A-G-E-158
+148° EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+VII 
+The following are names of 
+pieces of American " 
+9 Ser aAneoe Po money. 
+P-nn- 
+N-c- -l 
+C--+t 
+. Q-a-t-r 
+B--1 
+Ix 
+The following are names of 
+university studies. 
+Io. I 
+2 
+3 
+4. 
+5 
+6. 
+7 
+8 
+9 cE —e-c— VIII 
+The following are names of 
+familiar domestic H 4 ° CEI AK EY» animals. 
+. —O-se 
+. dg 
+C-w 
+C--f 
+S--ep 
+—at 
+H-g 
+Chic- - - 
+D--k 
+. T--k-y 
+x 
+The following are names of 
+American cities. 
+I. Hw 
+° 
+oor 
+nn 
+fk 
+© 
+bd B--t-n 
+. N-w- -r- 
+. Se- -tl- 
+Chic- -- 
+. St -o- -s 
+D-n--r 
+O- -h- 
+. P-rt--nd 
+. B--f--o 
+. —lb-n-
+-P-A-G-E-159
+APPERCEPTION 149 
+Find the average time required to do Groups I and VI 
+and the average time for the other eight groups. How do 
+they compare? Explain the difference. 
+In each group, except I and VI, a specific system of 
+associations is made prominent at the outset; that is, 
+the mind is “ set ” in a specific way, with the result that 
+(a) the meanings of the skeletons arise much more rapidly 
+and (b) they are in accord with the particular set of 
+associations present. This point is demonstrated by the 
+fact that twenty-two skeletons are alike. Yet in each 
+group a different meaning arises according to the set of 
+the mind. If you noticed during the experiment that 
+any skeleton was like one you had in a preceding group, 
+indicate which ones. 
+The ones alike are I 6 and II 4 
+I 9 and VIII 1 
+II 2 and VIII 6 
+II 5 and VII 3 
+II 6 and VII 7 
+II 7 and X 1 
+II ro and VIII 4 
+III 9 and VIII 9 
+IV 5 and IX 2 
+V 7 and VII 9 
+VIII 8 and X 4.
+-P-A-G-E-160
+  150 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+TABLE XVI 
+RECORDS FROM TWENTY-EIGHT PERSONS 
+Av. of Groups Av. of the 
+I and VI other groups 
+    raat ae Bee 22" 
+Bey a 
+28” Ene Be, 3” 
+be ake 18" Bp er 42! 
+Meee 51” 
+46" aoe 
+52” 38" ean vow 
+13” Le 
+i ie get ca hie 
+aol! 2a!” 
+37” 25” 
+a 45” v3" ral 28” 
+Bee, 40" 
+” 55 25” xt gel Tage 
+Bc aol ee ape 20" 
+nt Bey 36" AL ake 16" 
+27!" sail 
+” fab mee 26" 
+raee 36” 
+  b. Look for just an instant, not more than a second, at 
+Fig. 22. Record what it represents. Then look at it for
+-P-A-G-E-161
+    APPERCEPTION I5i 
+several seconds and again record what you observe. 
+Explain the results. 
+c. What is the “‘ meaning ” or suggestion of the follow- 
+all “Iz ‘O1g 
+ie 4G 
+ing phrases? It may be necessary to read each one 
+several times.
+-P-A-G-E-162
+  152 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+(x) Pas de lieu Rhone que nous. 
+(2) Von der Vottei mit is. 
+(3) Gui n’a beau dit, qui sabot dit, nid a beau dit elle. 
+(4) Mein die Uhr onbiss Nuss’. 
+Both of these experiments demonstrate in different 
+fields the fact that the meaning read into sensations 
+depends upon the set of the mind. In case of Fig. 22 the 
+    Gereichnet von R, Gudden 
+in Frankfurt a. a. 
+Fic. 22. 
+meaning suggested is “‘ brain,” and the outlines and con- 
+volutions are seen in accordance with it. In case of the 
+foreign phrases the set of the mind is either ‘“‘ French ” 
+or “ German,” and you endeavor to give them meaning 
+accordingly. The dominant set of associations makes it 
+difficult to see or rather to hear the meaning of these 
+“ English ” sounds.! 
+1If you have failed to discover the meanings you will now notice 
+that the sounds are identical, or nearly so with 
+1. Paddle your own canoe. 
+2. Wonder what time it is. 
+3. Gin a body kiss a body need a body tell. 
+4. Mind your own business.
+-P-A-G-E-163
+    APPERCEPTION 153 
+The principles of apperception have a very important 
+application to teaching. First, link new information to 
+the information, experiences, and associations which the 
+learner already possesses. Second, prepare the proper 
+apperceptive basis in the pupil for the reception of new 
+material. 
+For practical exercises and applications to specific 
+problems, see Thorndike, Principles of Teaching, pp. 
+44-50; O’Shea, Education as Adjustment, Chapter 12.
+-P-A-G-E-164
+  CHAPTER XIV 
+ATTENTION 
+Two of the main problems of attention with which the 
+teacher is constantly concerned are: How to secure the 
+attention of pupils to the work in hand, and how to hold 
+the attention after it has been secured. What are the 
+laws of attracting attention, and what are the laws of 
+sustaining attention? 
+1. Laws of Attracting Attention. These will be stated 
+after the experiments have been performed. Proceed 
+therefore at once to make the following tests. 
+The Material to be used consists of groups of words. 
+Each group is to be seen for only five seconds. To insure 
+this condition, the material for each experiment is printed 
+on a separate leaf, so that only one group can be seen at 
+atime. The interval of five seconds is to be indicated by 
+your partner, who will tap on the table at the beginning 
+and at the end of the interval. Have the book before you 
+and be ready to turn the leaf at the first tap. Look at 
+the words until your partner taps again. Then turn the 
+book over and write into your note-book all the words 
+that you remember having noticed. Designate them as 
+154 
+ 
+-P-A-G-E-165
+  
+- ATTENTION 155 
+Group I. Do not attempt to memorize any of the words, 
+but rather look passively at the whole group. 
+In this manner continue the experiment with the re- 
+maining eight groups. Have an intermission of at least 
+one minute between the successive groups.
+-P-A-G-E-166
+150 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+down 
+sort 
+cold 
+suit 
+  GROUP I 
+cast hang look WAIT 
+keep CARE draw vein 
+grow bind THAN face 
+PLAN come view mark 
+call WORK poor evil
+-P-A-G-E-167
+
+-P-A-G-E-168
+158 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+GROUP II 
+bite STAY give rise have 
+stop take jerk PICK snap 
+play wake TRIM this from 
+COAT pull pain bold push 
+pour hill busy BLOW leaf 
+ 
+-P-A-G-E-169
+  
+ 
+-P-A-G-E-170
+    160 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+blue 
+that 
+tilt 
+more GROUP III 
+pray beat here 
+pick rude time 
+damp turn just 
+fall iron once 
+step thou lead 
+  want 
+your 
+with 
+yard 
+Sind 
+ 
+-P-A-G-E-171
+
+-P-A-G-E-172
+162 EXPERIMENTS IN 
+heir 
+tell 
+fire 
+form 
+part 
+  EDUCATIONAL PSYCHOLOGY 
+GROUP IV 
+clad make live 
+Tear. ‘reef firm 
+hand rock will 
+mind walk  gald 
+like pass moat fold 
+wing 
+yarn 
+fear 
+room 
+ 
+-P-A-G-E-173
+
+-P-A-G-E-174
+164 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+GROUP V 
+avev send 
+Kvov Lom 
+lark Kayo 
+ors Bovs 
+emnv milk 
+ 
+-P-A-G-E-175
+
+-P-A-G-E-176
+166 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+avTt 
+thew 
+apps wall 
+aoru 
+yevw 
+land GROUP VI 
+one = ewpa 
+THKO tows 
+lark Acyo 
+Bus moon 
+owos avnp 
+  mode 
+appa 
+peEVO 
+ 
+-P-A-G-E-177
+
+-P-A-G-E-178
+  168 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+GROUP VII 
+fare good hard gray home
+-P-A-G-E-179
+
+-P-A-G-E-180
+  170 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+GROUP VIII 
+what hate shot gone roll 
+seem hope gate mean hair
+-P-A-G-E-181
+
+-P-A-G-E-182
+172 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+  GROUP Ix 
+head wood hear each lime 
+gush when calf some chin 
+horn comb song free less 
+boat hole long knot cure 
+slow coal sick lend crow
+-P-A-G-E-183
+
+-P-A-G-E-184
+    174 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+Results. The four laws demonstrated above are: 
+a. The law of intensity. Other things being equal, the 
+amount and degree of attention depends upon the inten- 
+sity of the stimulus. Groups I and II contain each 
+twenty-five words, of which five are printed in large 
+capitals. These will arouse more intense sensations and 
+consequently are more apt to be noticed. 
+b. The law of contrast. Other things being equal, the 
+amount and degree of attention depends upon the con- 
+trast of the stimulus with other stimuli. Groups III and 
+IV contain each twenty-five words, of which five are 
+printed in italics. 
+c. The law of clearness or comprehension. Other things 
+being equal, the amount and degree of attention depends 
+upon the ease of apprehending the impressions, or upon 
+the clearness of the impressions. Groups V and VI are 
+composed of Greek words with the exception of five 
+English words in each group. Because of the familiar 
+or clear meaning of the English as compared with the 
+Greek words, they are more apt to be noticed and remem- 
+bered. We attend with difficulty to the meaningless or 
+to the absolutely new.! 
+d. The law of counter attractions. Other things being 
+equal, the amount and degree of attention depends upon 
+the absence of counter attractions. That is, the smaller 
+the number of objects is, the greater are the chances 
+1A large element in this experiment is the fact that the English 
+words will arouse more associations and so will be retained better. 
+The results obtained are due partly to the attention factor and 
+partly to the association factor.
+-P-A-G-E-185
+ATTENTION 175 
+that a given object will attract attention. In Group VII 
+there are only five words, all of which will ordinarily be 
+noticed in the allotted time. In Group VIII there are 
+ten words, of which usually not more than five will attract 
+sufficient attention to be remembered. Hence the chances 
+are about one in two that any particular word will be 
+noticed. In Group IX, which contains twenty-five words, 
+the chances are one in five that any given word will be 
+noticed. 
+Construct a table like the following one: 
+TABLE XVII 
+Intensity. Groups I and II 
+8 of the 10 large words were noticed!........... =80% 
+4 of the 40 miscellaneous words were noticed... .. =10% 
+Contrast. Groups III and IV 
+9 of the 10 words printed in italics were noticed ..=90% 
+2 of the 4o miscellaneous words were noticed..... = 5% 
+Clearness. Groups V and VI 
+6 of the 10 English words were noticed.......... =60% 
+1 of the 4o Greek words was remembered........=24% 
+Counter attraction. Groups VII, VIII, and IX 
+    4 of the 5 in Group VII were noticed. ... . = 80% 
+5 of the 10 in Group VIII were noticed. .........=50% 
+4 of the 25 in Group IX were noticed........... = 16% 
+1 The word noticed in each case means of course that the words 
+attracted sufficient attention to be remembered until they could be 
+written down.  
+-P-A-G-E-186
+  176 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+TABLE XVIII 
+RECORDS OF TWELVE PERSONS 
+  Clear- Miscella- 
+Intensity Contrast ness neous Counter attraction 
+Groups Groups Groups Groups Groups VII, VIII, 1X 
+LI IL,1IV V,VI ItoVI =———X~———_,, 
+      10 50% 60% 80% 7.5% 100% 50% 12% 
+2. 50 30 100 755) 100 70 24 
+Sis ° 80 90 7.5 100 60 24 
+a. 50 100 60 7.5 100 60 20 
+5. 30 60 60 4. 80 40 16 
+6. 60 100 100 4. 100 50 20 
+The 20 30 70a veIa: 100 40 20 
+Stestsi- $4) E40 60 70 6. 100 30 20 
+Qhisis ie 60 go 70 7.5 100 40 20 
+10 30 708 12). 100 50 16 
+ITP st 20 70 100 14. 100 30 16 
+Pete. $-p) 70 70 90 7.5 100 40 12 
+Average... 38.5 65 80 8.1 98.5 46.7 18.5 
+2. The Fluctuation or Shifting of the Attention. Our 
+attention shifts continuously from moment to moment. 
+Even with great effort it is impossible to keep the attention 
+focussed for more than a few seconds upon the same idea 
+or object. 
+a. Look steadily at the central line in the “ book” 
+figure below. You will notice that the figure “ flops ” in 
+and out. Part of the time it looks like a book open 
+toward you, and part of the time like a book with its 
+back toward you. Make a two minutes’ record of these 
+alternations. At the signal “now” from your partner, 
+look steadily at the figure. Do not change your point of 
+fixation. When the figure appears like a book open toward
+-P-A-G-E-187
+  ATTENTION 177 
+you say “in.” At the moment it shifts over so that the 
+back of the “ book ” stands out toward you say “ out,” 
+and so on for two minutes. Do not try to make the fig- 
+Fic. 23. 
+ure change, but allow the alternations to occur at their 
+natural rate. Your partner follows the second-hand of 
+his watch and records the position of the hand each time 
+” or “out.” The record will be similar to you say “in 
+the following one: 
+tee. sea otis TS. 23,330.38 Ay icy Sara 
+CE er aes 19.26 “35 42. 50a : toretc: 
+Compute the average length of the “in” and of the 
+“out ” periods separately.  
+-P-A-G-E-188
+178 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+TABLE XIX 
+  RECORDS OF TWELVE PERSONS, SHOWING THE AVERAGE DURATION OF 
+THE “IN’’ AND ‘‘OUT’’ PERIODS 
+“In” periods ‘Out’ periods 
+4.4" 7.6" 
+5.1” 5.7" 
+8.2" 6.5" 
+3.0" 3.0" 
+3.2" 3.9" 
+5.2" 4.8" 
+3.0" 3.7" 
+6.9" 5.3” 
+2.0" 2.4" 
+5.0” 7.4" 
+3.2" 3.57" 
+4.0" 4.2" 
+4.4" 4.8" 
+  b. (1) Look at the figure below for two minutes and 
+notice that your attention periodically wanders off to 
+something else. As soon as you catch your attention off 
+Fic. 24. 
+the figure, bring it back. Call out “ now ” each time you 
+have to force your attention back to the figure. Your 
+partner records the time in the same manner as in the 
+preceding experiment. Calculate the average length of 
+the periods. 
+(2) Look at the same figure for two minutes, but this
+-P-A-G-E-189
+ATTENTION 179 
+time try to work out in your mind the following questions 
+about the figure: How long is the diameter of the circle? 
+What is the width of the bar and of the circular line? 
+What different things does the figure represent to you, - 
+or of what does it remind you? etc. 
+If your attention should shift to anything not connected 
+with the figure call out “now” and your partner will 
+keep a record as before. How does this test compare with 
+the preceding record with regard to the number of times 
+the attention shifted away from the problems connected 
+with the figure?! 
+3. Concentration of Attention. Turn to Fig. 23 and 
+repeat the experiment under 2a. Take a two minutes’ 
+record in exactly the same manner, but in this experiment 
+TABLE XX 
+RECORDS OF TEN PERSONS, SHOWING THE NUMBER OF TIMES THE 
+ATTENTION SHIFTED FROM THE FIGURE UNDER THE CONDITIONS 
+OF EXPERIMEN! b (1) AND b (2) 
+b (1) b @) 
+25 times 5 times 
+15 10 
+12 
+Aon anor 
+OOH OWWONM 
+  9.9 times 3-9 times 
+1See James, Talks to: Teachers, ror.
+-P-A-G-E-190
+I8O0 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+\ 
+TABLE XXI 
+RECORDS OF TEN PERSONS, GIVING IN THE FIRST COLUMN THE AVERAGE 
+. DURATION OF THE “‘IN’’ PERIODS WHEN AN EFFORT WAS MADE 
+TO HOLD THE FIGURE AS “IN,’’ AND IN THE SECOND COLUMN 
+THE NORMAL DURATION OF THE “IN” PERIODS TAKEN FROM 
+    TABLE XIII 
+Tye i 
+ae +4 1657” 8.2” 
+9.” 3.0” 
+8.5” 3.2" 
+2eait 6.9” 
+4.2” 2.0 
+x4 5.0” 
+5.9” 3.2" 
+4.6” 40% 
+12.5” 4.5” 
+  “ attempt to hold the figure in the “in” position. If it 
+shifts into the ‘“‘ out ” position try to get it back as soon 
+as possible into the “in” position. Find the average 
+duration of the “in ” periods. How do they compare with 
+the normal length of the “in ” periods as found in experi- 
+ment 2 a? 
+Discuss the following questions: 
+1. Give an illustration from school work of securing 
+attention through the law of intensity, through the law 
+of contrast, through the law of clearness, through the 
+law of counter attraction. 
+2. Which laws are most suitable as permanent means 
+of securing attention? 
+ 
+-P-A-G-E-191
+ATTENTION 181 
+3. What practical applications has the principle in- 
+volved in experiment b (1) and (2)? 
+For further practical exercises see Thorndike, Prin- 
+ciples of Teaching, 107-109; O’Shea, Dynamic Factors 
+in Education, 24-25. 
+   
+-P-A-G-E-192
+  CHAPTER XV 
+MEMORY 
+THE practical problem in the field of memory is, How 
+may we memorize or learn in the most economic manner? 
+A considerable number of principles of economy in learn- 
+ing have been established by extensiveinvestigations. The 
+experiments that follow will deal with only a few of these 
+principles. 
+1. Learning in Parts or as a Whole. Is it more eco- 
+nomical to memorize a given amount of material piece- 
+meal, or as an entirety? For this test the following two 
+selections of poetry from Lorenzo’s Laudi Spirituali are 
+to be used. 
+Memorize selection A part by part, making such divi- 
+sions as seem convenient. Consider it memorized as soon 
+as you are able to repeat it correctly without looking at 
+the book. Record the number of minutes required. In 
+both of the following selections work as intensively as you 
+can and try to disregard any prejudice that you may have 
+as to what the best method of memorizing is. 
+182 
+ 
+-P-A-G-E-193
+  MEMORY 183 
+SELECTION A 
+O let this wretched life within me die 
+That I may live in thee, my life indeed; 
+In thee alone, where dwells eternity, 
+While hungry multitudes death’s hunger feed. 
+I list within, and hark! Death’s stealthy tread! 
+I look to thee, and nothing then is dead. 
+Then eyes may see a light invisible 
+And ears may hear a voice without a sound. 
+After a few minutes’ rest, memorize selection B by read- 
+ing the entire selection through from beginning to end 
+each time. Continue this until you are able to repeat it 
+without consulting the text. Work with maximum con- 
+centration, as in the first selection. 
+SELECTION B 
+When, sweet and beauteous Master, on that day, 
+Reviewing all my loves with aching heart, 
+I take from each its bitter self away, 
+The remnant shall be thou, their better part. 
+This perfect sweetness be his single store 
+Who seeks the good; this faileth nevermore. 
+A thirst unquenchable is not beguiled 
+By draught on draught of any running river. 
+How do the two methods compare? The greater 
+economy of the ‘‘ whole ’’ method does not always appear 
+in shorter amount of time required for it, but often in the 
+greater permanence which is indicated by the shorter
+-P-A-G-E-194
+      184 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+time necessary to relearn material acquired by the 
+“whole” method. To demonstrate this point, find the 
+time necessary to relearn the two selections either twenty- 
+four or forty-eight hours later. 
+TABLE XXII 
+RECORDS OF SIX PERSONS 
+Part method Whole method 
+    3h 20 15” 
+J 2’ 45” , 
+5 c 1 goft honeth 
+pil a! 48” eke 
+2. The Effect of Incorrect Repetition. The problem of 
+the next experiment is to determine the retarding effect 
+of incorrect repetitions upon the speed of learning. 
+Obtain a deck of ordinary playing cards. Remove 
+from it all the aces, kings, queens, jacks, and tens, leaving 
+altogether thirty-two cards. Take eight pieces of paper 
+and number them from two to nine. Place these on the 
+table before you about six inches apart, in irregular order, 
+in the form of a semicircle. Shuffle the cards well. Take 
+them into your left hand with their backs turned toward 
+you. Then distribute them as rapidly as you can into 
+eight piles indicated by the slips of paper. That is, put 
+all the fours on one pile beside the slip bearing that num- 
+ber, and all the fives on one pile, etc. Try to avoid all 
+mistakes. If you discover having made a mistake, do ae  
+-P-A-G-E-195
+MEMORY 185, 
+not stop to correct it, as you would lose too much. time 
+on account: of it. Record the exact. time required: to.make 
+the distribution. In this manner make ten distributions. 
+Then have your partner rearrange the eight slips of paper 
+in a different: order. Before doing this, write down the 
+order in which the slips are placed. Make two. distribu- 
+TABLE XXIV 
+RECORDS OF THIRTEEN PERSONS 
+Po Sk SB a OS eB 9, | 1Or: TE ela 
+    T..... 54 55 60 82 49 55 69 52 69 60 70 65 60 
+2..-ee 49 45 58 68 42 55 69 44 54 54 60 60 58 
+uae 43 49. 50. 69 40 50 63 43 54 5I 54 52 50 
+Mec. 43 40 55 60 38 48 55 40 57 48 56 50 55 
+Sess 41 38 50 50 37 48 50 40 52 44 47 50 50 
+6..... 43 41 S& 55 33 42 43, 38 49 40 57 44 54 
+Teneee 49 38 59 52 36 42 40 37 54 43. 56 47 55 
+ea? 38 39 50 47 30 38 40 36 48 45 50 45 59 
+Die -is 39 35 49 45 33 37 42 36 56 43 50 44 50 
+1O....+ 36 37 -- 45 32 35 40 37 50 39 50 44 49 
+Rearranged order 
+as thie 60 52 55 69 45 45 69 40 54 53 56 55 55 
+I2..... 44 45 55 60 40 45 55. 37 52 54 57° 55 55 
+Original order 
+48 43 49 50 40 38 54 42 46 54 50 50 49 
+45° 35 -. 46 34 37 40 38 .. 45; 46 48 .. 
+AD? ah ie «gL AZIRGB HBT, lems GOs AF oinae AF: 
+AACE oo Ss. 5 GABE GSOISE ne oss ke SOP eh ae 
+co Maia tet | PR eae pws aie iia che ee cree 
+ae ag ak 
+38 
+37 
+tions according to this new arrangement. Then place 
+the slips in the same order as they were originally and make 
+ 
+-P-A-G-E-196
+  186 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+several distributions until you shall reach the speed you 
+had attained before the two incorrect distributions. Be 
+sure that the cards are thoroughly shuffled before each 
+distribution. 
+Make a table of your results similar to the sample 
+records given in Table XVII. 
+3. Pauses in Memorizing. The object of the following 
+test is to determine the effect of a short pause after learn- 
+ing. Use the following lists of words. Your partner will 
+read to you each list once, reading at the rate of one word 
+per second. Immediately after the first list has been 
+read turn to some earlier part of the book and engage 
+in rapid reading for thirty seconds. When the thirty 
+seconds are over, which will be indicated by your part- 
+ner, write down as many words of the list read to you as 
+you remember. 
+After about two minutes, list two will be read to you. 
+But during the thirty seconds following that, you are 
+not to work, but to allow your mind to rest or wander 
+as it will. However, do not repeat the words that were 
+Poor, bind, draw, look, hang, sort, vein, plan. 
+Evil, mark, wait, face, than, view, work, come. 
+Call, grow, cast, term, down, suit, cold, leaf. 
+. Care, bold, trim, take, bite, stop, wake, pain. 
+. Blow, busy, coat, pull, pour, stay, jerk, have. 
+. Pick, this, rise, snap, give, from, more, that. 
+. Tilt, step, zeal, fall, thou, damp, iron, find. 
+. Lead, blue, turn, once, pray, rude, just, yard. oy 
+an 
+wry 
+ 
+-P-A-G-E-197
+MEMORY 187 
+read to you. Then write down all the words you remem- 
+ber. 
+In like manner use the remaining lists of words. The 
+odd-numbered lists are to be followed in each case by 
+rapid reading for thirty seconds, and the even-numbered 
+lists by rest periods of thirty seconds. 
+The following lists are to be used upon your partner: 
+. Here, want, your, beat, room, gold, time, rock. 
+. Rear, moat, walk, hand, tell, heir, pass, mind. 
+Fire, like, part, form, will, fear, clad, reef. 
+Make, firm, live, yarn, wing, fold, good, hard. 
+. Home, fare, roll, mean, gone, gray, shot, hope. 
+. What, seem, hate, crow, lime, chin, cure, lend. 
+. Knot, free, some, each, slow, coal, sick, boat. 
+. Long, comb, song, less, calf, when, wood, dust. Oran 
+wr 
+H 
+TABLE XXV 
+RECORDS OF TEN PERSONS, SHOWING THE AVERAGE NUMBER OF WORDS 
+REMEMBERED PER GROUP 
+Pause Pause 
+Occupied Unoccupied a 
+Xu 
+on 
+nu 
+  
+HNOROWWHWUAR 
+oONON0 0 MN @ 
+AANA NRUND 
+ONIN OH ONDWO | 
+| > <3 
+g 
+a oO 
+ao 
+wn 
+an 
+o  
+-P-A-G-E-198
+188 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+Find the average number of words remembered from 
+the odd-numbered and the average number remembered 
+from the even-numbered lists. 
+4. Comprehension and System. The purpose of the 
+next two tests is to demonstrate two maxims of memory. 
+(a) Understand what you wish to remember, and (b) sys- 
+tematize what you wish to remember. 
+a. Sense versus Nonsense Material. Things understood 
+clearly are remembered more readily. To show this 
+experimentally, compare the length of time required to 
+learn ten monosyllabic nouns with the time required to 
+learn ten nonsense syllables. A list of syllables was 
+assigned for memorizing in Chapter VIII, and the results 
+of this test may be used for comparison, so that no new 
+list needs to be learned. 
+Find the time required to learn the following list of ten 
+words: 
+spade 
+moon 
+fox 
+corn 
+road 
+town 
+mink 
+light 
+sand 
+knife 
+Compare the time of this with the time needed for the 
+first list of syllables in Chapter VIII. The sense material 
+ 
+-P-A-G-E-199
+MEMORY 189 
+at once arouses so many more connections that it is 
+remembered much more readily. 
+TABLE XXVI 
+RECORDS OF ELEVEN PERSONS 
+    Syllables Words 
+1 38” 40” 
+a 50” 
+2! 30” 42” 
+1’ 40” Vos” 
+y 45” 
+v 20! 55” 
+3 2 1’ 30” ? 
+3" 45” 
+2’ 30” al 
+1’ 90" 30” 
+1! 49” vow 
+  b. Find the time required to commit to memory the 
+following list of items. Consider them learned as soon as 
+you are able to repeat, in the order in which they are 
+printed, all the items, and their equivalents or dates, 
+without consulting the text. Learn by the “ whole” 
+method, that is, read the entire list each time. Work as 
+intensively as you can. 
+ 
+-P-A-G-E-200
+Ig0 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+LIST A 
+Battle of Poitiers 1356 A. D. 
+Katheko = come down 
+Karphe = hay 
+782+465 = 1247 
+Invention of grain-binder 1854 A. D. 
+624+832 = 1456 
+Arch of Constantine built 314 A. D. 
+Zulon = timber 
+gor+477 = 1378 
+Battle of Colline Gate 82 B.C. 
+758+ 546 = 1304 
+Invention of typewriter 1855 A. D. 
+Harkos = oath 
+683+459 = 1142 
+Ochthe = bluff 
+After a few minutes of rest learn the following list of 
+items. Proceed also by the “‘ whole” method. Record 
+the time. Work intensively.
+-P-A-G-E-201
+  LIST B 
+Five historical dates: 
+Destruction of Corinth 146 B. 
+Battle of Strassburg 357 A. 
+Battle of Agincourt 1415 A. 
+Invention of cream separator 1879 A. 
+Invention of gasoline engine 1875 A. 
+Five Greek words: 
+Chalepos = difficult 
+Chrema = wealth 
+Phluaros = nonsense 
+Poleo = to sell 
+Skeneo = to encamp 
+Five additions: 
+593 +854 = 1447 
+697+561 = 1258 
+729 +637 = 1366 
+823+576 = 1399 
+945+363 = 1308 
+Bas 
+5 
+oA
+-P-A-G-E-202
+  192 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+Both lists contain the same number of items of each 
+class. In List A they are arranged in chance order, while 
+in List B they are systematized and grouped according to 
+their classes. 
+Compare the time of learning the two lists. What in- 
+ference do you draw? 
+TABLE XXVII 
+RECORDS OF TEN PERSONS 
+    List A List B 
+I 12’ st 
+Be. 10’ 5 
+3-. 19/ 14’ 
+ae 9 qi 
+Bes 15/ 12’ en 15’ 9 40” 
+ve ar set’ 6’ 
+8. 14 i 
+D: 20’ 14’ 
+10 15’ 8! »10! 
+Ota Gcr?. SE Sees Seeds cube iat 14! (gy gf 11” 
+Discuss the following questions: 
+1. Give several concrete applications of the principle 
+that the “whole” method is better than the “ part ” 
+method in learning. 
+2. Give several instances in which the detrimental 
+effect of incorrect repetitions would be shown. 
+3. Give one illustration in the study of history and one 
+in the study of geography of the principle involved in 
+experiment b. 
+For additional exercises consult Thorndike, Principles 
+of Teaching, 123-127.
+-P-A-G-E-203
+  
+  CHAPTER XVI 
+WORK AND FATIGUE 
+Tne object of the experiment in thischapter is to demon- 
+strate some means of measuring continuous work, and to 
+show the changes and, particularly, the effects of fatigue 
+in continuous work. 
+1. Mental Work and Fatigue. In order to measure 
+mental fatigue, it is necessary to employ a form of test 
+which involves the lowest minimum of muscular and 
+sensory work. Many such tests have the objection of 
+involving considerable muscular activity. For example, 
+the cancellation test is largely a test of fatigue of eye 
+muscles. The tapping tests likewise are tests mostly of 
+muscular fatigue. 
+The type of work which has proved most successful 
+is some form of arithmetical calculation. In the pres- 
+ent experiment the work will consist of mental addi- 
+tion. 
+Be comfortably seated in a quiet room. Your partner 
+will announce to you a number consisting of two digits. 
+Add six to this number, then add seven to this new sum, 
+and then eight to that, then nine, and then again six, 
+193
+-P-A-G-E-204
+    194 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+seven, eight, and nine in rotation, etc. When the sum 
+has reached one hundred or more drop the extreme left 
+hand digit and continue with the two remaining digits. 
+For example, if the number given you were 80, then your 
+consecutive sums would be 80, 86, 93, 101, 10, 16, 23, 31, 
+etc. Your partner will announce a new number every 
+thirty seconds. In each case add six, seven, eight, and 
+nine in rotation to the sum you get after each addition. 
+In order to understand thoroughly the conditions of the 
+experiment, use for preliminary trials the following two 
+numbers which will not occur among the numbers of the 
+regular experiment, 40, and 60. 
+Close your eyes and add just as rapidly as you can. 
+Your partner will give you a new number every thirty 
+seconds. Speak your sums aloud so that your partner 
+can hear them and follow the columns below, which give 
+the correct succession of answers. If you make a mistake 
+he will write your number opposite the correct one. At 
+the end of every thirty seconds he will make a check mark 
+to indicate how many numbers you had added and at 
+the same time give you a new number which will be the 
+one at the top of the next column. Lose no time when a 
+new number is announced, but start at once with it and 
+add at your maximum speed until another number is 
+given you, and so on.
+-P-A-G-E-205
+  
+  WORK AND FATIGUE 195 
+40 60 
+46 66 
+53 73 
+61 81 
+70 90 
+76 96 
+83 103 
+ob IL 
+100 20 
+6 26 
+13 33 
+21 41 
+30 50 
+36 56 
+43 63 
+51 mE: 
+60 80 
+66 86 
+13 93 
+81 101 
+Now begin with the regular experiment. The numbers 
+tobe announced every thirty seconds are the ones at the top 
+of the columns. It is absolutely necessary that you should 
+work just as hard and as fast as you can. The entire test 
+will take thirty minutes, as there are sixty columns.! 
+The class should be divided into two groups. One 
+should work continuously for thirty minutes, while the 
+other should take a rest of two minutes after the first 
+fifteen minutes of work. 
+1The numbers that are used for ‘starters’ comprise all the 
+numbers between 0 and 100 which will not produce sums whose right 
+hand digit is 0. All these were omitted because the additions in 
+such cases are decidedly easier. 
+The columns are long enough so that no one is apt to go beyond any 
+one in the allotted thirty seconds. If this should occur your partner 
+should make a check mark for every number beyond the column.
+-P-A-G-E-206
+196 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+ 
+-P-A-G-E-207
+  36 
+42 
+49 
+57 
+66 
+72 
+79 
+96 
+17 
+26 
+32 
+39 
+47 
+56 
+62 
+77 WORK AND FATIGUE 
+62 
+68 
+75 
+83 92 
+98 
+13 
+22 
+28 
+35 
+43 
+52 
+58 
+65 
+73 
+82 
+88 
+95 98 
+Il 
+19 
+28 
+34 
+41 
+49 
+58 
+64 
+71 
+79 
+88 
+94 
+18 
+24 
+31 
+39 43° 
+49 
+56 
+64 a 
+79 
+86 
+94 
+16 
+24 
+33 
+39 
+46 
+54 
+63 
+69 
+76 
+84 5r 
+57 
+64 
+72 
+81 
+87 94. 
+II 
+17 
+24 32 
+41 
+47 
+54 
+62 
+7 
+77 
+84 92 72 
+79 
+87 
+96 
+17 
+26 
+32 
+39 
+47 
+56 
+62 
+77 
+86 
+92 
+99 
+ 
+-P-A-G-E-208
+198 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+38 
+51 
+59 
+68 
+74 
+81 
+89 
+98 
+II 
+19 
+28 
+34 
+41 
+49 
+58 
+64 71 
+79 73 
+fo) 
+86 
+94 
+16 
+24 
+33 
+39 
+46 
+54 
+76 
+84 
+93 
+99 
+14 25 31 
+46 
+55 
+61 
+68 
+76 
+85 
+91 
+98 
+15 
+2 
+28 
+36 
+45 
+51 
+58 41 
+47 
+54 62 
+71 
+77 
+84 
+92 
+14 22 
+at 
+37 
+52 
+61 
+67 
+74 
+82 76 
+82 
+89 
+97 
+12 
+19 
+27 
+36 
+42 
+49 
+57 
+66 
+72 
+79 
+87 
+96 
+17 12 
+18 
+25 
+33 
+42 
+48 
+55 
+63 
+72 
+78 
+85 
+93 
+15 
+23 
+32 
+38 
+45 
+53 78 
+84 
+gl 
+14 
+21 
+29 
+38 
+44 
+51 
+59 
+68 
+74 
+81 
+89 98 
+II 
+59 13 
+19 26 
+34 
+43 
+49 
+56 
+64. 
+73 
+79 
+86 
+94 
+16 
+24 
+33 
+39 
+46 
+54 95 
+16 
+25 
+31 
+46 
+55 
+61 
+68 
+76 
+85 
+91 
+15 
+21 
+28 
+36 31 
+37 
+44 
+52 
+61 
+67 74 
+82 
+91 
+97 
+12 
+2I 
+27 
+34 
+51 
+57 
+72 
+   
+-P-A-G-E-209
+  86 
+g2 
+99 
+16 
+22 
+29 
+37 
+46 
+52 
+59 
+67 
+76 
+82 
+89 
+97 
+12 
+19 
+27 92 
+98 
+13 22 
+28 
+35 
+43 
+52 
+58 
+65 
+73 
+82 
+88 
+95 
+12 
+18 
+25 
+33 18 
+24 
+31 
+39 
+48 
+54 
+61 
+69 
+78 
+84 gI 
+14 21 
+29 
+38 
+51 
+59 WORK AND FATIGUE 
+63 
+76 
+84 
+93 
+14 
+23 
+29 
+36 
+44 
+59 
+66 
+74 
+83 
+89 
+96 45 
+58 
+75 
+81 
+88 
+96 
+II 
+18 
+26 
+35 
+41 
+56 
+65 
+71 
+86 91 
+97 
+12 
+21 
+27 
+34 42 
+51 
+57 
+72 
+81 
+87 
+94 
+II 
+17 
+24 32 16 
+22 
+29 
+37 
+52 
+59 
+67 
+76 
+82 
+89 97 
+12 
+19 
+27 
+36 
+42 
+49 82 
+88 
+95 
+12 
+18 
+25 
+33, 
+42 
+48 
+55 
+63 
+72 
+78 
+85 
+93 
+15 
+23 88 
+94 
+18 
+24 
+31 
+39 
+54 
+61 
+78 
+84 
+9! 
+99 
+24 21 
+29 1909 
+23 
+29 
+36 
+53 
+59 
+66 
+74 
+83 
+89 
+96 
+13 
+19 
+26 
+34 
+43 
+49 
+56 
+64  
+-P-A-G-E-210
+200 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+       
+-P-A-G-E-211
+  93 
+99 
+14 
+23 
+29 
+36 
+53 
+59 
+66 
+74 
+89 
+96 
+13 
+19 
+26 65 
+7 
+86 
+95 
+16 
+25 
+31 
+38 
+46 
+55 
+61 
+68 
+76 
+85 
+91 71 
+7 
+84 
+92 
+14 22 
+31 
+37 
+52 
+61 
+67 74 82 
+gI 
+97 
+12 WORK AND FATIGUE 
+15 
+21 
+28 
+36 
+45 
+51 
+66 
+75 
+81 
+88 
+II 
+18 
+26 
+35 
+4i 
+56 28 
+34 
+41 
+49 
+58 
+1B: 
+79 
+88 
+94 
+18 
+24 
+31 
+39 
+48 
+54 
+61 52 
+58 
+65 
+73 
+82 
+88 
+95 
+12 
+18 
+25 
+33 
+42 
+48 
+55 
+63 
+72 
+78 
+85 
+93 33 
+39 
+46 
+54 
+76 
+84 
+93 
+99 
+14 
+23 
+29 
+36 
+53 
+59 
+74 58 
+64 
+71 
+79 
+88 
+18 
+24 31 
+39 
+54 
+61 
+78 
+84 
+gr 
+99 26 
+32 
+39 
+47 
+62 
+69 
+77 
+86 
+92 
+9 
+16 
+22 
+29 
+37 
+52 
+59 
+67 
+  81 
+87 
+94 
+II 
+17 
+24 32 
+41 
+47 
+54 
+62 
+7 
+7 
+84 
+14 
+24
+-P-A-G-E-212
+  202 EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+Construct a curve, similar to the one in Fig. 25, to show 
+the number of additions made in every five thirty-second 
+period. Also indicate whether you belong to the group 
+with or without the two minutes’ rest. 
+It is perhaps impossible to select an activity in which 
+there is no increase in efficiency due to practice. It is 
+obvious that the two factors of practice and fatigue which 
+appear in all continuous work tend to counteract each 
+other. The former tends to make the curve rise while the 
+latter tends to make it drop. The two factors may, how- 
+ever, beseparated. If we allow a period of rest of two min- 
+utes at the end of every five minutes of work we reduce 
+the effects of fatigue and get the natural rise of the curve 
+due to practice. The upper one in Fig. 25 is the compo- 
+site curve of seven persons obtained inthismanner. The 
+lower one is the composite ‘of ten persons working con- 
+tinuously. The former may be called the practice curve 
+and the latter the fatigue curve. The average gain of the 
+seven records in the practice curve, comparing the last 
+19 
+18 
+/7 
+16 
+15 
+14 
+13 
+Fic. 25. 
+ 
+-P-A-G-E-213
+  WORK AND FATIGUE 203, 
+five half-minute periods with the first five, is 57 per cent., 
+while the average gain of the ten records in the fatigue 
+curve is 10 per cent. 
+2. Muscular Work and Fatigue. Perhaps the best 
+apparatus for measuring muscular work and fatigue is the 
+Mosso ergograph, which is to be used in this experi- 
+ment.! 
+Fasten the fingers, hand, and forearm of the right arm 
+firmly in the arm rest, leaving only the middle finger free. 
+Attach the finger cap to the middle finger so that the wire 
+is taut when the finger is in resting position. With this 
+finger lift the weight regularly every two seconds. Follow 
+a metronome which has been set to beat sixty times per 
+minute. On the first stroke raise the weight as high as 
+you can and on the second lower it to the resting position, 
+then on the next stroke lift it again, etc. Make a maxi- 
+mum pull each time and continue until the finger is com- 
+pletely exhausted. After a rest of thirty seconds make 
+another record in the same manner. To show the effect 
+of different intervals of rest, half of the class should rest 
+thirty seconds and the other half one minute between 
+the two records. 
+Dip the record paper in shellac and hang it up to dry. 
+After it is thoroughly dry mount it upon stiff paper and 
+preserve it among your notes. Compare the number and 
+1This experiment will require careful supervision by the in- 
+structor in charge to see that the apparatus is properly set up. 
+The ergograph may be obtained from C. H. Stoelting Co., 3037 
+Carroll Avenue, Chicago, II.
+-P-A-G-E-214
+  204. EXPERIMENTS IN EDUCATIONAL PSYCHOLOGY 
+height of the pulls made in the two records. Also notice 
+whether there are any rhythmic variations in the decrease 
+of strength. EDIT 
+Ol 
+Printed in the United States of America,

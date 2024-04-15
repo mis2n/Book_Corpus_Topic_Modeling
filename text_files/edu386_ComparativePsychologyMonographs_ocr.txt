@@ -1,0 +1,2019 @@
+-P-A-G-E-1
+        Nest) SS 
+Was ® 
+      Fe 
+        
+    
+   
+     
+   
+     
+   
+       
+   
+                  
+   
+  I. THE RELIABILITY OF THE INCLINED PLANE PROB- 
+LEM BOX AS A METHOD OF MEASURING THE 
+LEARNING ABILITY OF THE RAT 
+WILLIAM T. HERON 
+From the Psychology Laboratory of the University of Kansas 
+INTRODUCTION 
+The data presented in this paper were obtained in the psycho- 
+logical laboratory of the University of Kansas during the school 
+year 1920-1921. The work was suggested by and done under the 
+direction of Professor Walter S. Hunter to whom the writer is 
+grateful for advice and criticism. The author wishes also to 
+acknowledge his obligation to the Research Committee of the 
+Graduate School for their financial aid in the study of the 
+problem. A similar study of the reliability of the maze has 
+previously been made in this laboratory, initiated by D. G. 
+Paterson and continued by Oakland Maupin, but is as yet 
+unpublished. 
+The problem which forms the basis for the following work is 
+one which has received much attention from those who are 
+dealing with tests applied to humans. In view of this fact, it is 
+rather curious that none who have applied tests of various kinds 
+to animals, have seen fit to inquire into the reliability of the 
+tests used. Certainly, this question of reliability is one of 
+extreme importance, if the results obtained in testing are to be 
+considered valid sources from which to draw conclusions. 
+The purpose of the present experiment, then, is to determine 
+the degree of reliability of the problem box as a test of the learn- 
+ing ability of the white rat. A comparison will also be made of 
+maze and problem box learning, and other problems essential 
+to the study of reliability will be discussed. 
+The meaning of reliability may be illustrated by an example 
+given by Spearman (1). He says: 
+1 
+'71-02942   
+-P-A-G-E-2
+WILLIAM T. HERON 
+Suppose three balls to be rolled along a well-kept lawn; then the 
+various distances they go will be almost perfectly correlated to the 
+various forces with which they are impelled. But let these balls be 
+cast with the same inequalities of force down a rough mountain side; 
+then the respective distances eventually attained will have but faint 
+correspondence to the respective original momenta. 
+  In the first case the distance the balls traveled would be a 
+reliable test of the amount of force with which they are impelled 
+because the chance factors influencing their progress along the 
+lawn would not be sufficient to destroy the correspondence 
+between the impelling force and the distance traveled. In 
+the second case, however, these factors are so great that they 
+destroy the correspondence and thus the distance traveled is 
+rendered unreliable as a measure of the forces involved. 
+The theoretical application of this illustration to the learning 
+process in the problem box is plainly seen. The hypothetical 
+capacity, called the learning ability of the rat, would correspond 
+to the impelling force. The problem box is represented by the 
+lawn or mountainside whichever the case may be. The measure 
+which is used to indicate the animal’s progress in learning to 
+operate the box is analogous to the distance traveled by the 
+balls. In order to test the reliability of the problem box, there- 
+fore, the following assumptions must be made: first, that the 
+rat is a stable subject, i.e., reasonably free from erratic impulses 
+and moods which would cause him to react differently to exactly 
+the same situation; second, that his learning ability is a constant 
+factor with no essential variations within the experimental 
+period; third, that the solution of the problem box involves this 
+constant factor to a degree not essentially obscured by other 
+factors involved in problem box learning. : 
+That these three are reasonable assumptions to make is indi- 
+cated by the fact that they have not, up to the present time, been 
+questioned by anyone who has used the apparatus and animals 
+in question. The present experiment is particularly concerned 
+with investigating the validity of the third assumption. The 
+first two are assumed to be true although the effect which they 
+would have, if untrue, upon the investigation will be discussed.  
+-P-A-G-E-3
+  
+RELIABILITY OF PROBLEM BOX AND MAZE 3 
+HISTORICAL SUMMARY 
+The problem box, in one form or another, has been in use for 
+years. Thus Watson (2) says: 
+The problem box method in animal behavior in one form or another 
+is as old as Civilization. It remained for Thorndike, in 1899, to perfect 
+the method and to make it serviceable for bringing out certain facts 
+connected especially with what one roughly calls learning in animals.   
+The form of the box necessarily varies greatly because of the 
+different animals used. It is obviously impossible for the rat to 
+operate the same kind of a box suitable for the monkey, con- 
+sequently, each experimenter has varied the boxes which he has 
+used to suit his animal’s capabilities. 
+The problem box has also been used in human testing. Healy’s 
+(3)puzzle boxes are probably the ones in most common use. The 
+lid of one of these boxes, taken as a sample, is fastened by a 
+combination of strings and catches, and it can only be opened by 
+following a definite sequence of five or six steps. The box is 
+so constructed that the whole procedure to be learned can be 
+studied by direct observation. Healy states the purpose of this 
+test as follows: “It may bring out abilities or defects in manipu- 
+lative powers, in the ability to analyze a slightly complicated 
+physical situation, in powers of attention and continuity of 
+effort.” 
+The inclined plane box, used in this experiment, has been 
+used in its simpler form, by Watson (4), Richardson (5), and 
+Ulrich (6). In its improved form it was used by Basset (7) in his 
+work on the effect of brain weight upon learning ability. Inas- 
+much as it is the purpose of this experiment to investigate the 
+apparatus rather than the problems of the above investigators, it 
+is not necessary that their papers be reviewed. 
+The reliability of the maze used in this experiment is the subject 
+of an investigation by Miss Oakland Maupin. Her work was 
+begun prior to this experiment in the same laboratory; and the 
+approaches to the problem, made in the present study, are 
+practically the same as those which she is using.  
+-P-A-G-E-4
+  4 . WILLIAM T. HERON 
+The methods which have been used by Spearman (8), Burt (9), 
+Wyatt (10), Krueger (11), Simpson (12), and others in their 
+investigations of the reliability of tests applied to humans are 
+outlined by Whipple (13) as follows: 
+Let A; = the first series of observations of the trait A. 
+Az = the second series of observations of the trait A. 
+If the outcome of the test is not disturbed by chance or by constant 
+errors, the ranks of the several S’s should be the same at each trial. 
+The constant errors must, of course, be avoided by other precautions. 
+If, however, chance errors are too obtrusively present, this fact will 
+be revealed by a low correlation between A; and Ag. In practise a test 
+whose coefficient of reliability is less than 0.60 or 0.70 is in need of 
+rectification. . . . . It should be understood that A; and Az need 
+not be independent series of tests given by different H’s at different 
+sittings, but may be made up from data obtained at a single sitting, 
+though, as a rule, two sets of data are secured and the correlation is 
+calculated between the first half of the first performance added to the 
+last half of the second performance and the last half of the first perfor- 
+mance added to the first half of the first performance. 
+The point is that, in figuring the coefficient of reliability 
+it is essential that the discrepancies between the two series of measure- 
+ments of the same trait should really be of a ‘chance’ character. Sup- 
+pose, for example, that A represents ‘memory for nonsense syllables’ 
+and has been tested by requiring the subjects to memorize a dozen sets 
+of syllables. It would be wrong, then, to constitute A, of the first six 
+sets and A, of the second six sets, because the latter half-dozen would 
+be affected by a constant factor—that of practice—to an extent dif- 
+ferent from the first half-dozen. It would be better to constitute Ai 
+from the odd- and A: from the even-numbered tests. 
+The correlations obtained by either of these two methods are 
+known as the coefficients of reliability of the tests to which the 
+correlations apply. The first of the two methods, i.e., the 
+correlation of the results of the test obtained at two separate 
+sittings, is the one most generally used. There are difficulties, 
+however, in applying it to tests given to humans. This is 
+indicated by Burt (14), in speaking of the calculation of the co- 
+efficient of reliability for the ‘dotting test’? which he gave to 
+English school boys. In that paper, he says: 
+ 
+-P-A-G-E-5
+  RELIABILITY OF PROBLEM BOX AND MAZE 5 
+It was not possible to obtain the preparatory boys at the laboratory 
+(where this particular test was carried out) on more than one occasion, 
+but that occasion was the same for every boy, viz., after morning school. 
+Hence no reliability coefficient was obtainable for the Preparatory 
+School, though the reliability was probably high. Each of the Elemen- 
+tary children was able to come twice. The reliability coefficient for 
+the two series thus obtained for them was 0.86. Part of the manipula- 
+tion of the apparatus while the subject is actually at work devolves,— 
+upon the superintendent of the experiment; so that the personal equa- 
+tion is in this test likely to be appreciable, though perhaps small; 
+accordingly, as the series were all superintended by the same operator, 
+the reliability coefficient is probably slightly too high. 
+For the sake of comparison a few of the reliability coefficients 
+for tests applied to humans are enumerated in table 1. 
+TABLE 1 
+Coefficients of reliability for human tests   
+COEFFICIENT OF NAME OF TEST INVESTIGATOR BELTABILITY 
+  
+Hard opposites Simpson 0.97   
+    Completing words Simpson 0.92 
+Mirror drawing Burt and Moore 0.52 
+Burt 0.70 
+Immediate memory; Ack ss ueA garcia. dane Wyatt 0.75 
+Abelson 0.74 
+Word building Wyatt 0.88 
+  
+Many other coefficients have been calculated for various tests, 
+but the above are sufficient for comparison with our own data. 
+APPARATUS AND GENERAL METHOD 
+The problem box which was used in this experiment is similar 
+to that employed by Basset and described by him in his paper 
+on “Habit formation in a strain of white rats with less than 
+normal brain weight.’”’ The measurements of the box were 
+exactly the same as those which he used in constructing his 
+apparatus. It was found necessary, however, to make some 
+slight modification in the inclined plane and the electro-magnetic 
+attachment. The plane which was first constructed according  
+-P-A-G-E-6
+6 WILLIAM T. HERON 
+to Basset’s directions did not appear to be delicate enough in 
+action. It would sometimes operate and sometimes not, even 
+though the rat appeared to place the same amount of weight 
+upon the same point on the plane. Some trouble was also 
+encountered in keeping the contact-points clean. To obviate 
+these difficulties the plane was reconstructed as shown in the 
+accompaning diagram (fig. 1). A shows the support for the 
+plane. It is simply a piece of brass bent at right angle at both 
+ends, and screwed to the top of the table upon which the box is 
+placed. B shows the plane which fits in between the upright 
+pieces of A and is attached to them at the pivot C. This plane is 
+made of wood with 2 inches below the pivot and 2 inches above. 
+  
+      
+Fie. 1, Tue IncLInED PLANE as IT Was Finatty DEVELOPED 
+The details of the plane are described in the text 
+Thus the plane has a constant tendency to tip downwards and 
+operate the contact apparatus. D is a piece of hard rubber 2 
+inches long, 3; inch thick, and 3 inch wide. Z£ is a piece of hard 
+spring copper of the same width and slightly longer than D. F is 
+a screw with a large head into which a depression is bored for the 
+purpose of holding a small amount of mercury. When £ is 
+pressed down, it makes contact with the mercury by means of the 
+small point at its upper end. G is another screw which holds Z 
+to D and to which one wire is attached. The other wire is 
+attached to screw Ff’. Since B is not balanced, a certain amount 
+of the resilence of # is required to hold up the end of the plane 
+resting upon it, but leaving plenty of clearance between the 
+mercury and the contact point of Z. This makes the plan2  
+-P-A-G-E-7
+RELIABILITY OF PROBLEM BOX AND MAZE 7 
+fool-proof so that the proper amount of weight applied above the 
+pivot C will invariably make a good contact and thus operate the 
+magnet. 
+It was found in the operation of the electro-magnetic apparatus 
+that the sharp metallic click of the armature against the core of 
+the magnet when contact was made would almost invariably 
+frighten the animal. This fright was often so great that an 
+association would be fixed quickly between the plane and the 
+noise. The character of the results on the preliminary group 
+  Fig. 2. GrounD-PLAN oF THE PROBLEM Box AnD ConTRoL CaGE 
+The four paths which the animals might take in making a perfect run are 
+indicated as follows: ---- = path 1; —--— = path 2; -— = path 3; —-— = 
+path 4. 
+of animals, as given below, will demonstrate the seriousness of 
+this factor. Thus it was found necessary to cover the arma- 
+ture with a piece of soft rubber. This did not entirely elim- 
+inate the noise, but it deadened the metallic click so that the 
+remaining noise did not seem to frighten the animal. 
+The control cage placed around the box was was 24 x 281 x 10 
+inches. It was always kept in a constant position with regard to 
+the box. The animals were allowed to enter the enclosure of 
+this cage from a release box in the same manner as usual in a 
+maze. The ground-plan (fig. 2) will show the relationship of the
+-P-A-G-E-8
+    
+8 WILLIAM T. HERON 
+cage, release-box, inclined plane, and problem box. X indicates 
+the point over which an electric light was suspended, and W the 
+position of the food within the box. 
+Total time only was recorded for the problem box. It would be 
+almost impossible to record accurately distance traversed in this 
+  Fria. 3. GRounp PLAN or THE Maze 
+R is the release box; F, the food box 
+apparatus with a camera lucida attachment unless the animals 
+were in some way prevented from climbing up the sides of the box. 
+Static time could have been recorded, but it was not thought 
+practical to do so because the animal seldom came to rest in the 
+problem box (as he would do in the maze).  
+-P-A-G-E-9
+RELIABILITY OF PROBLEM BOX AND MAZE 9 
+The maze used in the present problem was the Watson circular 
+maze with the camera lucida attachment. The arrangement of 
+the stops and openings is shown in the accompanying diagram 
+(fig. 3). The true path is indicated by the broken line. 
+The method of using the maze did not differ from that generally 
+used by investigators. Each animal is released from the box R 
+and a stop watch is started as soon as his whole body enters the 
+first alley. The watch is stopped as soon as he has his entire body 
+within the food box F. Static time is kept with a cumulative 
+stop-watch. This watch is started each time that the animal 
+ceases traversing horizontal distance. The time consumed by the 
+animal in rearing up to examine the sides of the maze while 
+keeping the hind feet on one spot was considered static time. 
+The watch was stopped again as soon as the animal started to 
+move in the horizontal plane. The static time was thus accumu- 
+lated; and by subtracting it from the total time recorded by the 
+first watch, the sum of the net time was calculated. 
+The path which the animal traversed is recorded by means of 
+the camera lucida attachment. These tracings are later meas- 
+ured with a chartometer. The amount of surplus distance tra- 
+versed can, if desired, be computed by subtracting the distance 
+required for a perfect run from the total amount of distance 
+traversed. 
+SUBJECTS 
+The subjects used in this experiment were eighty white rats of 
+laboratory stock. They were divided into four different sets 
+according to the training given them. These sets and the training 
+given to each are as follows: 
+Set I. This set of ten rats will be known as the preliminary 
+set because they were used by the experimenter for practicing and 
+perfecting his method. They were given completed learning, 
+running one trial per day until they had reached the criterion of 
+perfection used. (See “data and results” below.) 
+Set II. There were 28 animals in this set. They will be known 
+as the total learning rats. They were not started in the experi- 
+ment until the apparatus and method were perfected, and were 
+given completed learning in the same manner as was set I.
+-P-A-G-E-10
+10 WILLIAM T. HERON 
+Set III. This.set, composed of 22 animals, was given six trials 
+in the problem box, one trial per day. The animals were then 
+allowed to rest for sixty days, at the end of which time they were 
+run one trial per day for six days in the maze. 
+Set IV. The 20 rats in this set were run for six trials in the 
+problem box and then given the same period of rest as set III 
+At the close of this period they were again returned to the problem 
+box for six more trials. 
+The age of the rats when they were started in the experiment 
+varied between fifty and seventy days. Previous to being 
+started in training all the animals were thoroughly tamed by being 
+handled and fed by the experimenter. The animals, previous to 
+their use in the problem box, were allowed to eat on the table 
+within the control cage for several days. The problem box was 
+removed at such times, but the inclined plane was allowed, to 
+remain. 
+The experimental work was done at night beginning at about 
+seven o’clock. In cases where there was an exception to this 
+rule, the variation was not more than three hours. No animals 
+of any particular set were allowed to feed before the others. 
+When an animal had finished his trial, he was placed in a box and 
+kept there without food until the others of his set were through 
+and then all were fed together. During experimentation all 
+animals were fed on a chair and no food was placed in their 
+cages. They were allowed to eat to satiety while on the chair. 
+With the conditions thus controlled, it is believed that the 
+following results are as representative as it would be possible to 
+make them. 
+DATA AND RESULTS 
+Total learning 
+The degree of perfection to which the rat must attain before 
+he is said to have arrived at completed learning is our first con- 
+sideration. Perfection may be estimated in terms either of 
+speed or of accuracy. Investigators lay emphasis upon one or the 
+other by requiring either that the animal complete the trial in a  
+-P-A-G-E-11
+  RELIABILITY OF PROBLEM BOX AND MAZE 11 
+certain amount of time or that he perform the operation without 
+making any errors. In the present experiment it was decided to 
+use the latter criterion of perfection for the reasons which are 
+stated below. The rat was trained, therefore, until he could 
+perform the operation of opening the box and entering it without 
+making any false movements. Upon repeating such a perfor- 
+mance three days in succession it was considered that he had 
+completely learned the problem. : 
+There were four possible paths which the animal might take in 
+an errorless performance. These four are shown in figure 2. 
+A record was kept of the path which the animal took in the 
+performance of each errorless trial. Although it was not neces- 
+sary that the animal take the same path in each of the three 
+perfect trials which constituted the criterion of completed learn- 
+ing, yet in practice it was found that the animal invariably took 
+the same route each time. It was also found that in the great 
+majority of cases the animals took the route numbered three in 
+the sketch. This is probably due to the fixation of an association 
+between food and the position of the door, 
+The criterion of accuracy, instead of speed, was chosen, 
+first, because when the rat had attained the degree of accuracy 
+required, he was performing the problem in a minimum of time. 
+Second, this criterion is more comparable to that which is 
+generally used in the maze. This reason, however, is not im- 
+portant so far as the present work is concerned because the com- 
+parison which is here made between the maze and problem box 
+did not involve completed learning records in either case. The 
+third and last reason for using the criterion of accuracy rather 
+than speed is, I believe, the most important of all. The latter 
+criterion, as used by Basset, required that the animal complete 
+the whole operation of opening the box and entering it within 
+a period of four seconds, and, furthermore, did not permit the 
+rat to spend more than two seconds in going either from the 
+entrance of the control cage to the plane or from the plane to the 
+entrance of the problem box. In other words, the rat might per- 
+form the operation in the allowed time of four seconds, but if he 
+spent two and one-half seconds in going from the entrance of the
+-P-A-G-E-12
+Oe 
+12 P WILLIAM T. HERON 
+control cage to the plane and one and one-half seconds in going 
+from the plane to the entrance of the problem box, he would not, 
+make a perfect trial. Such a criterion seems to depend too much 
+upon the physiological capacity of the rat to cover a given 
+amount of distance in a given time. One animal may be making 
+perfectly accurate movements yet because his rate of locomotion 
+is slow, he is not considered to be making perfect trials. At 
+- the same time, another animal may be making less accurate 
+movements but, because his speed of moving is rapid, he is said 
+to be making perfect trials. From this point on the learning of 
+the first animal is not concerned with solving the problem of 
+accuracy but rather with increasing its rate of travel. 
+In the criterion used in the present experiment, the above 
+physiological factor is ruled out. When the animal has learned 
+to solve the problem, he is done and it is not necessary to give 
+him training to increase his speed of locomotion. 
+Some difficulties, however, were found in carrying out con- 
+sistently the criterion of learning outlined above. Five of the 
+28 rats (set II), e.g., formed a position habit of going around the 
+box two times before stepping at the proper place on the plane 
+and entering the box. These rats would almost invariably run 
+too close to the box on the first time around. They would not, 
+however, try to enter the door upon making this circle but would 
+continue at full speed past it. All of these rats in set II were 
+given from 20 to 58 trials more than the average number of 
+trials necessary for the rest of the rats to complete their learning 
+according to the criterion. The average number of trials given 
+to the rats with the position habit is 37 more than the average 
+number of trials given to the others. Despite this these rats 
+never broke themselves of the habit. They did, however, reduce 
+their time until it was on a par with the rats who were making 
+perfect trials, although they were, of course, traveling twice as far. 
+Some decision must be made concerning the disposal or use of 
+the records of these rats in making our calculations. Because of 
+the fact above mentioned that the rats reduced their time of 
+travel to an equality with that of the other rats, it was decided 
+that the criterion, upon the basis of which these records could be
+-P-A-G-E-13
+RELIABILITY OF PROBLEM BOX AND MAZE 13 
+used in computations, would be three successive trials the average 
+time of which did not exceed the average time of the three perfect 
+trials of the other rats. Using this as the criterion of completed 
+learning with these rats, it is found that the average number of 
+trials necessary for them to complete the learning is 56 which 
+is 21 more than the average number necessary for the rats using 
+the other criterion. This gives some indication of the serious- 
+ness of the criticism made of an arbitrary time limit as a criterion, 
+if the learning is to consist merely in learning the problem and not 
+also in an increase in speed of muscular contraction. 
+The following table (table 2) gives a summary of the records 
+made by the various animals in learning the problem. It was 
+thought preferable not to use the records of the preliminary set, 
+because of the change of method and apparatus which was 
+made during their learning period. Data for this set are therefore 
+not presented. 
+Table 3 shows the results of dividing the time for the rats into 
+tenths according to the method of division suggested by Miss 
+Vincent. This method is as follows: If the rat has required 27 
+trials, let us say, to complete the learning, then the first tenth 
+will be the time for the first two trials and 0.7 of the time for the 
+third; the second tenth will be the remaining 0.3 of the third 
+trial plus trials four and five and 0.4 of trial six. This process is 
+continued until all of the 27 trials are used. If the rat requires 
+only ten trials to complete the learning, then the time for every 
+trial would be one-tenth. If he requires seven trials, then one- 
+tenth would be constituted from 0.7 of the time of a trial, etc. 
+The learning curve for these rats made by plotting minutes 
+against trials (fig. 4) does not deviate greatly from the ordinary 
+type of learning curve. The only variation noticeable is the 
+great rise at the second trial. Such a marked rise does not 
+generally occur in learning curves, although there may be a slight 
+increase. I believe that this rise may be attributed to the fact 
+that the food in the case of the problem box, is always in such a 
+position that it may be sensed by the animal. This being the 
+case, the first time the animal is placed in the box his timidity 
+keeps him from going on any exploratory expeditions to the top 
+ 
+-P-A-G-E-14
+14 . WILLIAM T. HERON 
+TABLE 2 
+Summary of data of total learning rats 
+  
+  
+  
+      TOTAL TRIALS} | TOTAL SECONDS*| ve nagn MAXIMUM MINIMUM a a ie REQUIRED REQUIRED fo TIME TIME FOR COMPLETED | FOR COMPLETED FOR TRIAL REQUIRED FOR | REQUIRED FOR 
+LEARNING LEARNING ONE TRIAL ONE TRIAL 
+18 54 1, 737 32.1 200 3 
+20 43 771 17.9 135 3 
+24 66 2,160 32.7 550 3 
+25 t 57 2, 787 41.6 859 3 
+27 40 1, 384 34.6 199 3 
+29 ¢ 61 2,751 45.1 519 3 
+31 70 1,779 25.4 420 2 
+32 Ai. 4,963 291.9 2, 345 5 
+34 12 2, 764 230.3 1, 155 4 
+35 47 1,950 41.5 501 2 
+36 42 4,096 Sig) 1, 404 2 
+37 36 2, 808 78.0 523 4 
+38 “10) 1,010 10.1 526 6 
+39 13 2, 609 200.7 791 8 
+40 t 42 1,161 27.6 259 3 
+42 28 1,222 43.6 226 2 
+43 28 1,331 47.5 646 3 
+44 22 1, 620 73.6 353 3 
+45, 45 1,093 25.4 391 2 
+46 ¢ 67 3,229 48 .3 593 2 
+47 28 2, 285 81.6 826 4 
+48 18 1,048 58.2 380 4 
+49 53 2,061 38.8 542 3 
+51 64 1, 122 17.5 130 2 
+52 39 1,401 35.8 284 4 
+53 21 1,527 72.7 460 4 
+54 26 1, 287 49.5 310 5 
+55 39 2,113 52.2 1270 3 
+Dotals: .'./: 808 44, 080 1,604.1 14, 885 84 
+Median.... 36 1, 620 47.5 460 3 
+Average. 35.1 1,916.8 63.6 647.1 3.6 
+wv Dotal.... 1, 088 56, 069 1,853.9 16798 95 
+Median f... 39.5 1, 758 44.3 510 3 
+Averagef... 38.8 2,003.1 66.2 599.9 3.             
+* These figures include the three perfect trials. 
++ Rats marked ({) formed the position habit of encircling the box twice. 
+Computations marked (f) include their records.  
+-P-A-G-E-15
+*s]@I Asay} JO Sp1OdaI oY} BpNpoUr (,.) peyVUr syvzo, “Q0IAMY XO OY} SUI[IATOUD Jo FIGvy UOT}ISod powIoj (,.) poyreu szVyY , 
+  
+  
+  Tg S086 Sre‘T] $8°290‘2| T'St6‘T] Test‘e | Z'96rF | 8°Z8t‘L| F'F6L‘OI]  129‘e% “TTBIOT, 
+9 Z SGP ¥ 98. $°600‘T] T'rer‘T) O'1sc‘T) Foer's | 2°126'8] SO] SsIZ's| BPs ‘ZT 1eqOL 
+10 Ve PCE P08 2g 9° POL 6° PST 119 ¥ 961 09 ‘T gg 
+€I IZ OFT Sk Z'09 ee 8°0F 08% Shr 8°20F + 
+6 IL 261 9°98 eS 12S 6 FE ¢ SIL 6692 T 10g eg 
+a a4 $68 eh 6°99 @' eh T 091 6 19% F208 9°0SF ws 
+a G% Pie 98 86% ee Z OF ylg OZ g'oce 9° 868 1g 
+3 88% oe 18% L818 8°oF 08 8°891 sors 8 GPT 9088 +6 
+26 18 oe ¥ 2 Z'0L PSE ¥ SLT 8° 66h 9° 49% 8 Eee ‘T ly 
+BI 1g Vrs ob 6S. ZL6 ¥ £6 6°98 2°801 S19 0° 196 ‘T *9P 
+< 8 oF 1% rE IF 9% 09 &°ZOL o'F6 g 089 ob 
+re 8 Aa 9°28 Z 961 92 9° IF Z98L 8026 2968 Z 99F +P 
+S ZL 9°ST 8°61 918 8.Lh oor PPL 9°8h 801 0818 eh 
+v9 ler wz @ LT Z'8% 86ST 261 9° LLz ¥81Z Z Bee or 
+a ZH Zk 9°08 8°8 Z'9% PGE Z16 el 9128 89g +0P 
+a 6 IL 6 €1 ¢¢9 6°61 eee 6062 GOST. & Sh 6 £28 L 6% 68 
+3 6 8 9 18 or aL 8% 002 OST 0°9¢¢ 8e 
+a 208 Poh #88 sg % 661 LIL 0°66¢ z Ege ¥ 688 ¥ P96 18 
+: fe oH 80% 99% ¥ 8% eg 89° 0°201 2 OF 8028 0298 % 9g 
+° g°98 £°6% oe zo OF Le G&P AGL 6008 9°BIZ 8981 ‘T oe 
+m g ro 2 61 oz POPE | 9°008 F009 EB ¥ 998 9°28 +e 
+5 66 6 F% 6°99 re Z 6 11Z G 162 1°866 Z999'T | 3° POL‘T we 
+a 0°82 9% oF rE 62 89 o's 18 0° 10% O° €st ‘T 1 
+< ge ot 0°Z0r ei eg 6 LF 10 eeg 6809 £069 ‘I +63 
+4 0% eae 0'SF ozs o'19 O9T 0°02 OIL 0081 0°60P Lz 
+a g°9% 8°62 g° 1% 1°89 9 TIT 69F ¢0L Lv6L © °2eP g° 298 T #9 
+vLE BOL 8° ee 9°99 0912 FL 9° Z8P 9° SIL 8 FIP 0° 9LF ¥% 
+261 z'09 L101 L9¢ SSL 8°S8I 2 OF Pre tae g° 202 02 
+9°08 8°SF 99g 9°98 PLS 9° Eze 8-401 9° 268 3 661 8°Bth 8I 
+or 6 8 4 9 g r & z T 
+                    
+SHINGLE   iva 
+  
+a i ee pe ne “ 
+syjua} ojur paprarp Burutpa) 1010,, 
+§ Glave
+-P-A-G-E-16
+16 WILLIAM T. HERON 
+of the box or around the sides of the control cage, and since he 
+can sense food within the box, he endeavors to find an opening 
+around the sides of the box through which he might arrive at the 
+  4S 0 % »w 2 3 oF Ww YS SO SF 60 6F 79 
+Trasats 
+Fic. 4. Comptetep Learning Curve BasEp ON THE AVERAGE OF THE RECORDS 
+oF 23 Rats 
+Excludes rats with position habit 
+satisfaction of his hunger. He thus encircles the box and is 
+practically certain to step on the plane at the right place within a
+-P-A-G-E-17
+RELIABILITY OF PROBLEM BOX AND MAZE 
+¥oo 
+750 
+700) 
+650) 
+YS 
+vo. 
+350) 
+30a} 
+aso 
+20} 
+  x 
+3 2 8 42345673900 
+Tenths 
+Fie. 5. Comptetep Learning Curve in TENTHS i
+-P-A-G-E-18
+  18 WILLIAM T, HERON 
+relatively short period of time. On the second trial, however, 
+the situation is less fearsome and the rat makes a thorough 
+exploration which may lead entirely away from the plane for a 
+relatively long period of time. On the third trial, this curiosity 
+having been more or less appeased, the main object of the rat is 
+to get the food and consequently he again stays close to the sides 
+of the box. 
+There is practically no difference between the curve excluding 
+the rats with the position habit and that including them. The 
+only deviation of any note is in the 34th trial where there is a rise 
+in the curve including the rats with the position habit due to the 
+great amount of time (353 seconds) which it took rat no. 49 to 
+work the problem that day. 
+The curve plotted on the basis of tenths (figure 5) is naturally 
+smoother than the trial curve due to the fact that many of the 
+inequalities neutralize each other. It shows, however, that by 
+the end of the fifth tenth that the learning is practically com- 
+pleted so far as the elimination of time is concerned. The rise 
+in time of the second trial was absorbed in the first and second 
+tenths in such a way that it does not show on the curve. The 
+increase of time in the thirty-fourth trial does, however, cause 
+arise in the seventh tenth. The value of such a curve lies in the 
+fact that all of the rats are represented in the whole of the curve. 
+The smaller the division made, the greater would be the value of 
+the curve in showing daily variations. 
+On the basis of these total learning records we are able to apply 
+one of the methods already enumerated for the determination 
+of the question of the reliability of the problem box. These 
+calculations are given and discussed in the next division of the 
+paper. 
+RELIABILITY 
+Total learning 
+The calculation of the coefficient of reliability from the total 
+learning records must be made by the second method described 
+by Whipple, i.e., the correlation of the sums of the odd and even 
+trials. It is assumed that if chance errors are not operating to 
+ 
+-P-A-G-E-19
+    
+RELIABILITY OF PROBLEM BOX AND MAZE 19 
+a serious degree to vitiate the practise effects, there should be a 
+high correlation between the odd and even trials. Or, stated 
+another way, high correlations between odd and even parts of 
+learning indicate the activity of common factors. 
+The correlation calculated by this method, using the Spear- 
+man foot-rule formula, was found to be only 0.17, + 0.081, in- 
+cluding the records of the rats with the position habit, and 0.09, 
++ 0.089 when they wereexcluded. These coefficients are insignifi- 
+cant, thus indicating that the factors determining performance in 
+the odd trials are but slightly in evidence, if at all, in determining 
+performance in the even trials. 
+In the problem box, as in all other apparatus in which the rat 
+is used, the first few trials seem to be occupied largely by explora- 
+tory movements, the operation of the apparatus coming as an 
+accident during the course of these movements. It is very 
+possible then that the factors operating in these trials would be 
+sufficient to destroy the correlation between the odd and the 
+even trials. In order to test the effect of the early trials upon 
+the correlation, the time of the consecutive odd trials to and 
+including the seventh was progressively deducted from the total 
+time of the odd trials, and the time of the consecutive even trials 
+to and including the eighth was progressively deducted from the 
+total time of the even trials. After each deduction the correla- 
+tion was again made. Table 4 gives these correlations and also 
+the ones already mentioned. All coefficients, unless otherwise 
+noted, are made from data including the results of the rats 
+with the position habit. 
+The above results are striking in view of the fact that despite 
+the increase in the homogeneity of the data, the highest co- 
+efficient (0.63) is obtained when the greatest number of trials is 
+eliminated. In other words, the more the chance errors are 
+eliminated by deducting early trials, the greater is the con- 
+sistency of the results (with the exception of the unexplained 
+R of 0.50) in spite of practice effects which have smoothed the 
+time records so that only a very slight variation in a single trial 
+would destroy the correlation. Disregarding any other implica- 
+tions which these coefficients may have, it is at least evident that   
+  
+ 
+-P-A-G-E-20
+20 WILLIAM T. HERON 
+the experimenter should disregard the records of the first two 
+trials in making computations from his results. This is virtually 
+done in much human experimentation when the investigator 
+first gives his subjects a trial practice series before beginning the 
+actual experiment. 
+However, it is difficult to evaluate the correlations obtained 
+by progressively deducting trials, because in making such a 
+a deduction one is making an artificial division of the rat’s 
+learning process. This division is not equal for each rat, because 
+the rat that learns the problem in 10 trials, theoretically learns 
+more in each trial than does the rat that requires 24 trials to 
+TABLE 4 
+Correlations from total learning data   
+CORRELATION 
+DATA CORRELATED 
+  
+   R. ES. 
+Total time odd trials vs. total time even trials (excluding 
+rats with position habit) 0.09 0.089 
+Total time odd trials vs. total time even trials =| ORTT 0.081 
+Total time odd trials minus first trial vs. total time even 
+Vial seMINUSBOCONUNUNIAl sas sedis «tented reese wees 0.50 0.081 
+Total time odd trials minus first and third trials vs. total 
+time even trials minus second and fourth trials. ae el Ose 0.081 
+Total time odd trials minus first, third and fifth trials vs. 
+total time even trials minus second, fourth and sixth trials.|_ 0.44 0.081 
+Total time odd trials minus first, third, fifth and seventh 
+trials vs. total time even trials minus second, fourth, sixth 
+ANG CiGhth triAl se We eas. s.castas vibe awiels eeesiis s ciisle 5 3 0.63 0.081 
+  
+complete the problem. Thus by the time 8 trials have been 
+deducted one has eliminated four-fifths of the former rat’s 
+learning and only one-third of the latter’s learning. Another 
+factor which if present would affect correlations made on the 
+above basis is that of occasional increases or decreases in the 
+efficiency of one or several rats. 
+In order to obviate, as far as possible, the effect which these 
+factors might have upon the correlations, the odd and even 
+tenths (method of division given above) of total learning time 
+were correlated. These correlations, which include the results 
+of the rats with the position habit, are given in table 5.
+-P-A-G-E-21
+  
+RELIABILITY OF PROBLEM BOX AND MAZE 21 
+Although none of the correlations is as high as Whipple’s 
+standard, all are reliable save the first one. The increasing 
+magnitudes of the R’s indicate clearly that in the later part of 
+learning the odd and the even tenths are determined by common 
+factors to a degree not true in the first part of learning. So far 
+as this method goes, therefore, the implication is that only the 
+later portions of the rat’s problem box learning are reliable. 
+Other methods of examining the reliability of “the rat in the 
+problem box” method are discussed in the following sections. 
+TABLE 5 
+Correlations with tenths of total learning   
+CORRELATION 
+DATA CORRELATED 
+  R. P.E. 
+Total time odd tenths vs. total time even tenths........... 0.23 0.081 
+Total time odd tenths minus first tenth vs. total time even 
+tenths minus second tenth. ......... 0c. seeks cae ee eee eves 0.35 0.081 
+Total time odd tenths minus first and third tenths vs. total 
+time even tenths minus second and fourth tenths.. 
+  é 0.41 0.081 
+Total time odd tenths minus first, third and fifth tenths Veil 6 
+total time even tenths minus second, fourth and sixth 
+omithis iis fsi./is oon stderr eps aetacir ds Sea Pe Mar Val ators an sepesesaly 0.46 0.081 
+Total time odd tenths minus first, third, fifth and seventh 
+tenths vs. total time even tenths minus second, fourth, 
+sixth andyeighth tenths: cs.y.4.55. nsnvenseaths Sisats elas sliders 4d 0.54 0.081 
+  
+Correlations from partial learning in the problem box 
+The purpose of this section of the experiment is to determine 
+whether or not the rats retained their same relative standing in 
+the time required to make six trials in the problem box after an 
+interval of sixty days had elapsed between the last trial of the 
+first six trials and the first trial of the second six. Records 
+taken in this manner may be used in the calculation of the 
+coefficient of reliability by the first method mentioned above, 
+page 4, and quoted from Whipple. The assumption is that if 
+the apparatus is reliable, the animals should retain their relative 
+ranks in the group when tested under as far as possible the same 
+conditions, but at two different times. If there is no such  
+-P-A-G-E-22
+  22 WILLIAM T. HERON 
+correspondence in relative rankings then there must be factors 
+inherent in the apparatus or in the animal which destroy the 
+consistency of the performance. It would, consequently, be 
+impossible to get reliable data in experiments conducted to 
+test the effects of extraneous factors upon the learning process. 
+The data here presented are based on the records of 20 rats. 
+These records are correlated trials against trials and totals 
+against totals. Table 6 gives the results of these calculations. 
+  
+  
+  
+  
+  TABLE 6 
+R. correlations: six days P. B.—sixty days—sizx days P. B. P. E, 20.098 for all 
+coefficients 
+P. B. SECOND P. B. FIRST SIX DAYS, TRIALS: 
+SIX DAYS, 
+ae, 1 2 3 4 5 6 
+1 0.006 —0.09 —0.26 0.08 0.03 —0.22 
+2 0.08 —0.007 0.22 —0.06 0.14 —0.2 
+3 0.37 —0.11 —0.007 0.17 0.09 0.03 
+4 —0.16 —0.09 —0.19 0.03 0.03 —0.03 
+5 —0.26 0.08 —0.16 —0.17 —0.11 —0.007 
+6 0.006 0.19 0.007 0.12 —0.11 —0.007 
+DATA CORRELATED CORRELATION 
+Total time for first six trials vs. total time for second six trials....| —0.098 
+Total time minus time for trials one and two for first six trials vs. 
+total time for second six trials minus time for trials one and two..| —0.22 
+  
+None of the above correlations is significant. The highest 
+coefficient is 0.37, which is not quite four times the probable error. 
+The correlation of the total time for the two periods of learning is 
+only —0.098 which only equals the probable error. This coeffi- 
+cient is raised by eliminating the time for the first two trials in 
+each period. Even after this rise, however, it still remains 
+insignificant. Significant data are also to be found in a study of 
+the learning curves, data bearing particularly upon retention. 
+The learning curve (fig. 6) for the twelve trials which these 
+rats were given is plotted with trials on the X-axis and seconds 
+on the Y-axis. It is much more irregular and starts on a lower 
+level than the curve for the rats that were given total learning. 
+ 
+-P-A-G-E-23
+RELIABILITY OF PROBLEM BOX AND MAZE 23 
+There is, however, a gradual drop and the first trial of the second 
+period starts on a lower level than the last trial of the preliminary 
+six trials. There is a slight rise, however, in the eighth trial 
+which brings this point on the curve a little above the corre- 
+  PERS ES OD EG. 1 WN F2 Eriele. 
+Fra. 6. Curves or Partrat Learnine (6-60-6) in Proptem Box, Basep on THE 
+Recorps or 20 Rats, CompaRED wrTH CURVE FOR THE SAME 
+Number or TrIAts or Totat Learnina 
+The latter curve is in broken lines. The break in the former curve marks 
+the sixty days interval.
+-P-A-G-E-24
+  24 WILLIAM T. HERON 
+sponding point of total learning. The curve shows a very pro- 
+nounced rise in the ninth trial. This was due to the erratic 
+behavior of two rats, numbers 98 and 111. Rat 98 took 626 
+seconds in this trial as against 144 in the preceding trial, while 
+rat 111 required 632 seconds in trial 9 as against 99 seconds in the 
+TABLE 7 
+Comparison of results to show retention 
+  
+  
+  
+        
+    narsowsen | TMBLasrmman | me rinsrmmaL |g visas Lost 
+seconds seconds per cent per cent 
+91 64 26 59 
+92 47 21 55 
+93 517 415 19 
+94 63 423 577 
+95 104 14 88 
+96 58 20 65 
+98 48 41 14 
+100 134 133 0.7 
+100 175 125 28 
+104 51 30 41 
+102 22, 38 72 
+103 9 114 1166 
+105 17 6 64 
+108 197 24 88 
+111 102 127 24 
+112 151 50 67 
+113 63 24 62 
+114 69 46 32 
+117 115 19 83 
+119 49 36 26 
+2,055 1, 337 
+102.7 66.8 
+108 91 
+Difference of averages 
+P. E. of differences......... 
+trial before. If the records of these two rats are eliminated, the 
+total time required for trial 9 is 1465 seconds as opposed to 1490 
+seconds for trial 8. Thus, trial 9 would be on the same level as 
+trial 8 if the curve were plotted without the records of these 
+rats. The total learning rats, however, required much more
+-P-A-G-E-25
+    RELIABILITY OF PROBLEM BOX AND MAZE 25 
+time for the first 6 trials than did the six day rats. The average 
+time for the former for the first six trials was 1238.8 seconds, 
+while for the latter it was only 725.7 seconds. The total learning 
+rats took an average of 326.6 seconds for their second six trials 
+and the six day rats took 424.4 seconds. 
+  
+  
+  
+  TABLE 8 
+Comparison of results to show retention 
+TIME Last Two | TIME FIRST TWO RAT NUMBER ‘TRIALS OF FIRST TRIALS OF SAVINGS LOST sIx SECOND SIX 
+seconds seconds per cent per cent 
+91 120 32, 73 
+92 72 38 47 
+93 697 27 93 
+94 156 487 68 
+95 181 97 46 
+96 448 76 83 
+98 322 185 42 
+100 143 151 0.5 
+-101 206 188 8 
+104 291 43 85 
+102 56 392 600 
+103 19 163 : 231 
+105 472 87 81 
+108 348 49 85 
+111 159 226 42 
+112 239 61 76 
+113 314 31 90 
+114 123 272 121 
+117 149 76 43 
+119 280 146 47 
+4,795 2, 827 
+238.7 141.3 
+163 118 
+            
+  Tables 7, 8 and 9 present additional data on retention. Atten- 
+tion is drawn to the column headed “Savings in per cent.’ It 
+will be noticed that the amount of time saved by individual rats 
+in the second series over that of the first is in most cases very 
+large. In the case where only a single trial is considered there are
+-P-A-G-E-26
+  26 WILLIAM T. HERON 
+only four rats which show a longer time for the first trial of the 
+second series than for the last trial of the first series. When two 
+trials are considered there are two additional cases of longer time 
+in the second series. A comparison of total times (table 9) 
+TABLE 9 
+Comparison of results to show retention   
+  
+  nav NUMBER poo eae savines Lost 
+seconds seconds per cent per cent 
+91 622 139 77 
+92 383 306 19 
+93 1,412 289 79 
+94 899 569 34 95 262 147 44 
+96 1,041 361 65 
+98 695 923 33, 
+100 749 212 71 
+101 708 368 48 102 211 686 225 
+103 200 603 201 
+104 875 146 83 
+105 1,006 152 84 
+108 739 306 58 aa 1,289 1,040 oe 
+112 787 282 64 
+113 795 87 89 114 963 1,094 13 
+117 251 486 93 
+119 610 301 51 
+14, 665 8,517 
+733 426 
+358 297 
+            
+Differences of averages............ 
+P. E. of difference    
+shows that there are five rats who took longer for the second 
+series than for the first. 
+This retention is similar in relative amount to that found by 
+Book (15) in his work on typewriting. He found that the average 
+number of strokes which the subjects made on the typewriter 
+were more after a long period of rest than the average strokes
+-P-A-G-E-27
+  RELIABILITY OF PROBLEM BOX AND MAZE 27 
+made during the original practice period. In other words, there 
+was a gain in the speed of writing over a long period of no practice 
+with the exception of ten days practice about five months after 
+the end of the first practice period and one year before the 
+final test. The conclusions which he drew are as follows: 
+The increase in score shown by our second memory series was owing, 
+so far as we could make out, rather to the disappearance, with lapse of 
+time, of numerous psycho-physical difficulties, interfering associations, 
+bad habits of learning, interfering habits and tendencies, which as they fade, 
+left the more firmly established typewriting associations free to act. 
+Watson (16) criticises Book’s conclusions as follows: 
+The curve of the original learning is not reproduced here, but the 
+fact is that he stopped practicing on a spurt. Had he taken the records 
+for ten more days his average would probably have been around 1700 
+strokes per ten minutes instead of 1503. Furthermore, the practice 
+gained from the ten days in June, 1906, was not without marked effect 
+upon the succeeding and final memory tests. Hence, it seems that we 
+need only to conclude that there is a tremendously great and surprising 
+permanence in the functioning of the typewriting habit, but nothing 
+super-natural in character. 
+This problem is too large for solution in terms of the data 
+presented in this paper. The theoretical discussion, also, would 
+lead us too far from the proper topic of our study. It may be 
+pointed out, however, first, that the curves of figure 6 show no 
+particular spurt at the close of the sixth trial, and second, that any 
+learning process interrupted in its early stages will be interrupted 
+when its curve is descending more or less rapidly and retention 
+studies may well yield results different from those for habits 
+which are upon a plateau. (This problem is now being studied 
+by Professor Hunter.) 
+This factor of retention is a troublesome one in estimating the 
+validity of the coefficient of reliability obtained by correlating 
+the results obtained at different times. Thus, Burt (17) says, 
+in speaking of the mirror drawing test:
+-P-A-G-E-28
+28 WILLIAM T. HERON 
+The correlation at the Elementary School between the total results 
+of the first series of sittings and those of the second was 0.52. From 
+its very nature the mirror drawing experiment cannot strictly be held 
+to test quite the same capacity on repetition. The observed figures 
+indicate considerable retention by the subjects of the effects of the 
+first sitting; and doubtless the degree of retention is not the same for 
+all. Indeed, the second series was undertaken partly with hope that it 
+might furnish a test of the retentiveness of improvability rather than of 
+improvability itself. No method, however, presented itself of isolating 
+this second capacity, and of differentiating the subjects accordingly. 
+In any case the difference of retentiveness does not seem to have been 
+great. And of the various substitutes for a reliability coefficient that 
+one might devise, the figure cited above probably gives the best approx- 
+imation for these particular experiments. 
+Inasmuch as the coefficients of reliability for the problem box, 
+as given above, are very low, the conclusion must be forthcoming 
+that so far as our results can show, the problem box is an un- 
+reliable test when used with the white rat, unless other factors 
+can be found which will account for these low coefficients or 
+unless it is shown that the factor of retention is sufficient to 
+produce this result. And, with reference to this last point, it 
+must be remembered that all attempts to calculate the reliability 
+of any situation in which the rat is used will undoubtedly en- 
+counter this difficulty of retention. 
+There is left, however, one more approach to the question of 
+reliability, and since we have found factors in both previous 
+approaches which may or may not affect our coefficients of 
+reliability, as determined by those methods, the problem box 
+should be given one more chance to prove itself reliable. This 
+approach is made in the following section. 
+Correlation of learning in the maze with learning in the problem-box 
+The method which has been frequently employed to determine 
+the reliability of intelligence tests given to human beings is to 
+correlate the standing in the intelligence test with the standing 
+in school grades or with the estimation of the subject’s ability by 
+a competent judge. In animal behavior, however, it is, of course,  
+-P-A-G-E-29
+  
+  RELIABILITY OF PROBLEM BOX AND MAZE 29 
+impossible to give the animal an intelligence test or to-estimate its 
+ability by observation, but an approximation to the above method 
+may be made by correlating ‘the results of two different tests to 
+which the animals have been subjected. 
+In order to do this, the 22 animals used in this section of the 
+experiment were first given six trials in the problem box, then 
+allowed to rest sixty days after which they were run for six trials 
+in the maze. Six trials were used in order that the problem 
+should not be so thoroughly learned that retention would greatly 
+affect the results, and also in order that the age factor might be 
+more adequately controlled. The fact that the rats were sixty 
+days older when they were put in the maze than when they were 
+in the problem box should not affect the learning in the maze, 
+since Miss Hubbert, granting the truth of her conclusions, 
+found no age effects in such a short period of time. 
+Correlations were made between the various measures taken 
+in the maze (distance, net time, and gross time) and the time 
+records from the problem box. These correlations are given in 
+tables 10 to 13. The probable error for all coefficients is 0.093. 
+A glance at the correlations presented here shows that the 
+experimenter has been unable to find a relationship between the 
+time required for six trials in the problem box and the various 
+measures of the learning for six trials in the maze. The highest 
+correlation found was —0.33 which is between the time for the 
+fourth trial in the problem box and gross time for the third trial 
+in the maze. The coefficient, however, is only three times the 
+probable error and therefore cannot be considered highly 
+significant. 
+It is not possible to Abevanisnet any of the experimental data here 
+presented in such a way as to show why there is not a relation- 
+ship between the learning process in the maze and that in the 
+problem box. From a priori grounds, however, two possible 
+reasons may be cited. The first is that in the problem box the 
+‘food is always so placed that it may stimulate the olfactory and 
+possibly the visual sense organs of the rat. The possible influence 
+of this factor has already been discussed on page 16. The second 
+is that in the problem box, the rat is not compelled to make so   
+ 
+-P-A-G-E-30
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  30 WILLIAM T. HERON 
+TABLE 10 
+Time in problem box versus net time in maze 
+MAZE TRIALS 
+PROBLEM BOX TRIALS 1 2 3 4 5 6 
+1 —0.06 0.043 —0.13 0.036 | —0.12 —0.019 
+2 —0.13 0.019 0.006 0.12 0.17 0.07 
+3 —0.055 | —0.097 —0.097 —0.11 0.006 | —0.097 
+4 0.14 0.24 0.17 0.13 0.093 —0.019 
+5 0.192 0.08 —0:13 —0.055 0.036 | —0.097 
+6 0.069 0.14 —0.055 0.036 0.19 0.19 
+TABLE 11 
+Time in problem box versus gross time in maze 
+PROBLEM MAZE TRIALS 
+BOX TRIALS 
+1 2 3 4 5 6 
+4 
+1 —0.15 0.16 —0.05 0.18 0.105 0.25 
+2 —0.006 0.043 —0.08 0.23 0.08 0.16 
+3 —0.105 0.03 =-0.09 0.15 —0.105 —0.05 
+4 0.043 0.09 —0.33 —0.103 | —0.11 0.043 
+5 —0.105 0.14 —0.006 0.09 0.006 0.11 
+6 —0.03 0.07 —0.105 0.006 | —0.12 0.14 
+TABLE 12 
+Time in problem box versus distance in maze 
+matieiae MAZE TRIALS 
+BOX TRIALS 
+1 2 3 4 5 6 
+i —0.097 | —0.106 —0.097 0.12 0.14 0.135 
+2 0.006 0.12 —0.048 0.265 0.13 0.07 
+3 —0.19 —0.06 —0.019 0.17 —0.18 —0.03 
+4 0.12 0.01 —0.19 —0.19 —0.081 0.036 
+5 ——OonL. 0.24 0.07 —0.043 0.15 0.12 
+6 0.006 0.12 —0.081 —0.03 —0.097 0.08 
+TABLE 13 
+Correlation of totals 
+THINGS CORRELATED CORRELATION 
+Total time P. B. versus total net time maze 0.019 
+Total time P. B. versus total gross time maze. 0.006 
+Total time P. B. versus total distance maze 0.093     
+-P-A-G-E-31
+  
+  RELIABILITY OF PROBLEM BOX AND MAZE 31 
+many choices between the right and the wrong way to go; whereas, 
+in the maze, the animal has to make a choice at every doorway 
+between the true path and the cul-de-sac. A comparison of the 
+performance of my rats in the maze with the performance of Miss 
+Maupin’s untrained rats in the same. maze fails to reveal any 
+unambiguous signs either of transfer or of interference due to 
+training sixty days previously on the problem box. In the event, 
+however, that such a relationship did exist, it could not be the - 
+cause of an insignificant correlation. 
+In the absence of experimental data which could indicate the 
+reasons for a lack of correlation between performance in the 
+problem box and performance in the maze under the present 
+experimental conditions, I would only call attention to the follow- 
+ing interpretative points: First, the absence of correlation 
+further indicates the unreliability of the “rat in the problem 
+box”’ as a source of information concerning the learning process. 
+Second, the reader should bear in mind that, in spite of the appar- 
+ent absence of correlation, problem box learning has been re- 
+garded, at least tacitly, as of the same general character as maze 
+learning. And third, the causes of the apparent absence of 
+correlation may lie in the nature of the rat as well as in that of 
+the apparatus and method. 
+Inasmuch as the correlations in this and in the preceding sec- 
+tion were made with six trials only, it is necessary to determine 
+what the relationship is between six trials and total learning. 
+This question is also related to the problem of the existence of 
+an adequate criterion of learning which will involve something 
+less than completed learning. This problem and its relationship 
+to the above correlations is treated in the following section. 
+An adequate criterion of learning and tts relation to the problem 
+of reliability 
+The purpose of the calculations made in this section is to 
+determine whether or not there is some part of total learning 
+which will place the rat equally well as to his ability in the solu- 
+tion of the problem as do the results of total learning. If such a 
+part can be found, and if it is a small enough part of total learn-
+-P-A-G-E-32
+  32 WILLIAM T. HERON 
+ing, then a great saving of time to the experimenter will result. 
+It is also necessary to treat this problem in the present study in 
+order to justify the use of only six trials in the correlations of 
+results of the problem box obtained at two different applications, 
+and in the correlation of the maze and the problem box. 
+Lashley (18) has done some work on the criterion of learning 
+in the maze and has correlated the number of trials preceding the 
+" first perfect run with the generally used criterion of three perfect 
+runs in succession. He found a correlation coefficient of 0.62 
+0.063 by use of the Pearson product moment method. He con- 
+cludes that if there is found to be a difference in the average 
+number of trials required to arrive at one perfect run between 
+several groups of animals then these groups of animals will 
+show the same relative difference in the average number of trials 
+required for completed learning. 
+There is a question involved in making such a calculation which 
+has not been mentioned by Lashley, viz., the justification of the 
+use of trials rather than time or distance as a measure of the 
+learning progress of the rat. Trials, it is true, have been more 
+generally used for this purpose; but in the case of my own data, 
+the correlation between the total trials and the total time is ° 
+0.0103 with a probable error of +0.081. This coefficient is 
+only one-eighth as large as the probable error. Such a non- 
+correspondence of trials and time is also shown if we examine 
+some of the individual records. The most striking example of 
+this is shown in the case of rats 20 and 38. Thus rat 20 used 43 
+trials to complete the problem with a total time of only 771 
+seconds, while rat 38 used only 10 trials but a total time of 1010 
+seconds. Theoretically, it would seem that time is a more deli- 
+cate measure of the rat’s ability than are trials, since it is a 
+more or less accurate measure in time units of the effort which the 
+rat puts forth in learning the problem. Trials, on the other hand, 
+are only arbitrarily fixed units of the distribution of that effort 
+without any reference to the amount of such effort. Correlations 
+have been made, however, using both measures and these, 
+together with the various parts of learning which have been 
+correlated, are listed in table 14.  
+-P-A-G-E-33
+  
+RELIABILITY OF PROBLEM BOX AND MAZE 33 
+These correlations indicate that, of the shorter criterions which 
+are correlated with total time, the time for the first six trials is the 
+best. It gives a correlation of 0.51 while the standard of com- 
+parison which Lashley used, except that the data is time instead 
+of trials, gives a correlation of 0.44. The difference between 
+these two standards, as far as the correlation goes, is not a 
+significant one; but there would seem to be no reason for hesitancy 
+in choosing which to use inasmuch as the six trials is by far the 
+shorter criterion of the two. The next shortest is two perfect 
+trials regardless of position. This criterion gives a correlation 
+TABLE 14 
+Correlations made for the determination of an adequate criterion of learning 
+PH   
+081   
+DATA CORRELATED 
+  
+    Total time vs. time including first perfect trial 0.44 
+Total time vs. time including second perfect trial regardless oH 
+Je(0y-1 (0) 1 ea ee IE kee] mE Ueto Fe eh! fa el Seg. he Re A 0.61 
+Total time vs. time including second perfect trial in succession ... 0.72 
+Total trials vs. trials including first perfect trial............... 0.08 
+Total trials vs. trials including second perfect trial regardless 
+Of DOSIMIONS,; Gian eM eres yates ae tater es aictet nck nee cet 0.07 
+* Total trials vs. trials including second perfect trial in succession .. 0.24 
+Total time vs. time for first six trials .. 3 0.51 
+Total time vs. time for third and fourtl Peeraise 0.34 
+Total time vs. time for third, fourth, fifth and sixth trials...... 0.46 
+  
+of 0.61. Two perfect trials in succession give a high correlation 
+0.72, which is to be expected since in a great number of cases 
+these two perfect trials are the first and second trials of the 
+three perfect trials in succession which is the criterion used for 
+completed learning. 
+As can be seen from a glance at the table, similar correlations 
+made with trials did not give a single significant coefficient. The 
+highest one, 0.24, which is for total trials versus trials including 
+two perfect runs in succession, is only three times the probable 
+error, while the other two are less than the probable error. 
+These coefficients would tend to strengthen the supposition that 
+trials are not so good a measure of the learning process as is time. 
+ 
+-P-A-G-E-34
+  34 WILLIAM T. HERON 
+When it was found that the correlation between the first six 
+trials and total time was high, it was thought that by throwing 
+out the first two trials a still higher correlation mightbeattained. 
+Especially was this thought possible since the disregarding of the 
+first two trials gave a much higher correlation between the odds 
+and the evens (see above, page 20). Similar results did not 
+follow in this case, however, since the correlation falls to 0.46 
+when the first two trials only were omitted, and to 0.34 when the 
+third and fourth trials only were used. 
+The close relationship shown to exist between the time re- 
+quired for the first six trials and total learning time justifies our 
+use of six trials in the study of reliability as presented previously 
+in this paper. A further justification lies in the fact that had 
+complete learning and then complete relearning been required 
+the measure would have been chiefly one of retention whereas we 
+have sought as far as possible to correlate two independent tests 
+of performance. 
+SUMMARY AND CONCLUSIONS 
+Three different methods have been used in this experiment to 
+investigate the reliability of the inclined plane problem box as a< 
+method of testing the learning ability of the rat. First, the 
+correlation of performances in odd and even portions of total 
+learning; second, the correlation of performance in six trials 
+with performance in six more trials after a lapse of sixty days: and 
+third, the correlation of performance in six trials in the problem 
+box with performance in six trials in the maze sixty days later. 
+The results of all three methods as used in this experiment were 
+consistent in showing the reliability, or consistency, of the prob- 
+lem box to be very low. It was possible, however, in the case 
+of the odd versus even tenths or trials to get a larger coefficient 
+by eliminating the first of the learning process. The results 
+suggest that at least the first two trials should be disregarded by 
+experimenters when they are investigating the effects of ex- 
+traneous factors upon the learning ability of the rat. 
+There was found to be a large amount of retention after an 
+interval of sixty days. At the beginning of the second series of
+-P-A-G-E-35
+RELIABILITY OF PROBLEM BOX AND MAZE 35 
+trials, the rats started on a lower level than they had reached at 
+the close of the first series. Thus there was a net gain in skill 
+over the sixty day interval and this gain was about half as much 
+as if the learning had not been interrupted. 
+The criterion of learning which would be the best to choose, if 
+a shorter criterion than total learning is desired, would be the 
+total time for the first six trials. This criterion gave a coefficient 
+of 0.51 when correlated with the total time required to arrive at 
+the criterion of three perfect trials in succession. 
+No correlation was found between maze and problem box 
+learning, under the conditions of the present investigation. The 
+reason for this may lie in such factors as the difference in the 
+position of the food in the two pieces of apparatus, or it may lie 
+partly also in the nature of the rat. 
+REFERENCES 
+(1) Spearman, C.: Correlations calculated from faulty data. Brit. Jour. 
+Psychol., 1910, iii, 271-295. 
+(2) Warson, J. _B.: Behavior, an introduction to comparative psychology. 
+New York, 1914, 93. 
+_ (3) Heaty, W. H., anp Fernaup, Grace: Tests for practical mental classifica- 
+tion. Psychol. Mons., 1911, xiii, no. 2, 18, 38. 
+(4) Watson, J. B.: Behavior, an introduction to comparative psychology. 
+New York, 1914, 95. 
+(5) Ricuarpson, F.: A study of sensory control in the rat. Psychol. Mons., 
+1910, xii. 
+(6) Uxricu, J. L.: Distribution of effort in learning in the white rat. Behav. 
+Mons., 1915, ii, no. 10. 
+(7) Basset, G. C.: Habit formation in a strain of white rats with less than 
+normal brain weight. Behav. Mons., 1914, ii, no. 9. 
+(8) Krurcer, F., anp SpHaRMAN, C.: Die Korrelation zwischen verschiedenen 
+geistigen Leistungsfihigkeiten. Ztsch. f. Psychol., 1901, xliv,’50-114. 
+(9) Burr, C.: Experimental tests of general intelligence. Brit. Jour. Psychol., 
+1910, iii, 94-177. 
+(10) Warr, S.: The quantitative investigation of higher mental processes. 
+Brit. Jour. Psychol., 1913, vi, 109. 
+(11) Krunamr, F., anp Sprarman, C.: Die Korrelation zwischen verschiedenen 
+geistigen Leistungsfihigkeiten. Ztsch. f. Psychol., 1901, xliv, 50-114. 
+(12) Simpson, B. R.: Correlation of mental abilities. Columbia Educ. Series, 
+1912, no. 53. 
+(13) Wurerie, G. M.: Manual of mental and physical tests. Second ed. Balti- 
+more, 1914, i, 52.
+-P-A-G-E-36
+36 WILLIAM T. HERON 
+(14) Burt, C.: Experimental tests of general intelligence. Brit. Jour. Psychol., 
+1910, iii, 94-177. 
+(15) Boox, W. F.: The psychology of skill. University of Montana, 1908. 
+(16) Watson, J. B.: Psychology from the standpoint of a behaviorist. Philadel- 
+phia, 1919, 306-307. 
+(17) Bur, C.: Experimental tests of general intelligence. Brit. Jour. Psychol., 
+1910, iii, 94-177. 
+(18) Lasuiey, K. 8.: The criterion of learning in experiments with the maze. 
+Jour. Animal Behav., 1917, vii, 66-67.
+-P-A-G-E-37
+II. CORRELATION STUDIES WITH THE MAZE:-IN RATS 
+AND HUMANS 
+WALTER S. HUNTER 
+The University of Kansas 
+PROBLEM 
+The present study seeks to throw light upon the nature of 
+motor learning in the maze through the use of two methods: 
+First, the correlation of various records from the maze learning 
+of humans with scores on the Otis intelligence test; and, second, 
+the inter-correlation of various records secured in the maze 
+learning both of humans and of rats. Such a study has the 
+possibility of throwing significant light upon a variety of im- 
+portant problems among which may be mentioned: the relation- 
+ship between a given case of motor learning and general intelli- 
+gence as measured by the Otis scale; the relationship between 
+performance in one part of the learning process and in other 
+parts; the relationship between intelligence and various portions 
+of the learning process; the rédle of chance in maze learning; the 
+influence of the degree of complexity of the maze upon the 
+above problems; and the differences in maze performance between 
+rats and humans. 
+The present paper! should be read in conjunction with: “Habit 
+interference in the white rat and in human subjects” by Hunter 
+(1); “The reliability of the inclined plane problem box as a 
+measure of learning ability in the white rat” by Heron (2); and 
+“The reliability of the maze as a measure of learning ability in 
+the white rat” by Maupin (3). These papers all emphasize 
+correlation data secured from various learning situations. The 
+net result is a very serious critical attack upon the use of the 
+customary rat data in the solution of learning problems. 
+1 Reported in part at the Princeton meeting of the American Psychological 
+Association, December, 1921, Psychol. Bull., 1922, xix, 95. 
+37 
+ 
+-P-A-G-E-38
+  38 WALTER S. HUNTER 
+APPARATUS 
+Two mazes were used with human subjects. Figure 1 repre- 
+sents the simpler one, termed pencil maze A, and figure 2 repre- 
+sents the more complex one, termed pencil maze B. A descrip- 
+tion of the first maze and of the method used has been published 
+in the habit interference study (1). Pencil maze B was con- 
+structed of wood with alleys + inch wide. The metal stylus 
+used by the subject in tracing was about 33; inch in diameter. 
+There was therefore relatively little play of the stylus possible 
+from one side of the alley to the other. Each maze was learned 
+at.a single sitting. In each case records were taken of total time 
+per trial, and with maze B error records were also made. These 
+  Fig. 1. Toe SmmpeLe Pencin Maze A 
+En is the entrance. Ez is the exit. Reprinted from the Jour. of Comp. 
+Psychol., 1922, ii, 53. 
+latter were taken in place of distance records, the recording of 
+which offered more difficulties than it seemed worth while to 
+overcome. An error was counted as any retracing along the 
+true path, any entrance into a cul-de-sac, and any retracing 
+within a cul-de-sac. The unit of error was the distance between 
+any two turns in the maze. In each maze learning, the subject 
+was blindfolded and given the following instructions: 
+Now that you are blind-folded, I shall place a stylus (or pencil) in 
+your hand and guide you (so) until the stylus is within the groove of 
+the maze. You are to find the shortest way out of this groove by mov- 
+ing until I say “‘out.”” Do not lift the stylus up so that it slips out of the 
+groove. Work for an early mastery of the problem.  
+-P-A-G-E-39
+RELIABILITY OF PROBLEM BOX AND MAZE 39 
+An interval of forty-five seconds was given between trials 
+In maze A, 5 correct trials in succession were required for 
+mastery. (In this maze the subjects were told that they must 
+make 5 trials without error before mastery would be complete.) 
+| In maze B, 3 correct successive trials were required. 
+      
+  Fie. 2, Toe CompLex Pencin Maze B 
+E is the entrance 
+Three mazes were used with rats: (A) a unit maze, built on the 
+plan of the T-shaped discrimination box, shown in figure 3 and 
+previously used in the above mentioned study of habit inter- 
+ference; (B) a circular maze of greater complexity shown in 
+figure 4 and also used in the habit interference study; and (C) a 
+circular maze of still greater complexity, shown in figure 5, used 
+ 
+-P-A-G-E-40
+40 WALTER S. HUNTER 
+by Miss Maupin. In the unit maze both time and error records 
+were taken, errors being recorded according to the usual custom in 
+discrimination experiments. Time and distance (using the 
+camera lucida attachment) records were secured with the circu- 
+lar mazes. Ten trials daily were given with maze A; two trials 
+daily, with maze B; and one trial daily, with maze C. The 
+criterion for mastery in maze A was 19 trials correct out of 20 
+successive trials. Four successive trials without error were re- 
+quired for the learning of maze B, and three correct trials in 
+succession for maze C. 
+  Fic. 3. Toe Sumpte Rat Maze A 
+E is the entrance 
+Intelligence ratings of the human subjects were secured with 
+the Otis intelligence test, 1919 edition, form A. In each case 
+the intelligence score used in the present study is for a subject 
+who claims never to have taken an intelligence test before. 
+Thirty-one human subjects were tested with pencil maze A, 
+but Otis scores were available for only 17. All of the 17 sub- 
+jects were elementary laboratory people unfamiliar with maze 
+work. This was true also of 25 of the total group. The remain- 
+ing 6 were either advanced students or instructors and were 
+familiar with maze problems, although not with this particular 
+one. Forty-two elementary laboratory people, unfamiliar with 
+maze work, were examined with pencil maze B. All subjects
+-P-A-G-E-41
+  Fig. 4. Tae Rat Maze or INTERMEDIATE Dirricuuty, Maze B 
+E is the entrance and F is the food box. (Reprinted from Jour. of Comp. 
+Psychol., 1922, 2, p. 46.) 
+  Fie. 5. Tae Most Comptex Rat Mazz, Maze C 
+41 
+ 
+-P-A-G-E-42
+  42 WALTER S. HUNTER 
+were cautioned against imparting information concerning the 
+plan of the maze; and no evidence of coaching was secured, 
+although each subject was pleasantly quizzed upon the subject 
+prior to the maze test. Otis scores were available for all subjects 
+in the latter group, making in all 59 available maze and Otis 
+records. The intelligence examinations were given at the first 
+meeting of the elementary laboratory class when the students 
+were presumably in a particularly docile attitude toward the 
+instructor. 
+All rats were approximately thirty days old at the time experi- 
+mentation began and were without previous training of any 
+kind. Twenty-five animals were used on the unit maze; 36 on 
+circular maze B; and Miss Maupin kindly furnished me the 
+records for 24 animals on the circular maze C. 
+CURVES AND DISTRIBUTIONS FOR THE HABITS STUDIED 
+The curves and distributions presented in this section of the 
+paper furnish the data necessary for the general understanding 
+of the habits studied. 
+Table 1 presents the essential facts for the distributions of 
+total time with the three rat mazes. An inspection of this data 
+shows clearly that the mazes belong to three markedly different 
+grades of difficulty. This is further shown in figure 6 which 
+presents the Vincent curves of learning for the three mazes. 
+These curves also show the average amounts of effort, as meas- 
+ured by time, expended in the successive tenths of learning. 
+During the first half of learning, the mazes require very signifi- 
+cantly different amounts of effort and, in the second halves of 
+learning, the amounts of improvement seem still to be inversely 
+related to the difficulties of the mazes. On inspection, the 
+curve for maze A suggests, by its atypical character, that the 
+essential factors in learning are insufficiently indicated by the 
+time records. This conclusion, however, cannot be drawn 
+without reservation because the correlation data in table 8 show a 
+high degree of relationship between the standing of subjects in 
+the various tenths of learning. This would seem to mean that 
+while the time differences are slight from trial to trial they do 
+nevertheless tend to remain constant between individuals.  
+-P-A-G-E-43
+RELIABILITY OF PROBLEM BOX AND MAZE 43 
+* TABLE 1 
+Distribution data for the three rat mazes 
+  
+  
+  
+  MAZE 
+A (25 cases) B (36 cases) C (24 cases) 
+seconds seconds seconds 
+Rane. jis.) js./ta dete ee ee 22-399 183-2832 416-7395 
+25 per cent. a 85 565 1096 
+Miledian 4.a:c'0: sets see). cece 171 796 2017 
+EOEDEY CONG ase hohe ecer eer 309 1175 4892 
+  
+350 
+500 
+20 
+400 
+150 
+100 
+50 
+   i 2 3 rf a $ Ti 5 9 10 Cenths 
+Fig. 6. Vincent Curves or LEARNING FOR THE THREE Rat Mazes, 
+A, B, anv C 
+ 
+-P-A-G-E-44
+  TABLE 2 
+Distribution data for the two pencil mazes   
+MAZE 
+  
+    A (81 cases) B (42 cases) 
+Time Trials Time Trials 
+seconds seconds 
+TRAN CO ns Men «tes .-..| 26-1625 2-46 | 1498-14, 301] 9-108 
+25 per cent yg 160 5 3,750 
+Ted arth ec sweet itaceccnar tyke cit epee 222 8 5, 750 
+Wp CTACOINGME SE nra.S gi yess ariiHhe ales onslvoy ta 440 15 9,000 
+100s of secs 
+20 
+1S 
+10 
+5     
+¢ 2 3 iid 6 7 o cA 10 tenths 
+Fig. 7. Vincent Curves or LEARNING FOR THE PenciL Mazes 
+The upper curve is for maze B and the lower curve for maze A 
+4d
+-P-A-G-E-45
+RELIABILITY OF PROBLEM BOX AND MAZE 45 
+Table 2 and figure 7 give similar data for the pencil mazes 
+used with humans. Here again great differences in difficulty are 
+apparent. 
+Table 3 presents distribution data for the Otis scores. Special 
+attention is called to the wide range of scores in the 42 subjects 
+used with maze B. (It may not be amiss to state that, if possi- 
+ble, greater precautions for insuring accuracy of maze records 
+were taken with individuals having extremely high or low Otis 
+scores than with those not deviating so widely from the mean.) 
+TABLE 3 
+Distribution data for Otis scores of subjects used on pencil mazes   
+MAZE 
+  A (17 cases) B (42 cases) 
+135-202 83-202 
+148 149 
+172 166 
+183 182 
+    
+THE CORRELATION OF OTIS SCORE AND MAZE PERFORMANCE 
+Table 4 shows the Pearson correlations calculated between 
+the Otis scores and various items derived from the mastery 
+of pencil maze B. Attention should be called first of all to the 
+fact that reliable correlations are found in humans between 
+performance in the maze and performance in another test of 
+adaptive capacity, the Otis. This fact is new only in so far as 
+adaptive capacity is correlated in the present instance with the 
+complete learning of a pencil maze. The students of intelligence 
+tests have demonstrated time after time that adaptive capacity— 
+if we may so name the complex of characters rated by the tests— 
+correlates with specific performance in a wide range of problems. 
+No extended array of these correlations needs to be cited, but 
+mention may be made of the following: First, Otis states (4) 
+that score on his test has a correlation between 0.50 and 0.80 with 
+school marks. Second, the Porteus group maze test (5) correlates 
+0.456 with the army intelligence a examination, 0.50 with score 
+on the army alpha test, and 0.82 with total score on the army 
+ 
+-P-A-G-E-46
+46 WALTER S. HUNTER 
+beta test of which it is a part. The Porteus individual maze 
+test correlates with mental age 0.582; and with total score on 
+twenty tests of which it is one, the correlation is 0.66. 
+The interpretation which I wish to place upon the facts just 
+emphasized is twofold: In the first place the human animal does 
+show a stability of response which enables us to demonstrate the 
+existence of factors common to several behavior situations. In 
+the second place, the human animal shows a stability of response 
+in the particular situations presented by the total learning of a 
+complex pencil maze and by the examination in terms of the Otis 
+intelligence test. This stability is evidenced by the correlations 
+TABLE 4 
+Pearson correlations between Otis scores and performance in maze B   
+PRO tAD tine: igs. <.o.2 320 8% bays —0.45+0.08 | Time of 1st 10th —0.31 +0.08 
+Motalvttialencnc at clechiscaiae —0.17+0.094 2nd 10th —0.08 +0.101 
+Total errors.. —0.34-+0.087 3rd 10th —0.109+0.101 
+DUNpLUGMUMes | wes. —0.45+0.08 4th 10th —0.26 +0.09 
+  5th 10th —0.30 0.094 
+Time of first trial minus time 
+  of fourth trial.............] —0.15+0.101 6th 10th —0.42 +0.08 
+Time of first 10th minus time 7th 10th —0.34 +0.087 
+of fourth 10th... —0.33+0.087 8th 10th —0.26 +0.09 
+Time of first 3 trials........ —0.20+0.09 
+Time of the best of the first 3 9th 10th —0.13 +0.101 
+HITE es © EN es a SAY. 2 olde —0.33+0.087 10th 10th —0.02 +0.101 
+Time of the first trial. —0.220.09 
+    
+in the tables in this section of the paper. It is possible to charac- 
+terize this aspect of human behavior as follows: Normally 
+man is not the victim of every passing stimulus. He possesses in 
+high degree the capacity to hold himself to a given stimulus- 
+problem. This makes it easily possible to set him two or more 
+related tasks and to secure data which will enable us to predict 
+from performance in the one to performance in the other. The 
+capacity underlying stability of response suggests, on the con- 
+scious side, ability to concentrate attention. It is opposed to 
+flightiness and to chronic indecision. Without wishing to 
+prejudice to any degree the case for animals below man, I would 
+point out that common opinion regards certain at least of them 
+ 
+-P-A-G-E-47
+RELIABILITY OF PROBLEM BOX AND MAZE 47 
+(as, e.g., the monkeys) as highly distractible, undependable and 
+flighty. Without dwelling longer upon this topic, we shall 
+examine certain other phases of the tabular material and return 
+in the section on rat responses to the question of stability of 
+behavior. 
+Table 4 contains the very definite indication that total time is 
+a better indication of ability than either total trials or total 
+errors. The unreliability of the correlation for trials is in 
+harmony with the criticism published in my paper on habit 
+interference above referred to and suggested previously by Carr 
+in the article discussed in the following paragraphs. Much dis- 
+cussion in the past has borne upon the relative values of the 
+curves of learning and in general the time curve has been the 
+most favored. However, when the question has been not one of 
+curves but of the magnitude of effort put forth in the mastery 
+of the problem, total trials has been the value stated. Further 
+results and criticisms in harmony with this position are presented 
+by Maupin (as yet unpublished). 
+Hicks and Carr published an important article on “Human 
+Reactions in the Maze” in 1912 wherein they discuss various 
+criteria of intelligent ability (6). Three groups of subjects were 
+employed, rats, children and human adults. These three groups 
+are assumed to represent three levels of intelligence. The data 
+secured indicate an inverse relation between degree of intelli- 
+gence, as shown by the three groups, and surplus time and errors 
+eliminated. The suggestion is also made that a relationship 
+exists between intelligence and the comparative rate of elimina- 
+tion of errors and distance. This group of data, however, is 
+more ambiguous than that on surplus values and the relationship 
+involved may be due to the similarity of error and distance rec- 
+ords. Hicks and Carr bring up the discussion of the relationship 
+between slope of the curve and intelligence as originally 
+presented by Thorndike, Hobhouse and Watson. However 
+they dissent from views previously held as follows: 
+Our results indicate that the rational status of a group of animals 
+cannot be inferred from the slope of a curve in so far as this slope is 
+dependent upon the number of trials or the relative rate of elimination. 
+   
+-P-A-G-E-48
+48 WALTER 8. HUNTER 
+They indicate, moreover, that inferences as to intelligent status are 
+legitimate in so far as the slope is determined by the factor of total 
+values eliminated, but that the relation between the abruptness of 
+slope and the degree of rational ability is just the inverse of that assumed 
+by Thorndike and Hobhouse (7). 
+The correlations of table 4 confirm in part the position defended 
+by Carr. The standing of the individuals in surplus times 
+eliminated correlates with their Otis score to the extent of 
+—0.45 +£0.08. This, however, is identical with the correlation 
+for total time and leads to the conclusion that surplus time has no 
+practical advantage over total time as an indicator of relative 
+intelligence. Total errors are always surplus errors and give a 
+correlation of —0.34 +0.087 with intelligence. With reference 
+to the slope of the curve as a criterion of intelligent status, we 
+are again in partial agreement with Carr. I have attempted to 
+rate the slope of the curve partly in terms of the height of the 
+first few trials but more significantly in terms of the total drop in 
+the curve between the first and the fourth points on the base 
+line. Neither the time of the first trial nor the total time of the 
+first three trials correlates reliably with the Otis. However, the 
+time of the best of the first three trials (a criterion frequently 
+used in mental test work) does give a reliable correlation, —0.33 
++0.087, with the Otis. The time of the first trial minus that 
+for the fourth trial gives an unreliable coefficient, as might be 
+expected from the dubious value to be attached to trial records. 
+The total drop in the Vincent curve from the first tenth to the 
+fourth tenth shows a reliable correlation with intelligence as 
+measured by the Otis, —0.33 +0.087. Our data therefore show 
+that the slope of a curve representative of the learning process 
+(the Vincent curve) is related to intelligence. To this extent our 
+data differ from Carr’s. They agree, however, on this point: 
+that the greater the slope, i.e., the greater the difference between 
+the first and the fourth tenth, the lower is the Otis score. Before 
+leaving this topic, it would be well again to call attention to the 
+wide range of Otis scores, 82-202, found among our subjects. 
+It seems quite probable that the intelligence differences exceed 
+those found in Hicks and Carr’s two human groups. It is   
+  
+  
+ 
+-P-A-G-E-49
+RELIABILITY OF PROBLEM BOX AND MAZE 49 
+further to be noted that our own data apply to a single species 
+and not to two as is the case in the other paper. 
+Table 4 also contains correlations showing the degree of rela- 
+tionship between the Otis score and time spent in each tenth of 
+learning. Inspection of this material fails to show any close 
+relationship between general intelligence score and either the 
+first or the last half of learning. The two halves seem about 
+equal from this point of view. The correlations in the middle of 
+learning range higher than at either end. This may be due to 
+chance, or it may be due to the overshadowing effect of other 
+factors at the two ends of the learning process. 
+Table 5 shows correlations between Otis scores and perform- 
+ance in maze A, the simple pencil maze. Maze A, has the 
+TABLE 5 
+Foot-rule correlations between Otis score and time records on pencil mazes A and A,   
+N=18 P.E. 0.101 
+  "hotal time: maze ANd ei cits tient Rei cen Fix —0.23 
+Total trials, maze A. Ri —0.03 
+Total tinte;'mazer Ag: Me. a.k.a: pha —0.13 
+Saving in time learning A: after A.............. —0.26 
+Time on maze A correlates with time on maze Ai) 0.64, N= 31, P. E. 0.077 
+  
+same pattern as maze A, but with the turns reversed. It was 
+learned after maze A in the experiment on habit interference. Al- 
+though these correlations are low and have very little if any relia- 
+bility, they suggest the same conditionsrevealedintable 4. All are 
+negative (where the Otis score is involved). Even the amount of 
+time saved in passing from one maze to the other appears to be 
+inversely related to Otis score. This, if true, would not neces- 
+sarily mean that the most intelligent subjects could profit least 
+by training; but would mean, in this experiment, that the most 
+intelligent subjects work within the lowest time limits and have 
+the least improvement to make. The correlation between the 
+total times spent in learning the two mazes is copied here 
+from the habit interference paper for comparison. It shows a 
+high and reliable relationship between the two performances. 
+Even though the factors determining total times are only slightly
+-P-A-G-E-50
+50 1 WALTER S. HUNTER 
+involved in determining the Otis scores, the same factors are at 
+work in the two mazes 
+cifie conditions und 
+the habit interferen 
+different from that fo and are but slightly obscured by the spe- 
+i which each maze was mastered. This, 
+e paper has shown, is a situation quite 
+und in rats. 
+THE CORRELATION OF PARTS OF THE LEARNING PROCESS IN THE 
+VARIOUS HABITS 
+In securing the correlation data presented in tables 6-10, 
+the standing of the subjects in each tenth of learning has been 
+placed over against their standing in each succeeding tenth. 
+The coefficients within each table have been secured by a single 
+method, although some tables are based upon the foot-rule 
+method and others upon the Pearson. This method of handling 
+the parts of the learning processes for the various habits is an 
+attempt to unravel the part played in successive portions of 
+learning by the various factors which influence it. In the pre- 
+ceding section data were given indicating the extent to which the 
+factors determining Otis score were present in the various parts 
+of the learning curve. No particular portion, unless it was the 
+central one, was particularly favored. The total time of learn- 
+ing, when correlated with the Otis, did show that common 
+factors were significantly at work. The present section seeks to 
+gain some light, through the rise and fall of coefficients, upon the 
+way that factors rise and fall in their influence throughout the 
+learning process. If we knew what each of the factors influenc- 
+ing learning was, and if we had in addition reliable measures of 
+these factors, the task would be much less difficult. Lacking 
+these we can only seek our information by what seem the best 
+available means. ‘ 
+Progress in the formation of a given habit is determined by: 
+First, the general adaptive capacity of the individual, his general 
+intelligence, the degree of which is indicated approximately by the 
+Otis score; second, the special ability, if this exists, in the field 
+from which the particular habit is chosen; and third, by various 
+temporary factors such as fatigue, distraction, interest, motives, 
+change of cues (often voluntary), fixation of critical errors or 
+ 
+-P-A-G-E-51
+RELIABILITY OF PROBLEM BOX AND MAZE 51 
+critical true responses, application of disadvantageous methods, 
+etc. So far as the factors of group 3 are not under control in the 
+typical experiment, I prefer to group them together and term 
+them chance. In the maze experiment, as in most if not all 
+habit experiments, the control exercised over these factors is 
+of a very uncertain degree. With all subjects, human or infra- 
+human, an attempt is made to keep fatigue, distraction and 
+motive constant. But do the various subjects react to the same 
+distractions, or experience the effects of fatigue at the same times, 
+or work with equivalent motives? Individual records indicate 
+that they do not. With human subjects, one attempts a further 
+control of offering certain verbal directions by means of which 
+motives, cues (plans of action), aufgaben, and other factors may 
+be influenced. But do the human subjects work with the same 
+willingness from trial to trial or from time to time within the 
+same trial? Are the subjects equal or even constantly different 
+in the degree to which they meet distractions? Observations 
+of one’s subjects must lead to a negative answer to these ques- 
+tions. No control seems possible at present over distraction 
+from within the subject, or over the fixation of critical responses, 
+or over the use of wrong methods.? 
+The process of habit formation is extremely complex. Where 
+reliable positive or negative correlations are secured between 
+two habits under present day conditions of experiment the cause 
+would seem to be either happy accident or, if the findings are 
+confirmed, to be some stability of response, some tenacity of 
+purpose, some ability to stick to the problem, which can to a 
+large or small extent nullify the factors of chance which we have 
+2 Gould and Perrin (8), writing in 1916, comment upon the factor of chance 
+discovery in the maze as an influence in learning and seek to relate this to 
+the réle of intelligence. Although they believe that the maze problem places a 
+premium upon chance, no data are advanced to show that this is true in man or 
+that the maze differs in this respect from all learning problems. All learning 
+involves a certain amount of random, undirected movement, during the execution 
+of which uncontrolled factors (chance) may make themselves especially effective. 
+The question at issue in the reliability of the maze is whether or not the chance 
+factors are sufficient to obscure effects of other factors under investigation. 
+Gould and Perrin also present data indicating that human adults have an 
+average maze record superior to that for children.
+-P-A-G-E-52
+52 WALTER S. HUNTER 
+discussed. As a matter of fact, we have indicated earlier in the 
+present paper and also in the habit interference paper that no 
+significant correlation is found between performances in two 
+succeeding habits with rats whereas a high corelation is evident 
+with humans. In addition a reliable correlation of —0.45 was 
+found for humans between total time on a complex maze and 
+score on the Otis test. At that time also we suggested the 
+hypothesis of stability of response in explanation of the data in 
+question. 
+If our analysis is correct it should receive support from the 
+material of tables 6-10. Table 6 is based upon the simple pencil 
+TABLE 6 
+Foot-rvle correlations of each tenth of learning with each succeeding tenth based 
+upon the time records of 31 human subjects in the simpler maze 
+(pencil maze A). P. E. for all values is 0.077   
+  2 3 4 5 6 7 8 9 10 
+1 0.55 0.57 0.48 | 0.50) 0.53) 0.44] 0.47] 0.40] 0.44 
+2 0.50 0.31 | 0.34] 0.34) 0.27] 0.25] 0.21] 0.20 
+3 0.57 | 0.61 | 0.58] 0.58} 0.60] 0.56] 0.52 
+4 0.69 | 0.59] 0.62] 0.63] 0.57] 0.47 
+5 0.67 | 0.62] 0.59] 0.58} 0.52 
+6 0.81] 0.77] 0.69} 0.70 
+a 0.85 | 0.80} 0.79 
+8 0.84 | 0.77 
+9 0.85 
+  
+maze; table 7, upon the complex pencil maze; table 8, upon the 
+simplest rat maze; table 9, upon the rat maze of intermediate 
+complexity; and table 10, upon the most complex rat maze. 
+The coefficients in table 7 were secured by the Pearson product- 
+moment method. All other coefficients were secured by the 
+foot-rule formula. Inasmuch as Pearson coefficients range much 
+higher than foot-rule coefficients, comparisons are only possible 
+when corrections have been made. For R values above 0.30, 
+the corresponding r values are approximately 0.2 greater. For 
+R values from 0.10 to 0.30., the corresponding 7 values excesses 
+increase from 0.08 to 0.18.. In the inspection of the tables 
+particular attention should be given to the following features:
+-P-A-G-E-53
+RELIABILITY OF PROBLEM BOX AND MAZE 53 
+First, the magnitudes of the coefficients; second, the amount and 
+frequency of fluctuations in values; third, the general standard 
+of values in the first horizontal line when compared with other 
+horizontals; and fourth, the existence of vertical, horizontal or 
+diagonal trends in the magnitudes of coefficients. 
+The first point that attracts our attention is that the more 
+complex habits offer the lower correlations. The values of 
+table 6 are much superior not only to those of table 7 but also 
+to those of table 8 for the simple rat maze. Table 8 in its turn 
+shows values on the average superior to those for the more 
+complex rat mazes in tables 9 and 10. Not only do the simpler 
+TABLE 7 
+Pearson correlations of each tenth of learning with each succeeding tenth based 
+upon the time records of 42 human subjects in the more complex 
+maze (pencil maze B) 
+  
+2 3 4 5 6 % 8 9 10 
+  
+1 0.37 0.43 0.52 | 0.47] 0.59] 0.38} 0.64] 0.45] 0.26 
+2 0.34 0.29} 0.12] 0.10] 0.12] 0.387] 0.45 | 0.09 
+3 0.56 | 0.48] 0.21) 0.22] 0.381] 0.41 | 0.12 
+4 0.47 | 0.26} 0.58] 0.46) 0.388] 0.18 
+5 0.61 | 0.33 | 0.26) 0.386] 0.15 
+6 0.30} 0.46} 0.38 | 0.47 
+7 0.56 | 0.35 | 0.05 
+8 0.69 | 0.27 
+9 0.39 
+  
+mazes show the higher correlations, but they also show no changes 
+of sign. The simpler the maze, theoretically, the less oppor- 
+tunity there is for chance to affect the records and the greater 
+is the amount of control possible over the subject. The tables 
+give empirical support to this hypothesis, the only unexplained 
+exception being the left diagonal column of table 9. There is 
+very little difference between the tables for the two complex 
+rat mazes. I should account for this fact by the assumption 
+that both mazes offer about as much opportunity for chance 
+variations as our method is calculated to reveal. The sugges- 
+tion is apparent, therefore, that so far as disturbance by chance 
+factors during learning is concerned, the simpler the maze the 
+ 
+-P-A-G-E-54
+  54 WALTER S. HUNTER 
+more dependable its data. This may be true in spite of the 
+previously recorded correlations between the Otis and the two 
+pencil mazes. Those correlations considered only the end 
+product of learning as represented in the total values involved 
+in mastery. The shorter times involved in maze A, by giving 
+more homogeneous data, would be expected to give lower cor- 
+relations with an outside performance. 
+Students of learning have long claimed that the influence of 
+chance is peculiarly present in the first few trials of learning. 
+Our data do not support this view. Chance is, of course, not a 
+factor like fatigue or subjective attitude. It is a term applied, as 
+we have already indicated, to the uncontrolled and haphazard 
+working of various factors. An inspection of the first horizontal 
+in tables 6 and 8 (the two simple mazes) shows that the constella- 
+tion of causal factors at work in the first tenth of learning is also 
+about equally present in the succeeding tenths. This is also 
+true for the complex pencil maze. The two complex rat mazes 
+(tables 9 and 10) show no significant correlations between. per- 
+formance in the first tenth of learning and subsequent tenths; 
+but then neither is there any particular correlation for the other 
+tenths and those subsequent to them. Chance is manifest in 
+high degree throughout the learning of these two mazes. 
+To the extent that the constellation of factors influencing a 
+given tenth of learning is uninterfered with in its operation during 
+another tenth to that extent will the correlation between per- 
+formances be high. Immediately adjacent tenths would be 
+expected to show higher correlations than tenths separated by 
+one or more intervening tenths. ‘Not only would one assume 
+this, but he would also expect closeness of relationship to decrease 
+as the temporal interval between tenths increased. The light 
+which our tables can throw upon these questions will come from 
+an examination of the horizontal, vertical and diagonal columns 
+of coefficients. In all tables the correlations of immediately 
+adjacent tenths (found in the diagonal column at the left) tend to 
+be higher than others in the same table. In tables 9 and 10, 
+these adjacent tenth coefficients are practically the only ones 
+having any reliability. Even in the simplest rat habit (table 8),
+-P-A-G-E-55
+  TABLE 8 
+Foot-rule correlations of each tenth of learning with each successive tenth 
+based upon the time records of 26 rats in the simplest maze 
+(maze A). P.E. in all cases 0.086 
+  
+  2 3 4 5 6 th 8 9 10 
+1 0.45 0.38 0.46 | 0.19 | 0.382] 0.88] 0.46] 0.23] 0.34 
+2 0.59 0.48 | 0.25] 0.82] 0.383] 0.44] 0.18] 0.33 
+3 0.52} 0.25] 0.29| 0.31 | 0.36] 0.13] 0.25 
+4 0.25] 0.30] 0.23] 0.53] 0.37] 0.19 
+5 0.26 | 0.29] 0.48] 0.45:| 0.29 
+6 0.31 | 0.25] 0.19] 0.12 
+7 0.32 | 0.26] 0.48 
+8 0.56 | 0.33 
+! 9 0.382 
+  
+TABLE 9 
+Foot-rule correlations of each tenth of learning with cach successive tenth based 
+upon the time records of 36 rats in the maze of intermediate complexity 
+(maze B). P. E. in all cases 0.071 
+  
+2 3 4 5 6 7 8 9 10 
+  
+1 0.11 0.01 |—0.02} 0.11} 0.09] 0.12) 0.10] 0.06} 0.02 
+2 0.40 0.20 | 0.16] 0.06] 0.32} 0.14 |—0.08 |—0.08 
+3 0.26 | 0.32 | 0.20] 0.16} 0.14] 0.02] 0.11 
+4 0.25 | 0.10] 0.21] 0.20} 0.15 |—0.03 
+5 0.20] 0.10] 0.12] 0.13] 0.08 
+6 0.30} 0.24] 0.12] 0.02 
+7 0.27 | 0.12 |—0.03 
+8 0.21} 0.11 
+9 0.25   
+TABLE 10 
+Foot-rule correlations of each tenth of learning with each successive tenth based upon 
+the time records (furnished by Miss Maupin) of 24 rats in the 
+most complex maze (maze C). P. E. in all cases 0.087 
+    
+2 3 4 5 6 7 8 9 10 
+  
+1 0.38 | 0.26 | 0.23] 0.16] 0.10] 0.14] 0.01] 0.26] 0.19 
+2 0.51 | 0.47] 0.14] 0.07] 0.12] 0.08] 0.08} 0.12 
+3 0.43 | 0.14 |—0.12 | 0.08 |—0.10 |—0.05 |—0.01 
+4 0.37} 0.11] 0.18] 0.00 |—0.05 | 0.06 
+5 0.31 | 0.31] 0.27 |—0.05 | 0.03 
+6 0.54 | 0.28] 0.18] 0.18 
+7 0.48| 0.24] 0.22 
+8 | 0.48 | 0.37 
+9 | 0.69 
+   
+-P-A-G-E-56
+Pe, 
+  56 \ WALTER S. HUNTER 
+however, the coefficients along the first diagonal are low, with 
+the lowest in the middle three tenths. This means that even 
+in the best controlled rat habit the constellation of factors 
+determining performance in one tenth of learning are not notable 
+in determining performance in adjacent tenths. However, these 
+constellations are more effective in the first three values than in 
+the succeeding three values of the diagonal. This is further 
+argument against the hypothesis that chance plays its greatest 
+role in the early stages of learning. The values for adjacent 
+tenths in the two human habits are lower for the first than for 
+the last portion, but the variation is striking only in the simpler 
+habit. Here the last part of the learning shows a very great 
+stability. This relatively great freedom from chance disturb- 
+ances is also evidenced by the tendency, shown both in hori- 
+zontal and vertical columns, for the higher coefficients to occur 
+between those tenths which are the nearest to each other. 
+The data of these tables as they have been examined lend 
+further confirmation to the hypothesis stated before that the 
+rat even in the simplest habit shows a greater instability of re- 
+sponse than does man. 
+REFERENCES 
+(1) Hunter, Watter S.: Habit interference iv the white rat and in human 
+subjects. Jour. Comp. Psychol., 1922, ii, 29-59. 
+(2) Heron, Witt1am T.: The reliability of the inclined plane problem box as a 
+measure of learning ability in the white rat. Comp. Psychol. Mon., 
+1922, i, no. 1, pt. 1. 
+(3) Maupin, Oaxuanp: The reliability of the maze as a measure of learning 
+ability in the white rat. (In preparation.) 
+(4) Or1s, ArTHuR S.: An absolute point scale for the group measurements of 
+intelligence. Jour. Educational Psychol., 1918, ix, 342. 
+(5) Yerkes, R. M. (Editor): Psychological examining in the United States Army. 
+Nat. Acad. Sci. Memoirs, 1921, xv, 363, 372, 397, 398. 
+(6) Hicks, V. C., anp Carr, H. A.: Humanreactionsina maze. Jour. Animal 
+Behav., 1912, ii, 98-125. 
+(7) Hicks, V. C., Anp Carr, H. A.: Human reactions in amaze. Jour. Animal 
+Behav., 1912, ii, 117-118. 
+(8) Goup, M. C., anv Purrtn, F. A. C.: A comparison of the factors involved in 
+the maze learning of human adults and children. Jour. Exper. 
+Psychol., 1916, i, 122-154. 
+516  
