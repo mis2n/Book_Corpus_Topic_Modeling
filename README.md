@@ -7,7 +7,7 @@
 
 <p>
 Directory Details
-```
+<pre>
 nlp_code/
     nlp/			Source code for the NLP process
         topics/				Output files for the NLP process are saved to this directory
@@ -32,5 +32,5 @@ nlp_code/
     requirements.txt			Python dependencies
     setup.sh				Bash script that install necessary dependencies (Except for Tesseract) Executed as < ./setup.sh >
     README.md				This file
-```
+</pre>
 </p>
