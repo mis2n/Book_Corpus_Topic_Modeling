@@ -10,7 +10,7 @@ Directory Details
 <pre>
 nlp_code/
     nlp/			Source code for the NLP process
-        topics/				Output files for the NLP process are saved to this directory
+        topics/				Output files from the NLP process are saved to this directory
         Demonstration.ipynb		A Jupyter notebook to demonstrates the individual python modules developed for this project
         ldatops.py			Python model written to perform topic extraction using Latend Dirichlet Association
         ngrams.py			Python model written to perform topic extraction using N-gram models
@@ -25,8 +25,8 @@ nlp_code/
         extractor.py			Program that extracts text from PDF files after the OCR process. Executed as < python extractor path_to_pdf_file >
         pdf_ocr.py			Program that performs OCR on a given PDF file. Executed as < python pdf_ocr.py path_to_pdf_file >
         ocr.config			A configuration file with path details. Current paths are relative
-    text_files/				Text files extracted from pdf files after the OCR process
-    topics/				Text files produced as an imtermediate step of processing. One file for each book containing the model outputs
+    text_files/				A sample of text files extracted from pdf files after the OCR process
+    topics/				A sample of text files produced as an imtermediate step of processing. One file for each book containing the model outputs
     Project_Results_formatted.xlsx	Results from topics and named enteties extraction from book corpus. Formatted for easier inspection
     Project_Results.csv			Results from topics and named enteties extraction from book corpus
     requirements.txt			Python dependencies
