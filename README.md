@@ -1,4 +1,4 @@
-# nlp_code
+# Book_Corpus_Topic_Modeling
 
 <h1>CSCI 6350 - Selected Topics in Artificial Intelligence: Natural Language Processing - Spring 2024</h1>
 <h1>Source Code and Data Results for Term Project</h1>
