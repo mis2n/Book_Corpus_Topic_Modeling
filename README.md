@@ -5,6 +5,9 @@
 <h2>Matthew I. Swindall</h2>
 <h2>Middle Tennessee State University</h2>
 
+This respository contains an NLP project designed to perform topic modeling for a digital book corpus. The corpus contains several hundred digitized books. A project paper is included (as a pdf) that thoroughly details
+the project. For those interested in utilizing the python code for this project, please review the details below, as well as the <b>instructions.txt</b> file. 
+
 <p>
 Directory Details
 <pre>
